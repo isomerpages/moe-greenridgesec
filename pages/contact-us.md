@@ -30,4 +30,16 @@ contacts:
       - email: gss@moe.edu.sg
       - other: ""
     title: Email
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Bukit Panjang MRT, Bukit Panjang LRT, Petir LRT
+    title: "Nearest Train Stations:"
+  - content:
+      - phone: ""
+      - email: ""
+      - other: 67, 75, 170, 170A, 171, 176, 177, 178, 180, 180A, 920, 922, 960, 961,
+          963, 963E, 963R, 970, 972, 972A,  972M, 973, 973A, 974, 975, 976, 979,
+          983
+    title: "Bus Services:"
 ---
