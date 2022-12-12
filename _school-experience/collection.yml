@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - folder-page.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - Co Curriculum/.keep
+      - Co Curriculum/subfolder-page.md
