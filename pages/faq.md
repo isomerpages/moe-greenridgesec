@@ -16,3 +16,21 @@ permalink: /faq/
   
   
 **3\. How do I get to the school?**
+
+![](/images/GSS_Directions.jpg)
+
+Address: 32 Bukit Panjang Ring Road, Singapore 679938  
+  
+  
+**4\. What are the school facilities?**  
+  
+Please click on [https://youtu.be/XCSoZl2QYsc](https://youtu.be/XCSoZl2QYsc)  
+  
+  
+**5\. What are the school hours in Greenridge?**  
+  
+School starts at 7.25am on Mondays, Tuesdays, Thursday and Friday, 8.25am on Wednesdays. Students are advised to report earlier to gather in their classes for morning assembly.  
+  
+  
+  
+_Any questions not answered? Email us at [gss@moe.edu.sg](mailto:gss@moe.edu.sg)_
