@@ -29,4 +29,8 @@ Every subject teacher must personally account for the attendance of every studen
 ##### **M**aterials on the Students’ Desks
 Every student must have all the necessary learning materials ready for every lesson on their desks.
 
-##### **P**urpose of Learning in the Lesson**
+##### **P**urpose of Learning in the Lesson
+
+Every subject teacher must write on the class whiteboard the purpose or objectives of learning for every lesson. If the subject teacher places the objectives of the lesson on PowerPoint slides, these must be repeated through the lesson as the lesson objectives serve as a navigation guide for the lesson.
+
+For more details on our school attire, school expectations and code of conduct, please click [here](/files/Code_of_Conduct2017.pdf).
