@@ -21,3 +21,7 @@ Every student must be neatly attired and groomed. Extra ear studs and ear sticks
 ##### **H**omework Submission
 
 Every class must have subject representatives to collect homework. All homework submission must be recorded and dated against the class lists. Immediate follow-up actions will be taken against students who fail to submit the homework. The students will be asked to move to a side of the classroom, have their desks turned facing the back of the classroom and complete their homework while the rest of the class proceed with the lesson.
+
+##### **A**ttendance Monitoring 
+
+Every subject teacher must personally account for the attendance of every student in the class. He/She must record the reason for absence or latecoming of any student who is absent or late for class.
