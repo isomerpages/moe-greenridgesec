@@ -28,3 +28,5 @@ Every subject teacher must personally account for the attendance of every studen
 
 ##### **M**aterials on the Students’ Desks
 Every student must have all the necessary learning materials ready for every lesson on their desks.
+
+##### **P**urpose of Learning in the Lesson**
