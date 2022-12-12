@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Vision, Mission, Motto, Values.md
       - Aspiring Greenridgeans.md
       - Code Of Conduct.md
