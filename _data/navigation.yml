@@ -1,8 +1,8 @@
 logo: /images/Final GSS Logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: School Experience
     collection: school-experience
+  - title: About Us
+    collection: about-us
+  - title: Contact Us
+    url: /contact-us/
