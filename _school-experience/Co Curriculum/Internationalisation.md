@@ -32,3 +32,8 @@ At the end of each overseas learning journey, both students and teachers gain a 
 Students also gain valuable life skills and experiences, from their interactions with overseas guests as well as learning about the cultures and heritage of the various places of interests.  
   
 Overseas learning journey to China
+
+![](/images/Internationalisation1.jpg)
+![](/images/Internationalisation2.jpg)
+![](/images/Internationalisation3.jpg)
+![](/images/Internationalisation4.jpg)
