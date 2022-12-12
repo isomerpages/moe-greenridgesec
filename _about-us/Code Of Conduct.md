@@ -25,3 +25,6 @@ Every class must have subject representatives to collect homework. All homework 
 ##### **A**ttendance Monitoring 
 
 Every subject teacher must personally account for the attendance of every student in the class. He/She must record the reason for absence or latecoming of any student who is absent or late for class.
+
+##### **M**aterials on the Students’ Desks
+Every student must have all the necessary learning materials ready for every lesson on their desks.
