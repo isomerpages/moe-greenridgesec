@@ -33,3 +33,7 @@ Aiming to develop the joy of learning when learning a new instrument, the Chines
 
 Introduction of Chinese Orchestra during CCA Orientation
 ![](/images/CO3.jpg)
+
+Exchange programme at GESS
+![](/images/CO4.jpg)
+![](/images/CO5.jpg)
