@@ -24,3 +24,8 @@ The Greenridge Choir aims to nurture choral talent and passion in the arts, and 
 
 
 The Choir encourages its members to develop their leadership qualities and self-confidence. It is a place where camaraderie is fostered and friendships are forged, and where members are united in their passion to make music with their voices. Under the baton of Mr Danny Koh, a veteran Singapore pianist, we aspire to take the Choir to new heights in the musical arena!
+
+##### 2022   
+CNY Concert E concert
+
+![](/images/Choir2.png)
