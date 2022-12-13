@@ -2,5 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Society/InfoCOMM Technology (Media Production).md
       - Clubs & Society/Robotics.md
       - Clubs & Society/.keep
