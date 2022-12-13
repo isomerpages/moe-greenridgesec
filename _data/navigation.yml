@@ -4,5 +4,7 @@ links:
     collection: school-experience
   - title: About Us
     collection: about-us
+  - title: Achievements
+    url: /achievements
   - title: Contact Us
     url: /contact-us/
