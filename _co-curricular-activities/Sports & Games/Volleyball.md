@@ -19,3 +19,7 @@ Opportunities are also provided for the players’ character and leadership deve
 C Division team getting ready to start their match in the WZ B Division 2022 Competition
 
 ![](/images/Vball2.png)
+
+B Division Team Captain Kaela  drawing the competition service slots
+<img src="/images/Vball3.png" 
+     style="width:50%">
