@@ -27,3 +27,6 @@ B Division Team Captain Kaela  drawing the competition service slots
 		 
 B Division team on the court ready to receive the first ball
 ![](/images/Vball4.png)
+
+C Division team working together during a gruelling competition
+![](/images/Vball5.png)
