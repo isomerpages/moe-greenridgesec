@@ -24,3 +24,5 @@ The Infocomm Technology Club (Media Productions) is a CCA that was formed from t
 To enhance their video production skills, students attend workshops such as the School of Technology for the Arts (SAT) workshop on media and production conducted by Republic Polytechnic, and Story Clinic sessions where they will learn story creation skills and storyboarding techniques. Other than photo-taking and video production skills, students are also equipped with technical skills on how to operate the AVA equipment. 
 
 Students also engage in team-bonding sessions through various activities such as team sports. This is important to strengthen their bonds among members of different levels so that they will be able to work efficiently in their project teams.
+
+![](/images/Infocomm1.jpg)
