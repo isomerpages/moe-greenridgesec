@@ -35,3 +35,9 @@ CNY Concert E concert
 CNY Concert E concert
 
 ![](/images/Choir3.png)
+
+![](/images/Choir4.png)
+
+![](/images/Choir5.png)
+
+![](/images/Choir%206.png)
