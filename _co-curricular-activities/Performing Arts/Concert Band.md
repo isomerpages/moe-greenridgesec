@@ -39,3 +39,7 @@ Concert Band Members During Practices
 
 Band Leaders presenting during the Sec 1 CCA Orientation
 ![](/images/Band8.jpg)
+
+Concert Band Members during the National Day Parade Performance
+![](/images/Band9.jpg)
+![](/images/Band10.jpg)
