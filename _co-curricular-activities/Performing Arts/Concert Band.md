@@ -31,3 +31,8 @@ As part of a holistic Arts Education in the 21st century, students are taught th
 
 Concert Band Members During SYF
 ![](/images/Band4.png)
+
+Concert Band Members During Practices
+![](/images/Band5.jpg)
+![](/images/Band6.jpg)
+![](/images/Band7.jpg)
