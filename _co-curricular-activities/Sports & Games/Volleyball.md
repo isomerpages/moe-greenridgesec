@@ -24,3 +24,6 @@ C Division team getting ready to start their match in the WZ B Division 2022 Com
 B Division Team Captain Kaela  drawing the competition service slots
 <img src="/images/Vball3.png" 
      style="width:50%">
+		 
+B Division team on the court ready to receive the first ball
+![](/images/Vball4.png)
