@@ -31,9 +31,9 @@ description: ""
 
 |  	|  	|  	|
 |:---:	|:---:	|:---:	|
-| Mr Chandrasekaran S<br>chandrasekaran_sockalingam@moe.edu.sg<br>2/1   	| Mdm Chen Xi<br>chen_xi@moe.edu.sg<br>2/1  	|   	|
-| Mr Shafarie Abdul Manan<br>muhammad_shafarie_abdul_manan<br>@moe.edu.sg <br>2/2 	| Ms Klara Tan Hui Wen<br>tan_hui_wen_klara@moe.edu.sg <br>2/2 	|   	|
-| Ms Lim Lee Lian<br>lim_lee_lian_a@moe.edu.sg         <br> 2/3    	| Mr Chee Yuan Jun<br>chee_yuan_jun@moe.edu.sg<br>  2/3   	| Mr Heriyadi Koh<br> heriyadi_koh@moe.edu.sg <br>2/3  	|
-| Ms Tan Pei Lin Esther<br>tan_pei_lin_esther@moe.edu.sg<br>2/4 	| Ms Tan Yongqi<br>tan_yongqi@moe.edu.sg<br>2/4  	|  	|
-| Mr Chui Fook Weng<br>chui_fook_weng@moe.edu.sg<br>2/5 	| Mr Lee Wei Song<br>lee_wei_song@moe.edu.sg<br>2/5 	|   	|
-| Ms Ik Lee Lee<br>ik_lee_lee@moe.edu.sg<br>2/6 	| Ms Tan Chin Yih Emilline<br><br># <br>tan_chin_yih_emilline@moe.edu.sg<br>2/6 	|   	|
+| Mr Chandrasekaran S<br>chandrasekaran_sockalingam@moe.edu.sg<br>2/1   	| Mdm Chen Xi<br>[chen_xi@moe.edu.sg](mailto:chen_xi@moe.edu.sg)<br>2/1  	|   	|
+| Mr Shafarie Abdul Manan<br>[muhammad_shafarie_abdul_manan@moe.edu.sg](mailto:muhammad_shafarie_abdul_manan@moe.edu.sg) <br>2/2 	| Ms Klara Tan Hui Wen<br>[tan_hui_wen_klara@moe.edu.sg](mailto:tan_hui_wen_klara@moe.edu.sg) <br>2/2 	|   	|
+| Ms Lim Lee Lian<br>[lim_lee_lian_a@moe.edu.sg](mailto:lim_lee_lian_a@moe.edu.sg)         <br> 2/3    	| Mr Chee Yuan Jun<br>[chee_yuan_jun@moe.edu.sg](mailto:chee_yuan_jun@moe.edu.sg)<br>  2/3   	| Mr Heriyadi Koh<br> [heriyadi_koh@moe.edu.sg](mailto:heriyadi_koh@moe.edu.sg) <br>2/3  	|
+| Ms Tan Pei Lin Esther<br>[tan_pei_lin_esther@moe.edu.sg](mailto:tan_pei_lin_esther@moe.edu.sg)<br>2/4 	| Ms Tan Yongqi<br>[tan_yongqi@moe.edu.sg](mailto:tan_yongqi@moe.edu.sg)<br>2/4  	|  	|
+| Mr Chui Fook Weng<br>[chui_fook_weng@moe.edu.sg](mailto:chui_fook_weng@moe.edu.sg)<br>2/5 	| Mr Lee Wei Song<br>[lee_wei_song@moe.edu.sg](mailto:lee_wei_song@moe.edu.sg)<br>2/5 	|   	|
+| Ms Ik Lee Lee<br>[ik_lee_lee@moe.edu.sg](mailto:ik_lee_lee@moe.edu.sg)<br>2/6 	| Ms Tan Chin Yih Emilline<br>[tan_chin_yih_emilline@moe.edu.sg](mailto:tan_chin_yih_emilline@moe.edu.sg)<br>2/6 	|   	|
