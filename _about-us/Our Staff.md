@@ -5,7 +5,7 @@ description: ""
 ---
 # **Our Staff**
 
-**STAFF DIRECTORY 2022**
+## STAFF DIRECTORY 2022
 
 ### Leadership Team
 
