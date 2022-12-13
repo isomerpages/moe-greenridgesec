@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts/Chinese Orchestra.md
       - Performing Arts/Choir.md
       - Performing Arts/Dance.md
       - Performing Arts/English Language Drama and Debate Society.md
