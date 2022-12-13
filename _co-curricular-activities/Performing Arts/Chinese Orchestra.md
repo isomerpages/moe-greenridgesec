@@ -30,3 +30,6 @@ Aiming to develop the joy of learning when learning a new instrument, the Chines
 
 2019 Open House
 ![](/images/CO2.jpg)
+
+Introduction of Chinese Orchestra during CCA Orientation
+
