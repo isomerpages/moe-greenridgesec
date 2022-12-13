@@ -6,3 +6,4 @@ third_nav_title: Performing Arts
 ---
 # **English Language Drama and Debate Society**
 
+![](/images/ELDDS1.jpg)
