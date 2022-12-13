@@ -52,3 +52,6 @@ Preparations for a Morning Assembly Performing Arts Presentation
 
 Performing Arts Presentation in May 2022
 ![](/images/CO10.jpg)
+
+Reaching out to the community at the Creative Arts Carnival
+![](/images/CO11.jpg)
