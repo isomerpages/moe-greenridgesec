@@ -27,3 +27,6 @@ The Chinese Orchestra has performed at various events, which include the Lunar N
 The Chinese Orchestra aims to nurture in its members a passion for music and develop their musical talent through an exposure to various music genres and performing at various events. Under the guidance of musicians from the Singapore Chinese Orchestra, students acquire musical knowledge and sharpen their proficiencies in the various instruments. Senior members are encouraged to model the way by leading the junior members during their practice sessions. In preparing for orchestral performance, the members exercise diligence and acquire leadership and collaboration skills. 
 
 Aiming to develop the joy of learning when learning a new instrument, the Chinese Orchestra welcomes all students regardless of their musical background. Not only do members excel musically, they are also encouraged to forge strong ties with one another through participating in weekly bonding games and activities organised by the seniors. It is with such close camaraderie that the Chinese Orchestra members develop a sense of belonging in the CCA.
+
+2019 Open House
+![](/images/CO2.jpg)
