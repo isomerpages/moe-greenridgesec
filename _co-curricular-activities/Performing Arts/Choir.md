@@ -29,3 +29,7 @@ The Choir encourages its members to develop their leadership qualities and self-
 CNY Concert E concert
 
 ![](/images/Choir2.png)
+
+##### 2021
+
+CNY Concert E concert
