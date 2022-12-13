@@ -70,3 +70,10 @@ description: ""
 
 
 ##### Allied Educators
+
+|  	|  	|  	|
+|:---:	|:---:	|:---:	|
+| Ms Koh Hui Yan 	| Student Welfare Officer  	| [koh_hui_yan@moe.edu.sg](mailto:koh_hui_yan@moe.edu.sg)  	|
+|  Ms Gianna Gayatri Francis 	|  Allied Educator <br>(Learning and Behavioural Support) 	|  [gianna_gayatri_mnomokan@moe.edu.sg](mailto:gianna_gayatri_mnomokan@moe.edu.sg)   	|
+|   Ms Lum Lai Mung 	| Education and Career Guidance Counsellor   	| [lum_lai_mung@schools.gov.sg](mailto:lum_lai_mung@schools.gov.sg)   	|
+|  Mr Heriyadi Koh 	| Allied Educator<br>(Teaching and Learning)  	| [heriyadi_koh@moe.edu.sg](mailto:heriyadi_koh@moe.edu.sg)  	|
