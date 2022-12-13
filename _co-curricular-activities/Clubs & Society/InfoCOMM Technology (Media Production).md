@@ -26,3 +26,7 @@ To enhance their video production skills, students attend workshops such as the 
 Students also engage in team-bonding sessions through various activities such as team sports. This is important to strengthen their bonds among members of different levels so that they will be able to work efficiently in their project teams.
 
 ![](/images/Infocomm1.jpg)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_IQ3mPoPs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
