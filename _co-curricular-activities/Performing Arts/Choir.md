@@ -33,3 +33,5 @@ CNY Concert E concert
 ##### 2021
 
 CNY Concert E concert
+
+![](/images/Choir3.png)
