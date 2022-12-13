@@ -13,3 +13,11 @@ In January 2012, Greenridge Secondary School launched our new House System. Stud
 ### Competitions & Accolades
 
 Throughout the year, these 4 Houses will compete against each other for points which will contribute to the total achievement points for each House. The House with the most points at the end of the year will be named the House Champion.
+
+![](/images/Cheetah.jpg)
+
+![](/images/Dolphin.jpg)
+
+![](/images/Falcon.jpg)
+
+![](/images/Stallion.jpg)
