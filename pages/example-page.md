@@ -21,3 +21,12 @@ permalink: /example-page/
 | English Drama  	| Singapore Youth Festival Arts Presentation  	| Distinction (2019)Accomplishment (2021) 	|
 | Modern Dance 	| Singapore Youth Festival Central Judging   	| Distinction (Team A, 2021)<br>Accomplishment (Team B, 2021)<br>Accomplishment (2019) 	|
 | Band 	| Singapore Youth Festival Arts Presentation  	| Accomplishment (2019 and 2021) 	|
+
+
+### Sports
+
+| CCA 	| EVENT 	| AWARD 	|
+|---	|---	|---	|
+| Football 	| National School Games ‘B’ Division League 4<br><br>National School Games ‘C’ Division League 4 	| Champion (2019)<br><br>3rd place (2019) 	|
+| Rugby 	| Saint 7s Under 14 Bowl<br><br>National Schools ‘B’ Division Rugby Championship (Bowl Category)<br><br>National Schools ‘C’ Division Rugby Championship (Bowl Category) 	| Champion (2019)<br><br>Champion (2022)<br><br>4th place (2022) 	|
+| Tchoukball 	| Inter-School ‘C’ Division Championship (Boys)<br><br>Inter-School ‘C’ Division Championship (Boys)<br><br>Inter-School ‘B’ Division Championship (Boys) (Bowl Category)<br><br>Inter-School ‘B’ Division Championship (Girls) (Plate Category)<br><br>Inter-School ‘B’ Division Championship (Girls) (Bowl Category) 	| Champion (2019)<br><br>5th place (2022)<br><br>2nd runner up (2022)<br><br>3rd runner up (2022)<br><br>1st place (2022) 	|
