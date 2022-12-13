@@ -33,3 +33,6 @@ Through these training sessions, students develop:
 *   Presentation and public speaking skills
    
 Students are also given opportunities to develop their leadership skills through committee positions or to step up as team leaders during external competitions.  Our student leaders are empowered as Technical Directors and Level Coordinators to support their CCA mates in their learning and their overall well-being in the club. Working in teams, students also learn how to collaborate effectively.
+
+
+![](/images/Robotics2.png)
