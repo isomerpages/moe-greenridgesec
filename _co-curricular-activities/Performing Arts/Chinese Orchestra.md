@@ -37,3 +37,6 @@ Introduction of Chinese Orchestra during CCA Orientation
 Exchange programme at GESS
 ![](/images/CO4.jpg)
 ![](/images/CO5.jpg)
+
+Performance of Lunar New Year Celebration 2020
+![](/images/CO6.jpg)
