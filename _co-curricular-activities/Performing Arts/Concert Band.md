@@ -36,3 +36,6 @@ Concert Band Members During Practices
 ![](/images/Band5.jpg)
 ![](/images/Band6.jpg)
 ![](/images/Band7.jpg)
+
+Band Leaders presenting during the Sec 1 CCA Orientation
+![](/images/Band8.jpg)
