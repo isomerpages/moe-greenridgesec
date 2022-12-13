@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports & Games/Football.md
       - Sports & Games/Volleyball.md
       - Sports & Games/Tchoukball.md
       - Sports & Games/.keep
