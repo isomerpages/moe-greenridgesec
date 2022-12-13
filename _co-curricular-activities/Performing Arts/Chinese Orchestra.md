@@ -40,3 +40,6 @@ Exchange programme at GESS
 
 Performance of Lunar New Year Celebration 2020
 ![](/images/CO6.jpg)
+
+SYF Recording Session 2021
+![](/images/CO7.jpg)
