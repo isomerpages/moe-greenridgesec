@@ -16,3 +16,7 @@ In the GSS Football Team, we believe that all individuals have a part to play in
 ### CCA PROGRAMME FOR SKILLS, LEADERSHIP & CHARACTER DEVELOPMENT
 
 Our programme aims to equip our members with the skills and knowledge necessary to pursue excellence in their future endeavours. We begin with the goal of achieving success in the annual National School Games.  Our weekly training sessions not only involve physical training, but also team building games that allow us to strengthen our awareness of each other’s abilities and our communication skills. We also help our students develop their community spirit and volunteerism.
+
+![](/images/Football2.png)
+![](/images/Football3.png)
+![](/images/Football4.png)
