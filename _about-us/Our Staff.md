@@ -77,3 +77,27 @@ description: ""
 |  Ms Gianna Gayatri Francis 	|  Allied Educator <br>(Learning and Behavioural Support) 	|  [gianna_gayatri_mnomokan@moe.edu.sg](mailto:gianna_gayatri_mnomokan@moe.edu.sg)   	|
 |   Ms Lum Lai Mung 	| Education and Career Guidance Counsellor   	| [lum_lai_mung@schools.gov.sg](mailto:lum_lai_mung@schools.gov.sg)   	|
 |  Mr Heriyadi Koh 	| Allied Educator<br>(Teaching and Learning)  	| [heriyadi_koh@moe.edu.sg](mailto:heriyadi_koh@moe.edu.sg)  	|
+
+
+##### Executive and Administrative Staff
+
+|  	|  	|
+|:---:	|:---:	|
+| Mr Sarjantpal Singh 	| Operations Manager 	|
+|  Ms Kristie Chen 	| Administrative Manager 	|
+|    Mdm Joanne Pung Hong Eng 	|   Administrative Executive 	|
+|  Mdm Siti Aishah Bte Aspari 	| Management Support Officer 	|
+|  Mdm Nancy Teo  	| Management Support Officer 	|
+| Mrs Teo Mei Lin 	| Technical Support Officer 	|
+| Ms Suriati Bte Kardi 	| Technical Support Officer 	|
+| Mr Sallehuddin 	| Technical Support Officer 	|
+| Mdm Tan Ah Ngee 	| Operations Support Officer 	|
+| Mdm Haryati Bte Amin 	| Operations Support Officer 	|
+| Mdm Chia Siew Ping 	| Operations Support Officer 	|
+|  Mdm Toh ah Bee 	|  Operations Support Officer 	|
+| Ms Chee Ai Lay 	| School Counsellor 	|
+| Ms Khairunnisa Bte Khalid   	| ICT Associate  	|
+| Ms Jess Chua 	|  Desktop Engineer 	|
+|  Ms Losni 	| Student Health Advisor 	|
+|  Ms Hazirah Bte Jadzni 	|  School Librarian 	|
+|  Mr Louis Poh 	|  IT Trainer 	|
