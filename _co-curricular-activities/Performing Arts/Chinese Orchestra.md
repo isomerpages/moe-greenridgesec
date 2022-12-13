@@ -49,3 +49,6 @@ SYF Recording Session 2021
 
 Preparations for a Morning Assembly Performing Arts Presentation
 ![](/images/CO9.jpg)
+
+Performing Arts Presentation in May 2022
+![](/images/CO10.jpg)
