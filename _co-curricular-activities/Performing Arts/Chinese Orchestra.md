@@ -46,3 +46,6 @@ SYF Recording Session 2021
 
 2021 Singapore Youth Festival
 ![](/images/CO8.jpg)
+
+Preparations for a Morning Assembly Performing Arts Presentation
+![](/images/CO9.jpg)
