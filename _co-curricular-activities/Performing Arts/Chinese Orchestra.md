@@ -43,3 +43,6 @@ Performance of Lunar New Year Celebration 2020
 
 SYF Recording Session 2021
 ![](/images/CO7.jpg)
+
+2021 Singapore Youth Festival
+![](/images/CO8.jpg)
