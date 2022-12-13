@@ -32,4 +32,4 @@ Aiming to develop the joy of learning when learning a new instrument, the Chines
 ![](/images/CO2.jpg)
 
 Introduction of Chinese Orchestra during CCA Orientation
-
+![](/images/CO3.jpg)
