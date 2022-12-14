@@ -48,4 +48,11 @@ CCA Leaders and their committees lead their CCA teammates by organising their C
 
 Peer Support Leaders provide mental and social well-being support to their classmates and CCA mates. They also conduct activities to foster teamwork in their class and CCAs.
 
-Class leaders and the respective subject representatives lead their class in class matters, ensuring safety, encouraging their classmates to seek improvement and participating actively in school activities. Student Leaders' Camp
+Class leaders and the respective subject representatives lead their class in class matters, ensuring safety, encouraging their classmates to seek improvement and participating actively in school activities. 
+
+Student Leaders' Camp
+![](/images/SL2.png)
+
+Student Leaders’ Investiture
+![](/images/SL3.png)
+![](/images/SL4.png)
