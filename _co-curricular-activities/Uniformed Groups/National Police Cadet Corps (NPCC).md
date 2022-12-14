@@ -28,3 +28,22 @@ Our cadets participating in the Inter-Unit Drill competition at Home Team Academ
 
 Our cadets contributing to the community outreach effort by the SPF partner and mentor
 ![](/images/NPCC6.jpg)
+
+
+### CCA PROGRAMME FOR SKILLS, LEADERSHIP AND CHARACTER DEVELOPMENT
+
+Cadets engage in various activities during CCA sessions, which comprise physical training, recreational training, drills training, classroom lessons, and marksmanship training. Through these activities, cadets strengthen their discipline and teamwork, gain insight into the Singapore Police Force and also pick  basic crime prevention skills. 
+
+Personal and Leadership Development
+
+At Sec 1, cadets are familiarised with the history of NPCC and the Singapore Police Force (SPF). They are also exposed to programmes to develop their campcraft skills and foot drills.
+
+At Sec 2, cadets get their first opportunity to fire a revolver at the Home Team Academy range. Cadets also attend the Adventure Training Camp at Pulau Ubin, to be exposed to outdoor adventure. They consolidate and refine their campcraft skills and foot drills, and are exposed to baton and rifle drills.
+
+At Sec 3, Cadets are given opportunities to develop their leadership and mentoring skills as they now hold their responsibilities as cadet leaders. They are exposed to outdoor elements at the Survival Training Camp. Cadets also reach out to the community to raise awareness on crime prevention through the Community Safety & Security Programme.
+
+At Sec 4/5, cadets continue to hone their leadership skills and plan training activities for the unit, together with the teacher officers and cadet inspectors. They will also readily hand over unit leadership duties to their Sec 3 juniors who will progressively take over the reins of unit leadership. 
+
+For more details: 
+
+[https://www.npcc.gov.sg/trainingframework.html](https://www.npcc.gov.sg/trainingframework.html)
