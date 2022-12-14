@@ -52,3 +52,5 @@ Teachers consider the following while planning:
 
 *   Monitor and Provide Feedback
 	*   _How can students’ learning be advanced?_
+
+![](/images/ICT5.png)
