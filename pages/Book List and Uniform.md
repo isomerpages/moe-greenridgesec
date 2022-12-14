@@ -52,3 +52,21 @@ Saturday:                             9.00 am to 4.0
 (Closed on Sundays and Public Holidays)
 
 _\***For December only, Sundays and Public Holidays will be opened from 9 am to 3 pm.**_
+
+**SCHOOL BOOKS FOR YEAR 2022**
+
+Our bookshop supplier is **AnnKev Pte Ltd**. Students may place their textbook order online or through WhatsApp and book a slot to collect their order in school, or opt for deliver (additional charges apply).  
+Payment mode will be advised by bookshop after order is placed.
+
+Bookshop online shop: [www.annkev.com](http://www.annkev.com/)   
+WhatsApp order number: 97225666
+
+
+**SCHOOL UNIFORM FOR YEAR 2022**
+
+Our school uniform supplier is **Yangtze Kiang Tailor**. Students may place the uniform order online and collect at their shop, or opt for delivery (additional charges apply). Alternatively, students may go to their outlet at the supplier’s address provided below to make their purchase.  
+  
+Uniform online shop: [www.yangtzekiang.com.sg/eshop](http://www.yangtzekiang.com.sg/eshop)  
+  
+Please refer to the sizing and price chart to guide you in your purchase.  
+* [Information for 2021 Year-End Textbook and Uniform Sale in GSS.pdf](/files/Information%20for%202021%20Year-End%20Textbook%20and%20Uniform%20Sale%20in%20GSS.pdf) (please click link)
