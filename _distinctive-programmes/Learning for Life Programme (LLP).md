@@ -56,3 +56,6 @@ Tier 2 leadership development programme empowers selected students who exhibit g
 * Student Leaders Community Outreach – Children’s Camp, CDAC@Bukit Panjang Club Sunday Programme, SBS Transit Kindness, Project@Bukit Panjang MRT Station, St Luke’s Inter-Generational Games
 * Student Led Projects – Student Leaders Investiture, Level Dialogues, Sec 1 Orientation, Teachers' Day Celebrations and Youth Day Celebrations 
 * Student-Initiated Community Projects – Sports for a Cause Carnival
+
+
+![](/images/CYL4.jpg)
