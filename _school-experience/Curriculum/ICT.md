@@ -13,3 +13,5 @@ We aim to nurture Greenridgeans to be future-ready as learners and leaders who a
 ![](/images/ICT1.jpg)
 
 ### HOW WE ENGAGE OUR STUDENTS
+
+![](/images/ICT2.png)
