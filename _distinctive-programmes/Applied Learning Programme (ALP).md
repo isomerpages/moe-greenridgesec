@@ -50,3 +50,4 @@ In an ever-evolving media landscape, the written word holds tremendous power to 
 Students report on various school events, conduct interviews, and take part in writing workshops and competitions. Guided by professional local writers and our teachers, they write articles for our GSS newsletter, ‘Chapters’, and creative fiction or poetry for our creative writing anthology, ‘Stories from our worlds’. 
 
 Student writers collaborating during a poetry writing workshop
+![](/images/EL1.jpg)
