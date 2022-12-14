@@ -7,3 +7,6 @@ third_nav_title: Clubs & Society
 # **Clubs & Society**
 
 ![](/images/RESIZED%20Banner_CCA_CLUBS&SOCIETY.jpg)
+
+| [MEDIA LITERACY CLUB](/school-experience/co-curriculum/ccca/clubs-n-society/media-literacy-club-mlc) | [ROBOTICS](/school-experience/co-curriculum/cca/clubs-n-society/robotics) |
+| --- | --- |
