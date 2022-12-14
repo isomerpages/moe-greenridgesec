@@ -50,3 +50,12 @@ Parents and students are encouraged to choose schools wisely based on the studen
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent area that they are selected for from Year 1 to Year 4.
 
 **Key Dates**
+
+
+| Date 	| Process 	|
+|---	|---	|
+| 5 May to 1 June 2022 	| DSA Application begins.<br><br>Submit DSA application via the online <br>DSA-Sec Portal: https://www.moe.gov.sg/dsa-sec 	|
+| Starting 16 June 2022 	| Shortlisted applicants will be invited to attend an in-person selection exercise. 	|
+| By 12 Sep 2022 	| Applicants will be notified of the DSA-Sec offers. 	|
+| 31 Oct 2022 	| Successful DSA-Sec applicants are to submit their preferred choice of school via the DSA-Sec Portal or via the applicants’ primary schools. 	|
+| Late Nov 2022 	| Applicants will receive DSA-Sec allocation results during the release of the PSLE results. 	|
