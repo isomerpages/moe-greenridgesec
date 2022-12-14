@@ -23,3 +23,10 @@ Our Girl Guides are involved in a variety of indoor and outdoor activities that 
 The Greenridge Girl Guides provide opportunities for the girls to realise their full potential as responsible and confident citizens of the world. Through the range of activities offered, our girls develop holistically in character, skills and knowledge. Through the leadership opportunities available, the girls become more independent as they learn how to be leaders of selves and lead others.
 
 Gadget Making Session: Girls are taught to make simple gadgets like clothing line, drying rack or shoe rack using materials such as wooden poles.
+![](/images/girlguides.jpg)
+
+World Thinking Day Activities: Patrol groups are conducting various team bonding activities to celebrate 2022 World Thinking Day.
+![](/images/girlguides1.jpg)
+
+Outdoor Cooking Lesson: Cooking simple food such as roasting marshmallows over the fire.
+![](/images/girlguides2.jpg)
