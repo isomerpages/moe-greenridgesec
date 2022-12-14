@@ -32,61 +32,8 @@ Successful applicants will enjoy a range of developmental opportunities to nurtu
 
 **Selection Criteria and Process** 
 
-| Talent Area | Selection Criteria | Selection Process |
-| --- | --- | --- |
-| 
-Leadership and Character
-
- | 
-
-Applicants should have:
-
-*   assumed leadership position(s) such as Prefects, Student Councillors, CCA Leaders, Class Committee members in their primary school years; or
-*   actively served/led in community project(s); or 
-*   attained a Conduct Grade of ‘Very Good’ or better in Primary 5 (overall) and Primary 6 (mid-year)
-
- | Shortlisted applicants:
-
-  
-
-*   will be invited for an in-person interview to share their relevant achievements and experiences on leadership and/or community projects  |
-| 
-
-Debating and Public Speaking | 
-
-<table class="iveo_table ives_tab_1" style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234);"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="246" class="" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; background-color: rgb(234, 234, 234); color: rgb(34, 34, 34);"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;"><span lang="EN" class="" style="margin: 0px; outline: 0px; padding: 0px;">Applicants should demonstrate:</span></p><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;"></p><ul class="" style="margin: 0px 0px 0.5em 1.5em; outline: 0px; padding: 0px;"><li class="" style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">competency in the English Language, interest and motivation in public speaking</li><li class="" style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">positive personal dispositions and learning attitudes</li></ul><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 19.6px;"></p></td></tr></tbody></table>
-
- | 
-
-Shortlisted applicants:
-
-*   will be invited for an in-person interview to share their relevant achievements and experiences
-*   will sit for a performance task: plan and deliver a speech on a topic that will be given to the applicant during the session
-
- |
-| Mother Tongue Languages  
-(Chinese Language / Malay Language / Tamil Language)  |  Applicants should demonstrate:
-
-*    Competency, interest and motivation in Chinese Language / Malay Language / Tamil Language
-*   Positive personal dispositions and learning attitudes
-
- | 
-
-Shortlisted applicants:
-
-*   will be invited for an in-person interview to share their relevant achievements and experiences
-*   will sit for a performance task: read an article given; plan and deliver a speech on a topic that will be given to the applicant during the session 
-
- |
-
-_Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer._  
-
-**Application Process**
-
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec). An applicant may use a maximum of two choices to apply to the same school.
-
-Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
-
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent area that they are selected for from Year 1 to Year 4.
-
-**Key Dates**
+| Talent Area 	| Selection Criteria 	| Selection Process 	|
+|---	|---	|---	|
+| Leadership and Character 	| Applicants should have:<br><br>• assumed leadership position(s) such as Prefects, Student Councillors, CCA Leaders, Class Committee members in their primary school years; or<br>• actively served/led in community project(s); or <br>• attained a Conduct Grade of ‘Very Good’ or better in Primary 5 (overall) and Primary 6 (mid-year) 	| Shortlisted applicants:<br><br>• will be invited for an in-person interview to share their relevant achievements and experiences on leadership and/or community projects  	|
+| Debating and Public Speaking 	| Applicants should demonstrate:<br><br>• competency in the English Language, interest and motivation in public speaking<br>• positive personal dispositions and learning attitudes 	| Shortlisted applicants:<br><br>• will be invited for an in-person interview to share their relevant achievements and experiences<br>• will sit for a performance task: plan and deliver a speech on a topic that will be given to the applicant during the session 	|
+| Mother Tongue Languages<br>(Chinese Language / Malay Language / Tamil Language)  	|  Applicants should demonstrate:<br><br>• Competency, interest and motivation in Chinese Language / Malay Language / Tamil Language<br>• Positive personal dispositions and learning attitudes 	| Shortlisted applicants:<br><br><br>• will be invited for an in-person interview to share their relevant achievements and experiences<br>• will sit for a performance task: read an article given; plan and deliver a speech on a topic that will be given to the applicant during the session  	|
