@@ -23,3 +23,16 @@ n the Greenridge Secondary School’sRugby team, we believe that:
 ### CCA PROGRAMME FOR SKILLS, LEADERSHIP & CHARACTER DEVELOPMENT
 
 Our training programmes are designed to cater to the needs of our players with varying levels of experience in the sport. Regardless of their experience, we strive to level up the skills of our players so that they can achieve their best and work effectively as a team. Through the training sessions, we aim to develop students who display the school values of Perseverance, Respect, Integrity, Diligence and Empathy.
+
+
+‘B’ Division Rugby Team 2022
+![](/images/Rugby2.jpg)
+
+Training physical and mental strength
+![](/images/Rugby3.jpg)
+
+Working as a team during a rugby match
+![](/images/Rugby4.png)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D9rVad-WqW0?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
