@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - folder-page.md
+      - Co Curriculum/Co Curricular Activities (CCA).md
       - Co Curriculum/House System.md
       - Co Curriculum/.keep
       - Co Curriculum/Internationalisation.md
