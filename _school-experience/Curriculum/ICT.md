@@ -20,3 +20,7 @@ In our journey to develop lifelong learners with an aptitude for self-directedne
 
 *   increase the versatility of their device for learning
 *   enhance their productivity and learning opportunities
+
+Sample of applications used by students
+
+![](/images/ICT3.jpg)
