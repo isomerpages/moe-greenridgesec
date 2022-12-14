@@ -7,3 +7,4 @@ third_nav_title: Uniformed Groups
 # **National Police Cadet Corps (NPCC)**
 
 
+![](/images/NPCC1.jpg)
