@@ -13,8 +13,6 @@ Greenridge Secondary School and Fajar Secondary School will merge in January 202
 *   **Netball**
 
 
-# **Uniformed Groups**
-
 ![](/images/RESIZED%20Banner_CCA_UG.jpg)
 
 #### 
