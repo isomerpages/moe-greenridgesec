@@ -42,3 +42,11 @@ Your oratorical skills will be sharpened as you will have a chance to interview 
 5th in Secondary Schools Debating Championships (2019) and 3rd in Debate Association Debating Championships (2020)
 
 ![](/images/GSS%20emerged%20Top%208%201.jpg)
+
+**Journalism and Creative Writing**  
+
+In an ever-evolving media landscape, the written word holds tremendous power to amplify the voices and the stories of people from all walks of life. If you have an interest in journalism and creative writing, our programme provides a range of opportunities to hone your skills. 
+
+Students report on various school events, conduct interviews, and take part in writing workshops and competitions. Guided by professional local writers and our teachers, they write articles for our GSS newsletter, ‘Chapters’, and creative fiction or poetry for our creative writing anthology, ‘Stories from our worlds’. 
+
+Student writers collaborating during a poetry writing workshop
