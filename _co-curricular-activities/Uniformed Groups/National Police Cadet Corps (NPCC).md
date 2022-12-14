@@ -47,3 +47,5 @@ At Sec 4/5, cadets continue to hone their leadership skills and plan training ac
 For more details: 
 
 [https://www.npcc.gov.sg/trainingframework.html](https://www.npcc.gov.sg/trainingframework.html)
+
+![](/images/NPCC10.png)
