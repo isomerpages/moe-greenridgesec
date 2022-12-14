@@ -26,6 +26,6 @@ description: ""
 ### Others
 
 *   [Joint Admission Exercise (JAE)](https://www.moe.gov.sg/education/admission/jae)
-*   [Release of 'N' Level Results - Considerations for Education and Career Pathways](https://greenridgesec.moe.edu.sg/qql/slot/u178/Latest%20News/N%20Level%202017%20-%20Considerations%20for%20Education%20and%20Career%20Pathways.pdf)
+*   [Release of 'N' Level Results - Considerations for Education and Career Pathways](/files/N%20Level%202017%20-%20Considerations%20for%20Education%20and%20Career%20Pathways.pdf)
 *   [Skills Future](https://www.myskillsfuture.sg/secondary)
 *   [Application Form for Leave of Absence (LOA)](https://go.gov.sg/gssloa)
