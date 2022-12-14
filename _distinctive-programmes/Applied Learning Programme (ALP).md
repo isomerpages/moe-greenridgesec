@@ -55,3 +55,6 @@ Student writers collaborating during a poetry writing workshop
 GSS Writers in Action
 ![](/images/EL3.jpg)
 ![](/images/EL4.jpg)
+
+GSS Writers' Publications   
+[Chapters](https://greenridgesec.moe.edu.sg/others/e-open-house/gss-stories) - update the link
