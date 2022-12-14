@@ -70,3 +70,18 @@ Uniform online shop: [www.yangtzekiang.com.sg/eshop](http://www.yangtzekiang.co
   
 Please refer to the sizing and price chart to guide you in your purchase.  
 * [Information for 2021 Year-End Textbook and Uniform Sale in GSS.pdf](/files/Information%20for%202021%20Year-End%20Textbook%20and%20Uniform%20Sale%20in%20GSS.pdf) (please click link)
+
+
+### YANGTZE KIANG TAILOR  
+
+Blk 26 Teck Whye Lane #01-180 S(680026)  
+**Tel:** 6769 1260 / 6769 2053    **Fax:** 6762 9285  
+Website:  [www.yangtzekiang.com.sg](http://www.yangtzekiang.com.sg/)  
+
+**Operating Hours:**
+Monday to Friday:           9.00 am to 6.00 pm  
+Saturday:                             9.00 am to 4.00 pm
+
+(Closed on Sundays and Public Holidays)
+
+_\***For December only, Sundays and Public Holidays will be opened from 9 am to 3 pm.**_
