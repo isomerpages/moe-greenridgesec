@@ -2,5 +2,6 @@ collections:
   admission:
     output: true
     order:
+      - DSA.md
       - Returning Singaporeans.md
       - International Students.md
