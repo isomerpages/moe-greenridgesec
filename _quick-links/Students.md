@@ -17,7 +17,7 @@ description: ""
 
 ### Timetable and information
 
-*   [Student Timetable](https://greenridgesec.moe.edu.sg/qql/slot/u178/Announcements/AY2022/2022%20Sem2%20Timetable%20v15-Class.pdf)
+*   [Student Timetable](/files/2022%20Sem2%20Timetable%20v15-Class.pdf)
 *   [Book List and Uniform](https://greenridgesec.moe.edu.sg/others/book-list-and-uniform)
 *   [Code of Conduct](https://greenridgesec.moe.edu.sg/about-us/code-of-conduct)
 
