@@ -22,5 +22,16 @@ In our journey to develop lifelong learners with an aptitude for self-directedne
 *   enhance their productivity and learning opportunities
 
 Sample of applications used by students
-
 ![](/images/ICT3.jpg)
+
+Thus, digital literacy is designed to be a way of life and integrated into every student experience. 
+
+  
+
+Teachers use the principles of e-Pedagogy in their lesson design to engage students in active learning of concepts and skills with technology. 
+
+  
+
+### OUR STUDENTS & TEACHERS @ WORK
+
+Learning with technology in GSS is guided by MOE SLS Pedagogical Scaffold, such that teachers design meaningful student-centric learning experiences to engage and respond to students’ learning. The role of technology is carefully planned in order to magnify and augment learning outcomes.
