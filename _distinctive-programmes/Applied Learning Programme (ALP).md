@@ -40,3 +40,5 @@ Whether you are someone who fears public speaking, or someone who desires to fur
 Your oratorical skills will be sharpened as you will have a chance to interview people in the community, participate in various debating competitions and share your perspectives on global issues at different platforms in and out of school.
 
 5th in Secondary Schools Debating Championships (2019) and 3rd in Debate Association Debating Championships (2020)
+
+![](/images/GSS%20emerged%20Top%208%201.jpg)
