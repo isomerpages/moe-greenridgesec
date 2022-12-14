@@ -54,3 +54,9 @@ Cadet Leaders are given multiple opportunities to develop their leadership and m
 **Year 4/5: Senior Cadet Leaders**
 
 Senior Cadet Leaders will be put in charge of organising and leading the annual Combined Uniformed Groups Camp held in March. After their tenure as leaders in NCC, Senior Cadet Leaders are also given the option to attend the Cadet Officer Course (COC), so they can continue to lead and serve NCC in the capacity of Officers (Cadet 2nd Lieutenant) after graduation.
+
+Cadets reciting the NCC pledge during the first and last parade of each training session
+![](/images/NCC2.jpg)
+
+NCC cadets march past during the school’s National Day Parade
+![](/images/NCC3.jpg)
