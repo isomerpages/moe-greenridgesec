@@ -59,3 +59,22 @@ Tier 2 leadership development programme empowers selected students who exhibit g
 
 
 ![](/images/CYL4.jpg)
+
+### Strategic Partnerships
+
+**Northwest CDC**   
+\- Reduce @ North West   
+\- CDAC @ Bukit Panjang   
+\- CDAC Club Sunday
+
+**CDAC**   
+\- CDAC Club Sunday
+
+**St Luke’s Eldercare**   
+\- Inter-Generational Games
+
+**SBS Transit**    
+\- Kindness Project
+
+**Senja-Cashew YEC**    
+\- Children’s Camp (Bukit Panjang residents)
