@@ -49,3 +49,4 @@ The National Patrol Camp (NPC) is a national competition event held once every t
 * Campfires 
 * Give-a-Gift Community Service Project
 
+![](/images/scouts.jpg)
