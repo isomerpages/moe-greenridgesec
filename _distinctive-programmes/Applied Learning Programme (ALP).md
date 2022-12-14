@@ -22,3 +22,21 @@ In Sec 1, the focus is on creating digital narratives and personal recounts, for
   
 
 In Sec 2, students focus on producing video documentaries about a hero in their community. In order to craft these video documentaries, students conduct research and interviews of these heroes, and decide on how they can tell a story about these individuals that shows appreciation for the work that they do.
+
+![](/images/EL2.jpg)
+In Sec 3, students work towards the creation of a social media campaign for a social cause of their choice. They create texts that respond, argue and persuade others to take action for a good cause, such as raising awareness about dementia, people with ADHD, or the issue of kidney failure.  
+
+  
+### Nurturing Talents
+
+As part of the school’s commitment to nurture confident communicators, we groom talents in the various platforms of communication such as debating, emceeing, journalism, broadcasting and digital media production.   
+  
+**Debating and Public Speaking**  
+
+In today’s world, global awareness, critical thinking, and effective communication is more important than ever before. For us to make a positive difference to the world around us, we need to be able to present our thoughts maturely and confidently!
+
+Whether you are someone who fears public speaking, or someone who desires to further develop your oratorical skills, fret not! Our programme provides all students with a safe, nurturing space to develop their oratorical skills and equip them to articulate their arguments with confidence. Through our Debating and Public Speaking Programme, you will be challenged to critically think and discuss current affairs and concerns. You will be at the forefront in the school’s initiatives to establish and develop a culture of effective communication through thinking and reasoning with your peers. 
+
+Your oratorical skills will be sharpened as you will have a chance to interview people in the community, participate in various debating competitions and share your perspectives on global issues at different platforms in and out of school.
+
+5th in Secondary Schools Debating Championships (2019) and 3rd in Debate Association Debating Championships (2020)
