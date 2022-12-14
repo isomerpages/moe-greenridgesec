@@ -7,7 +7,7 @@ description: ""
 
 ### Teaching & Learning Resources
 
-*   [Education and Career Guidance](https://greenridgesec.moe.edu.sg/others/latest-news/education-and-career-guidance)
+*   [Education and Career Guidance](/education-and-career-guidance/)
 *   [CPA@GSS](https://tinyurl.com/gsscpa)
 *   [Online Library](https://greenridgesec.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME)
 *   [DT Apps](http://www.focuselearning.co.uk/u/31300/uiqnwEemEaCForvwxBhhAfvehobonymca)
