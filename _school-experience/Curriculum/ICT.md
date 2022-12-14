@@ -15,3 +15,8 @@ We aim to nurture Greenridgeans to be future-ready as learners and leaders who a
 ### HOW WE ENGAGE OUR STUDENTS
 
 ![](/images/ICT2.png)
+
+In our journey to develop lifelong learners with an aptitude for self-directedness and , it is important for us to 
+
+*   increase the versatility of their device for learning
+*   enhance their productivity and learning opportunities
