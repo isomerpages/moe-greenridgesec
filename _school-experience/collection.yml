@@ -2,6 +2,7 @@ collections:
   school-experience:
     output: true
     order:
+      - Curriculum/.keep
       - folder-page.md
       - Co Curriculum/Student Leadership.md
       - Co Curriculum/Co Curricular Activities (CCA).md
