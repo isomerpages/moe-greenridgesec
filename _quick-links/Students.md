@@ -19,7 +19,7 @@ description: ""
 
 *   [Student Timetable](/files/2022%20Sem2%20Timetable%20v15-Class.pdf)
 *   [Book List and Uniform](/book-list-and-uniform/)
-*   [Code of Conduct](https://greenridgesec.moe.edu.sg/about-us/code-of-conduct)
+*   [Code of Conduct](/about-us/code-of-conduct)
 
   
 
