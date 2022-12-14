@@ -38,3 +38,9 @@ The design of the LLP curriculum is guided by the 3Es (Educate, Encourage and Em
 Tier 1 encompasses leadership development that engages and strengthens all their students in developing their awareness of community and leadership knowledge, competencies and attitudes to better serve the community.
 
 Tier 2 leadership development programme empowers selected students who exhibit greater interest or aptitude to lead in actively engaging the community. LLP-CYL is infused into the existing curriculum and programmes, strengthening the programme process and outcomes.
+
+![](/images/llp.jpg)
+
+### Leadership Dimensions
+
+![](/images/CYL3.png)
