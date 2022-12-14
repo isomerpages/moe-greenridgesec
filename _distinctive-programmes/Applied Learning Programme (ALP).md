@@ -51,3 +51,7 @@ Students report on various school events, conduct interviews, and take part in w
 
 Student writers collaborating during a poetry writing workshop
 ![](/images/EL1.jpg)
+
+GSS Writers in Action
+![](/images/EL3.jpg)
+![](/images/EL4.jpg)
