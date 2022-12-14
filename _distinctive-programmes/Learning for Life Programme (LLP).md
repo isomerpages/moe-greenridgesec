@@ -44,3 +44,15 @@ Tier 2 leadership development programme empowers selected students who exhibit g
 ### Leadership Dimensions
 
 ![](/images/CYL3.png)
+
+### Key Programmes
+
+* Leadership Series - Cohort Level Leadership Development
+* Leadership Workshops (Termly)
+* Respective CCAs Leadership Development 
+* Cohort Level VIA programmes
+* Class Committee Training 
+* Student Leaders Camp 
+* Student Leaders Community Outreach – Children’s Camp, CDAC@Bukit Panjang Club Sunday Programme, SBS Transit Kindness, Project@Bukit Panjang MRT Station, St Luke’s Inter-Generational Games
+* Student Led Projects – Student Leaders Investiture, Level Dialogues, Sec 1 Orientation, Teachers' Day Celebrations and Youth Day Celebrations 
+* Student-Initiated Community Projects – Sports for a Cause Carnival
