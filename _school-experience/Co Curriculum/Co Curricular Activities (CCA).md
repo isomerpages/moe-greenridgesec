@@ -12,3 +12,12 @@ Greenridge Secondary School and Fajar Secondary School will merge in January 202
 *   **National Civil Defence Cadet Corps (NCDCC)**
 *   **Netball**
 
+
+# **Uniformed Groups**
+
+![](/images/RESIZED%20Banner_CCA_UG.jpg)
+
+#### 
+
+| [NPCC](/school-experience/co-curriculum/cca/uniformed-group/national-police-cadet-corps-npcc) | [NCC](/school-experience/co-curriculum/cca/uniformed-group/national-cadet-corp-land-ncc) | [GIRL GUIDES](/school-experience/co-curriculum/cca/uniformed-group/girl-guides) | [SCOUTS](/school-experience/co-curriculum/cca/uniformed-group/scouts) |
+| --- | --- | --- | --- |
