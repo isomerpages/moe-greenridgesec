@@ -37,3 +37,18 @@ Teachers use the principles of e-Pedagogy in their lesson design to engage stude
 Learning with technology in GSS is guided by MOE SLS Pedagogical Scaffold, such that teachers design meaningful student-centric learning experiences to engage and respond to students’ learning. The role of technology is carefully planned in order to magnify and augment learning outcomes.
 
 ![](/images/ICT4.jpg)
+
+Teachers consider the following while planning:
+
+*   Activate Learning  
+	 *   _How will students’ focus and interest be oriented towards the learning objectives?_ 
+
+*   Promote Thinking and Discussion 
+
+	*   _How will students think about ideas and concepts? What skills and processes will students perform? How will students build on their current understanding?_ 
+
+*   Facilitate  Demonstration of  Learning
+	*   _How will students demonstrate their understanding and new learning?_ 
+
+*   Monitor and Provide Feedback
+	*   _How can students’ learning be advanced?_
