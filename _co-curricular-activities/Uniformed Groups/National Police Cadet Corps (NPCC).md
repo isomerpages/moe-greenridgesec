@@ -18,3 +18,4 @@ The National Police Cadet Corps (NPCC) is one of the national uniformed groups f
 
 
 Our cadets participating in the school’s National Day Parade
+![](/images/NPCC2.jpg)
