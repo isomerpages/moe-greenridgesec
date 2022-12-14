@@ -21,3 +21,10 @@ The National Police Cadet Corps (NPCC) is one of the national uniformed groups f
 
 Our cadets participating in the school’s National Day Parade
 ![](/images/NPCC2.jpg)
+
+Our cadets participating in the Inter-Unit Drill competition at Home Team Academy
+![](/images/NPCC4.jpg)
+
+
+Our cadets contributing to the community outreach effort by the SPF partner and mentor
+![](/images/NPCC6.jpg)
