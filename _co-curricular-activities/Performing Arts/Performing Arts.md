@@ -4,3 +4,11 @@ permalink: /school-experience/co-curriculum/cca/
 description: ""
 third_nav_title: Performing Arts
 ---
+# **Performing Arts**
+
+![](/images/RESIZED%20Banner_CCA_PERFORMING%20ARTS.jpg)
+
+
+| [CHOIR](https://greenridgesec.moe.edu.sg/school-experience/co-curriculum/co-curricular-activities-cca/performing-arts/choir)  | [CHINESE ORCHESTRA](https://greenridgesec.moe.edu.sg/school-experience/co-curriculum/co-curricular-activities-cca/performing-arts/chinese-orchestra) | [DANCE](https://greenridgesec.moe.edu.sg/school-experience/co-curriculum/co-curricular-activities-cca/performing-arts/dance) | [DRAMA](https://greenridgesec.moe.edu.sg/school-experience/co-curriculum/co-curricular-activities-cca/performing-arts/drama) | [SYMPHONIC BAND](https://greenridgesec.moe.edu.sg/school-experience/co-curriculum/co-curricular-activities-cca/performing-arts/symphonic-band) |
+| --- | --- | --- | --- | --- |
+| (No recruitment of new members in 2023) | (No recruitment of new members in 2023) | |  |  |
