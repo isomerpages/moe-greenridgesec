@@ -26,13 +26,16 @@ Our training programmes are designed to cater to the needs of our players with v
 
 
 ‘B’ Division Rugby Team 2022
-![](/images/Rugby2.jpg)
+<img src="/images/Rugby2.jpg" 
+     style="width:70%">
 
 Training physical and mental strength
-![](/images/Rugby3.jpg)
+<img src="/images/Rugby3.jpg" 
+     style="width:70%">
 
 Working as a team during a rugby match
-![](/images/Rugby4.png)
+<img src="/images/Rugby4.png" 
+     style="width:70%">
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D9rVad-WqW0?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
