@@ -17,7 +17,7 @@ In recognition of our efforts in grooming and developing cadets to their fullest
 
 ### CCA PROGRAMME FOR SKILLS, LEADERSHIP AND CHARACTER DEVELOPMENT
 
-Year 1: Junior Cadets
+**Year 1: Junior Cadets**
 
 Cadets are familiarised with the history of NCC and the Singapore Armed Forces (SAF). They are also exposed to programmes to develop their campcraft skills and foot drills. Key programmes include:
 
@@ -26,7 +26,7 @@ Cadets are familiarised with the history of NCC and the Singapore Armed Forces (
 * SAF Familiarisation visit   
 * Camp FORGE (High Elements Adventure, Flying Fox, Paintball, Archery, Airsoft Rifle Shooting)   
 
-Year 2: Senior Cadets
+**Year 2: Senior Cadets**
 
 Cadets get their first opportunity to fire the SAR21 Assault Rifle at the IMT (Individual Marksmanship Trainer) at a SAF camp. Cadets also attend the Camp STEEL held at HQ NCC, where they will be exposed to jungle survival skills and rifle drills. Key programmes include:
 
@@ -40,7 +40,7 @@ Cadets get their first opportunity to fire the SAR21 Assault Rifle at the IMT (I
 * Freestyle Exhibition Drills Competition
 
 
-Year 3: Cadet Leaders
+**Year 3: Cadet Leaders**
 
 Cadet Leaders are given multiple opportunities to develop their leadership and mentoring skills as they now hold their responsibilities as leaders of the unit. They get to participate in live firing using the SAR21 Assault Rifle at a SAF live range. Cadet Leaders also get to participate in several Specialist courses to hone their leadership skills. In addition, Cadet Leaders are also given opportunities to go on overseas adventure expeditions.  Key programmes include:
 
@@ -51,7 +51,6 @@ Cadet Leaders are given multiple opportunities to develop their leadership and m
 * SAR21 Assault Rifle Live Firing   
 * HQ NCC Adventure Expeditions (e.g. Mount Ophir Summit Climb – 2016)
 
-Year 4/5: Senior Cadet Leaders
+**Year 4/5: Senior Cadet Leaders**
 
 Senior Cadet Leaders will be put in charge of organising and leading the annual Combined Uniformed Groups Camp held in March. After their tenure as leaders in NCC, Senior Cadet Leaders are also given the option to attend the Cadet Officer Course (COC), so they can continue to lead and serve NCC in the capacity of Officers (Cadet 2nd Lieutenant) after graduation.
-
