@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Parents/Cyber Wellness for Parents.md
       - Parents/Parents in Education (PiE).md
       - Parents/Heart to Heart Talk.md
       - Parents/Education and Career Guidance.md
