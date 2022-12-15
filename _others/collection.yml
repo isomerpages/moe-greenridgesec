@@ -2,14 +2,14 @@ collections:
   others:
     output: true
     order:
-      - GSS Parent Connect/.keep
-      - GSS Parent Connect/GSS Parent Connect.md
-      - GSS Parent Connect/2017.md
       - Parents/.keep
       - Parents/Parents.md
       - Parents/Cyber Wellness for Parents.md
       - Parents/Parents in Education (PiE).md
       - Parents/Heart to Heart Talk.md
       - Parents/Education and Career Guidance.md
+      - GSS Parent Connect/.keep
+      - GSS Parent Connect/GSS Parent Connect.md
+      - GSS Parent Connect/2017.md
       - Staff.md
       - Students.md
