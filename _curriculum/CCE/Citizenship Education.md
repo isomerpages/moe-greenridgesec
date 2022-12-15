@@ -28,6 +28,8 @@ To Train a core group of NE Ambassadors  who are
 
 ### Our NE Ambassadors 2012
 
+
+
 | Name 	| Class 	| Name 	| Class 	|
 |---	|---	|---	|---	|
 | Justin Lim Minghan 	|  4/6 	|  Emily Leong Shi Ying 	| 3/6 	|
@@ -35,3 +37,12 @@ To Train a core group of NE Ambassadors  who are
 | Vivian Lim You Mian 	|  3/5 	|  Lee Yek Cheong 	| 3/6 	|
 | Faith Koh Jun Ning 	|  3/5 	|  Attiya Shawkat 	| 3/5 	|
 | Hidayah Nabillah 	|  3/8 	|  Nur Nabihah 	| 3/5 	|
+
+
+### Contributions
+
+![](/images/2012_NE_Ambassadors_and_Champions_1.jpg)
+
+The NE Ambassadors and Champions played an integral role in the planning and execution of the Core NE events in the school. Other than brainstorming ideas for the events, they also took up the key roles in the smooth running of the event through tasks such as researching questions for the Total Defence Day game show and recording of videos for National Day.
+
+The Ambassadors and Champions also represented the school in various external events in the cluster and in the community.
