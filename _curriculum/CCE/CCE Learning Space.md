@@ -19,7 +19,7 @@ The space was conceptualized as an interactive corner where students will be exp
 These individuals will also act as role models for the values that we want every GSS students to be imbued with.
 
 
-### Yusof Bin Ishak
+### **Yusof Bin Ishak**
 
 **Reflection**
 
@@ -79,4 +79,7 @@ President Yusof Ishak inspecting Guard of Honour at opening of Singapore’s Par
 
 ![Yusof Ishak 4](http://grss.theemptyrack.com/wp-content/uploads/2013/06/Yusof-Ishak-4.jpg "Yusof Ishak 4")
 
-President Yusof Ishak enjoying a moment with Ong Cheng Mui and Yatim bin Ibrahim, two of the children attending the Singapore Leprosy Relief Association’s Christmas party at Trafalgar Home
+President Yusof Ishak enjoying a moment with Ong Cheng Mui and Yatim bin Ibrahim, two of the children attending the Singapore Leprosy Relief Association’s Christmas party at Trafalgar Home.
+
+
+### **S. Rajaratnam**
