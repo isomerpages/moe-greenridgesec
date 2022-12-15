@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Physical Education.md
       - Science/Science.md
       - Science/Nutrition & Food Science.md
       - Science/.keep
