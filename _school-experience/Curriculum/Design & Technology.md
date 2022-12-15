@@ -35,3 +35,5 @@ We explore different pedagogies to engage our students in their learning through
 ### OUR STUDENTS & TEACHERS @ WORK
 
 **Design & Technology** Lower secondary students cut their own paper design templates to test their designs of a display toy stand before proceeding with the practical making lessons.
+
+![](/images/CT1.jpg)
