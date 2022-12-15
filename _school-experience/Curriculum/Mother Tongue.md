@@ -70,3 +70,8 @@ Batik painting and kueh making workshops
 ![](/images/MT2.jpg)
 
 Traditional Chinese crafts and games
+![](/images/MT4.png)
+
+
+Indian embossed paintings
+![](/images/MT6.jpg)
