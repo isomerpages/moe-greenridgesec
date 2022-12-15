@@ -75,3 +75,6 @@ Traditional Chinese crafts and games
 
 Indian embossed paintings
 ![](/images/MT6.jpg)
+
+Champions for the Budding Artistes’ Competition (Drama)
+![](/images/MT7.jpg)
