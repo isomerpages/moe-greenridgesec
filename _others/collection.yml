@@ -1,5 +1,5 @@
 collections:
-  quick-links:
+  others:
     output: true
     order:
       - GSS Parent Connect/GSS Parent Connect.md
