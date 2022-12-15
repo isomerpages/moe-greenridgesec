@@ -69,3 +69,37 @@ Lastly, the students used programming software such as Python and Blocky to crea
 The students obtained drinkable water from muddy and bacteria-loaded water from the river in the island with limited amount of materials and resources given to them.
 
 ![](/images/Sci9.jpg)
+At the end of the project, students presented their plans, experimental set-ups, trials and testing, challenges faced and conclusions.
+
+**Sec 3 Biology & Geography Learning Journey – Ecological Field Study**
+
+This exposure gave students an opportunity to see what biologists and geographers do in Singapore and how to carry out field work in research or project work in higher education institutions.
+
+![](/images/Sci10.jpg)
+
+![](/images/Sci11.jpg)
+
+#### Reflections by A-Star Award recipient 2019 and 2020
+
+“I learnt a lot through this 3 day workshop at the Science Centre. As a Pure Science student, it was an amazing experience for me to be able to try these hands-on activities which aided my understanding of the topics taught in school. We also had talks by professionals about the science industry and scholarships.”
+
+– **Claudia Tan Ying En**, 4/4’2020
+
+“It was a really memorable and insightful experience as I got to know more about what scientists research about. Through the workshops I attended, I am more aware about the environment as well as get a taste of the life of a scientist and be more certain about which direction in life I want to pursue. Overall, I had a fun and meaningful time and would like to thank the school for allowing Jane and I to represent the school.”
+
+– **Jophiela Yong**, 3/6’2020
+
+#### Reflections by students who had benefitted from Science Curriculum and  Co-Curricular Programme
+“The school's science programmes have exposed me to different types of experiments, concepts and learning. It has ignited my passion in Science as I found learning about new scientific concepts interesting along with getting to try different science experiments. I also learnt about the various perspectives about science. Working in groups also helps me learn how to interact well with others in the future.” – **Pearlyn Heng**, 4/5’2020
+
+  
+
+“I remember vividly working together with my friends for the Earth Day@Senja Square program where we helped educate the public about the environment and how to care for it.”  
+– **Daniel Mirzal**, 4/4’2020
+
+“My team presented the concept of painting with acids and bases during the Science Carnival in 2018 to Sec 1 students. It was amazing that such a simple science concept can interest others. Through such platforms, it inspired me to participate in the Science Buskers’ Competition in 2019 and represented the school in the finals.”  
+– **Sng Jia Hao**, 4/4’2020
+
+“I had a great time doing the science experiments for the Survival Island Project. It was interesting and engaging and it made me understand the science concepts better.”
+
+– **Ang Wei Jun**’s reflection on Survival Island Project, 1/7’2020
