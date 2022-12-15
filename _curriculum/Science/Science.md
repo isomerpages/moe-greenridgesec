@@ -17,8 +17,7 @@ Our students are constantly engaged and inspired by the scientific phenomena and
      style="width:70%">
 		 
 		 
-How We Engage Our Students
---------------------------
+### How We Engage Our Students
 
 In alignment to the national Science curriculum framework and the inherent nature of Science learning through inquiry, GSS adopts a guided inquiry approach to the teaching and learning of Science in GSS. This includes the acquisition of Knowledge, Skills and Attitudes in Science through practical sessions, authentic application and making thinking visible using Thinking Routines. 
 
@@ -32,4 +31,40 @@ In particular, GSS adopts the 5E Inquiry Approach (Engage, Explore, Explain, Ela
 *   Sec 2:  Students build on their fundamental Science knowledge, skills and attitudes to enhance their scientific literacy in order to explain scientific phenomena and experimental results with the use of keywords and key phrases.  
     
 
-Sec 3, 4 and 5:  Students deepen theirscientific knowledge, skills and attitudes  and extend their learning by analyzing data and evaluating authentic real-life problems.
+* Sec 3, 4 and 5:  Students deepen theirscientific knowledge, skills and attitudes  and extend their learning by analyzing data and evaluating authentic real-life problems.
+
+### Our Students & Teachers @ Work
+
+**Greenridge Math & Science Challenge 2020**
+
+GSS staff and students organized the Greenridge Math & Science Challenge for the primary schools in the West Cluster, to be engaged in an application of mathematics and sciences in various rounds of games and model-making.
+
+![](/images/Sci2.jpg)
+
+**Sec 1 Learning Journey – Brain Festival**
+
+Students were engaged in experiments and an Escape Room game during the Brain Fest at Singapore Science Centre.
+
+![](/images/Sci3.jpg)
+![](/images/Sci4.jpg)
+
+**Learning Journey to Edible Garden City**
+
+Science Department teachers went on a Learning Journey at Edible Garden City for inspiration on how scientific knowledge can be applied in the production of home-grown crops and integrated with the concept of social enterprise to solve challenging first-world issues.
+
+![](/images/Sci6.jpg)
+
+**Nanyang Polytechnic E-science & Technology Challenge** 
+
+For the challenge, Sec 2 students prepared their Robot Frog using recyclable materials. The robot was tested for its ability to travel across a fixed distance of 2 meters in the shortest possible time and in the straightest possible direction.
+
+![](/images/Sci7.jpg)
+They also built an alternative energy harvester using recycled materials which can be used to harvest sunlight, wind, waste heat or utilise mechanical means to generate electricity.
+
+![](/images/Sci8.jpg)
+Lastly, the students used programming software such as Python and Blocky to create the shortest pathway for a robot to rescue the survivors.
+
+**Sec 1 Science Project – Survival Island**
+
+The students obtained drinkable water from muddy and bacteria-loaded water from the river in the island with limited amount of materials and resources given to them.
+
