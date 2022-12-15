@@ -52,6 +52,5 @@ At the National Museum of Singapore, students investigate historical sources ran
 Students participate in conferences and  competitions such as the Model ASEAN Summit as well as the NUS Geography Challenge and History Challenge. Such platforms allow students to critically apply the knowledge and skills learnt in the Humanities classroom and connect with other Humanities students in Singapore to discuss meaningful societal issues.
 ![](/images/Hum5.jpg)
 
-**Greenridge Secondary School NUS geography challenge 2022 creative component video**
-
+**Greenridge Secondary School NUS geography challenge 2022 creative component video**   
 Designing Blueprints for Our Green Futures
