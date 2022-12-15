@@ -2,9 +2,9 @@ collections:
   others:
     output: true
     order:
-      - GSS Parent Connect/2017.md
-      - GSS Parent Connect/GSS Parent Connect.md
       - GSS Parent Connect/.keep
+      - GSS Parent Connect/GSS Parent Connect.md
+      - GSS Parent Connect/2017.md
       - Parents/.keep
       - Parents/Parents.md
       - Parents/Cyber Wellness for Parents.md
