@@ -68,3 +68,4 @@ Lastly, the students used programming software such as Python and Blocky to crea
 
 The students obtained drinkable water from muddy and bacteria-loaded water from the river in the island with limited amount of materials and resources given to them.
 
+![](/images/Sci9.jpg)
