@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Mother Tongue.md
       - Science/.keep
       - Science/Science.md
       - Science/Nutrition & Food Science.md
