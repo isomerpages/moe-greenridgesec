@@ -4,9 +4,15 @@ permalink: /school-experience/curriculum/cce/citizenship-education/values-in-act
 description: ""
 third_nav_title: CCE
 ---
-# **Values In Action**
+### **NE Events**
 
-### Objectives
+
+
+
+
+### **Values In Action**
+
+##### Objectives
 
 To Train a core group of NE Ambassadors  who are
 
