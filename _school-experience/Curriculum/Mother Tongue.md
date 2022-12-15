@@ -67,3 +67,6 @@ Board games creation
      style="width:80%">
 
 Batik painting and kueh making workshops
+![](/images/MT2.jpg)
+
+Traditional Chinese crafts and games
