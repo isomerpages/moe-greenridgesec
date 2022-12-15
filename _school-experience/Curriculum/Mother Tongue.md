@@ -70,11 +70,14 @@ Batik painting and kueh making workshops
 ![](/images/MT2.jpg)
 
 Traditional Chinese crafts and games
-![](/images/MT4.png)
+<img src="/images/MT4.png" 
+     style="width:70%">
 
 
 Indian embossed paintings
-![](/images/MT6.jpg)
+<img src="/images/MT6.jpg" 
+     style="width:70%">
 
 Champions for the Budding Artistes’ Competition (Drama)
-![](/images/MT7.jpg)
+<img src="/images/MT7.jpg" 
+     style="width:70%">
