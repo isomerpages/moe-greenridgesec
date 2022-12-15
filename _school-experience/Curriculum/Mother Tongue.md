@@ -40,3 +40,23 @@ Sec 2 ALP aims to deepen students’ awareness of their MT languages and culture
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kfvBVRbl3ro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+Sec 3 students are exposed to translation between English Language (EL) and their respective MTL. While strengthening bilingualism, students also experience the commonalities and differences between the two languages, as well as how culture influences communication.  
+
+  
+
+**Festival Celebrations and Mother Tongue Fortnight**  
+
+With the whole school getting together to celebrate Lunar New Year, Hari Raya and Deepavali, our students learn more about the traditions and cultures of the different ethnic groups while cultivating the spirit of sharing and caring. Involvement in the preparation and performance of the different celebrations also allow our students to showcase their various talents. To enable them to learn more about their culture in fun and engaging ways, students also take part in different hands-on activities, such as traditional games and crafts as well as food making workshops.
+
+Performance skills workshops – appreciation and presentations
+
+Through the performance skills workshops, students learn to appreciate the various modes of performances in their MTL and cultures. These workshops also help students to deepen the mastery of skills through authentic learning experiences such as reciting activities, theatre drama appreciation and performances.
+
+Scaffolding Learning
+
+Our learning process in the key language skills are scaffolded in a progressive manner, with various types of support provided to enhance our students’ learning. The use of Socratic questions, mind-maps, group work, as well as modelling and demonstration enhances thinking as students generate ideas and clarify their thoughts.  The inclusion of real world experiences in the learning activities makes them highly relatable and applicable to the lives of students.
+
+### OUR STUDENTS & TEACHERS @ WORK
