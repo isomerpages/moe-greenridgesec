@@ -24,3 +24,15 @@ For NFS, we envision our students to demonstrate a sense of responsibility to s
  Nutrition and Food Science Education Framework
  
  
+We aim to develop our students to become Discerning Consumers, Health Ambassadors and Food Innovators.
+
+### HOW WE ENGAGE OUR STUDENTS
+
+We explore different pedagogies to engage our students in their learning through the various modes:
+
+*   Teacher instructions and demonstrations
+*   Peer instruction (between students) and group work
+*   Self-directed learning tasks
+*   Hands-on practical tasks
+*   Use of ICT and e-pedagogies to support effective learning
+*   Enrichment workshops and competitions platforms to enhance learning experience
