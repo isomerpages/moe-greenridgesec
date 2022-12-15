@@ -112,3 +112,9 @@ Rajaratnam studied in, St Paul’s boys’ school, Victoria Institution in Kuala
 He returned to Singapore in 1948 when he joined the Malayan Tribune. In 1954, he joined _The Straits Times_ as a journalist. He was bold in writing about the way Singapore was governed by the British. This incurred the displeasure of the colonial government. His column, “I write as I please”, attracted so much attention that he was called for questioning by the government.
 
 ### **Innovation & Technology**
+
+**Background**
+
+*   Despite its limited physical resources, Singapore is a breeding ground for some outstanding technological developments. The number of patents registered here by local companies, individuals and institutions have been growing steadily.
+*   Singapore is also one of the top 10 countries registering inventions overseas.
+*   Innovation and Technology is about improving existing products or inventing new ones to bring convenience to our life. Research and Development is a tertiary industry which emphasises knowledge and creativity over labour. This is suitable for Singapore which has a small population. The Singapore government has thus been encouraging Research and Development by setting up Research Centres of Excellence in our universities, providing billions of dollars in the National Research Fund and also, forming resource centres such as the Games Solution Centre to help small companies develop their products.
