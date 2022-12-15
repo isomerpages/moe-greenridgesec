@@ -39,3 +39,19 @@ We explore different pedagogies to engage our students in their learning through
 
 
 ### OUR STUDENTS & TEACHERS @ WORK
+
+![](/images/CT6.jpg)
+Secondary 2 students prepare to make cookies and pancakes
+
+![](/images/CT7.jpg)
+Lower Secondary students extend their learning beyond the classroom and work collaboratively with others
+
+![](/images/CT9.jpg)
+Upper Secondary students learn through experimentation and practical sessions
+
+![](/images/NFS2.jpg)
+Upper Secondary students learn about Carbohydrates and My Healthy Plate through various Learning Experiences such engaging in collaborative work and peer feedback using the See Saw app
+
+![](/images/CT11.jpg)
+Use of card games to encourage fun learning through group discussions
+
