@@ -25,3 +25,7 @@ third_nav_title: Parents
 *   Understand our shared responsibilities
 *   Seek common ground
 *   Together, we work towards common goals
+
+
+<img src="/images/2012_Parents_ParentsInLearning_Logo.jpg" 
+     style="width:50%">
