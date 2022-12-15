@@ -43,3 +43,5 @@ Students need to:
 The school plans and implements a holistic CW education which comprises a) the CW lessons in [MOE’s formal curriculum](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101) and b) the school-wide programmes (e.g. CW assembly talks, CW Week, CW Roadshow and other CW activities) to reinforce the importance of CW and its messages. For more information on MOE’s formal curriculum, click [here](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101).
 
 **Highlights from School-Wide Programmes**
+
+![](/images/cyberwellness02.jpg)
