@@ -91,3 +91,5 @@ With the support of the Inter-Ministry Cyber Wellness Committee (ICSC) and the M
 In 2016, a team of our Cyber Wellness Student Ambassadors represented the school at the NCAC, where they created a video about Twitter to share with parents and to let them understand why teenagers like to blog these days.
 
 We are pleased to announce that another team, GSS CyberHeroes has been awarded the 1st Runner-Up for NCAC in 2017. Our GSS Cyberheroes advocated on the curation of content on the Snapchat platform. They created an app to allow parents to be able to (i) find out & try out Snapchat, (ii) learn about the possible harmful content that your children can be exposed to when using Snapchat and (iii) learn some practical parental strategies that you can adopt. Refer to the following steps on how to browse the app.
+
+![](/images/cyberwellness07-1.jpg)
