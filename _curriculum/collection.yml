@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Science/Nutrition & Food Science.md
       - Science/.keep
       - CCE/Character & Citizenship Education.md
       - CCE/Student Development.md
