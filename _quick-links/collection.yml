@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - GSS Parent Connect/.keep
-      - GSS Parent Connect.md
       - Parents/.keep
       - Parents/Parents.md
       - Parents/Cyber Wellness for Parents.md
