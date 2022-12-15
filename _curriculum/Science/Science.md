@@ -15,3 +15,21 @@ Our students are constantly engaged and inspired by the scientific phenomena and
 
 <img src="/images/Sci1.png" 
      style="width:70%">
+		 
+		 
+How We Engage Our Students
+--------------------------
+
+In alignment to the national Science curriculum framework and the inherent nature of Science learning through inquiry, GSS adopts a guided inquiry approach to the teaching and learning of Science in GSS. This includes the acquisition of Knowledge, Skills and Attitudes in Science through practical sessions, authentic application and making thinking visible using Thinking Routines. 
+
+Through the Scientific Practices approach, teachers and students ‘behave like a scientist’ throughout the learning process. This means that they consistently observe, question, think, articulate and write, using the precise terms and accurate illustrations when describing the various scientific concepts, akin to a scientist. Models, demonstration kits and other manipulatives are used extensively to further provide a tactile learning experience that enhances the students’ understanding and grasp of the science concepts. 
+
+In particular, GSS adopts the 5E Inquiry Approach (Engage, Explore, Explain, Elaborate, Evaluate) to facilitate and implement the progressive and differentiated Science curriculum.
+
+*   Sec 1:  Students are engaged in interactive lessons that cover the General Science disciplines of Physics, Chemistry and Biology, to inspire them with a lifelong interest in the sciences. They are also encouraged to explore the world constantly through questioning and experimentation, so that they develop a strong sense of scientific literacy in terms of scientific knowledge, critical thinking skills and essential attitudes, which are crucial for the 21st century.  
+      
+    
+*   Sec 2:  Students build on their fundamental Science knowledge, skills and attitudes to enhance their scientific literacy in order to explain scientific phenomena and experimental results with the use of keywords and key phrases.  
+    
+
+Sec 3, 4 and 5:  Students deepen theirscientific knowledge, skills and attitudes  and extend their learning by analyzing data and evaluating authentic real-life problems.
