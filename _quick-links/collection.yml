@@ -2,12 +2,12 @@ collections:
   quick-links:
     output: true
     order:
-      - Parents/GSS Parent Connect.md
+      - Parents/.keep
       - Parents/Parents.md
+      - Parents/GSS Parent Connect.md
       - Parents/Cyber Wellness for Parents.md
       - Parents/Parents in Education (PiE).md
       - Parents/Heart to Heart Talk.md
       - Parents/Education and Career Guidance.md
-      - Parents/.keep
       - Staff.md
       - Students.md
