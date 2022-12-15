@@ -37,3 +37,5 @@ Please click on the links above to sign up immediately. For more information, pl
 **720am - 11am, Friday, 24 March 2017**
 
 Dear parents, you are invited to participate in the GSS Sports Carnival where you can enjoy a day of fun sporting activities with the GSS family.   Sports Carnival is a school wide event which aims to build school spirit among students and staff through various sports activities. This year we aim to offer a wide range of activities to cater to different interest groups. You could register to take part in the following games, visit any of the fringe activity booths or join us to cheer on our participants.
+
+(YT video is private)
