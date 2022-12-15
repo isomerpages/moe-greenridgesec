@@ -24,3 +24,20 @@ As such,  we aim  to deliver a Humanities education for students to 
 Through Inquiry-Based Learning and Socratic Questioning, the department strives to develop deep conceptual understanding through the exploration of various issues and topics in Geography, History and Social Studies. 
 
 The active use of technology to support Blended Learning allows students to engage in a range of learning activities within and beyond the classroom. These strategies enable teachers to be the facilitators of learning to guide students in becoming  self-directed learners who can construct knowledge for themselves.
+
+![](/images/Hum6.jpg)
+
+### OUR STUDENTS & TEACHERS @ WORK
+
+**Learning beyond the classroom**
+Rich learning beyond the classroom takes the form of investigations and Learning Journeys as well as external competitions. They reinforce learning in classrooms and help students better retain their learning in the classrooms. Guided by inquiry, students’ learning is enhanced through these investigations as they collaborate to reach an informed conclusion about various issues by:
+
+*   gathering and analysing data 
+*   drawing conclusions based on the data
+*   presenting their data and conclusions
+*   reflecting on their learning 
+*   proposing actions in relation to the investigation issue
+
+**Geographical Investigations**  
+
+Students ‘do’ Geography by using various instruments to investigate the environmental elements in various locations. Conducting investigations in the ‘field’ allows students to better visualise and understand the geographical concepts and processes learnt.
