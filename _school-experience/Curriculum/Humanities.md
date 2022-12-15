@@ -38,13 +38,20 @@ Rich learning beyond the classroom takes the form of investigations and Learning
 *   reflecting on their learning 
 *   proposing actions in relation to the investigation issue
 
-**Geographical Investigations**  
-
+**Geographical Investigations**     
 Students ‘do’ Geography by using various instruments to investigate the environmental elements in various locations. Conducting investigations in the ‘field’ allows students to better visualise and understand the geographical concepts and processes learnt.
 
 ![](/images/Hum2.jpg)
 
-**Historical Investigations**  
-
+**Historical Investigations**     
 At the National Museum of Singapore, students investigate historical sources ranging from physical objects, documents and oral histories reflecting different perspectives of our past. Exploring the past helps us appreciate the present and understand our place in the future.
 ![](/images/Hum6.jpg)
+
+
+**Enrichment and Competitions**     
+Students participate in conferences and  competitions such as the Model ASEAN Summit as well as the NUS Geography Challenge and History Challenge. Such platforms allow students to critically apply the knowledge and skills learnt in the Humanities classroom and connect with other Humanities students in Singapore to discuss meaningful societal issues.
+![](/images/Hum5.jpg)
+
+**Greenridge Secondary School NUS geography challenge 2022 creative component video**
+
+Designing Blueprints for Our Green Futures
