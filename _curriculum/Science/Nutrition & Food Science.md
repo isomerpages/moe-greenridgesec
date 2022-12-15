@@ -36,3 +36,6 @@ We explore different pedagogies to engage our students in their learning through
 *   Hands-on practical tasks
 *   Use of ICT and e-pedagogies to support effective learning
 *   Enrichment workshops and competitions platforms to enhance learning experience
+
+
+### OUR STUDENTS & TEACHERS @ WORK
