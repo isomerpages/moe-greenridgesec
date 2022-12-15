@@ -8,7 +8,11 @@ third_nav_title: CCE
 
 NE Committee organizes four core events annually for students to celebrate and commemorate significant events that happened in Singapore
 
-##### LEARNING JOURNEY TO LABRADOR PARK
+![](/images/cce7.jpg)
+![](/images/cce8.jpg)
+![](/images/cce9.jpg)
+![](/images/cce10.jpg)
+![](/images/cce11.jpg)
 
 
 ### **Values In Action**
