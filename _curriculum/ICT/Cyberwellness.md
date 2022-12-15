@@ -69,3 +69,10 @@ Our Cyber Wellness Student Ambassadors serve as active student voices and cascad
 A parenting seminar, “Enabling and Helping Our Children Overcome the New World Danger” was conducted on 29 July 2017. The speaker shared real life cyberbullying case studies and brought about awareness of the severity and impact of cyberbullying. Parents were also given tips on how they can help children and youths should they be involved in cyberbullying or know someone who is.
 
 Our CW Student Ambassadors also shared on the SG ConneXion app to parents during the seminar. They engaged parents through a slide presentation, quiz, video and hands-on learning
+
+![](/images/cyberwellness04.jpg)
+
+
+### Achievements
+
+**1.     Cyber Wellness Student Ambassador**
