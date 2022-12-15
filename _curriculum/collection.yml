@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Design & Technology.md
       - Aesthetics.md
       - Computer Applications (CPA).md
       - Science/.keep
