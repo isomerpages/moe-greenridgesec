@@ -22,3 +22,13 @@ L Students are also given ample opportunities to go on arts-related learning jou
 Music students attend music workshops such as percussion, beatboxing and dikir barat to learn more about music from other cultures. Students also learn to create their own Xinyao songs under the guidance of music professionals.
 
 ### OUR STUDENTS & TEACHERS @ WORK
+
+<img src="/images/Aes12.jpg" 
+     style="width:75%">
+<img src="/images/Aes13.jpg" 
+     style="width:75%">
+<img src="/images/Aes14.jpg" 
+     style="width:75%">
+<img src="/images/Aes15.jpg" 
+     style="width:75%">
+
