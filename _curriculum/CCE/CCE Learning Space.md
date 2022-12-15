@@ -83,3 +83,30 @@ President Yusof Ishak enjoying a moment with Ong Cheng Mui and Yatim bin Ibrahim
 
 
 ### **S. Rajaratnam**
+
+**Reflection**
+
+*   Draw similarities between yourself and S. Rajaratnam.
+*   How can you emulate S. Rajaratnam?
+
+**Thinking Questions**
+
+*   What contributions did S. Rajaratnam make to Singapore?
+*   What was Mr. Rajaratnam’s contribution to the PAP’s collective leadership and to the governance of Singapore?
+*   What can we learn from the stories written by S. Rajaratnam?
+
+ **Links to more info**
+
+*   [http://www.spp.nus.edu.sg/ips/docs/pub/pa\_tk\_Tribute%20to%20S%20Rajaratnam\_220206.pdf](http://www.spp.nus.edu.sg/ips/docs/pub/pa_tk_Tribute%20to%20S%20Rajaratnam_220206.pdf)
+*   [http://infopedia.nl.sg/articles/SIP\_644\_2005-01-10.html](http://infopedia.nl.sg/articles/SIP_644_2005-01-10.html)
+*   [http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/](http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/)
+*   [http://www.viweb.freehosting.net/vilit\_SRaja.htm](http://www.viweb.freehosting.net/vilit_SRaja.htm)
+*   [http://www.singapore-window.org/sw06/060225cn.htm](http://www.singapore-window.org/sw06/060225cn.htm)
+
+**More Facts**
+
+He is regarded as one of the founding fathers of independent Singapore as it achieved self-government in 1959 and later independence in 1965. He devoted much of his adult life to public service, and helped shape the mentality of Singaporeans on contemporary issues. One of the schools of Nanyang Technological University, is named the S. Rajaratnam School of International Studies in honour of him, as is a 7-storey S. Rajaratnam block at Raffles Institution.
+
+Rajaratnam studied in, St Paul’s boys’ school, Victoria Institution in Kuala Lumpur, and later in Raffles Institution in Singapore. In 1937, he went to King’s College London to pursue a law degree. However, due to World War II, he was unable to receive funding from his family to continue his studies; instead, he turned to journalism to earn a living. He met his wife Piroska Feher, a Hungarian teacher while in London.
+
+He returned to Singapore in 1948 when he joined the Malayan Tribune. In 1954, he joined _The Straits Times_ as a journalist. He was bold in writing about the way Singapore was governed by the British. This incurred the displeasure of the colonial government. His column, “I write as I please”, attracted so much attention that he was called for questioning by the government.
