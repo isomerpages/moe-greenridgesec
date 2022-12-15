@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Humanities.md
       - Mother Tongue.md
       - Science/.keep
       - Science/Science.md
