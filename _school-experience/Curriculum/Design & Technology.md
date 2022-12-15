@@ -48,7 +48,6 @@ Upper Secondary students learn about technologies and design communication throu
  ![](/images/DT3.jpg)
  
 *  Students learn more about linkages through a hands-on activity!
-
 ![](/images/CT4.jpg)
 
 * Students learn how to use Google Sketch up software for their presentation drawings.
