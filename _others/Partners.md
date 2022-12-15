@@ -44,11 +44,13 @@ Do register to participate in the following games;
   
 **1\. Zoom!**  
 This is an endurance relay race combined with the concept of a vertical marathon, which takes place around the parade square and the administrative block. Each team will be given 20 minutes to complete as many rounds as possible and the team that completes the most number of rounds win the race.   
+
 **2\. 100 No NGs**  
 Teams consisting of 8-12 players have to successfully complete a sequence of tasks within 100 seconds. Any failed attempt in between will require the team to restart the game from the 1st station.  
   
 **3\. Key to Success**  
 Players will be paired up and each pair will have their wrists tied together with a paper sash. The goal is to search for the winning item without having the sash broken or torn by ‘chasers’.   It’s a great game to participate with your child.   
+
 **4\. Sports Games**  
 We will form a combined team of teachers and parents to compete against the students in the various games
 
@@ -63,3 +65,5 @@ We will form a combined team of teachers and parents to compete against the stud
 We will meet at SPARK! room at 715am and then proceed to jon the school for morning assembly and thereafter begin the activities. Please click on the following link to register your interest and we will get in touch with you  [www.tinyurl.com/gss-sc-2017-invite](http://www.tinyurl.com/gss-sc-2017-invite) . 
 
 If you have any further queries please contact our teacher-in-charge of the Sports Carnival, Mr Yoong Kang Chien at 6760 1052 or   [yoong\_kang\_chien@moe.edu.sg](mailto:yoong_kang_chien@moe.edu.sg)
+
+![](/images/partners.jpg)
