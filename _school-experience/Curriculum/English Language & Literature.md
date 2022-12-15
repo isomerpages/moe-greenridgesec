@@ -66,3 +66,9 @@ GSS English Language
 
 GSS English Literature
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WuWCbIjpYVY?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+GSS EL Making a Speech on the Environment
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-zZojsATB-A?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+GSS Talk Moves in the Classroom for Productive Academic Discussions
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AHvWGebSNpo?start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
