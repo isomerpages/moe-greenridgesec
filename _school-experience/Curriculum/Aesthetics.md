@@ -40,3 +40,14 @@ The Ceramics Interest Group with their artwork displayed at an exhibition at the
 
 Docents Interest Group
 ![](/images/Aes9.jpg)
+
+With the opening of our Beyond Imagination Greenridge (BIG) gallery on 26 April 2018, our Art department has been putting up art exhibitions for the community. Our signature art exhibition, Chapters, showcases the artworks of our upper secondary Art students. To make the exhibition more meaningful, we invite students from our neighbouring primary schools to view and learn more about the artworks. During the exhibitions, student docents and artists introduce the artworks to our visitors. Their artworks also inspire the school community to appreciate and understand Visual Art better. 
+
+Primary school students visiting the BIG Gallery
+<img src="/images/Aes10.jpg" 
+     style="width:75%">
+
+
+School leaders from other schools visiting the BIG Gallery
+<img src="/images/Aes11.jpg" 
+     style="width:75%">
