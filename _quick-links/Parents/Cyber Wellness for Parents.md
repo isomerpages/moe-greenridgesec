@@ -24,3 +24,8 @@ To complement the CW curriculum in Greenridge Secondary School, parents can set 
 
 
 ![](/images/cyberwellness09.jpg)
+
+Find out more about Cyber Wellness@GSS [here](https://greenridgesec.moe.edu.sg/school-experience/curriculum/ict/cyber-wellness).  - change link
+  
+  
+**Cyber Wellness Resources for Parents**
