@@ -37,3 +37,7 @@ We explore different pedagogies to engage our students in their learning through
 **Design & Technology** Lower secondary students cut their own paper design templates to test their designs of a display toy stand before proceeding with the practical making lessons.
 
 ![](/images/CT1.jpg)
+
+Sec 3 students create their design solutions and make mock ups under the guidance of teachers to test their solutions for improvement
+
+![](/images/DT2.jpg)
