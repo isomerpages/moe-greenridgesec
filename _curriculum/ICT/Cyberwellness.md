@@ -76,3 +76,18 @@ Our CW Student Ambassadors also shared on the SG ConneXion app to parents during
 ### Achievements
 
 **1.     Cyber Wellness Student Ambassador**
+
+![](/images/cyberwellness05.jpg)
+
+##### “Inspire. Empower. Celebrate.”
+
+This was the theme of the inaugural Cyber Wellness Student Ambassadors Summit 2017, a biennial event held to recognise and celebrate schools’ efforts to promote Cyber Wellness via their Student Ambassadors.   A highlight of the summit was the “Cyber Wellness Student Ambassador Award”, and we are proud to announce that out of the 4,400 Cyber Wellness Student Ambassadors in all schools in Singapore, Greenridge’s very own Nur Rasyikah Bte Andi Satria was one of the six recipients who received this prestigious award.   This award recognises the ambassadors’ commitment and leadership in championing school-wide Cyber Wellness outreach efforts and their positive influence on their peers. Described by her peers and teachers as one who ‘always tries to help out when someone is in need’, and ‘puts herself in other people’s shoes’, Rasyikah is truly a deserving recipient of this award.   We would like to congratulate Rasyikah on receiving this esteemed award, and affirm her for being a positive peer influence to spread Cyber Wellness messages in GSS.   Rasyikah has truly lived out the opening line of our school song – ‘to stand head and shoulders above the rest! We are so proud of you Rasyikah!
+
+
+**2.     Cyber National Cyber Wellness Advocacy Challenge (NCAC)**
+
+With the support of the Inter-Ministry Cyber Wellness Committee (ICSC) and the Ministry of Education (MOE), the SG ConneXion app was launched as part of the National Cyber Wellness Advocacy Challenge (NCAC). Adopting a 'By Youths, For Adults' approach, SG ConneXion contains a digitized collection of Cyber Wellness resources created for parents to provide them with an insight on the Cyber Wellness issues that students face today through the voices of youths themselves as well as parenting tips on how to guide your children through the age of digital technology.
+
+In 2016, a team of our Cyber Wellness Student Ambassadors represented the school at the NCAC, where they created a video about Twitter to share with parents and to let them understand why teenagers like to blog these days.
+
+We are pleased to announce that another team, GSS CyberHeroes has been awarded the 1st Runner-Up for NCAC in 2017. Our GSS Cyberheroes advocated on the curation of content on the Snapchat platform. They created an app to allow parents to be able to (i) find out & try out Snapchat, (ii) learn about the possible harmful content that your children can be exposed to when using Snapchat and (iii) learn some practical parental strategies that you can adopt. Refer to the following steps on how to browse the app.
