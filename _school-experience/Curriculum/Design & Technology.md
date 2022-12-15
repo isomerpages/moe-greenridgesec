@@ -32,7 +32,6 @@ We explore different pedagogies to engage our students in their learning through
 *   Use of ICT and e-pedagogies to support effective learning
 *   Enrichment workshops and competitions platforms to enhance learning experience
 
-OUR STUDENTS & TEACHERS @ WORK
-------------------------------
+### OUR STUDENTS & TEACHERS @ WORK
 
 **Design & Technology** Lower secondary students cut their own paper design templates to test their designs of a display toy stand before proceeding with the practical making lessons.
