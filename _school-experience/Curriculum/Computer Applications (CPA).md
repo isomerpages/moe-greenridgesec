@@ -42,3 +42,15 @@ To enhance creativity, flexibility and collaborative skills in problem solving, 
 Technology is used to not only multiply the effect of a teacher and allow students to reach mastery-based goals but also to augment students’ skills and grasping of concepts, track and assess where students are in their learning so as to effectively engage them. Teachers provide targeted feedback to help students advance in their learning.
 
 ### OUR STUDENTS & TEACHERS @ WORK
+
+![](/images/CPA1.jpg)
+**A sample on how decomposition of problem is done in class**
+
+![](/images/CPA2.jpg)
+**A sample on how problem-based processes is done in class**
+
+![](/images/CPA3.jpg)
+**Using technology to cater to differentiated needs**
+
+![](/images/CPA4.jpg)
+**Collaborating to problem solve**
