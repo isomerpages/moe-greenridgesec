@@ -41,3 +41,15 @@ We explore different pedagogies to engage our students in their learning through
 Sec 3 students create their design solutions and make mock ups under the guidance of teachers to test their solutions for improvement
 
 ![](/images/DT2.jpg)
+
+Upper Secondary students learn about technologies and design communication through various learning experiences
+
+*   Students explore how to fix a light sensing circuit and record their peers explaining how the circuit works! Through constructive peer feedback, students make improvements in their explanation of concepts!
+ ![](/images/DT3.jpg)
+ 
+*  Students learn more about linkages through a hands-on activity!
+
+![](/images/CT4.jpg)
+
+* Students learn how to use Google Sketch up software for their presentation drawings.
+![](/images/CT5.jpg)
