@@ -36,3 +36,9 @@ In GSS, we believe values are better caught than taught. Hence the CW experience
 **Achievements**
 
 Silver Award in the National Cyberwellness Advocacy Challenge 2020 and 2021
+
+![](/images/cce.jpg)
+
+Recipient of the Cyber Wellness Student Ambassador Award 2019
+
+![](/images/cce1.jpg)
