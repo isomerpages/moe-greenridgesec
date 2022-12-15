@@ -17,3 +17,6 @@ The CCE learning space came into being at the end of December 2011.
 The space was conceptualized as an interactive corner where students will be exposed to notable individuals who have left a mark not only on Singapore but also the world.
 
 These individuals will also act as role models for the values that we want every GSS students to be imbued with.
+
+
+### Yusof Bin Ishak
