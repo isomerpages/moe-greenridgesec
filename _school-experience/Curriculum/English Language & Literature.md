@@ -53,3 +53,12 @@ To challenge our students to deepen their learning, we design opportunities in t
 Various programmes are designed to spark students’ interest in reading as part of the efforts to cultivate their habit to read. The Odd Week Tuesday Article Reading raises students’ awareness of current affairs and provides them with the platforms to apply their knowledge and different skills through reflection and discussions in class. Our EL and Lit subject representatives also lead the way as reading champions, while students are also invited to share their book recommendations to excite others to read.
 
 ### OUR STUDENTS & TEACHERS @ WORK
+
+Debating @ National Schools Literature Festival
+![](/images/EL6.jpg)
+
+Student writers collaborating during a poetry writing workshop
+![](/images/EL1-1.jpg)
+
+GSS English Language
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFmxgaYby_Y?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
