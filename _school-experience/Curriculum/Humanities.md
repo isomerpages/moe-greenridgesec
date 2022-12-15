@@ -41,3 +41,10 @@ Rich learning beyond the classroom takes the form of investigations and Learning
 **Geographical Investigations**  
 
 Students ‘do’ Geography by using various instruments to investigate the environmental elements in various locations. Conducting investigations in the ‘field’ allows students to better visualise and understand the geographical concepts and processes learnt.
+
+![](/images/Hum2.jpg)
+
+**Historical Investigations**  
+
+At the National Museum of Singapore, students investigate historical sources ranging from physical objects, documents and oral histories reflecting different perspectives of our past. Exploring the past helps us appreciate the present and understand our place in the future.
+![](/images/Hum6.jpg)
