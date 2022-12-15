@@ -62,3 +62,7 @@ Student writers collaborating during a poetry writing workshop
 
 GSS English Language
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vFmxgaYby_Y?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+GSS English Literature
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WuWCbIjpYVY?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
