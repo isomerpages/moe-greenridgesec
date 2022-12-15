@@ -54,3 +54,7 @@ Students participate in conferences and  competitions such as the Model ASEAN S
 
 **Greenridge Secondary School NUS geography challenge 2022 creative component video**   
 Designing Blueprints for Our Green Futures
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i20N1l976dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
