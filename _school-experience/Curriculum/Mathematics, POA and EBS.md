@@ -21,19 +21,13 @@ The Mathematics Curriculum aims to enable all students to:
 
 Teachers use a repertoire of pedagogies to engage students in learning new concepts and skills. Three pedagogical approaches form the spine that supports most of the mathematics instruction in the classroom.
 
-  
-
-Activity Based Learning
-
+**Activity Based Learning**    
 Students engage in activities to explore and learn mathematical concepts and skills, individually or in groups.
 
-Teacher-Directed Inquiry
-
+**Teacher-Directed Inquiry**    
 Teachers lead students to explore, investigate and find answers on their own. Students learn to focus on specific questions and ideas and are engaged in communicating, explaining and reflecting on their answers.
 
-Direct Instruction
-
+**Direct Instruction**   
 Teachers introduce, explain and demonstrate new concepts and skills. Teachers draw connections, pose questions, emphasise key concepts, and role-model thinking. 
 
-OUR STUDENTS & TEACHERS @ WORK
-------------------------------
+### OUR STUDENTS & TEACHERS @ WORK
