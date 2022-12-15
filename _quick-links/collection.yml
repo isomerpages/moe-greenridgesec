@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - GSS Parent Connect/GSS Parent Connect.md
       - GSS Parent Connect/.keep
       - Parents/.keep
       - Parents/Parents.md
