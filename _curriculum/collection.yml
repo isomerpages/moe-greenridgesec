@@ -2,12 +2,12 @@ collections:
   curriculum:
     output: true
     order:
-      - Design & Technology.md
-      - Aesthetics.md
-      - Computer Applications (CPA).md
       - Science/.keep
       - Science/Science.md
       - Science/Nutrition & Food Science.md
+      - Design & Technology.md
+      - Aesthetics.md
+      - Computer Applications (CPA).md
       - Physical Education.md
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
