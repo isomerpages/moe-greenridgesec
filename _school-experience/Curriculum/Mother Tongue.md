@@ -60,3 +60,10 @@ Scaffolding Learning
 Our learning process in the key language skills are scaffolded in a progressive manner, with various types of support provided to enhance our students’ learning. The use of Socratic questions, mind-maps, group work, as well as modelling and demonstration enhances thinking as students generate ideas and clarify their thoughts.  The inclusion of real world experiences in the learning activities makes them highly relatable and applicable to the lives of students.
 
 ### OUR STUDENTS & TEACHERS @ WORK
+
+Board games creation
+
+<img src="/images/MT1.png" 
+     style="width:80%">
+
+Batik painting and kueh making workshops
