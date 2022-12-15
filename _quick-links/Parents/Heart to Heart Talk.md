@@ -8,6 +8,10 @@ third_nav_title: Parents
 
 Heart to Heart Talk gets to the heart of difficult issues which we all face when making choices about school and work. Students, their parents, and industry professionals talk frankly about their challenges, hopes and worries as they figure out which education and career paths will help them reach their fullest potential.
 
+
+
+
+
 Heart to Heart Talk Episode 1: Dare to Dream
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oErCODtoqWI?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
