@@ -2,6 +2,7 @@ collections:
   school-experience:
     output: true
     order:
+      - Curriculum/Mathematics, POA and EBS.md
       - Curriculum/Humanities.md
       - Curriculum/Mother Tongue.md
       - Curriculum/Science.md
