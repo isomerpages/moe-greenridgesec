@@ -4,6 +4,29 @@ permalink: /school-experience/curriculum/cce/citizenship-education/values-in-act
 description: ""
 third_nav_title: CCE
 ---
+# **Citizenship Education**
+
+The Citizenship Education Committee has a staff strength of 11 teachers. The department is led by Ms Khairunisa  who is the Subject Head/Citizenship Education. The Citizenship Education Sub-committee in Greenridge Sec also consists of Values in Action (VIA) and Internationalisation.
+
+The CE committee aims to develop and implement programs that develop students to be concerned citizens who are anchored in sound values and exhibit a sense of national identity.  
+
+The Citizenship Education journey starts with the belief that the programs implemented by the committee must bear in mind the head, heart and hands approach so as to holistically develop Greenridgeans to be Gracious and Dynamic citizens who are also active contributors to the community as well as the nation.
+
+Guided by the above goals as well as by MOE’S Character and Citizenship Education Outcomes, the committee plans a variety of programs that will aid in the achievement of our goals. Different platforms and strategies, which take into consideration the diverse learning style and abilities of our students, are implemented. The committee also incorporates timely assessment to monitor students’ progress and to enable us to review our processes and fine tune our programs.
+
+**Programmes organised by Citizenship Education Committee**
+
+*   Assembly Programs and Lesson Packages for Core NE Day Events such as Total Defence Day International Friendship Day
+*   Racial Harmony Day
+*   National Education Ambassador Training Programme.
+*   Citizenship Education Packages for CCE lessons
+*   Overseas Trips, for instance, Service Learning Trip to Cambodia since 2005; Study Trips to China
+*   Hosting of Foreign Visitors
+*   Annual VIA Day
+*   Level VIA Programme
+*   CCA VIA Programme
+
+
 ### **NE Events**
 
 NE Committee organizes four core events annually for students to celebrate and commemorate significant events that happened in Singapore
