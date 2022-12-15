@@ -39,3 +39,27 @@ Please click on the links above to sign up immediately. For more information, pl
 Dear parents, you are invited to participate in the GSS Sports Carnival where you can enjoy a day of fun sporting activities with the GSS family.   Sports Carnival is a school wide event which aims to build school spirit among students and staff through various sports activities. This year we aim to offer a wide range of activities to cater to different interest groups. You could register to take part in the following games, visit any of the fringe activity booths or join us to cheer on our participants.
 
 (YT video is private)
+
+Do register to participate in the following games;  
+  
+**1\. Zoom!**  
+This is an endurance relay race combined with the concept of a vertical marathon, which takes place around the parade square and the administrative block. Each team will be given 20 minutes to complete as many rounds as possible and the team that completes the most number of rounds win the race.   
+**2\. 100 No NGs**  
+Teams consisting of 8-12 players have to successfully complete a sequence of tasks within 100 seconds. Any failed attempt in between will require the team to restart the game from the 1st station.  
+  
+**3\. Key to Success**  
+Players will be paired up and each pair will have their wrists tied together with a paper sash. The goal is to search for the winning item without having the sash broken or torn by ‘chasers’.   It’s a great game to participate with your child.   
+**4\. Sports Games**  
+We will form a combined team of teachers and parents to compete against the students in the various games
+
+*   Basketball: 4 on 4 versus the Sec 1 students
+*   Soccer: 6 on 6 versus the Sec 2 students 
+*   Ultimate Frisbee: 5 on 5 versus the Sec 3 students
+*   Floorball: 5 on 5 versus the Sec 4 students
+*   Handball: 4 on 4 versus the Sec 5 students
+
+  
+
+We will meet at SPARK! room at 715am and then proceed to jon the school for morning assembly and thereafter begin the activities. Please click on the following link to register your interest and we will get in touch with you  [www.tinyurl.com/gss-sc-2017-invite](http://www.tinyurl.com/gss-sc-2017-invite) . 
+
+If you have any further queries please contact our teacher-in-charge of the Sports Carnival, Mr Yoong Kang Chien at 6760 1052 or   [yoong\_kang\_chien@moe.edu.sg](mailto:yoong_kang_chien@moe.edu.sg)
