@@ -123,3 +123,25 @@ He returned to Singapore in 1948 when he joined the Malayan Tribune. In 1954, he
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="3">From the Creative Soundblaster sound card (first mass adopted sound card) to the Trek Technology Thumb Drive (first USB flash drive) to Hyflux water filtration technology and even DeF!ND (voice-recognition assistant application, which recognises Singlish, designed by Singtel to rival Apple’s Siri), products designed by Singaporeans / Singapore-companies have been making waves around the world.</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="http://grss.theemptyrack.com/wp-content/uploads/2013/06/soundblaster.jpg" alt="soundblaster" width="68" height="150"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="http://grss.theemptyrack.com/wp-content/uploads/2013/06/thumbdrive.jpg" alt="First ever thumbdrive" width="68" height="150"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="http://grss.theemptyrack.com/wp-content/uploads/2013/06/defind.jpg" alt="A rival to Siri" width="68" height="17"></td></tr></tbody></table>
+
+
+**Reflection Questions**
+
+(1) How can I be creative to think of new inventions?     
+(2) What future product would you like to see that would improve our lives?
+
+**Possible Jobs**
+
+*   Research Engineers
+*   Software Engineers
+*   Engineers
+*   Software Programmers
+*   Game Programmers
+
+**Links**
+
+* [www.ecareer.sg](http://www.ecareer.sg/)
+* [http://app.www.sg/who/204/Technology-and-Innovation.aspx](http://app.www.sg/who/204/Technology-and-Innovation.aspx)
+* [http://www.cnngo.com/singapore/shop/5-best-tech-inventions-singapore-rocked-our-world-423291](http://www.cnngo.com/singapore/shop/5-best-tech-inventions-singapore-rocked-our-world-423291)
+* [http://news.cnet.com/8301-27076\_3-20127169-248/singlish-speaking-siri-rival-seen-in-singapore/](http://news.cnet.com/8301-27076_3-20127169-248/singlish-speaking-siri-rival-seen-in-singapore/)
+* [http://www.gamasutra.com/view/pressreleases/79141/30\_New\_Singaporemade\_Games\_Coming\_Your\_Way.php](http://www.gamasutra.com/view/pressreleases/79141/30_New_Singaporemade_Games_Coming_Your_Way.php)
