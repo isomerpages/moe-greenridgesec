@@ -31,4 +31,7 @@ Music students attend music workshops such as percussion, beatboxing and dikir b
      style="width:75%">
 <img src="/images/Aes15.jpg" 
      style="width:75%">
+		 
+Students can pursue their interest in Art beyond the classrooms, through participating in interest groups. The Ceramics Interest Group is for students who want to learn more about how to use clays to create artworks. The Docents Interest Group takes charge of sharing artworks with visitors during the school exhibitions. They study the artworks and share the artists’ stories with their audience.  
 
+The Ceramics Interest Group with their artwork displayed at an exhibition at the Tampines Regional Library in 2018
