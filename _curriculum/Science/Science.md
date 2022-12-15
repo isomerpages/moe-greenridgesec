@@ -105,10 +105,15 @@ This exposure gave students an opportunity to see what biologists and geographer
 
 ### Science Videos
 
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6YvOe9ZUMlM?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<b>Interview with Lower Sec Science Students on General Science- Matthew Khor</b>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UJPEHoMJd8A?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<b>NYP E  science and tech challenge Video of rescue Robot 1</b>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iZ50uM5N_Mw?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<b>Sivaraman Sriram from Secondary One, a participant for Science Buskers’ (Virtual) Festival 2020, demonstrates hot air rising. The hot air will rise it pushes the slightly bent holes on the top of the lampshade causing it to rotate.</b>
