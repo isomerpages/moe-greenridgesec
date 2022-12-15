@@ -52,4 +52,20 @@ Initiated by a team of CW Student Ambassadors, the GSS Cyberheroes Roadshow was 
 
 ![](/images/cyberwellness03.jpg)
 
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NyeDs4KsZD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+**2.     Cyber Wellness Student Ambassadors Training**
+
+Our Cyber Wellness Student Ambassadors serve as active student voices and cascade key CW messages at class and at school level, and support and positively influence their peers in navigating the cyber world responsibly. The school provides training and opportunities for CW Student Ambassadors to champion school-wide CW outreach efforts. Our CW Student Ambassadors have engaged their classmates during CCE lessons through presentations and classroom discussions on CW topics. They have also presented on CW issues during morning assembly sharing sessions, organised a roadshow to reinforce CW messages and have even engaged parents by creating an app on SG ConneXion to share parenting tips that can be adopted when teenagers use social media platforms such as Twitter & Snapchat.
+
+**3.     Parenting Seminars**
+
+A parenting seminar, “Enabling and Helping Our Children Overcome the New World Danger” was conducted on 29 July 2017. The speaker shared real life cyberbullying case studies and brought about awareness of the severity and impact of cyberbullying. Parents were also given tips on how they can help children and youths should they be involved in cyberbullying or know someone who is.
+
+Our CW Student Ambassadors also shared on the SG ConneXion app to parents during the seminar. They engaged parents through a slide presentation, quiz, video and hands-on learning
