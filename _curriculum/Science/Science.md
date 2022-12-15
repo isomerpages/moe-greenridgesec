@@ -100,6 +100,8 @@ This exposure gave students an opportunity to see what biologists and geographer
 “My team presented the concept of painting with acids and bases during the Science Carnival in 2018 to Sec 1 students. It was amazing that such a simple science concept can interest others. Through such platforms, it inspired me to participate in the Science Buskers’ Competition in 2019 and represented the school in the finals.”  
 – **Sng Jia Hao**, 4/4’2020
 
-“I had a great time doing the science experiments for the Survival Island Project. It was interesting and engaging and it made me understand the science concepts better.”
-
+“I had a great time doing the science experiments for the Survival Island Project. It was interesting and engaging and it made me understand the science concepts better.”    
 – **Ang Wei Jun**’s reflection on Survival Island Project, 1/7’2020
+
+### Science Videos
+
