@@ -49,3 +49,7 @@ The school plans and implements a holistic CW education which comprises a) the C
 **1.     Cyber Wellness Roadshow**
 
 Initiated by a team of CW Student Ambassadors, the GSS Cyberheroes Roadshow was held over 3 days during Cyber Wellness Week. There were different stations consisting of static and interactive displays, games and photo booths for students to reinforce CW messages taught during CCE lessons and to promote the SG ConneXion app. The SG ConneXion app contains a digitized collection of Cyber Wellness resources created for parents to provide them with an insight on the CW issues that students face today through the voices of youths themselves as well as parenting tips on how to guide your children through the age of digital
+
+![](/images/cyberwellness03.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NyeDs4KsZD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
