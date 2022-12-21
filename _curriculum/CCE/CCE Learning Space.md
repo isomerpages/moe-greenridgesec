@@ -94,6 +94,21 @@ These individuals will also act as role models for the values that we want every
 	<ol><li>What are the four main pillars of aerospace industry in Singapore?</li><li>What is MRO?</li><li>Name three major aerospace engineering companies in Singapore.</li></ol>
 	<p><b>Links</b></p>
 	<ul><li><a href="http://www.edb.gov.sg/edb/sg/en_uk/index/industry_sectors/Aerospace_Engineering.html">http://www.edb.gov.sg/edb/sg/en_uk/index/industry_sectors/Aerospace_Engineering.html</a></li><li><a href="http://www.aviationcentennial.sg/Home.aspx">http://www.aviationcentennial.sg/Home.aspx</a></li><li><a href="http://www.staero.aero/">http://www.staero.aero/</a></li><li><a href="http://www.siaec.com.sg/">http://www.siaec.com.sg/</a></li><li><a href="http://www.saesl.com.sg/">http://www.saesl.com.sg/</a></li><li><a href="http://www.aais.org.sg/">http://www.aais.org.sg/</a></li></ul>
+<p><b>Photographs - photos not found</b></p>
+		<p>Future Industries Aerospace 1 (Image)<br>ST Aerospace offers a full range of aerospace services ranging from MRO, manufacturing to research.</p>
+		<p>Future Industries Aerospace 2 (Image)<br>Engine strip in SAESL</p>
+		<p>Future Industries Aerospace 3 (Image)<br>Proposed aerospace hub in Seletar, which will be operational by 2018.</p>
+		<p>Future Industries Aerospace 4 (Image)<br>Singapore Air Force is the largest driver for military aerospace spending in Singapore. In addition, other countries also look to Singapore based companies such as ST Aerospace for defence needs.</p>
+	<p>Future Industries Aerospace 5 (Image)<br>With booming air travel in full swing, demand for passenger air travel is expected to increase for local airlines such as Singapore Airlines.</p>
+    </div>
+  </li>
+	  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Multi-line Block</label>
+    <div>
+      <p>This is line 1</p>
+      <p>This is line 2<br>
+        This is line 3</p>
     </div>
   </li>
 		</ul>
