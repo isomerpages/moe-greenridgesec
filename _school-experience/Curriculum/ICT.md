@@ -53,4 +53,8 @@ Teachers consider the following while planning:
 *   Monitor and Provide Feedback
 	*   _How can students’ learning be advanced?_
 
+### Cyberwellness
+
+Click [here](/school-experience/curriculum/ict/cyber-wellness/) for more information
+
 ![](/images/ICT5.png)
