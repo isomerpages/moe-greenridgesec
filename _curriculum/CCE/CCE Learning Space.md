@@ -77,4 +77,16 @@ These individuals will also act as role models for the values that we want every
 	<ul><li><a href="www.ecareer.sg">www.ecareer.sg</a></li><li><a href="http://app.www.sg/who/204/Technology-and-Innovation.aspx">http://app.www.sg/who/204/Technology-and-Innovation.aspx</a></li><li><a href="http://www.cnngo.com/singapore/shop/5-best-tech-inventions-singapore-rocked-our-world-423291">http://www.cnngo.com/singapore/shop/5-best-tech-inventions-singapore-rocked-our-world-423291</a></li><li><a href="http://news.cnet.com/8301-27076\_3-20127169-248/singlish-speaking-siri-rival-seen-in-singapore/">http://news.cnet.com/8301-27076\_3-20127169-248/singlish-speaking-siri-rival-seen-in-singapore/</a></li><li><a href="http://www.gamasutra.com/view/pressreleases/79141/30\_New\_Singaporemade\_Games\_Coming\_Your\_Way.php">http://www.gamasutra.com/view/pressreleases/79141/30\_New\_Singaporemade\_Games\_Coming\_Your\_Way.php</a></li></ul>
     </div>
   </li>
+	  <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Aerospace</label>
+    <div>
+			<p><h3>Aerospace</h3></p>
+	<p><b>Background</b></p>
+			<ul><li> Singapore’s aerospace industry is booming as a result of strong air travel demands in the Asia Pacific region which is forecasted to grow at around 7% till 2020. Beyond the needs of airline operators such as SIA and the booming budget airline industry, as well as Singapore Armed Forces, Singapore’s aerospace industry is largely driven by MRO (maintenance, repair and overhaul), manufacturing, research and training.</li>
+			<li>Singapore’s positioning as a hub for MRO services translates into great opportunities for this lucrative market, which is currently valued at around US$9 million and plans are already underway in the form of Seletar Aerospace Park which will integrate and attract even more aerospace companies.</li><li>As a result, Singapore needs highly skilled manpower to power the lucrative aviation industry, which is technology driven. The key business in Singapore aviation industry is maintenance, repair and overhaul, largely powered by companies such as SAESL, Rolls Royce, Turbine Overhaul Services, SIA Engineering Company and Singapore Technologies Aerospace. Singapore is also home to manufacturing OEMs and suppliers in engine parts, power systems and cabin retrofitting.</li><li>As the aviation industry grows, there is also a stronger demand for aviation related training in Singapore, with companies such as Boeing and Embraer launching their training and flight services centres for pilots, cabin crew and mechanics in Singapore.</li><li>Aerospace R&D is also growing in collaboration with Boeing, EADS, Rolls Royce, Thales, Pratt and Whitney, General Electric. These companies leverage on the availability of talent in Singapore to develop technology on advanced materials, repair technologies and maintenance know-how to power their aircraft in this cost-competitive industry.</li></ul>
+      <p>This is line 2<br>
+        This is line 3</p>
+    </div>
+  </li>
 		</ul>
