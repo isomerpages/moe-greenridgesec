@@ -11,3 +11,4 @@ third_nav_title: "2022"
 Where to after secondary school? With the Applied Learning Modules @ ITE, Greenridgeans would be able to make more informed choices! This programme provides students with hands-on, practical-based lessons conducted at the Institute of Technical Education (ITE) Colleges over 3 days. Our Greenridgeans got an exciting glimpse of ITE’s range of full time courses as they dabbled in various fields such as animation, digital illustration, beauty artistry and logistics operations.  
   
 Check out their eventful experience!
+![](/images/alm.jpg)
