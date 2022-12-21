@@ -58,3 +58,11 @@ The Education and Career Guidance (ECG) Programme supports our students in achie
 It takes a village to raise a child to be a citizen of good character who is  resilient and demonstrates strong socio-emotional skill. With a strong partnership between home, school and community, we  can work together to develop Greenridgeans as a caring community of inspired learners.
 
 ![](/images/CCE6.jpg)
+
+### Our CCE Programmes
+
+1. [Student Development](/school-experience/curriculum/cce/student-development/)
+2. [Citizenship Education](/school-experience/curriculum/cce/citizenship-education/values-in-action/)
+3. [CCE Learning Space](/school-experience/curriculum/cce/cce-learning-space/)
+4. [Cyberwellness](/school-experience/curriculum/cce/cyber-wellness/)
+5. [Guidance Programme](/school-experience/curriculum/character-n-citizenship-education/guidance-programme/)
