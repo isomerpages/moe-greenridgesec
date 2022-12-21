@@ -16,3 +16,7 @@ The celebrations kicked off with the long-awaited parade, a dignified march-in s
 ![](/images/2xx.jpg)
 
 ![](/images/ndp1.jpg)
+
+Next, our Greenridgeans engaged in various class activities that fostered a sense of belonging and gratitude to our nation. The celebrations ended off with a joyous concert segment, embodying the theme for this year’s National Day, ‘Stronger Together, Majulah’.
+
+![](/images/ndp2.jpg)
