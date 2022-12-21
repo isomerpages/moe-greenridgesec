@@ -35,6 +35,8 @@ In particular, GSS adopts the 5E Inquiry Approach (Engage, Explore, Explain, Ela
 
 ### Our Students & Teachers @ Work
 
+**[Nutrition & Food Science](/school-experience/curriculum/science/nutrition-n-food-science/)**
+
 **Greenridge Math & Science Challenge 2020**
 
 GSS staff and students organized the Greenridge Math & Science Challenge for the primary schools in the West Cluster, to be engaged in an application of mathematics and sciences in various rounds of games and model-making.
