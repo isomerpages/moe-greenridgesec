@@ -92,6 +92,8 @@ These individuals will also act as role models for the values that we want every
 	<ul><li>Which area of the aerospace industry in Singapore are you interested in?</li></ul>
 	<p><b>Quiz Questions</b></p>
 	<ol><li>What are the four main pillars of aerospace industry in Singapore?</li><li>What is MRO?</li><li>Name three major aerospace engineering companies in Singapore.</li></ol>
+	<p><b>Links</b></p>
+	<ul><li><a href="www.ecareer.sg">www.ecareer.sg</a></li><li><a href="http://app.www.sg/who/204/Technology-and-Innovation.aspx">http://app.www.sg/who/204/Technology-and-Innovation.aspx</a></li><li><a href="http://www.cnngo.com/singapore/shop/5-best-tech-inventions-singapore-rocked-our-world-423291">http://www.cnngo.com/singapore/shop/5-best-tech-inventions-singapore-rocked-our-world-423291</a></li><li><a href="http://news.cnet.com/8301-27076\_3-20127169-248/singlish-speaking-siri-rival-seen-in-singapore/">http://news.cnet.com/8301-27076\_3-20127169-248/singlish-speaking-siri-rival-seen-in-singapore/</a></li><li><a href="http://www.gamasutra.com/view/pressreleases/79141/30\_New\_Singaporemade\_Games\_Coming\_Your\_Way.php">http://www.gamasutra.com/view/pressreleases/79141/30\_New\_Singaporemade\_Games\_Coming\_Your\_Way.php</a></li></ul>
     </div>
   </li>
 		</ul>
