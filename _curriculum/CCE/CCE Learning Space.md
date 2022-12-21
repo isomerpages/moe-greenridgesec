@@ -73,17 +73,8 @@ These individuals will also act as role models for the values that we want every
 	<ol><li>How can I be creative to think of new inventions?</li><li>What future product would you like to see that would improve our lives?</li></ol>
 	<p><b>Possible Jobs</b></p>
 	<ul><li>Research Engineers</li><li>Software Engineers</li><li>Engineers</li><li> Software Programmers</li><li>Game Programmers</li></ul>
+	<p><b>Links</b></p>
+	<ul><li><a href="www.ecareer.sg">www.ecareer.sg</a></li><li><a href="http://app.www.sg/who/204/Technology-and-Innovation.aspx">http://app.www.sg/who/204/Technology-and-Innovation.aspx</a></li><li><a href="http://www.cnngo.com/singapore/shop/5-best-tech-inventions-singapore-rocked-our-world-423291">http://www.cnngo.com/singapore/shop/5-best-tech-inventions-singapore-rocked-our-world-423291</a></li><li><a href="http://news.cnet.com/8301-27076\_3-20127169-248/singlish-speaking-siri-rival-seen-in-singapore/">http://news.cnet.com/8301-27076\_3-20127169-248/singlish-speaking-siri-rival-seen-in-singapore/</a></li><li><a href="http://www.gamasutra.com/view/pressreleases/79141/30\_New\_Singaporemade\_Games\_Coming\_Your\_Way.php">http://www.gamasutra.com/view/pressreleases/79141/30\_New\_Singaporemade\_Games\_Coming\_Your\_Way.php</a></li></ul>
     </div>
   </li>
 		</ul>
-
-
-
-
-**Links**
-
-* [www.ecareer.sg](http://www.ecareer.sg/)
-* [http://app.www.sg/who/204/Technology-and-Innovation.aspx](http://app.www.sg/who/204/Technology-and-Innovation.aspx)
-* [http://www.cnngo.com/singapore/shop/5-best-tech-inventions-singapore-rocked-our-world-423291](http://www.cnngo.com/singapore/shop/5-best-tech-inventions-singapore-rocked-our-world-423291)
-* [http://news.cnet.com/8301-27076\_3-20127169-248/singlish-speaking-siri-rival-seen-in-singapore/](http://news.cnet.com/8301-27076_3-20127169-248/singlish-speaking-siri-rival-seen-in-singapore/)
-* [http://www.gamasutra.com/view/pressreleases/79141/30\_New\_Singaporemade\_Games\_Coming\_Your\_Way.php](http://www.gamasutra.com/view/pressreleases/79141/30_New_Singaporemade_Games_Coming_Your_Way.php)
