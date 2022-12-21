@@ -8,9 +8,9 @@ links:
     url: /achievements
   - title: Admission
     collection: admission
-  - title: curriculum
-    collection: curriculum
   - title: Contact Us
     url: /contact-us/
   - title: Others
     collection: others
+  - title: Calendar
+    url: /Calendar
