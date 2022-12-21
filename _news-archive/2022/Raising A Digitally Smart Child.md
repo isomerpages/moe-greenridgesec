@@ -11,3 +11,5 @@ Living in a digital world has transformed the way we live, parent, work, and pla
 We share 5 tips from MOE’s latest issue of Parent Kit for you!
 
 ### Tip 1
+
+![](/images/Parent%20Kit%20Raising%20A%20Digitally%20Smart%20Child_Page_2.jpg)
