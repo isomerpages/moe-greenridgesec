@@ -12,7 +12,7 @@ permalink: /faq/
   
  **2\. Does the school offer DSA opportunities? If so what are the DSA opportunities offered to P6 students?**  
   
- Yes the school does offer DSA for two of our distinguished programmes. The school takes in DSA for our Learning for Life program \[LLP\] and Applied Learning Program \[ALP\]. Please click [here](https://greenridgesec.moe.edu.sg/admission/dsa) for more information.  
+ Yes the school does offer DSA for two of our distinguished programmes. The school takes in DSA for our Learning for Life program \[LLP\] and Applied Learning Program \[ALP\]. Please click [here](/admission/dsa/) for more information.  
   
   
 **3\. How do I get to the school?**
