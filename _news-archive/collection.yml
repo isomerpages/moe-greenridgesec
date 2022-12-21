@@ -2,6 +2,7 @@ collections:
   news-archive:
     output: true
     order:
+      - 2022/Racial Harmony Day.md
       - 2022/Budding Artistes Programme.md
       - 2022/National Day Celebration.md
       - 2022/Release of GCE N Level Results 2022.md
