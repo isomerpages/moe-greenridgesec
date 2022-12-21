@@ -46,21 +46,20 @@ These individuals will also act as role models for the values that we want every
     </div>
 	</li>
 	</ul>
+	  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">S. Rajaratnam</label>
+    <div>
+			<p><h3>S. Rajaratnam</h3></p>
+	<p><b>Reflection</b></p>
+				<ul><li>Draw similarities between yourself and S. Rajaratnam.</li><li>How can you emulate S. Rajaratnam?</li></ul>
+		<p><b>Thinking Questions</b></p>
+				<ul><li>What contributions did S. Rajaratnam make to Singapore?</li><li>What was Mr. Rajaratnam’s contribution to the PAP’s collective leadership and to the governance of Singapore?</li><li>What can we learn from the stories written by S. Rajaratnam?</li></ul>
+    </div>
+  </li>
 
 
 
-### **S. Rajaratnam**
-
-**Reflection**
-
-*   Draw similarities between yourself and S. Rajaratnam.
-*   How can you emulate S. Rajaratnam?
-
-**Thinking Questions**
-
-*   What contributions did S. Rajaratnam make to Singapore?
-*   What was Mr. Rajaratnam’s contribution to the PAP’s collective leadership and to the governance of Singapore?
-*   What can we learn from the stories written by S. Rajaratnam?
 
  **Links to more info**
 
