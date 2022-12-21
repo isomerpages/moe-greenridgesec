@@ -2,6 +2,7 @@ collections:
   news-archive:
     output: true
     order:
+      - 2022/Raising A Digitally Smart Child.md
       - 2022/Learning for Life Programme (LLP) – My Greenridge Story.md
       - 2022/ALP VIA Project 2022.md
       - 2022/Sports Carnival 2022.md
