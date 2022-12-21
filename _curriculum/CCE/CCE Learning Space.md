@@ -135,4 +135,18 @@ These individuals will also act as role models for the values that we want every
 	<p>C Kunalan (images)<br>C Kunalan’s primary three class photo in 1951. Kunalan, who was from Pasir Panjang English School, is the boy standing between the principal and teacher wearing a floral cheongsam.</p>
     </div>
   </li>
+	<li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">Bobby Jones</label>
+    <div>
+			<p><h3>Bobby Jones</h3></p>
+	<p><b>Reflection</b></p>
+				<ul><li>Have you demonstrated any of the qualities that Bobby Jones had?</li><li>What can you learn from Bobby Jones?</li></ul>
+		<p><b>Quiz Questions</b></p>
+				<ol><li>At what age did Bobby Jones become the junior club champion?</li><li>How many championships did he win in his professional career? List them.</li><li>What made Bobby Jones a special golfer?</li><li>What are the 4 tournaments that make up the Golf Grand Slam?</li><li>At what age and year did Bobby Jones die? What did he suffer from?</li></ol>
+	<p><b>Links to more info</b></p>
+		<ul><li><a href="http://www.spp.nus.edu.sg/ips/docs/pub/pa\_tk\_Tribute%20to%20S%20Rajaratnam\_220206.pdf">http://www.spp.nus.edu.sg/ips/docs/pub/pa\_tk\_Tribute%20to%20S%20Rajaratnam\_220206.pdf</a></li><li><a href="http://infopedia.nl.sg/articles/SIP\_644\_2005-01-10.html">http://infopedia.nl.sg/articles/SIP\_644\_2005-01-10.html</a></li><li><a href="http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/">http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/</a></li><li><a href="http://www.viweb.freehosting.net/vilit\_SRaja.htm">http://www.viweb.freehosting.net/vilit\_SRaja.htm</a></li><li><a href="http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/">http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/</a></li><li><a href="http://www.singapore-window.org/sw06/060225cn.htm">http://www.singapore-window.org/sw06/060225cn.htm</a></li></ul>
+	<p><b>More Facts</b><br>He is regarded as one of the founding fathers of independent Singapore as it achieved self-government in 1959 and later independence in 1965. He devoted much of his adult life to public service, and helped shape the mentality of Singaporeans on contemporary issues. One of the schools of Nanyang Technological University, is named the S. Rajaratnam School of International Studies in honour of him, as is a 7-storey S. Rajaratnam block at Raffles Institution.<br><br>Rajaratnam studied in, St Paul’s boys’ school, Victoria Institution in Kuala Lumpur, and later in Raffles Institution in Singapore. In 1937, he went to King’s College London to pursue a law degree. However, due to World War II, he was unable to receive funding from his family to continue his studies; instead, he turned to journalism to earn a living. He met his wife Piroska Feher, a Hungarian teacher while in London.<br><br>He returned to Singapore in 1948 when he joined the Malayan Tribune. In 1954, he joined _The Straits Times_ as a journalist. He was bold in writing about the way Singapore was governed by the British. This incurred the displeasure of the colonial government. His column, “I write as I please”, attracted so much attention that he was called for questioning by the government.</p>
+    </div>
+  </li>
 		</ul>
