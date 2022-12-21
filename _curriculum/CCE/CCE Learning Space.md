@@ -123,8 +123,8 @@ These individuals will also act as role models for the values that we want every
 			<p><h3>C Kunalan</h3></p>
 			<p><b>Reflection</b></p>
 		<ul><li>Do you have any personal target that you aspire to? How much effort have you put into meeting that personal target?</li></ul>
-		<p><b>Reflection</b></p>
-		<ul><li>In total, Singapore has approximately 170 hotels that provide their service to the tourism industry which is also part of the service industry.</li><li>In the 1990s, Singapore reinvented itself as Asia’s convention city. In 1996, our country hosted 4,795 international and regional conventions with more than 426,000 foreign participants. According to the Union des Associations Internationales, Singapore ranks seventh among the world’s major convention cities.</li><li>In 2011, the government announced an S$84 million investment in an initiative to make our tourism industry more customer-centric.</li></ul>
+		<p><b>Quiz Questions</b></p>
+		<ol><li>Why do you think Singapore honours our athletes for their achievements?</li></ol>
 	<p><b>Links to more info</b></p>
 		<ul><li>List of Service Jobs: <a href="http://job-search.jobstreet.com.sg/singapore/customer-service-jobs/">http://job-search.jobstreet.com.sg/singapore/customer-service-jobs/</a></li><li>Singapore Service Star: <a href="http://www.servicestar.com.sg">http://www.servicestar.com.sg</a></li></ul>
     </div>
