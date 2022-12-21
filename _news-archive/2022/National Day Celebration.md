@@ -14,3 +14,5 @@ Greenridge Secondary School rose to the occasion and honoured Singapore’s birt
 The celebrations kicked off with the long-awaited parade, a dignified march-in segment presented by our dedicated Uniformed Groups and Concert Band.
 
 ![](/images/2xx.jpg)
+
+![](/images/ndp1.jpg)
