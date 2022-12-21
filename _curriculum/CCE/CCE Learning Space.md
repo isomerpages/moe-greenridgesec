@@ -126,7 +126,7 @@ These individuals will also act as role models for the values that we want every
 		<p><b>Quiz Questions</b></p>
 		<ol><li>Why do you think Singapore honours our athletes for their achievements?</li></ol>
 	<p><b>Links to more info</b></p>
-		<ul><li>List of Service Jobs: <a href="http://job-search.jobstreet.com.sg/singapore/customer-service-jobs/">http://job-search.jobstreet.com.sg/singapore/customer-service-jobs/</a></li><li>Singapore Service Star: <a href="http://www.servicestar.com.sg">http://www.servicestar.com.sg</a></li></ul>
+		<ul><li><a href="https://www.snoc.org.sg/p_canagasabai_kunalan.php">Singapore National Olympics Council</a></li><li><a href="http://www.sportsmuseum.com.sg/heroes/hall_of_fame/c_kunalan.html">SCC Sports Museum</a> link not found</li></ul>
     </div>
   </li>
 		</ul>
