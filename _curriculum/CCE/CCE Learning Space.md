@@ -27,36 +27,16 @@ These individuals will also act as role models for the values that we want every
 			<p><h3>Yusof Bin Ishak</h3></p>
 		<p><b>Reflection</b></p>
 		<ul><li>Have you demonstrated any of the qualities that Yusof Ishak had?</li><li>How can you try to emulate Yusof Ishak?</li></ul>
+		<p><b>Quiz Questions</b></p>
+		<ol><li>What achievements did he earn as a member of the National Cadet Corp?</li><li> Which magazine did Yusof Ishak first work for when he started his career as a journalist?</li><li>What happened to the Utusan Melayu during the Japanese Occupation?</li><li>Why did Yusof bin Ishak resigned from the newspaper in 1959?</li><li>He became the chancellor of which University in 1965?</li></ol>
+		<p>Answers can be found later in the page</p>
+		<p><b>Links to more info</b></p>
+		<ul><li><a href="http://www.a2o.com.sg/a2o/public/html/etc/09\_PuanNoorAishah.htm">http://www.a2o.com.sg/a2o/public/html/etc/09\_PuanNoorAishah.htm</a></li><li><a href="http://infopedia.nl.sg/articles/SIP\_1097\_2006-07-28.html">http://infopedia.nl.sg/articles/SIP\_1097\_2006-07-28.html</a></li><li><a href="http://www.polymernotes.org/biographies/SGP\_bio\_binishak.htm">http://www.polymernotes.org/biographies/SGP\_bio\_binishak.htm</a></li><li><a href="http://picas.nhb.gov.sg/picas/public/internetSearch/advancedSearch.jsp?thesaurusFlag=Y&simpleSearch=yusof+bin+ishak&photographOption=1&Submit=Submit&pageNumber=50&total=864">http://picas.nhb.gov.sg/picas/public/internetSearch/advancedSearch.jsp?thesaurusFlag=Y&simpleSearch=yusof+bin+ishak&photographOption=1&Submit=Submit&pageNumber=50&total=864</a></li></ul>
     </div>
 	</li>
+	</ul>
 
 
-
-**Reflection**
-
-*   Have you demonstrated any of the qualities that Yusof Ishak had?
-*   How can you try to emulate Yusof Ishak?
-
-**Quiz Questions**
-
-(1)  What achievements did he earn as a member of the National Cadet Corp?
-
-(2)  Which magazine did Yusof Ishak first work for when he started his career as a journalist?
-
-(3)  What happened to the Utusan Melayu during the Japanese Occupation?
-
-(4)  Why did Yusof bin Ishak resigned from the newspaper in 1959?
-
-(5)  He became the chancellor of which University in 1965?
-
-Answers can be found later in the page
-
- **Links to more info**
-
-*   [http://www.a2o.com.sg/a2o/public/html/etc/09\_PuanNoorAishah.htm](http://www.a2o.com.sg/a2o/public/html/etc/09_PuanNoorAishah.htm)
-*   [http://infopedia.nl.sg/articles/SIP\_1097\_2006-07-28.html](http://infopedia.nl.sg/articles/SIP_1097_2006-07-28.html)
-*   [http://www.polymernotes.org/biographies/SGP\_bio\_binishak.htm](http://www.polymernotes.org/biographies/SGP_bio_binishak.htm)
-*   [http://picas.nhb.gov.sg/picas/public/internetSearch/advancedSearch.jsp?thesaurusFlag=Y&simpleSearch=yusof+bin+ishak&photographOption=1&Submit=Submit&pageNumber=50&total=864](http://picas.nhb.gov.sg/picas/public/internetSearch/advancedSearch.jsp?thesaurusFlag=Y&simpleSearch=yusof+bin+ishak&photographOption=1&Submit=Submit&pageNumber=50&total=864)
 
 **More interesting facts**
 
