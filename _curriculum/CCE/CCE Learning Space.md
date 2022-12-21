@@ -126,7 +126,7 @@ These individuals will also act as role models for the values that we want every
 		<p><b>Quiz Questions</b></p>
 		<ol><li>Why do you think Singapore honours our athletes for their achievements?</li></ol>
 	<p><b>Links to more info</b></p>
-		<ul><li><a href="https://www.snoc.org.sg/p_canagasabai_kunalan.php">Singapore National Olympics Council</a></li><li><a href="http://www.sportsmuseum.com.sg/heroes/hall_of_fame/c_kunalan.html">SCC Sports Museum</a> link not found</li></ul>
+		<ul><li><a href="https://www.snoc.org.sg/p_canagasabai_kunalan.php">Singapore National Olympics Council</a> link not found</li><li><a href="http://www.sportsmuseum.com.sg/heroes/hall_of_fame/c_kunalan.html">SCC Sports Museum</a> link not found</li><li><a href="http://www.singaporeathletics.com/singapore-videos/c-kunalan">Singapore Athletics</a> link not found</li><li><a href="http://www.sportsmuseum.com.sg/heroes/hall_of_fame/tan_howe_liang.html">http://www.sportsmuseum.com.sg/heroes/hall_of_fame/tan_howe_liang.html</a> link not found</li></ul>
     </div>
   </li>
 		</ul>
