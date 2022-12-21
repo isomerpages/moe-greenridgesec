@@ -12,3 +12,4 @@ Where to after secondary school? With the Applied Learning Modules @ ITE, Greenr
   
 Check out their eventful experience!
 ![](/images/alm.jpg)
+![](/images/alm1.jpg)
