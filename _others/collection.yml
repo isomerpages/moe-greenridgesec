@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - News Archive/.keep
       - Partners.md
       - Parents/.keep
       - Parents/Parents.md
