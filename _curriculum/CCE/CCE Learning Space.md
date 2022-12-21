@@ -149,6 +149,12 @@ These individuals will also act as role models for the values that we want every
 	<p><b>More interesting facts</b></p>
 	<ul><li>Jones was an average-size man, standing 5’8" tall and weighing about 165 pounds at the height of his golfing career. He had a clean-cut, boyish manner that made him the favourite of golfing fans.</li>
 		<li>The putter that Bobby Jones used throughout much of his career was nicknamed "Calamity Jane."</li></ul>
+	<p><b>Photographs - photos not found</b></p>
+		<p>Bobby Jones 1 (Image)<br>The young Bobby Jones. (Taken from <a href=" http://golf.about.com/od/golfersmen/p/bobby\_jones.htm"> http://golf.about.com/od/golfersmen/p/bobby\_jones.htm</a>)</p>
+		<p>Bobby Jones 2 (Image)<br>Engine strip in SAESL</p>
+		<p>Bobby Jones 3 (Image)<br>Proposed aerospace hub in Seletar, which will be operational by 2018.</p>
+		<p>Bobby Jones 4 (Image)<br>Singapore Air Force is the largest driver for military aerospace spending in Singapore. In addition, other countries also look to Singapore based companies such as ST Aerospace for defence needs.</p>
+	<p>Future Industries Aerospace 5 (Image)<br>With booming air travel in full swing, demand for passenger air travel is expected to increase for local airlines such as Singapore Airlines.</p>
     </div>
   </li>
 		</ul>
