@@ -13,7 +13,7 @@ We invite you to apply for **Direct School Admission (DSA)** to **Sec 1 (2023
 
 On 7 Apr 2021, it was announced that Greenridge Secondary School will be merging with Fajar Secondary School in 2023. With the merger, we are able to offer a wide range of educational programmes to cater to our students’ strengths and interests. For our 2023 Sec 1s, we offer the following talent areas:
 
-*   [Leadership and Character](https://fajarsec.moe.edu.sg/signature-programmes/learning-for-life-programme-llp) - why farjar sec website?
+*   [Leadership and Character](https://fajarsec.moe.edu.sg/signature-programmes/learning-for-life-programme-llp) - farjar sec website(?)
 *   [Debating and Public Speaking](https://greenridgesec.moe.edu.sg/others/e-open-house/gss-distinctive-programmes/greenridge-applied-learning-programme-alp-in-the-languages) - replace website
 *   [Chinese Language](https://greenridgesec.moe.edu.sg/others/e-open-house/gss-total-curriculum/curriculum/mother-tongue-languages) - replace website
 *   [Malay Language](https://greenridgesec.moe.edu.sg/others/e-open-house/gss-total-curriculum/curriculum/mother-tongue-languages) - replace website
