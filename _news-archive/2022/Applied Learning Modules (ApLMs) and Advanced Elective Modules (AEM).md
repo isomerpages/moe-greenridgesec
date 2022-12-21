@@ -13,3 +13,10 @@ Where to after secondary school? With the Applied Learning Modules @ ITE, Greenr
 Check out their eventful experience!
 ![](/images/alm.jpg)
 ![](/images/alm1.jpg)
+![](/images/Sec%203%20ITE%20Experience%203.jpg)
+
+### Advanced Elective Modules
+
+Welcome to polytechnic life! Our Secondary 3 Express and Normal (Academic) Greenridgeans had the once-in-a-lifetime opportunity to immerse themselves in Applied Learning Modules (ApLMs) and Advanced Elective Modules (AEM) in Ngee Ann Polytechnic and Singapore Polytechnic respectively.  
+  
+Our students actively engaged in authentic lessons conducted by the lecturers and industry practitioners, enriching their knowledge of several applied areas like creative modelling and entrepreneurship. Apart from acquiring new cutting-edge skills, Greenridgeans also developed more awareness about their individual interests and strengths, preparing them for their post-secondary journey.
