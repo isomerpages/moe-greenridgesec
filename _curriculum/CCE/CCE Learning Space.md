@@ -69,28 +69,16 @@ These individuals will also act as role models for the values that we want every
 			<li>Singapore is also one of the top 10 countries registering inventions overseas.</li><li>Innovation and Technology is about improving existing products or inventing new ones to bring convenience to our life. Research and Development is a tertiary industry which emphasises knowledge and creativity over labour. This is suitable for Singapore which has a small population. The Singapore government has thus been encouraging Research and Development by setting up Research Centres of Excellence in our universities, providing billions of dollars in the National Research Fund and also, forming resource centres such as the Games Solution Centre to help small companies develop their products.</li></ul>
 			<p><b>Interesting Facts</b><br>
         <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="3">From the Creative Soundblaster sound card (first mass adopted sound card) to the Trek Technology Thumb Drive (first USB flash drive) to Hyflux water filtration technology and even DeF!ND (voice-recognition assistant application, which recognises Singlish, designed by Singtel to rival Apple’s Siri), products designed by Singaporeans / Singapore-companies have been making waves around the world.</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="http://grss.theemptyrack.com/wp-content/uploads/2013/06/soundblaster.jpg" alt="soundblaster" width="68" height="150"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="http://grss.theemptyrack.com/wp-content/uploads/2013/06/thumbdrive.jpg" alt="First ever thumbdrive" width="68" height="150"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="http://grss.theemptyrack.com/wp-content/uploads/2013/06/defind.jpg" alt="A rival to Siri" width="68" height="17"></td></tr></tbody></table></p>
+	<p><b>Reflection Questions</b></p>
+	<ol><li>How can I be creative to think of new inventions?</li><li>What future product would you like to see that would improve our lives?</li></ol>
+	<p><b>Possible Jobs</b></p>
+	<ul><li>Research Engineers</li><li>Software Engineers</li><li>Engineers</li><li> Software Programmers</li><li>Game Programmers</li></ul>
     </div>
   </li>
 		</ul>
 
 
 
-
-
-
-
-**Reflection Questions**
-
-(1) How can I be creative to think of new inventions?     
-(2) What future product would you like to see that would improve our lives?
-
-**Possible Jobs**
-
-*   Research Engineers
-*   Software Engineers
-*   Engineers
-*   Software Programmers
-*   Game Programmers
 
 **Links**
 
