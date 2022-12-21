@@ -2,6 +2,7 @@ collections:
   news-archive:
     output: true
     order:
+      - 2022/ALP VIA Project 2022.md
       - 2022/Sports Carnival 2022.md
       - 2022/Applied Learning Modules (ApLMs) and Advanced Elective Modules
         (AEM).md
