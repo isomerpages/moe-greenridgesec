@@ -12,3 +12,6 @@ Our Greenridgeans demonstrated enthusiasm, determination and teamwork as they ac
 
 Students learnt about their own strengths and interests, as well as useful strategies to become self-directed learners. Building a positive learning culture for all, students effectively communicated with and supported their peers throughout the programme.
 
+![](/images/excellence1.jpg)
+
+Definitely a wonderful start to the year! Let’s all continue to keep up the Greenridge spirit!
