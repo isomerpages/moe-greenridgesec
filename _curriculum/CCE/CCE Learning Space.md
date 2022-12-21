@@ -32,25 +32,16 @@ These individuals will also act as role models for the values that we want every
 		<p>Answers can be found later in the page</p>
 		<p><b>Links to more info</b></p>
 		<ul><li><a href="http://www.a2o.com.sg/a2o/public/html/etc/09\_PuanNoorAishah.htm">http://www.a2o.com.sg/a2o/public/html/etc/09\_PuanNoorAishah.htm</a></li><li><a href="http://infopedia.nl.sg/articles/SIP\_1097\_2006-07-28.html">http://infopedia.nl.sg/articles/SIP\_1097\_2006-07-28.html</a></li><li><a href="http://www.polymernotes.org/biographies/SGP\_bio\_binishak.htm">http://www.polymernotes.org/biographies/SGP\_bio\_binishak.htm</a></li><li><a href="http://picas.nhb.gov.sg/picas/public/internetSearch/advancedSearch.jsp?thesaurusFlag=Y&simpleSearch=yusof+bin+ishak&photographOption=1&Submit=Submit&pageNumber=50&total=864">http://picas.nhb.gov.sg/picas/public/internetSearch/advancedSearch.jsp?thesaurusFlag=Y&simpleSearch=yusof+bin+ishak&photographOption=1&Submit=Submit&pageNumber=50&total=864</a></li></ul>
+		<p><b>More interesting facts<br><br>Yusof Ishak excelled in both the academic and extra-curricular fields.</b></p>
+		<ul><li>He scored distinctions in both the 1927 Cambridge School Certificate and in the Senior Cambridge Examinations.</li>
+			<li>He was admitted into the prestigious Queen’s Scholarship Class at RI, a group of only 13 and he was the only Malay.</li></ul>
+		<p><b>Excelled in extra-curricular fields.</b></p>
+		<ul><li>Outside the classroom, Yusof was a school athlete, representing RI in many games including hockey, cricket, swimming, water polo, basketball, boxing and weightlifting.</li>
+			<li>He emerged champion in boxing, winning the Aw Boon Par cup in 1932, and weightlifting, becoming the national lightweight champion in 1933.</li><li>Away from the court, Yusof Ishak was the co-editor of _Rafflesian_ , and a prefect.</li><li>He was the first student in the history of the National Cadet Corps to be made a Second Lieutenant.</li></ul>
     </div>
 	</li>
 	</ul>
 
-
-
-**More interesting facts**
-
-**Yusof Ishak excelled in both the academic and extra-curricular fields.**
-
-*   He scored distinctions in both the 1927 Cambridge School Certificate and in the Senior Cambridge Examinations.
-*   He was admitted into the prestigious Queen’s Scholarship Class at RI, a group of only 13 and he was the only Malay.
-
-**Excelled in extra-curricular fields.**
-
-*   Outside the classroom, Yusof was a school athlete, representing RI in many games including hockey, cricket, swimming, water polo, basketball, boxing and weightlifting. 
-*   He emerged champion in boxing, winning the Aw Boon Par cup in 1932, and weightlifting, becoming the national lightweight champion in 1933. 
-*   Away from the court, Yusof Ishak was the co-editor of _Rafflesian_ , and a prefect.
-*   He was the first student in the history of the National Cadet Corps to be made a Second Lieutenant.
 
   
 
