@@ -10,9 +10,9 @@ sections:
       title: Greenridge Secondary School
       background: /images/f79c42e6f_1072.jpg
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: Announcements
+          description: Click here for more
+          url: /announcements/
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
