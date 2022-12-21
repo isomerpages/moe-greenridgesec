@@ -2,6 +2,8 @@ collections:
   news-archive:
     output: true
     order:
+      - 2022/Applied Learning Modules (ApLMs) and Advanced Elective Modules
+        (AEM).md
       - 2022/Sec 3 Outdoor Adventure Learning Camp.md
       - 2022/Racial Harmony Day.md
       - 2022/Budding Artistes Programme.md
