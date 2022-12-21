@@ -107,8 +107,10 @@ These individuals will also act as role models for the values that we want every
     <label for="accordion5">Services</label>
     <div>
 			<p><h3>Services</h3></p>
-		<p><b>Reflection</b></p>
+			<p><b>Interesting Facts</b></p>
 		<ul><li>Are you interested in joining the service industry?</li><li>What kind of impact does the service industry have on the economy of Singapore?</li><li>With the huge amount of investment pumped into the service industry, what results have there been?</li></ul>
+		<p><b>Reflection</b></p>
+		<ul><li>In total, Singapore has approximately 170 hotels that provide their service to the tourism industry which is also part of the service industry.</li><li>In the 1990s, Singapore reinvented itself as Asia’s convention city. In 1996, our country hosted 4,795 international and regional conventions with more than 426,000 foreign participants. According to the Union des Associations Internationales, Singapore ranks seventh among the world’s major convention cities.</li><li>In 2011, the government announced an S$84 million investment in an initiative to make our tourism industry more customer-centric.</li></ul>
 	<p><b>Links to more info</b></p>
 		<ul><li>List of Service Jobs: <a href="http://job-search.jobstreet.com.sg/singapore/customer-service-jobs/">http://job-search.jobstreet.com.sg/singapore/customer-service-jobs/</a></li><li>Singapore Service Star: <a href="http://www.servicestar.com.sg">http://www.servicestar.com.sg</a></li></ul>
     </div>
