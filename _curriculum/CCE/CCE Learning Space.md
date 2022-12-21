@@ -38,30 +38,15 @@ These individuals will also act as role models for the values that we want every
 		<p><b>Excelled in extra-curricular fields.</b></p>
 		<ul><li>Outside the classroom, Yusof was a school athlete, representing RI in many games including hockey, cricket, swimming, water polo, basketball, boxing and weightlifting.</li>
 			<li>He emerged champion in boxing, winning the Aw Boon Par cup in 1932, and weightlifting, becoming the national lightweight champion in 1933.</li><li>Away from the court, Yusof Ishak was the co-editor of _Rafflesian_ , and a prefect.</li><li>He was the first student in the history of the National Cadet Corps to be made a Second Lieutenant.</li></ul>
+		<p><b>Photographs - photos not found</b></p>
+		<p>Yusof Ishak 1 (Image)<br>This picture was taken during a visit by President Yusof Ishak to the Jurong Industrial Estate in the 1960s, and reflects the President’s avid interest in photography. (Taken from <a href="http://www.a2o.com.sg/a2o/public/html/etc/09\_PuanNoorAishah.htm">http://www.a2o.com.sg/a2o/public/html/etc/09\_PuanNoorAishah.htm)</a></p>
+		<p>Yusof Ishak 2 (Image)<br>H.E. The Yang Di-Pertuan Negara , Inche Yusof Bin Ishak installed as chancellor of the University of Singapore at Victoria Theatre on 26 th Nov 1965</p>
+		<p>Yusof Ishak 3 (Image)<br>President Yusof Ishak inspecting Guard of Honour at opening of Singapore’s Parliament 1965.</p>
+		<p>Yusof Ishak 4 (Image)<br>President Yusof Ishak enjoying a moment with Ong Cheng Mui and Yatim bin Ibrahim, two of the children attending the Singapore Leprosy Relief Association’s Christmas party at Trafalgar Home.</p>
     </div>
 	</li>
 	</ul>
 
-
-  
-
-**Photographs** - photos not found
-
-![Yusof Ishak 1](http://grss.theemptyrack.com/wp-content/uploads/2013/06/Yusof-Ishak-1.jpg "Yusof Ishak 1g")
-
-This picture was taken during a visit by President Yusof Ishak to the Jurong Industrial Estate in the 1960s, and reflects the President’s avid interest in photography. (Taken from http://www.a2o.com.sg/a2o/public/html/etc/09\_PuanNoorAishah.htm)
-
-![Yusof Ishak 2](http://grss.theemptyrack.com/wp-content/uploads/2013/06/Yusof-Ishak-2.jpg "Yusof Ishak 2")
-
-H.E. The Yang Di-Pertuan Negara , Inche Yusof Bin Ishak installed as chancellor of the University of Singapore at Victoria Theatre on 26 th Nov 1965
-
-![Yusof Ishak 3](http://grss.theemptyrack.com/wp-content/uploads/2013/06/Yusof-Ishak-3.jpg "Yusof Ishak 3")
-
-President Yusof Ishak inspecting Guard of Honour at opening of Singapore’s Parliament 1965
-
-![Yusof Ishak 4](http://grss.theemptyrack.com/wp-content/uploads/2013/06/Yusof-Ishak-4.jpg "Yusof Ishak 4")
-
-President Yusof Ishak enjoying a moment with Ong Cheng Mui and Yatim bin Ibrahim, two of the children attending the Singapore Leprosy Relief Association’s Christmas party at Trafalgar Home.
 
 
 ### **S. Rajaratnam**
