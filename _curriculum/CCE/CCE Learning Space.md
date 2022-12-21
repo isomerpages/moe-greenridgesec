@@ -151,8 +151,8 @@ These individuals will also act as role models for the values that we want every
 		<li>The putter that Bobby Jones used throughout much of his career was nicknamed "Calamity Jane."</li></ul>
 	<p><b>Photographs - photos not found</b></p>
 		<p>Bobby Jones 1 (Image)<br>The young Bobby Jones. (Taken from <a href=" http://golf.about.com/od/golfersmen/p/bobby\_jones.htm"> http://golf.about.com/od/golfersmen/p/bobby\_jones.htm</a>)</p>
-		<p>Bobby Jones 2 (Image)<br>Engine strip in SAESL</p>
-		<p>Bobby Jones 3 (Image)<br>Proposed aerospace hub in Seletar, which will be operational by 2018.</p>
+		<p>Bobby Jones 2 (Image)<br>Bobby Jones at the 1927 British Open in St. Andrews, Scotland. (Taken from <a href="http://www.britannica.com/EBchecked/media/16042/Bobby-Jones-at-the-1927-British-Open-in-St-Andrews"> http://www.britannica.com/EBchecked/media/16042/Bobby-Jones-at-the-1927-British-Open-in-St-Andrews</a>)</p>
+		<p>Bobby Jones 3 (Image)<br>Bobby Jones is one of four golfers to win the US Open four times. (Taken from <a href="http://golf.about.com/od/majorchampionships/f/usopenmostwins.htm"> http://golf.about.com/od/majorchampionships/f/usopenmostwins.htm</a>)</p>
 		<p>Bobby Jones 4 (Image)<br>Singapore Air Force is the largest driver for military aerospace spending in Singapore. In addition, other countries also look to Singapore based companies such as ST Aerospace for defence needs.</p>
 	<p>Future Industries Aerospace 5 (Image)<br>With booming air travel in full swing, demand for passenger air travel is expected to increase for local airlines such as Singapore Airlines.</p>
     </div>
