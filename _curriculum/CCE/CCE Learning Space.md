@@ -147,8 +147,7 @@ These individuals will also act as role models for the values that we want every
 	<p><b>Links to more info</b></p>
 		<ul><li><a href="http://www.golflegends.org/bobby-jones.php">http://www.golflegends.org/bobby-jones.php</a></li><li><a href="http://sports.jrank.org/pages/2367/Jones-Bobby.html">http://sports.jrank.org/pages/2367/Jones-Bobby.html</a></li><li><a href="http://espn.go.com/classic/biography/s/Jones_Bobby.html">http://espn.go.com/classic/biography/s/Jones_Bobby.html</a></li></ul>
 	<p><b>More interesting facts</b></p>
-	<ul><li>Jones was an average-size man, standing 5’8" tall and weighing about 165 pounds at the height of his golfing career. He had a clean-cut, boyish manner that made him the favourite of golfing fans.</li>
-		<li>The putter that Bobby Jones used throughout much of his career was nicknamed "Calamity Jane."</li></ul>
+	<ul><li>Jones was an average-size man, standing 5’8" tall and weighing about 165 pounds at the height of his golfing career. He had a clean-cut, boyish manner that made him the favourite of golfing fans.</li><li>The putter that Bobby Jones used throughout much of his career was nicknamed "Calamity Jane."</li></ul>
 	<p><b>Photographs - photos not found</b></p>
 		<p>Bobby Jones 1 (Image)<br>The young Bobby Jones. (Taken from <a href=" http://golf.about.com/od/golfersmen/p/bobby\_jones.htm"> http://golf.about.com/od/golfersmen/p/bobby\_jones.htm</a>)</p>
 		<p>Bobby Jones 2 (Image)<br>Bobby Jones at the 1927 British Open in St. Andrews, Scotland. (Taken from <a href="http://www.britannica.com/EBchecked/media/16042/Bobby-Jones-at-the-1927-British-Open-in-St-Andrews"> http://www.britannica.com/EBchecked/media/16042/Bobby-Jones-at-the-1927-British-Open-in-St-Andrews</a>)</p>
