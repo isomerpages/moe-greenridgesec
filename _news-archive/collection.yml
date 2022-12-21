@@ -2,4 +2,5 @@ collections:
   news-archive:
     output: true
     order:
+      - 2022/Secondary One Registration.md
       - 2022/.keep
