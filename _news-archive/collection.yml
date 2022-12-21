@@ -2,6 +2,7 @@ collections:
   news-archive:
     output: true
     order:
+      - 2022/National Day Celebration.md
       - 2022/Release of GCE N Level Results 2022.md
       - "2022/GCE N Level Results Release: Supporting Your Teen.md"
       - 2022/Secondary One Registration.md
