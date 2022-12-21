@@ -19,7 +19,18 @@ The space was conceptualized as an interactive corner where students will be exp
 These individuals will also act as role models for the values that we want every GSS students to be imbued with.
 
 
-### **Yusof Bin Ishak**
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Yusof Bin Ishak</label>
+    <div>
+			<p><h3>Yusof Bin Ishak</h3></p>
+		<p><b>Reflection</b></p>
+		<ul><li>Have you demonstrated any of the qualities that Yusof Ishak had?</li><li>How can you try to emulate Yusof Ishak?</li></ul>
+    </div>
+	</li>
+
+
 
 **Reflection**
 
