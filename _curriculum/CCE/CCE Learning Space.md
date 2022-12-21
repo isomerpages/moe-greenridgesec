@@ -156,4 +156,25 @@ These individuals will also act as role models for the values that we want every
 		<p>Bobby Jones 4 (Image)<br>A movie about Bobby Jones. Jim Caviezel stars as golf legend Bobby Jones, the icon who retired from competition at the tender age of 28. (Taken from <a href="http://www.imdb.com/title/tt0375104/"> http://www.imdb.com/title/tt0375104/</a>)</p>
     </div>
   </li>
+	<li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">LTA Adnan bin Saidi</label>
+    <div>
+			<p><h3>LTA Adnan bin Saidi</h3></p>
+	<p><b>Reflection</b></p>
+				<ul><li>As a student, in what ways can you portray the same courage and determination illustrated by Lieutenant Adnan?</li><li>In your opinion, why do you think Lieutenant Adnan continued to fight on against the Japanese despite being injured and outnumbered?</li></ul>
+		<p><b>Thinking Questions</b></p>
+				<ul><li>What can we learn from the cruel death of Lieutenant Adnan?</li></ul>
+	<p><b>Links to more info</b></p>
+		<ul><li><a href="http://ltadnan.blogspot.com/2010/08/biography-of-leftenan-adnan-d.html">http://ltadnan.blogspot.com/2010/08/biography-of-leftenan-adnan-d.html</a></li><li><a href="http://historyof07.blogspot.com/2007/08/adnan-bin-saidi-in-world-war-ii-1915.html">http://historyof07.blogspot.com/2007/08/adnan-bin-saidi-in-world-war-ii-1915.html</a></li><li><a href="http://habitatnews.nus.edu.sg/heritage/pasirpanjang/articles/adnan_saidi_infantry_officer_war_hero-liza_sahid1999.html">http://habitatnews.nus.edu.sg/heritage/pasirpanjang/articles/adnan_saidi_infantry_officer_war_hero-liza_sahid1999.html</a></li></ul>
+	<p><b>More interesting facts</b></p>
+	<ul><li>Jones was an average-size man, standing 5’8" tall and weighing about 165 pounds at the height of his golfing career. He had a clean-cut, boyish manner that made him the favourite of golfing fans.</li>
+		<li>The putter that Bobby Jones used throughout much of his career was nicknamed "Calamity Jane."</li></ul>
+	<p><b>Photographs - photos not found</b></p>
+		<p>Bobby Jones 1 (Image)<br>The young Bobby Jones. (Taken from <a href=" http://golf.about.com/od/golfersmen/p/bobby\_jones.htm"> http://golf.about.com/od/golfersmen/p/bobby\_jones.htm</a>)</p>
+		<p>Bobby Jones 2 (Image)<br>Bobby Jones at the 1927 British Open in St. Andrews, Scotland. (Taken from <a href="http://www.britannica.com/EBchecked/media/16042/Bobby-Jones-at-the-1927-British-Open-in-St-Andrews"> http://www.britannica.com/EBchecked/media/16042/Bobby-Jones-at-the-1927-British-Open-in-St-Andrews</a>)</p>
+		<p>Bobby Jones 3 (Image)<br>Bobby Jones is one of four golfers to win the US Open four times. (Taken from <a href="http://golf.about.com/od/majorchampionships/f/usopenmostwins.htm"> http://golf.about.com/od/majorchampionships/f/usopenmostwins.htm</a>)</p>
+		<p>Bobby Jones 4 (Image)<br>A movie about Bobby Jones. Jim Caviezel stars as golf legend Bobby Jones, the icon who retired from competition at the tender age of 28. (Taken from <a href="http://www.imdb.com/title/tt0375104/"> http://www.imdb.com/title/tt0375104/</a>)</p>
+    </div>
+  </li>
 	</ul>
