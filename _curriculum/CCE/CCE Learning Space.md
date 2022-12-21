@@ -45,7 +45,6 @@ These individuals will also act as role models for the values that we want every
 		<p>Yusof Ishak 4 (Image)<br>President Yusof Ishak enjoying a moment with Ong Cheng Mui and Yatim bin Ibrahim, two of the children attending the Singapore Leprosy Relief Association’s Christmas party at Trafalgar Home.</p>
     </div>
 	</li>
-	</ul>
 	  <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">S. Rajaratnam</label>
@@ -55,19 +54,14 @@ These individuals will also act as role models for the values that we want every
 				<ul><li>Draw similarities between yourself and S. Rajaratnam.</li><li>How can you emulate S. Rajaratnam?</li></ul>
 		<p><b>Thinking Questions</b></p>
 				<ul><li>What contributions did S. Rajaratnam make to Singapore?</li><li>What was Mr. Rajaratnam’s contribution to the PAP’s collective leadership and to the governance of Singapore?</li><li>What can we learn from the stories written by S. Rajaratnam?</li></ul>
+	<p><b>Links to more info</b></p>
+		<ul><li><a href="http://www.spp.nus.edu.sg/ips/docs/pub/pa\_tk\_Tribute%20to%20S%20Rajaratnam\_220206.pdf">http://www.spp.nus.edu.sg/ips/docs/pub/pa\_tk\_Tribute%20to%20S%20Rajaratnam\_220206.pdf</a></li><li><a href="http://infopedia.nl.sg/articles/SIP\_644\_2005-01-10.html">http://infopedia.nl.sg/articles/SIP\_644\_2005-01-10.html</a></li><li><a href="http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/">http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/</a></li><li><a href="http://www.viweb.freehosting.net/vilit\_SRaja.htm">http://www.viweb.freehosting.net/vilit\_SRaja.htm</a></li><li><a href="http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/">http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/</a></li><li><a href="http://www.singapore-window.org/sw06/060225cn.htm">http://www.singapore-window.org/sw06/060225cn.htm</a></li></ul>
     </div>
   </li>
+		</ul>
 
 
 
-
- **Links to more info**
-
-*   [http://www.spp.nus.edu.sg/ips/docs/pub/pa\_tk\_Tribute%20to%20S%20Rajaratnam\_220206.pdf](http://www.spp.nus.edu.sg/ips/docs/pub/pa_tk_Tribute%20to%20S%20Rajaratnam_220206.pdf)
-*   [http://infopedia.nl.sg/articles/SIP\_644\_2005-01-10.html](http://infopedia.nl.sg/articles/SIP_644_2005-01-10.html)
-*   [http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/](http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/)
-*   [http://www.viweb.freehosting.net/vilit\_SRaja.htm](http://www.viweb.freehosting.net/vilit_SRaja.htm)
-*   [http://www.singapore-window.org/sw06/060225cn.htm](http://www.singapore-window.org/sw06/060225cn.htm)
 
 **More Facts**
 
