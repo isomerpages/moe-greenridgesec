@@ -187,10 +187,8 @@ These individuals will also act as role models for the values that we want every
 	<ul><li>Mother Teresa told Princess Diana that in order to heal other people you must suffer yourself.</li>
 		<li>Mother Teresa’s sari (outfit) only cost $1.00. It was really simple.</li><li>When Mother Teresa traveled in airplanes, she collected leftover food from people on the plane and gave it to the poor and hungry.</li><li>Mother Teresa was the smallest nun in her convent.  She was 5’ tall.</li></ul>
 	<p><b>Photographs - photos not found</b></p>
-		<p>Bobby Jones 1 (Image)<br>The young Bobby Jones. (Taken from <a href=" http://golf.about.com/od/golfersmen/p/bobby\_jones.htm"> http://golf.about.com/od/golfersmen/p/bobby\_jones.htm</a>)</p>
-		<p>Bobby Jones 2 (Image)<br>Bobby Jones at the 1927 British Open in St. Andrews, Scotland. (Taken from <a href="http://www.britannica.com/EBchecked/media/16042/Bobby-Jones-at-the-1927-British-Open-in-St-Andrews"> http://www.britannica.com/EBchecked/media/16042/Bobby-Jones-at-the-1927-British-Open-in-St-Andrews</a>)</p>
-		<p>Bobby Jones 3 (Image)<br>Bobby Jones is one of four golfers to win the US Open four times. (Taken from <a href="http://golf.about.com/od/majorchampionships/f/usopenmostwins.htm"> http://golf.about.com/od/majorchampionships/f/usopenmostwins.htm</a>)</p>
-		<p>Bobby Jones 4 (Image)<br>A movie about Bobby Jones. Jim Caviezel stars as golf legend Bobby Jones, the icon who retired from competition at the tender age of 28. (Taken from <a href="http://www.imdb.com/title/tt0375104/"> http://www.imdb.com/title/tt0375104/</a>)</p>
+		<p>Mother Theresa 1 (Image)</p>
+		<p>Mother Theresa  2 (Image)<br>US postal service issues a Mother Teresa stamp</p>
     </div>
   </li>
-	</ul>
+</ul>
