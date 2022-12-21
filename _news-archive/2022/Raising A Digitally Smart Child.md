@@ -15,3 +15,5 @@ We share 5 tips from MOE’s latest issue of Parent Kit for you!
 ![](/images/Parent%20Kit%20Raising%20A%20Digitally%20Smart%20Child_Page_2.jpg)
 
 ### Tip 2
+
+![](/images/Parent%20Kit%20Raising%20A%20Digitally%20Smart%20Child_Page_3.jpg)
