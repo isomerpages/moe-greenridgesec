@@ -8,3 +8,5 @@ third_nav_title: "2022"
 
 
 Greenridge Secondary School rose to the occasion and honoured Singapore’s birthday with much gravity, earnestness and fanfare as part of the school’s National Day celebrations.
+
+![](/images/ndp.jpg)
