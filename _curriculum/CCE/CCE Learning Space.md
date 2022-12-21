@@ -156,4 +156,4 @@ These individuals will also act as role models for the values that we want every
 		<p>Bobby Jones 4 (Image)<br>A movie about Bobby Jones. Jim Caviezel stars as golf legend Bobby Jones, the icon who retired from competition at the tender age of 28. (Taken from <a href="http://www.imdb.com/title/tt0375104/"> http://www.imdb.com/title/tt0375104/</a>)</p>
     </div>
   </li>
-		</ul>
+	</ul>
