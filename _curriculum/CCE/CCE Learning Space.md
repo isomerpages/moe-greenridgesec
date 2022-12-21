@@ -104,11 +104,13 @@ These individuals will also act as role models for the values that we want every
   </li>
 	  <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Multi-line Block</label>
+    <label for="accordion5">Services</label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+			<p><h3>Services</h3></p>
+		<p><b>Reflection</b></p>
+		<ul><li>Are you interested in joining the service industry?</li><li>What kind of impact does the service industry have on the economy of Singapore?</li><li>With the huge amount of investment pumped into the service industry, what results have there been?</li></ul>
+	<p><b>Links to more info</b></p>
+		<ul><li>List of Service Jobs: <a href="http://job-search.jobstreet.com.sg/singapore/customer-service-jobs/">http://job-search.jobstreet.com.sg/singapore/customer-service-jobs/</a></li><li>Singapore Service Star: <a href="http://www.servicestar.com.sg">http://www.servicestar.com.sg</a></li></ul>
     </div>
   </li>
 		</ul>
