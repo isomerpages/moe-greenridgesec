@@ -153,8 +153,7 @@ These individuals will also act as role models for the values that we want every
 		<p>Bobby Jones 1 (Image)<br>The young Bobby Jones. (Taken from <a href=" http://golf.about.com/od/golfersmen/p/bobby\_jones.htm"> http://golf.about.com/od/golfersmen/p/bobby\_jones.htm</a>)</p>
 		<p>Bobby Jones 2 (Image)<br>Bobby Jones at the 1927 British Open in St. Andrews, Scotland. (Taken from <a href="http://www.britannica.com/EBchecked/media/16042/Bobby-Jones-at-the-1927-British-Open-in-St-Andrews"> http://www.britannica.com/EBchecked/media/16042/Bobby-Jones-at-the-1927-British-Open-in-St-Andrews</a>)</p>
 		<p>Bobby Jones 3 (Image)<br>Bobby Jones is one of four golfers to win the US Open four times. (Taken from <a href="http://golf.about.com/od/majorchampionships/f/usopenmostwins.htm"> http://golf.about.com/od/majorchampionships/f/usopenmostwins.htm</a>)</p>
-		<p>Bobby Jones 4 (Image)<br>Singapore Air Force is the largest driver for military aerospace spending in Singapore. In addition, other countries also look to Singapore based companies such as ST Aerospace for defence needs.</p>
-	<p>Future Industries Aerospace 5 (Image)<br>With booming air travel in full swing, demand for passenger air travel is expected to increase for local airlines such as Singapore Airlines.</p>
+		<p>Bobby Jones 4 (Image)<br>A movie about Bobby Jones. Jim Caviezel stars as golf legend Bobby Jones, the icon who retired from competition at the tender age of 28. (Taken from <a href="http://www.imdb.com/title/tt0375104/"> http://www.imdb.com/title/tt0375104/</a>)</p>
     </div>
   </li>
 		</ul>
