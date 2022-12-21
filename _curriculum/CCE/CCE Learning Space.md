@@ -107,6 +107,7 @@ These individuals will also act as role models for the values that we want every
     <label for="accordion5">Services</label>
     <div>
 			<p><h3>Services</h3></p>
+	<p><b>Description of Singapore's Service Industry</b><br>Singapore’s service industry is one of the main source for the country’s growth. As Singapore is small in size, we do not have natural resources that the country can rely on for the growth in the economy. We have to rely on the service industry as the only resource that the country has is population. Tourism, business and financial service sector contributes greatly to the growth in the economy of Singapore. We are constantly seeking to increase our service industry standards to match globalised standards so as to attract greater growth for the country, especially from its tourism sector of the service industry.</p>
 			<p><b>Interesting Facts</b></p>
 		<ul><li>Are you interested in joining the service industry?</li><li>What kind of impact does the service industry have on the economy of Singapore?</li><li>With the huge amount of investment pumped into the service industry, what results have there been?</li></ul>
 		<p><b>Reflection</b></p>
