@@ -88,6 +88,10 @@ These individuals will also act as role models for the values that we want every
 	<p><b>Interesting Facts</b></p>
 	<ul><li>Do you know that Singapore has the largest MRO market share in the Asia-Pacific region? The MRO output in Singapore accounts for nearly one-third of Singapore’s aerospace output and is growing at an average rate of 13.3% per year!</li>
 			<li>Singapore’s aerospace industry employs more than 18,000 workers, yet they are still facing a serious shortage.</li></ul>
+	<p><b>Reflection Questions</b></p>
+	<ul><li>Which area of the aerospace industry in Singapore are you interested in?</li></ul>
+	<p><b>Quiz Questions</b></p>
+	<ol><li>What are the four main pillars of aerospace industry in Singapore?</li><li>What is MRO?</li><li>Name three major aerospace engineering companies in Singapore.</li></ol>
     </div>
   </li>
 		</ul>
