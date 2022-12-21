@@ -27,3 +27,7 @@ Happy smiles, lifted spirits and stronger friendships forged among Greenridgeans
 ![](/images/Sports%20Carnival%209.jpg)
 
 ![](/images/Sports%20Carnival%2010.jpg)
+
+Last week, Greenridgeans gathered as a school for the first time in 2 years. The fruition of the concerted efforts of many teachers and students behind the scene, the Sports Carnival was an event eagerly anticipated by many. From outdoor activities to indoor programmes, students and teachers alike participated in the events with gusto. The Sports Carnival culminated in a rousing chorus of voices singing the school song and cheering for a morning where sportsmanship and school spirit were on full display.  
+  
+Keep the Greenridge spirit high, Greenridgeans!
