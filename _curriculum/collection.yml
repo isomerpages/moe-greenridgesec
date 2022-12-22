@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - hiii.md
       - English Language & Literature.md
       - Mathematics, POA and EBS.md
       - Humanities.md
