@@ -18,7 +18,7 @@ sections:
           url: m/others/news-archive/2022/
         - title: Calendar
           description: Click here for more
-          url: /calendar
+          url: /calendar/
       button: Contact Us
       url: /contact-us/
 ---
