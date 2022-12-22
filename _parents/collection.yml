@@ -2,4 +2,5 @@ collections:
   parents:
     output: true
     order:
+      - GSS Parents Connect/2017.md
       - GSS Parents Connect/.keep
