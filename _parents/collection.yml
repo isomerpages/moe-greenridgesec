@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Education and Career Guidance.md
       - GSS Parents Connect/GSS Parent Connect.md
       - GSS Parents Connect/2017.md
       - GSS Parents Connect/.keep
