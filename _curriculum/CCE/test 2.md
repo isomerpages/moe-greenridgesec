@@ -5,7 +5,6 @@ description: ""
 third_nav_title: CCE
 ---
 <ul class="jekyllcodex_accordion">
-	<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Yusof Bin Ishak</label>
