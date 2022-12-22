@@ -4,7 +4,6 @@ permalink: /others/parents/cyber-wellness-for-parents/
 description: ""
 third_nav_title: Parents
 ---
-
 # **Cyber Wellness for Parents**
 
   
@@ -26,7 +25,7 @@ To complement the CW curriculum in Greenridge Secondary School, parents can set 
 
 ![](/images/cyberwellness09.jpg)
 
-Find out more about Cyber Wellness@GSS [here](https://greenridgesec.moe.edu.sg/school-experience/curriculum/ict/cyber-wellness).  - change link
+Find out more about Cyber Wellness@GSS [here](/school-experience/curriculum/ict/cyber-wellness/).  - change link
   
   
 **Cyber Wellness Resources for Parents**
