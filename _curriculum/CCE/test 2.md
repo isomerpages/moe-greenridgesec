@@ -30,4 +30,17 @@ third_nav_title: CCE
 		<p>Yusof Ishak 4 (Image)<br>President Yusof Ishak enjoying a moment with Ong Cheng Mui and Yatim bin Ibrahim, two of the children attending the Singapore Leprosy Relief Association’s Christmas party at Trafalgar Home.</p>
     </div>
 	</li>
+	<input type="checkbox" id="accordion2">
+    <label for="accordion2">S. Rajaratnam</label>
+    <div>
+			<p><h3>S. Rajaratnam</h3></p>
+	<p><b>Reflection</b></p>
+				<ul><li>Draw similarities between yourself and S. Rajaratnam.</li><li>How can you emulate S. Rajaratnam?</li></ul>
+		<p><b>Thinking Questions</b></p>
+				<ul><li>What contributions did S. Rajaratnam make to Singapore?</li><li>What was Mr. Rajaratnam’s contribution to the PAP’s collective leadership and to the governance of Singapore?</li><li>What can we learn from the stories written by S. Rajaratnam?</li></ul>
+	<p><b>Links to more info</b></p>
+		<ul><li><a href="http://www.spp.nus.edu.sg/ips/docs/pub/pa\_tk\_Tribute%20to%20S%20Rajaratnam\_220206.pdf">http://www.spp.nus.edu.sg/ips/docs/pub/pa\_tk\_Tribute%20to%20S%20Rajaratnam\_220206.pdf</a></li><li><a href="http://infopedia.nl.sg/articles/SIP\_644\_2005-01-10.html">http://infopedia.nl.sg/articles/SIP\_644\_2005-01-10.html</a></li><li><a href="http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/">http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/</a></li><li><a href="http://www.viweb.freehosting.net/vilit\_SRaja.htm">http://www.viweb.freehosting.net/vilit\_SRaja.htm</a></li><li><a href="http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/">http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/</a></li><li><a href="http://www.singapore-window.org/sw06/060225cn.htm">http://www.singapore-window.org/sw06/060225cn.htm</a></li></ul>
+	<p><b>More Facts</b><br>He is regarded as one of the founding fathers of independent Singapore as it achieved self-government in 1959 and later independence in 1965. He devoted much of his adult life to public service, and helped shape the mentality of Singaporeans on contemporary issues. One of the schools of Nanyang Technological University, is named the S. Rajaratnam School of International Studies in honour of him, as is a 7-storey S. Rajaratnam block at Raffles Institution.<br><br>Rajaratnam studied in, St Paul’s boys’ school, Victoria Institution in Kuala Lumpur, and later in Raffles Institution in Singapore. In 1937, he went to King’s College London to pursue a law degree. However, due to World War II, he was unable to receive funding from his family to continue his studies; instead, he turned to journalism to earn a living. He met his wife Piroska Feher, a Hungarian teacher while in London.<br><br>He returned to Singapore in 1948 when he joined the Malayan Tribune. In 1954, he joined _The Straits Times_ as a journalist. He was bold in writing about the way Singapore was governed by the British. This incurred the displeasure of the colonial government. His column, “I write as I please”, attracted so much attention that he was called for questioning by the government.</p>
+    </div>
+  </li>
 	</ul>
