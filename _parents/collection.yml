@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Parents in Education (PiE).md
       - Heart to Heart Talk.md
       - Education and Career Guidance.md
       - GSS Parents Connect/GSS Parent Connect.md
