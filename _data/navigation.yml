@@ -10,7 +10,5 @@ links:
     url: /achievements
   - title: Admission
     collection: admission
-  - title: Others
+  - title: Quick Links
     collection: others
-  - title: Calendar
-    url: /Calendar
