@@ -2,7 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - ALP/GSS Stories.md
-      - ALP/Applied Learning Programme (ALP).md
       - ALP/.keep
+      - ALP/Applied Learning Programme (ALP).md
+      - ALP/GSS Stories.md
       - Learning for Life Programme (LLP).md
