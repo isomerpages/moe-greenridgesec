@@ -4,6 +4,9 @@ permalink: /curriculum/CCE/permalink/
 description: ""
 third_nav_title: CCE
 ---
+<h1>Hi</h1>
+
+
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
