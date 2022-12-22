@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - ALP/.keep
-      - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
