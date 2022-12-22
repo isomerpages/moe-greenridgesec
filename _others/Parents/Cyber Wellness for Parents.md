@@ -25,7 +25,7 @@ To complement the CW curriculum in Greenridge Secondary School, parents can set 
 
 ![](/images/cyberwellness09.jpg)
 
-Find out more about Cyber Wellness@GSS [here](/school-experience/curriculum/ict/cyber-wellness/).  - change link
+Find out more about Cyber Wellness@GSS [here](/school-experience/curriculum/ict/cyber-wellness/).
   
   
 **Cyber Wellness Resources for Parents**
