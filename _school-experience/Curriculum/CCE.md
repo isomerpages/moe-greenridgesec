@@ -66,4 +66,3 @@ It takes a village to raise a child to be a citizen of good character who is  r
 3. [CCE Learning Space](/school-experience/curriculum/cce/cce-learning-space/)
 4. [Cyberwellness](/school-experience/curriculum/cce/cyber-wellness/)
 5. [Guidance Programme](/school-experience/curriculum/character-n-citizenship-education/guidance-programme/)
-6. [test 2](/curriculum/CCE/permalink)
