@@ -2,7 +2,8 @@ collections:
   others:
     output: true
     order:
-      - Partners.md
+      - Students.md
+      - Staff.md
       - Parents/.keep
       - Parents/Parents.md
       - Parents/Cyber Wellness for Parents.md
@@ -12,7 +13,6 @@ collections:
       - GSS Parent Connect/.keep
       - GSS Parent Connect/GSS Parent Connect.md
       - GSS Parent Connect/2017.md
-      - Staff.md
-      - Students.md
-      - News Archive/2022.md
+      - Partners.md
       - News Archive/.keep
+      - News Archive/2022.md
