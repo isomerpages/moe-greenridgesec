@@ -16,9 +16,6 @@ sections:
         - title: Latest News
           description: Click here for more
           url: m/others/news-archive/2022/
-        - title: Contact Us
-          description: Key Highlight description
-          url: /contact-us/
       button: Contact Us
       url: /contact-us/
 ---
