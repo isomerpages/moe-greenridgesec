@@ -2,5 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - ALP/Applied Learning Programme (ALP).md
       - ALP/.keep
       - Learning for Life Programme (LLP).md
