@@ -13,4 +13,4 @@ third_nav_title: Parents
 *   [Heart to Heart Talk](/others/parents/heart-to-heart-talk/)
 *   [HPB Parents’ Booklet (healthy eating habits)](https://www.hpb.gov.sg/HOPPortal/programmes-article/3088)
 *   [CCA Schedule & Teacher-in-charge](https://greenridgesec.moe.edu.sg/qql/slot/u178/school_experience/cocurriculum/cca/CCA%20SCHEDULE%202018%20(Updated%20as%20of%2026.01.18).pdf) - link not found
-*   [Education and Career Guidance @ GSS](https://greenridgesec.moe.edu.sg/others/parents/education-and-career-guidance)
+*   [Education and Career Guidance @ GSS](/others/parents/education-and-career-guidance/)
