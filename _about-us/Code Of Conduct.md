@@ -7,7 +7,7 @@ description: ""
 
 ![](/images/Banner_Code-Of-Conduct.png)
 
-**CHAMP (BASELINE EXPECTATIONS FOR ALL CLASSES)**
+**CHAMPION (BASELINE EXPECTATIONS FOR ALL CLASSES)**
 
 ![](/images/codeofconduct.jpg)
 
