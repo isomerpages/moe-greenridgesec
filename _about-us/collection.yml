@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Principal's Message.md
       - Our Staff.md
       - Vision, Mission, Motto, Values.md
       - Aspiring Greenridgeans.md
