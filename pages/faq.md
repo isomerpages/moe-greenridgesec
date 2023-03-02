@@ -5,9 +5,9 @@ permalink: /faq/
 # **Frequently Asked Questions (FAQ)**
 
   
- **1\. How do I get help or more info about the school’s communication tool: SNAC?**  
+ **1\. How do I get help or more info about the school’s communication tool: PG?**  
   
- Please click on [https://www.apptitude.sg/snac.faq.htm](https://www.apptitude.sg/snac.faq.htm)  
+ Please download the Parents Gateway application in your App Store and login with your SingPass.
   
   
  **2\. Does the school offer DSA opportunities? If so what are the DSA opportunities offered to P6 students?**  
@@ -29,7 +29,7 @@ Please click on [https://youtu.be/XCSoZl2QYsc](https://youtu.be/XCSoZl2QYsc)
   
 **5\. What are the school hours in Greenridge?**  
   
-School starts at 7.25am on Mondays, Tuesdays, Thursday and Friday, 8.25am on Wednesdays. Students are advised to report earlier to gather in their classes for morning assembly.  
+School starts at 7.30am. Students are advised to report earlier to gather in their classes for morning assembly.  
   
   
   
