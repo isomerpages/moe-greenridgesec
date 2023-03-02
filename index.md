@@ -21,4 +21,5 @@ sections:
           url: /calendar/
       button: Contact Us
       url: /contact-us/
+      subtitle: " Confident Learners, Compassionate Leaders, Ethical Innovators"
 ---
