@@ -12,7 +12,7 @@ description: ""
 
 
 |      |      |       | 
-| :-------| :------- | -:| 
+| :-------| :------- | -------:| 
 |<font face="arial, sans-serif" size="3.8" >Mr. Ng Boon Kiat <br> </font>    |<font face="arial, sans-serif" size="3.8" > Principal  </font>  | <font face="arial, sans-serif" size="3.8" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
 |<font face="arial, sans-serif" size="3" >Mrs. Dalina Abdullah - Firdouse <br> </font>    |<font face="arial, sans-serif" size="3" > Vice-Principal  </font>  | <font face="arial, sans-serif" size="3" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
 |<font face="arial, sans-serif" size="3" >Mr. Arthur Ngoh<br> </font>    |<font face="arial, sans-serif" size="3" > Vice-Principal  </font>  | <font face="arial, sans-serif" size="3" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
