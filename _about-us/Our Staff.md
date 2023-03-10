@@ -18,7 +18,7 @@ description: ""
 |<font face="arial, sans-serif" size="4" >**Mr. Arthur Ngoh**</font>    |<font face="arial, sans-serif" size="4" > Vice-Principal  </font>  | <font face="arial, sans-serif" size="4" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
 |<font face="arial, sans-serif" size="4" >**Mr. Toh Wee Beng**</font>    |<font face="arial, sans-serif" size="4" > Vice-Principal(Admin)  </font>  | <font face="arial, sans-serif" size="4" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
 
-|               |               |             |      
+|               |               |             |
 | :--------| :------- | -------:| 
 |<font face="arial, sans-serif" size="3" >Mdm. Salina Bte Ismail <br> </font>    |<font face="arial, sans-serif" size="3" > School Staff Developer </font>  | <font face="arial, sans-serif" size="3" ><a href="salina_ismail@moe.edu.sg "> salina_ismail@moe.edu.sg </a> </font>  |
 |<font face="arial, sans-serif" size="3" >Mr. Chiu Guo Vei 	<br> </font>    |<font face="arial, sans-serif" size="3" > HOD – Character & Citizenship Education </font>  | <font face="arial, sans-serif" size="3" ><a href="chiu_guo_vei@moe.edu.sg"> chiu_guo_vei@moe.edu.sg</a> </font>  |
