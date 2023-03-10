@@ -13,12 +13,12 @@ description: ""
 ### Leadership Team
 |     |      |     |
 | :- | :-- | ---:| 
-|<font face="arial, sans-serif" size="3" >**Mr. Ng Boon Kiat**</font>|<font face="arial, sans-serif" size="3" > Principal  </font>  | <font face="arial, sans-serif" size="3" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
-|<font face="arial, sans-serif" size="3" >**Mrs. Dalina Abdullah - Firdouse**</font>|<font face="arial, sans-serif" size="3" > Vice-Principal </font>  | <font face="arial, sans-serif" size="3" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
-|<font face="arial, sans-serif" size="3" >**Mr. Arthur Ngoh**</font>    |<font face="arial, sans-serif" size="3" > Vice-Principal  </font>  | <font face="arial, sans-serif" size="3" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
-|<font face="arial, sans-serif" size="3" >**Mr. Toh Wee Beng**</font>    |<font face="arial, sans-serif" size="3" > Vice-Principal(Admin)  </font>  | <font face="arial, sans-serif" size="3" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
+|<font face="arial, sans-serif" size="4" >**Mr. Ng Boon Kiat**</font>|<font face="arial, sans-serif" size="4" > Principal  </font> |<font face="arial, sans-serif" size="4" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
+|<font face="arial, sans-serif" size="4" >**Mrs. Dalina Abdullah - Firdouse**</font>|<font face="arial, sans-serif" size="4" > Vice-Principal </font>  | <font face="arial, sans-serif" size="4" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
+|<font face="arial, sans-serif" size="4" >**Mr. Arthur Ngoh**</font>    |<font face="arial, sans-serif" size="4" > Vice-Principal  </font>  | <font face="arial, sans-serif" size="4" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
+|<font face="arial, sans-serif" size="4" >**Mr. Toh Wee Beng**</font>    |<font face="arial, sans-serif" size="4" > Vice-Principal(Admin)  </font>  | <font face="arial, sans-serif" size="4" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
 
-|     |      |       |      
+|               |               |             |      
 | :--------| :------- | -------:| 
 |<font face="arial, sans-serif" size="3" >Mdm. Salina Bte Ismail <br> </font>    |<font face="arial, sans-serif" size="3" > School Staff Developer </font>  | <font face="arial, sans-serif" size="3" ><a href="salina_ismail@moe.edu.sg "> salina_ismail@moe.edu.sg </a> </font>  |
 |<font face="arial, sans-serif" size="3" >Mr. Chiu Guo Vei 	<br> </font>    |<font face="arial, sans-serif" size="3" > HOD – Character & Citizenship Education </font>  | <font face="arial, sans-serif" size="3" ><a href="chiu_guo_vei@moe.edu.sg"> chiu_guo_vei@moe.edu.sg</a> </font>  |
@@ -39,11 +39,10 @@ description: ""
 |<font face="arial, sans-serif" size="3" >Mr. Ahangama Badalge Terence <br> </font>    |<font face="arial, sans-serif" size="3" >HOD – Science </font>  | <font face="arial, sans-serif" size="3" ><a href="ahangama_badalge_terence@moe.edu.sg  ">ahangama_badalge_terence@moe.edu.sg</a> </font>  |
 |<font face="arial, sans-serif" size="3" >Ms. Yong Woei Shyang<br> </font>    |<font face="arial, sans-serif" size="3" >HOD – Student Management</font>  | <font face="arial, sans-serif" size="3" ><a href="yong_woei_shyang@moe.edu.sg    ">yong_woei_shyang@moe.edu.sg  </a> </font>  |
 |<font face="arial, sans-serif" size="3" >Mr. Wong Shan Jing<br> </font>|<font face="arial, sans-serif" size="3" > HOD and Year Head (Sec 2/3) </font>  | <font face="arial, sans-serif" size="3" ><a href="wong_shan_jing@moe.edu.sg">wong_shan_jing@moe.edu.sg</a> </font>  |
-<font face="arial, sans-serif" size="3" >Ms. Yiew Qifang Daphne<br> </font>|<font face="arial, sans-serif" size="3" > Year Head (Sec 1/4/5)</font>  | <font face="arial, sans-serif" size="3" ><a href=" yiew_qifang_daphne@moe.edu.sg "> yiew_qifang_daphne@moe.edu.sg </a> </font>  |
-|<font face="arial, sans-serif" size="3" >Mr. Naraindran S/O Chandrashagaran<br> </font>    |<font face="arial, sans-serif" size="3" > Assistant Year Head </font>  | <font face="arial, sans-serif" size="3" ><a href="naraindran_chandrashagaran@moe.edu.sg  
- ">naraindran_chandrashagaran@moe.edu.sg  
- </a> </font>  |
-|<font face="arial, sans-serif" size="3" >Ms. Ang Lip Eng Penny   <br> </font>    |<font face="arial, sans-serif" size="3" > HOD – Physical Education  CCA     </font>  | <font face="arial, sans-serif" size="3" ><a href=" ang_lip_eng@moe.edu.sg  g "> ang_lip_eng@moe.edu.sg  </a> </font>  |
+<font face="arial, sans-serif" size="3" >Ms. Yiew Qifang Daphne </font>|<font face="arial, sans-serif" size="3" > Year Head (Sec 1/4/5)</font>  | <font face="arial, sans-serif" size="3" ><a href=" yiew_qifang_daphne@moe.edu.sg "> yiew_qifang_daphne@moe.edu.sg </a> </font>  |
+|<font face="arial, sans-serif" size="3" >Mr. Naraindran S/O Chandrashagaran</font>    |<font face="arial, sans-serif" size="3" > Assistant Year Head </font> |<font face="arial, sans-serif" size="3" ><a href="naraindran_chandrashagaran@moe.edu.sg"  
+ ">naraindran_chandrashagaran@moe.edu.sg   </a> </font>  |
+|<font face="arial, sans-serif" size="3" >Ms. Ang Lip Eng Penny </font>    |<font face="arial, sans-serif" size="3" > HOD – Physical Education  CCA     </font>  | <font face="arial, sans-serif" size="3" ><a href=" ang_lip_eng@moe.edu.sg  g "> ang_lip_eng@moe.edu.sg  </a> </font>  |
 |<font face="arial, sans-serif" size="3" >Mr. Ahangama Badalge Terence <br> </font>    |<font face="arial, sans-serif" size="3" >HOD – Science </font>  | <font face="arial, sans-serif" size="3" ><a href="ahangama_badalge_terence@moe.edu.sg  ">ahangama_badalge_terence@moe.edu.sg</a> </font>  |
 |<font face="arial, sans-serif" size="3" >Ms. Yong Woei Shyang<br> </font>    |<font face="arial, sans-serif" size="3" >HOD – Student Management</font>  | <font face="arial, sans-serif" size="3" ><a href="yong_woei_shyang@moe.edu.sg    ">yong_woei_shyang@moe.edu.sg  </a> </font>  |
 |<font face="arial, sans-serif" size="3" >Mr. Wong Shan Jing<br> </font>|<font face="arial, sans-serif" size="3" > HOD and Year Head (Sec 2/3) </font>  | <font face="arial, sans-serif" size="3" ><a href="wong_shan_jing@moe.edu.sg">wong_shan_jing@moe.edu.sg</a> </font>  |
