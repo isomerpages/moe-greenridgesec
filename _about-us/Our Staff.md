@@ -11,10 +11,10 @@ description: ""
 
 
 
-|      |      |       | 
-| :-------| :------- | -------:| 
-|<font face="arial, sans-serif" size="4" >Mr. Ng Boon Kiat<br> </font>  |<font face="arial, sans-serif" size="4" > Principal  </font>  | <font face="arial, sans-serif" size="4" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
-|<font face="arial, sans-serif" size="3" >Mrs. Dalina Abdullah - Firdouse <br> </font>|<font face="arial, sans-serif" size="3" > Vice-Principal  </font>  | <font face="arial, sans-serif" size="3" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
+|              |      |       | 
+| :----------------------------------------------------------     | :------- | -------:| 
+|<font face="arial, sans-serif" size="3.9" >Mr. Ng Boon Kiat</font>|<font face="arial, sans-serif" size="3.9" > Principal  </font>  | <font face="arial, sans-serif" size="4" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
+|<font face="arial, sans-serif" size="3" >Mrs. Dalina Abdullah - Firdouse</font>|<font face="arial, sans-serif" size="3" > Vice-Principal  </font>  | <font face="arial, sans-serif" size="3" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
 |<font face="arial, sans-serif" size="3" >Mr. Arthur Ngoh<br> </font>    |<font face="arial, sans-serif" size="3" > Vice-Principal  </font>  | <font face="arial, sans-serif" size="3" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
 |<font face="arial, sans-serif" size="3" >Mr. Toh Wee Beng <br> </font>    |<font face="arial, sans-serif" size="3" > Vice-Principal(Admin)  </font>  | <font face="arial, sans-serif" size="3" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
 |<font face="arial, sans-serif" size="3" >Mdm. Salina Bte Ismail <br> </font>    |<font face="arial, sans-serif" size="3" > School Staff Developer </font>  | <font face="arial, sans-serif" size="3" ><a href="salina_ismail@moe.edu.sg "> salina_ismail@moe.edu.sg </a> </font>  |
@@ -26,7 +26,7 @@ description: ""
 |<font face="arial, sans-serif" size="3" >Mrs. Goh-Kok Mei Leng  <br> </font>    |<font face="arial, sans-serif" size="3" > HOD – Mathematics    </font>  | <font face="arial, sans-serif" size="3" ><a href=" kok_mei_leng@moe.edu.sg ">  kok_mei_leng@moe.edu.sg </a> </font>  |
 |<font face="arial, sans-serif" size="3" >Mdm. Tew Geok Eng  <br> </font>    |<font face="arial, sans-serif" size="3" > HOD – Mathematics  	</font>  | <font face="arial, sans-serif" size="3" ><a href="tew_geok_eng@moe.edu.sg">  tew_geok_eng@moe.edu.sg 
 </a> </font>  |
-|<font face="arial, sans-serif" size="3" >Mdm. Ng Tze Fang  	<br> </font>    |<font face="arial, sans-serif" size="3" > HOD – Mother Tongue Language</font>  | <font face="arial, sans-serif" size="3" ><a href="ng_tze_fang@moe.edu.sg  ">ng_tze_fang@moe.edu.sg</a> </font>  |
+|<font face="arial, sans-serif" size="3" >Mdm. Ng Tze Fang<br> </font>    |<font face="arial, sans-serif" size="3" > HOD – Mother Tongue Language</font>  | <font face="arial, sans-serif" size="3" ><a href="ng_tze_fang@moe.edu.sg  ">ng_tze_fang@moe.edu.sg</a> </font>  |
 |<font face="arial, sans-serif" size="3" >Mr. R Rajkumar<br> </font>    |<font face="arial, sans-serif" size="3" > HOD – Normal(Technical)   </font>  | <font face="arial, sans-serif" size="3" ><a href="r_rajkumar@moe.edu.sg   "> r_rajkumar@moe.edu.sg   </a> </font>  |
 |<font face="arial, sans-serif" size="3" >Ms. Ang Lip Eng Penny   <br> </font>    |<font face="arial, sans-serif" size="3" > HOD – Physical Education  CCA     </font>  | <font face="arial, sans-serif" size="3" ><a href=" ang_lip_eng@moe.edu.sg  g "> ang_lip_eng@moe.edu.sg  </a> </font>  |
 |<font face="arial, sans-serif" size="3" >Mr. Ahangama Badalge Terence <br> </font>    |<font face="arial, sans-serif" size="3" >HOD – Science </font>  | <font face="arial, sans-serif" size="3" ><a href="ahangama_badalge_terence@moe.edu.sg  ">ahangama_badalge_terence@moe.edu.sg</a> </font>  |
@@ -35,7 +35,7 @@ description: ""
 
 
 
-
+[Text to display\](http://www.example.com)
 
 
 
