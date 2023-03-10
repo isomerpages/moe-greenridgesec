@@ -22,7 +22,7 @@ description: ""
 
 |               |               |             |
 | :--------| :------- | -------:| 
-|<font face="arial, sans-serif" size="3" >Mdm. Salina Bte Ismail <br> </font>    |<font face="arial, sans-serif" size="3" > School Staff Developer </font>  | <font face="arial, sans-serif" size="3" ><a href="salina_ismail@moe.edu.sg "> salina_ismail@moe.edu.sg </a> </font>  |
+|<font face="arial, sans-serif" size="3" >Mdm. Saalina Bte Ismail <br> </font>    |<font face="arial, sans-serif" size="3" > School Staff Developer </font>  | <font face="arial, sans-serif" size="3" ><a href="salina_ismail@moe.edu.sg "> salina_ismail@moe.edu.sg </a> </font>  |
 |<font face="arial, sans-serif" size="3" >Mr. Chiu Guo Vei 	<br> </font>    |<font face="arial, sans-serif" size="3" > HOD – Character & Citizenship Education </font>  | <font face="arial, sans-serif" size="3" ><a href="chiu_guo_vei@moe.edu.sg"> chiu_guo_vei@moe.edu.sg</a> </font>  |
 |<font face="arial, sans-serif" size="3" >Mdm. Chng Yi Na  <br> </font>    |<font face="arial, sans-serif" size="3" > HOD – English Language 	  </font>  | <font face="arial, sans-serif" size="3" ><a href="chng_yi_na@moe.edu.sg  "> chng_yi_na@moe.edu.sg  </a> </font>  |
 |<font face="arial, sans-serif" size="3" >Mdm. Christina D/O Joseph<br> </font>    |<font face="arial, sans-serif" size="3" > HOD – Humanities  </font>  | <font face="arial, sans-serif" size="3" ><a href="christina_joseph@moe.edu.sg "> christina_joseph@moe.edu.sg </a> </font>  |
