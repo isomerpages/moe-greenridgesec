@@ -59,25 +59,8 @@ description: ""
 
 
 
-
- 
-
-|  ||  |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-	
-| testing zone | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| <font size=6 color ="red"  >*Text*     | <font size=5 color ="red" >Text     | <font size=4 >Text     |
-
-
-
 2023 Form Teachers.
 -------------------
-
-	
-
 	
 |   <font size=4>CLASS|<font size=4>Secondary One|   |    |
 |:--| :-- |:---|:---|
@@ -130,13 +113,14 @@ description: ""
 |<font size=3>4-12|<font size=3><a href="mailto:yap_xiao_ting@moe.edu.sg">Ms. Yap Xiao Ting (Phy)| <font size=3><a href="mailto:huang_shufen_a@moe.edu.sg">Ms. Huang Shufen (POA)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
 |<font size=3>5-1|<font size=3><a href="mailto:radiah_matmin@moe.edu.sg">Mdm. Radiah Bte Matmin (ML)| <font size=3><a href="mailto:chua_chang@moe.edu.sg"> Mr Chua Chang (Chemistry)|<font size=3><a href="salina_ismail@moe.edu.sg">| 
 	
-##### Executive and Administrative Staff
+##### Counsellors
 |   |   |   |
 | :--| :-- | --: |
 |<font size=3>Mr. Leong Mun Sung Daniel|<font size=3 >Senior School Cousellor|<font size=3 ><a href="mailto:leong_mun_sung_daniel@moe.edu.sg  "> leong_mun_sung_daniel@moe.edu.sg  </a> |
 |<font size=3 >Mdm. Clara Yap Bee Hoon |<font size=3 >School Counsellor| <font  size=3><a href="mailto:clara_yap_bee_hoon@moe.edu.sg "> clara_yap_bee_hoon@moe.edu.sg </a> |
 |<font  size=3>Mr. Jeffrey Bin Abdul Mugni |<font  size=3>Senior Special Education Needs Officer  | <font  size=3 ><a href="mailto:jeffrey_abdul_mugni@moe.edu.sg "> jeffrey_abdul_mugni@moe.edu.sg </a>  |
 |<font size=3 > Ms. Gianna Gayatri Francis	|<font  size=3 >Special Education Needs Officer | <font  size=3 ><a href="mailto:gianna_gayatri_mnomokan@moe.edu.sg  "> gianna_gayatri_mnomokan@moe.edu.sg  </a>   |
+|<font  size=3> Ms. Ismawati Bte Amar Mamori  |<font  size=3 >Education Career Guidance Counsellor| <font  size=3 ><a href="mailto:ismawati_amar_mamori@moe.edu.sg"> ismawati_amar_mamori@moe.edu.sg</a>  |
 |<font  size=3>Ms. Koh Hui Yan|<font  size=3 >Student Welfare Officer | <font  size=3 ><a href="mailto:koh_hui_yan@moe.edu.sg "> koh_hui_yan@moe.edu.sg </a>  |
 |<font size=3 > Ms. Shawna Teo Lian Choo|<font  size=3 > Allied Educator (T&L)| <font  size=3 ><a href="mailto:shawna_teo_lian_choo@moe.edu.sg "> shawna_teo_lian_choo@moe.edu.sg </a>   |
 
