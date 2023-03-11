@@ -63,6 +63,11 @@ description: ""
 
  
 
+|  ||  |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+	
 | testing zone | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | <font size=6 color ="red"  >*Text*     | <font size=5 color ="red" >Text     | <font size=4 >Text     |
@@ -79,9 +84,9 @@ description: ""
 |<font size=3>1-2|<font size=3><a href="shen_wei@moe.edu.sg"> Mdm. Shen Wei (CL) | <font size=3><a href="lee_wei_song@moe.edu.sg"> Mr Lee Wei Song (SS/EL)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
 |<font size=3>1-3|<font size=3><a href="lim_sze_hui_sylvia@moe.edu.sg"> Ms. Sylvia Lim (PE) | <font size=3><a href="siti_khatijah_ahmad@moe.edu.sg"> Mdm. Siti Khatijah Binte Ahmad (ML)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 |
 |<font size=3>1-4|<font size=3><a href="teo_chin_ling_grace@moe.edu.sg "> Ms. Teo Chin Ling Grace (Math) | <font size=3><a href="sazali_rahmat@moe.edu.sg"> Mr Sazali Rahmat (ART)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
-|<font size=3>1-5|<font size=3><a href="teo_chin_ling_grace@moe.edu.sg "> Ms. Teo Chin Ling Grace (Math) | <font size=3><a href="sazali_rahmat@moe.edu.sg"> Mr Sazali Rahmat (ART)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
-|<font size=3>1-6|<font size=3><a href="teo_chin_ling_grace@moe.edu.sg "> Ms. Teo Chin Ling Grace (Math) | <font size=3><a href="sazali_rahmat@moe.edu.sg"> Mr Sazali Rahmat (ART)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
-|<font size=3>1-7|<font size=3><a href="teo_chin_ling_grace@moe.edu.sg "> Ms. Teo Chin Ling Grace (Math) | <font size=3><a href="sazali_rahmat@moe.edu.sg"> Mr Sazali Rahmat (ART)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
+|<font size=3>1-5|<font size=3><a href="cheong_xinni_cheryl@moe.edu.sg "> Ms. Cheryl Cheong (Chemistry) | <font size=3><a href="sivaprakasam_uthayarani@moe.edu.sg">Ms. Sivaprakasam Uthayarani (TL)|<font size=3><a href="salina_ismail@moe.edu.sg">Ms. Cynthia Lim Xin Ru (EL/Lit)| 
+|<font size=3>1-6|<font size=3><a href="chew_cheng_boon@moe.edu.sg"> 	Mr Chew Cheng Boon (Chemistry) | <font size=3><a href="hemalatha_a_sivakumar@moe.edu.sg"> Ms. Hemalatha D/O Sivakumar (FCE)|<font size=3><a href="salina_ismail@moe.edu.sg">Mdm. Poon Sook Keng (CL)| 
+|<font size=3>1-7|<font size=3><a href="norita_mokhtar@moe.edu.sg">Mdm. Norita Binte Mokhtar (ART) | <font size=3><a href="Mr Lau Yan Wei (CL)">Mr Lau Yan Wei (CL)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
 
 |  <font size=4> CLASS|<font size=4>Secondary Two  |   |    |
 |:--| :-- |:---|:---|
