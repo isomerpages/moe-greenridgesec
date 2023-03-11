@@ -22,7 +22,7 @@ description: ""
 	
 
 
-|................................................................................................. |_________________________________________||
+|   |   |   |
 | -------- | -------- | --------:|
 |<font size="3" >Mdm. Salina Bte Ismail|<font size="3"  > School Staff Developer   | <font size="3" ><a href="salina_ismail@moe.edu.sg "> salina_ismail@moe.edu.sg </a>  |
 |<font  size="3" >Mr. Chiu Guo Vei    |<font size="3" > HOD – Character & Citizenship Education   | <font size="3" ><a href="chiu_guo_vei@moe.edu.sg"> chiu_guo_vei@moe.edu.sg</a>   |
