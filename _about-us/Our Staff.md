@@ -43,8 +43,8 @@ description: ""
 <font face="arial, sans-serif" size="3" >19 Mdm. Shen Wei /font>|<font face="arial, sans-serif" size="3" >SH – Chinese Language </font>  | <font face="arial, sans-serif" size="3" ><a href=" shen_wei@moe.edu.sg   "> shen_wei@moe.edu.sg   </a> </font>  |
 |<font face="arial, sans-serif" size="3" >20 Ms. Ng Huey Lee </font>    |<font face="arial, sans-serif" size="3" > SH – Design & Technology   </font>  | <font face="arial, sans-serif" size="3" ><a href=" 	ng_huey_lee@moe.edu.sg    g "> 	ng_huey_lee@moe.edu.sg   </a> </font>  |
 |<font face="arial, sans-serif" size="3" >21 Ms. Meenatchi D/O Ramasamy </font>    |<font face="arial, sans-serif" size="3" >SH – English Language </font>  | <font face="arial, sans-serif" size="3" ><a href="meenatchi_ramasamy@moe.edu.sg    ">meenatchi_ramasamy@moe.edu.sg  </a> </font>  |
-|<font face="arial, sans-serif" size="3" >Ms. Nurhayati Bte Rahman <br> </font>    |<font face="arial, sans-serif" size="3" >SH – Geography </font>  | <font face="arial, sans-serif" size="3" ><a href="nurhayati_rahman@moe.edu.sg ">nurhayati_rahman@moe.edu.sg</a> </font>  |
-|<font face="arial, sans-serif" size="3" >Mr. Wong Shan Jing<br> </font>|<font face="arial, sans-serif" size="3" > HOD and Year Head (Sec 2/3) </font>  | <font face="arial, sans-serif" size="3" ><a href="wong_shan_jing@moe.edu.sg">wong_shan_jing@moe.edu.sg</a> </font>  |
+|<font face="arial, sans-serif" size="3" >22 Ms. Nurhayati Bte Rahman <br> </font>    |<font face="arial, sans-serif" size="3" >SH – Geography </font>  | <font face="arial, sans-serif" size="3" ><a href="nurhayati_rahman@moe.edu.sg ">nurhayati_rahman@moe.edu.sg</a> </font>  |
+|<font face="arial, sans-serif" size="3" >Mr. Lim Yeun Chen Mark </font>|<font face="arial, sans-serif" size="3" >SH – Information-Communications & Technology </font>  | <font face="arial, sans-serif" size="3" ><a href="lim_yeun_chen@moe.edu.sg ">lim_yeun_chen@moe.edu.sg </a> </font>  |
 
 
 
