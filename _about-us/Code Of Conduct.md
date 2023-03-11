@@ -9,7 +9,7 @@ description: ""
 <font size =3 color=blue>Our school’s code of conduct provides moral compass for us to grow into confident learners, compassionate leaders and ethical innovators. We live by the code of conduct both within and beyond the school premises, especially when we can be identified as Greenridgeans. Should we fall short of our code of conduct, we will recognise our misconduct, face consequences with the right attitude, relearn and restore by practising more of the desired behaviour.
 
 	
-### Respect and Empathy
+#### Respect and Empathy
 We act with due regard for self & others’ dignity and worth. In empathy, we feel for and are mindful of the needs of others. Together, we reflect a respectful mind.
 	
 <font size=4 color=red type=bold>Respect for Organisational Identity </font>
