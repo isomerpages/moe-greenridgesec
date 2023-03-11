@@ -22,9 +22,9 @@ description: ""
 
 |               |               |             |
 | :--------| :------- | -------:| 
-|<font face="arial, sans-serif" size="3" >1 Mdm. Saalina Bte Ismail <br> </font>    |<font face="arial, sans-serif" size="3" > School Staff Developer </font>  | <font face="arial, sans-serif" size="3" ><a href="salina_ismail@moe.edu.sg "> salina_ismail@moe.edu.sg </a> </font>  |
-|<font face="arial, sans-serif" size="3" >2 Mr. Chiu Guo Vei 	<br> </font>    |<font face="arial, sans-serif" size="3" > HOD – Character & Citizenship Education </font>  | <font face="arial, sans-serif" size="3" ><a href="chiu_guo_vei@moe.edu.sg"> chiu_guo_vei@moe.edu.sg</a> </font>  |
-|<font face="arial, sans-serif" size="3" >3 Mdm. Chng Yi Na  <br> </font>    |<font face="arial, sans-serif" size="3" > HOD – English Language 	  </font>  | <font face="arial, sans-serif" size="3" ><a href="chng_yi_na@moe.edu.sg  "> chng_yi_na@moe.edu.sg  </a> </font>  |
+|<font size="3" >Mdm. Salina Bte Ismail</font>|<font size="3"  > School Staff Developer </font>  | <font face="arial, sans-serif" size="3" ><a href="salina_ismail@moe.edu.sg "> salina_ismail@moe.edu.sg </a> </font> |
+|<font face="arial, sans-serif" size="3" >Mr. Chiu Guo Vei</font>    |<font face="arial, sans-serif" size="3" > HOD – Character & Citizenship Education </font>  | <font face="arial, sans-serif" size="3" ><a href="chiu_guo_vei@moe.edu.sg"> chiu_guo_vei@moe.edu.sg</a> </font>  |
+|<font face="arial, sans-serif" size="3" >Mdm. Chng Yi Na</font>    |<font face="arial, sans-serif" size="3" > HOD – English Language</font>  | <font face="arial, sans-serif" size="3" ><a href="chng_yi_na@moe.edu.sg  "> chng_yi_na@moe.edu.sg  </a> </font>  |
 |<font face="arial, sans-serif" size="3" >4 Mdm. Christina D/O Joseph<br> </font>    |<font face="arial, sans-serif" size="3" > HOD – Humanities  </font>  | <font face="arial, sans-serif" size="3" ><a href="christina_joseph@moe.edu.sg "> christina_joseph@moe.edu.sg </a> </font>  |
 |<font face="arial, sans-serif" size="3" >5 Mdm. Wang Jieying Clara  <br> </font>    |<font face="arial, sans-serif" size="3" > HOD – Information- Communications & Technology   </font>  | <font face="arial, sans-serif" size="3" ><a href="wang_jieying_clara@moe.edu.sg  "> wang_jieying_clara@moe.edu.sg  </a> </font>  |
 |<font face="arial, sans-serif" size="3" >6 Ms. Yong Hsueh Li, Shirley    	<br> </font>    |<font face="arial, sans-serif" size="3" >HOD –  Innovation & Design    </font>  | <font face="arial, sans-serif" size="3" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a></font>|
