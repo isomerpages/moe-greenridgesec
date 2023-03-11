@@ -52,7 +52,7 @@ description: ""
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-| <font size="6" color ="red"  >Text     | <font size="5" >Text     | <font size="4" >Text     |
+| <font size="6" color ="red"  >Text     | <font size="5" color ="red" >Text     | <font size="4" >Text     |
 
 
 
