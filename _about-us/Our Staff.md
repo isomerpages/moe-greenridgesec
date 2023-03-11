@@ -110,7 +110,7 @@ description: ""
 |<font size=3>3-8|<font size=3><a href="lim_yeun_chen@moe.edu.sg"> 	Mr Mark Lim Yeun Chen (Math)| <font size=3><a href="dai_yuwen@moe.edu.sg"> Dai Yuwen (CL)<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
 |<font size=3>3-9|<font size=3><a href="tan_pei_lin_esther@moe.edu.sg"> Ms. Tan Pei Lin Esther (SS)| <font size=3><a href="Sabrina_Wirawan@moe.edu.sg">Ms. Sabrina Wirawan (POA)|<font size=3><a href="salina_ismail@moe.edu.sg">t3| 
 |<font size=3>3-10|<font size=3><a href="nurhayati_rahman@moe.edu.sg">Nurhayati Rahman (Geo)| <font size=3><a href="teo_hong@moe.edu.sg">Mr Teo Hong (PE)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
-|<font size=3>3-11|<font size=3><a href="chin_zhong_ning@moe.edu.sg">Mr Chin Zhong Ning (Math)| <font size=3><a href="asrida_riduan_mahmood@moe.edu.sg>Mdm. Asrida Binte Riduan Mahmood (ML)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
+|<font size=3>3-11|<font size=3><a href="chin_zhong_ning@moe.edu.sg">Mr Chin Zhong Ning (Math)| <font size=3><a href="asrida_riduan_mahmood@moe.edu.sg">Mdm. Asrida Binte Riduan Mahmood (ML)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
 
 
 	
