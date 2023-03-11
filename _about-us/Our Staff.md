@@ -134,8 +134,10 @@ description: ""
 ##### Executive and Administrative Staff
 |   |   |   |
 | :--| :-- | -- |
-|<font size=4>Mr. Ng Boon Kiat|<font size=4 > Principal|<font size=4 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a> |
-|<font size=4 >Mrs. Dalina Abdullah - Firdouse|<font size=4 > Vice-Principal | <font  size=4><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> |
+|<font size=3>Mr. Ng Boon Kiat|<font size=4 > Principal|<font size=4 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a> |
+|<font size=3 >Mrs. Dalina Abdullah - Firdouse|<font size=4 > Vice-Principal | <font  size=4><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> |
+|<font  size=3>Mr. Arthur Ngoh    |<font  size=4 > Vice-Principal   | <font  size=4 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a>  |
+|<font size=3 >Mr. Toh Wee Beng    |<font  size=4 > Vice-Principal(Admin)  | <font  size=4 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a>   |
 |<font  size=4>Mr. Arthur Ngoh    |<font  size=4 > Vice-Principal   | <font  size=4 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a>  |
 |<font size=4 >Mr. Toh Wee Beng    |<font  size=4 > Vice-Principal(Admin)  | <font  size=4 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a>   |
 
