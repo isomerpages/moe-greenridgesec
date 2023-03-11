@@ -16,11 +16,10 @@ description: ""
 |   |   |   |
 | :--| :-- | -- |
 |<font size=4>Mr. Ng Boon Kiat|<font size=4 > Principal|<font size=4 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a> |
-|<font size=4 >Mrs. Dalina Abdullah - Firdouse|<font size=4 > Vice-Principal | <font  size=4><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> |
+|<font size=4 >Mrs. Dalina Abdullah - Firdouse|<font size=4 > Vice-Principal | <font  size=4><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a> |
 |<font  size=4>Mr. Arthur Ngoh    |<font  size=4 > Vice-Principal   | <font  size=4 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a>  |
 |<font size=4 >Mr. Toh Wee Beng    |<font  size=4 > Vice-Principal(Admin)  | <font  size=4 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a>   |
 	
-
 
 |   |   |   |
 |:--| :-- |---:|
@@ -133,8 +132,8 @@ description: ""
 	
 ##### Executive and Administrative Staff
 |   |   |   |
-| :--| :-- | -- |
-|<font size=3>Mr. Leong Mun Sung Daniel|<font size=3 >Senior School Cousellor|<font size=3 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a> |
+| :--| :-- | --: |
+|<font size=3>Mr. Leong Mun Sung Daniel|<font size=3 >Senior School Cousellor|<font size=3 ><a href="mailto:leong_mun_sung_daniel@moe.edu.sg  "> leong_mun_sung_daniel@moe.edu.sg  </a> |
 |<font size=3 >Mdm. Clara Yap Bee Hoon |<font size=3 >School Counsellor| <font  size=3><a href="mailto:clara_yap_bee_hoon@moe.edu.sg "> clara_yap_bee_hoon@moe.edu.sg </a> |
 |<font  size=3>Mr. Jeffrey Bin Abdul Mugni |<font  size=3>Senior Special Education Needs Officer  | <font  size=3 ><a href="mailto:jeffrey_abdul_mugni@moe.edu.sg "> jeffrey_abdul_mugni@moe.edu.sg </a>  |
 |<font size=3 > Ms. Gianna Gayatri Francis	|<font  size=3 >Special Education Needs Officer | <font  size=3 ><a href="mailto:gianna_gayatri_mnomokan@moe.edu.sg  "> gianna_gayatri_mnomokan@moe.edu.sg  </a>   |
