@@ -117,20 +117,19 @@ description: ""
 
 |  <font size=4> CLASS|<font size=4>Secondary Four |   |    |
 |:--| :-- |:---|:---|
-|<font size=3>4-1|<font size=3><a href="mailto:sangeetha_chandra@moe.edu.sg"> [Mdm. Sangeetha d/o Chandra](mailto:sangeetha_chandra@moe.edu.sg) (CPA/Math)| <font size=3><a href="melvin_foo_cheng_loong@moe.edu.sg"> Mr Melvin Foo Cheng Loong (Math)|<font size=3><a href="salina_ismail@moe.edu.sg">t3
-|<font size=3>4-2|<font size=3><a href="tan_mei_li_joanne@moe.edu.sg">Mdm. Tan Mei Li Joanne (EL)| <font size=3><a href="chee_yuan_jun@moe.edu.sg">Mr Chee Yuan Jun (SS)|<font size=3><a href="salina_ismail@moe.edu.sg">Ms. Shawna Teo (AED) | 
-|<font size=3>4-3|<font size=3><a href="maria_cbg@moe.edu.sg"> Ms. Maria Concepcion (EL)| <font size=3><a href="toh_xin_hui@moe.edu.sg">Ms. Toh Xin Hui (CL)|<font size=3><a href="salina_ismail@moe.edu.sg">t3| 
-|<font size=3>4-4|<font size=3><a href="ong_eng_jye_ugene@moe.edu.sg"> Mr Ugene Ong (Math)| <font size=3><a href="norsuzana_saini@moe.edu.sg">Ms. Norsuzana Saini (D&T)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
-|<font size=3>4-5|<font size=3><a href="renuga_rama_moorthy@moe.edu.sg"> Ms. Renuga D/O Rama Moorthy (FCE)| <font size=3><a href="chang_jing@moe.edu.sg">Mr Chang Jing (Chemistry)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
-|<font size=3>4-6|<font size=3><a href="balasuntharie_sinnappo_man@moe.edu.sg">Mdm. Balasuntharie d/o S Maniam (Mrs. Selvan) (EL) | <font size=3><a href="glenice_au_hui_min@moe.edu.sg"> Ms. Estee Leong (HIS/LIT)|<font size=3><a href="salina_ismail@moe.edu.sg">t3| 
-|<font size=3>4-7|<font size=3><a href="chin_zhi_hao@moe.edu.sg">Mr Chin Zhi Hao (Math)| <font size=3><a href="rengasamy_vasanthadhevi@moe.edu.sg">Mdm. Rengasamy Vasanthadhevi (Mdm. Dhevi) (TL)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
-|<font size=3>4-8|<font size=3><a href="lim_yeun_chen@moe.edu.sg"> 	Mr Mark Lim Yeun Chen (Math)| <font size=3><a href="dai_yuwen@moe.edu.sg"> Dai Yuwen (CL)<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
-|<font size=3>4-9|<font size=3><a href="tan_pei_lin_esther@moe.edu.sg"> Ms. Tan Pei Lin Esther (SS)| <font size=3><a href="Sabrina_Wirawan@moe.edu.sg">Ms. Sabrina Wirawan (POA)|<font size=3><a href="salina_ismail@moe.edu.sg">t3| 
-|<font size=3>4-10|<font size=3><a href="nurhayati_rahman@moe.edu.sg">Nurhayati Rahman (Geo)| <font size=3><a href="teo_hong@moe.edu.sg">Mr Teo Hong (PE)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
-|<font size=3>4-11|<font size=3><a href="chin_zhong_ning@moe.edu.sg">Mr Chin Zhong Ning (Math)| <font size=3><a href="asrida_riduan_mahmood@moe.edu.sg">Mdm. Asrida Binte Riduan Mahmood (ML)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
-|<font size=3>4-11|<font size=3><a href="Ms. Siti Fasihah Borhan (ML)">[Ms. Siti Fasihah Borhan](mailto:siti_fasihah_borhan@moe.edu.sg) (ML)| <font size=3><a href="teo_hong@moe.edu.sg">Mr Teo Hong (PE)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
-|<font size=3>4-12|<font size=3><a href="yap_xiao_ting@moe.edu.sg">Ms. Yap Xiao Ting (Phy)| <font size=3><a href="huang_shufen_a@moe.edu.sg">Ms. Huang Shufen (POA)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
-|<font size=3>5-1|<font size=3><a href="radiah_matmin@moe.edu.sg">Mdm. Radiah Bte Matmin (ML)| <font size=3><a href="chua_chang@moe.edu.sg"> Mr Chua Chang (Chemistry)|<font size=3><a href="salina_ismail@moe.edu.sg">| 
+|<font size=3>4-1|<font size=3><a href="mailto:sangeetha_chandra@moe.edu.sg"> [Mdm. Sangeetha d/o Chandra (CPA/Math)| <font size=3><a href="mailto:tan_jui_chin_bernard@moe.edu.sg"> Mr Tan Jui Chin Bernard (CPA/ DNT)|<font size=3><a href="mailto:salina_ismail@moe.edu.sg">
+|<font size=3>4-2|<font size=3><a href="mailto:lydia_salim@moe.edu.sg">Ms. Lydia Salim (BIO)| <font size=3><a href="mailto:afiqa_nadia_zainal@schools.gov.sg">Ms. Afiqa Nadia Bte Zainal (ML)|<font size=3><a href="mailto:salina_ismail@moe.edu.sg"> | 
+|<font size=3>4-3|<font size=3><a href="mailto:andy_chia_meng_hong@moe.edu.sg"> Mr Andy Chia Meng Hong (D&T))| <font size=3><a href="mailto:lim_ying_ting_denise@moe.edu.sg">Mdm. Denise Lim Ying Ting (HIS)|<font size=3><a href="mailto:salina_ismail@moe.edu.sg">| 
+|<font size=3>4-4|<font size=3><a href="mailto:ong_eng_jye_ugene@moe.edu.sg"> Mr Ugene Ong (Math)| <font size=3><a href="mailto:norsuzana_saini@moe.edu.sg">Ms. Norsuzana Saini (D&T)|<font size=3><a href="mailto:salina_ismail@moe.edu.sg">t3 | 
+|<font size=3>4-5|<font size=3><a href="mailto:renuga_rama_moorthy@moe.edu.sg"> Ms. Renuga D/O Rama Moorthy (FCE)| <font size=3><a href="mailto:chang_jing@moe.edu.sg">Mr Chang Jing (Chemistry)|<font size=3><a href="mailto:salina_ismail@moe.edu.sg">t3 | 
+|<font size=3>4-6|<font size=3><a href="mailto:balasuntharie_sinnappo_man@moe.edu.sg">Mdm. Balasuntharie d/o S Maniam (Mrs. Selvan) (EL) | <font size=3><a href="mailto:glenice_au_hui_min@moe.edu.sg"> Ms. Estee Leong (HIS/LIT)|<font size=3><a href="mailto:salina_ismail@moe.edu.sg">t3| 
+|<font size=3>4-7|<font size=3><a href="mailto:chin_zhi_hao@moe.edu.sg">Mr Chin Zhi Hao (Math)| <font size=3><a href="mailto:rengasamy_vasanthadhevi@moe.edu.sg">Mdm. Rengasamy Vasanthadhevi |<font size=3><a href="Vsalina_ismail@moe.edu.sg">t3 | 
+|<font size=3>4-8|<font size=3><a href="mailto:lim_yeun_chen@moe.edu.sg"> 	Mr Mark Lim Yeun Chen (Math)| <font size=3><a href="mailto:dai_yuwen@moe.edu.sg"> Dai Yuwen (CL)<font size=3><a href="mailto:salina_ismail@moe.edu.sg">t3 | 
+|<font size=3>4-9|<font size=3><a href="mailto:tan_pei_lin_esther@moe.edu.sg"> Ms. Tan Pei Lin Esther (SS)| <font size=3><a href="mailto:Sabrina_Wirawan@moe.edu.sg">Ms. Sabrina Wirawan (POA)|<font size=3><a href="mailto:salina_ismail@moe.edu.sg">t3| 
+|<font size=3>4-10|<font size=3><a href="mailto:nurhayati_rahman@moe.edu.sg">Nurhayati Rahman (Geo)| <font size=3><a href="mailto:teo_hong@moe.edu.sg">Mr Teo Hong (PE)|<font size=3><a href="mailto:salina_ismail@moe.edu.sg">t3 | 
+|<font size=3>4-11|<font size=3><a href="mailto:chin_zhong_ning@moe.edu.sg">Mr Chin Zhong Ning (Math)| <font size=3><a href="mailto:asrida_riduan_mahmood@moe.edu.sg">Mdm. Asrida Binte Riduan Mahmood (ML)|<font size=3><a href="mailto:salina_ismail@moe.edu.sg">t3 | 
+|<font size=3>4-12|<font size=3><a href="mailto:yap_xiao_ting@moe.edu.sg">Ms. Yap Xiao Ting (Phy)| <font size=3><a href="mailto:huang_shufen_a@moe.edu.sg">Ms. Huang Shufen (POA)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
+|<font size=3>5-1|<font size=3><a href="mailto:radiah_matmin@moe.edu.sg">Mdm. Radiah Bte Matmin (ML)| <font size=3><a href="mailto:chua_chang@moe.edu.sg"> Mr Chua Chang (Chemistry)|<font size=3><a href="salina_ismail@moe.edu.sg">| 
 	
 	
 	
