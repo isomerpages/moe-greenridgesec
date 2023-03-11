@@ -9,28 +9,24 @@ description: ""
 
 
 ### VISION:
-
-Confident Learners, Compassionate Leaders, Ethical Innovators
+<font size =5>Confident Learners, Compassionate Leaders, Ethical Innovators
 
 ### MISSION:
-
 Shaping Character, Inspiring Learning
 
 ### MOTTO:
-
 Together Onward
 
 ### CORE VALUES:
-
 **RIDGE**
 
 **R** \- Respect  
 **I** \- Integrity  
-**D** \- Diligence
-**G** \- Grit  
+**D** \- Diligence  
+**G**\- Grit  
 **E** \- Empathy
 
-  
+  </font>
 
 ### SCHOOL LOGO:
 
