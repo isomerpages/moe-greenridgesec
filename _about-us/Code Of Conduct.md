@@ -29,6 +29,3 @@ We are honest and have strong moral principles. We live by our values and are ho
 Being diligent, we are responsible to put in the consistent effort to achieve our goals. With grit, we have the resolve and resilience to face challenges and overcome adversity. Together, we reflect discipline.
 
 More details on the Code of Conduct can be found in the Student Handbook.
-
-
-
