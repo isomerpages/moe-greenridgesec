@@ -6,7 +6,7 @@ description: ""
 # **Code Of Conduct**
 
 
-<font size =3 color=blue>Our school’s code of conduct provides moral compass for us to grow into confident learners, compassionate leaders and ethical innovators. We live by the code of conduct both within and beyond the school premises, especially when we can be identified as Greenridgeans. Should we fall short of our code of conduct, we will recognise our misconduct, face consequences with the right attitude, relearn and restore by practising more of the desired behaviour.</font>
+<font size =4 color=blue>Our school’s code of conduct provides moral compass for us to grow into confident learners, compassionate leaders and ethical innovators. We live by the code of conduct both within and beyond the school premises, especially when we can be identified as Greenridgeans. Should we fall short of our code of conduct, we will recognise our misconduct, face consequences with the right attitude, relearn and restore by practising more of the desired behaviour.</font>
 
 
 	
