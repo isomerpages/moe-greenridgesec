@@ -28,7 +28,7 @@ description: ""
 |<font  size=3 >Mdm. Chng Yi Na    |<font  size=3 > HOD – English Language  | <font  size=3 ><a href="mailto:chng_yi_na@moe.edu.sg"> chng_yi_na@moe.edu.sg  </a>   |
 |<font  size=3 >Mdm. Christina D/O Joseph|<font  size=3 > HOD – Humanities| <font  size=3 ><a href="mailto:christina_joseph@moe.edu.sg"> christina_joseph@moe.edu.sg </a>   |
 |<font  size=3 >Mdm. Wang Jieying Clara |<font  size=3 > HOD – Information - Communications & Technology     | <font  size=3 ><a href="mailto:wang_jieying_clara@moe.edu.sg"> wang_jieying_clara@moe.edu.sg  </a>   |
-|<font  size=3 >Ms. Yong Hsueh Li, Shirley |<font  size=3 >HOD –  Innovation & Design| <font  size=3 ><a href="mailto:yong_hsueh_li_shirley@moe.edu.sg"> gss@moe.edu.sg</a> |
+|<font  size=3 >Ms. Yong Hsueh Li, Shirley |<font  size=3 >HOD –  Innovation & Design| <font  size=3 ><a href="mailto:yong_hsueh_li_shirley@moe.edu.sg"> yong_hsueh_li_shirley@moe.edu.sg</a> |
 |<font  size=3>Mrs. Goh-Kok Mei Leng   |<font  size=3> HOD – Mathematics      | <font  size=3><a href="mailto: kok_mei_leng@moe.edu.sg">  kok_mei_leng@moe.edu.sg </a>   |
 |<font  size=3 >Mdm. Tew Geok Eng  |<font  size=3 > HOD – Mathematics  	  | <font  size=3 ><a href="mailto:tew_geok_eng@moe.edu.sg">  tew_geok_eng@moe.edu.sg </a>   |
 |<font  size=3>Mdm. Ng Tze Fang     |<font  size=3> HOD – Mother Tongue Language  | <font  size=3 ><a href="mailto:ng_tze_fang@moe.edu.sg">ng_tze_fang@moe.edu.sg</a>   |
