@@ -97,6 +97,31 @@ description: ""
 |<font size=3>2-5|<font size=3><a href="natasha_ashikin_nor_sam@moe.edu.sg"> Mdm. Natasha Ashikin Bte Nor S.A (Music)| <font size=3><a href="tehreem_a@moe.edu.sg">Ms. Tehreem (SS/EL)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
 |<font size=3>2-6|<font size=3><a href="tkoh_kha_chuang@moe.edu.sg">Mr Koh Kha Chuang (Physics) | <font size=3><a href="leong_yuan_man_estee@moe.edu.sg"> Ms. Estee Leong (HIS/LIT)|<font size=3><a href="salina_ismail@moe.edu.sg">Mr Viknesh Kumar Somu  (EL/SS)| 
 
+	
+|  <font size=4> CLASS|<font size=4>Secondary Three  |   |    |
+|:--| :-- |:---|:---|
+|<font size=3>3-1|<font size=3><a href="liaw_poh_geok@moe.edu.sg"> Mdm. Liaw Poh Geok (D&T) | <font size=3><a href="melvin_foo_cheng_loong@moe.edu.sg"> Mr Melvin Foo Cheng Loong (Math)|<font size=3><a href="salina_ismail@moe.edu.sg">t3
+|<font size=3>3-2|<font size=3><a href="tan_mei_li_joanne@moe.edu.sg">Mdm. Tan Mei Li Joanne (EL)| <font size=3><a href="chee_yuan_jun@moe.edu.sg">Mr Chee Yuan Jun (SS)|<font size=3><a href="salina_ismail@moe.edu.sg">Ms. Shawna Teo (AED) | 
+|<font size=3>3-3|<font size=3><a href="maria_cbg@moe.edu.sg"> Ms. Maria Concepcion (EL)| <font size=3><a href="toh_xin_hui@moe.edu.sg">Ms. Toh Xin Hui (CL)|<font size=3><a href="salina_ismail@moe.edu.sg">Ms. Teo Sin En (CL)| 
+|<font size=3>3-4|<font size=3><a href="ong_eng_jye_ugene@moe.edu.sg"> Mr Ugene Ong (Math)| <font size=3><a href="norsuzana_saini@moe.edu.sg">Ms. Norsuzana Saini (D&T)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
+|<font size=3>3-5|<font size=3><a href="renuga_rama_moorthy@moe.edu.sg"> Ms. Renuga D/O Rama Moorthy (FCE)| <font size=3><a href="chang_jing@moe.edu.sg">Mr Chang Jing (Chemistry)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
+|<font size=3>3-6|<font size=3><a href="balasuntharie_sinnappo_man@moe.edu.sg">Mdm. Balasuntharie d/o S Maniam (Mrs. Selvan) (EL) | <font size=3><a href="glenice_au_hui_min@moe.edu.sg"> Ms. Estee Leong (HIS/LIT)|<font size=3><a href="salina_ismail@moe.edu.sg">Mr Viknesh Kumar Somu  (EL/SS)| 
+|<font size=3>3-7|<font size=3><a href="chin_zhi_hao@moe.edu.sg">Mr Chin Zhi Hao (Math)| <font size=3><a href="rengasamy_vasanthadhevi@moe.edu.sg">Mdm. Rengasamy Vasanthadhevi (Mdm. Dhevi) (TL)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
+|<font size=3>3-8|<font size=3><a href="lim_yeun_chen@moe.edu.sg"> 	Mr Mark Lim Yeun Chen (Math)| <font size=3><a href="dai_yuwen@moe.edu.sg"> Dai Yuwen (CL)<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
+|<font size=3>3-9|<font size=3><a href="tan_pei_lin_esther@moe.edu.sg"> Ms. Tan Pei Lin Esther (SS)| <font size=3><a href="Sabrina_Wirawan@moe.edu.sg">Ms. Sabrina Wirawan (POA)|<font size=3><a href="salina_ismail@moe.edu.sg">t3| 
+|<font size=3>3-10|<font size=3><a href="nurhayati_rahman@moe.edu.sg">Nurhayati Rahman (Geo)| <font size=3><a href="teo_hong@moe.edu.sg">Mr Teo Hong (PE)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
+|<font size=3>3-11|<font size=3><a href="chin_zhong_ning@moe.edu.sg">Mr Chin Zhong Ning (Math)| <font size=3><a href="asrida_riduan_mahmood@moe.edu.sg>Mdm. Asrida Binte Riduan Mahmood (ML)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
 <table width="2100" class="iveo_table ives_tab_simple" style="margin: 0px; 
 																															outline: 0px; 
 																															padding: 0px; 
