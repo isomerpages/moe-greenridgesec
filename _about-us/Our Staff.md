@@ -135,11 +135,11 @@ description: ""
 |   |   |   |
 | :--| :-- | -- |
 |<font size=3>Mr. Leong Mun Sung Daniel|<font size=3 >Senior School Cousellor|<font size=3 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a> |
-|<font size=3 >Mdm. Clara Yap Bee Hoon |<font size=3 >School Counsellor| <font  size=3><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> |
-|<font  size=3>Mr. Jeffrey Bin Abdul Mugni |<font  size=3>Senior Special Education Needs Officer  | <font  size=3 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a>  |
-|<font size=3 > Ms. Gianna Gayatri Francis	|<font  size=3 > Vice-Principal(Admin)  | <font  size=3 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a>   |
-|<font  size=3>Ms. Koh Hui Yan|<font  size=3 > Vice-Principal   | <font  size=3 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a>  |
-|<font size=3 > Ms. Shawna Teo Lian Choo|<font  size=3 > Vice-Principal(Admin)  | <font  size=3 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a>   |
+|<font size=3 >Mdm. Clara Yap Bee Hoon |<font size=3 >School Counsellor| <font  size=3><a href="mailto:clara_yap_bee_hoon@moe.edu.sg "> clara_yap_bee_hoon@moe.edu.sg </a> |
+|<font  size=3>Mr. Jeffrey Bin Abdul Mugni |<font  size=3>Senior Special Education Needs Officer  | <font  size=3 ><a href="mailto:jeffrey_abdul_mugni@moe.edu.sg "> jeffrey_abdul_mugni@moe.edu.sg </a>  |
+|<font size=3 > Ms. Gianna Gayatri Francis	|<font  size=3 >Special Education Needs Officer | <font  size=3 ><a href="mailto:gianna_gayatri_mnomokan@moe.edu.sg  "> gianna_gayatri_mnomokan@moe.edu.sg  </a>   |
+|<font  size=3>Ms. Koh Hui Yan|<font  size=3 >Student Welfare Officer | <font  size=3 ><a href="mailto:koh_hui_yan@moe.edu.sg "> koh_hui_yan@moe.edu.sg </a>  |
+|<font size=3 > Ms. Shawna Teo Lian Choo|<font  size=3 > Allied Educator (T&L)| <font  size=3 ><a href="mailto:shawna_teo_lian_choo@moe.edu.sg "> shawna_teo_lian_choo@moe.edu.sg </a>   |
 
 
 
