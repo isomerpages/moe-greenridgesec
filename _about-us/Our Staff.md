@@ -73,7 +73,7 @@ description: ""
 -------------------
 
 	
-|   CLASS|Secondary One Form Teachers  |   |    |
+|   <font size=4>CLASS|<font size=4>Secondary One|   |    |
 |:--| :-- |:---|:---|
 |<font size=3>1-1|<font size=3><a href="teo_chin_ling_grace@moe.edu.sg "> Ms. Teo Chin Ling Grace (Math) | <font size=3><a href="sazali_rahmat@moe.edu.sg"> Mr Sazali Rahmat (ART)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
 |<font size=3>1-2|<font size=3><a href="shen_wei@moe.edu.sg"> Mdm. Shen Wei (CL) | <font size=3><a href="lee_wei_song@moe.edu.sg"> Mr Lee Wei Song (SS/EL)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
@@ -83,7 +83,7 @@ description: ""
 |<font size=3>1-6|<font size=3><a href="teo_chin_ling_grace@moe.edu.sg "> Ms. Teo Chin Ling Grace (Math) | <font size=3><a href="sazali_rahmat@moe.edu.sg"> Mr Sazali Rahmat (ART)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
 |<font size=3>1-7|<font size=3><a href="teo_chin_ling_grace@moe.edu.sg "> Ms. Teo Chin Ling Grace (Math) | <font size=3><a href="sazali_rahmat@moe.edu.sg"> Mr Sazali Rahmat (ART)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
 
-|   CLASS|Secondary Two Form Teachers  |   |    |
+|  <font size=4> CLASS|<font size=4>Secondary Two  |   |    |
 |:--| :-- |:---|:---|
 |<font size=3>1-1|<font size=3><a href="teo_chin_ling_grace@moe.edu.sg "> Ms. Teo Chin Ling Grace (Math) | <font size=3><a href="sazali_rahmat@moe.edu.sg"> Mr Sazali Rahmat (ART)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
 
