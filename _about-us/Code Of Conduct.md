@@ -12,7 +12,7 @@ description: ""
 ### Respect and Empathy
 We act with due regard for self & others’ dignity and worth. In empathy, we feel for and are mindful of the needs of others. Together, we reflect a respectful mind.
 	
-- <font size=4 color=red type=bold>Respect for Organisational Identity </font>
+<font size=4 color=red type=bold>Respect for Organisational Identity </font>
 
 |Item | Description| 
 | -------- | -------- | 
