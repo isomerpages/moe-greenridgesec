@@ -40,7 +40,7 @@ description: ""
 |<font  size="3" >16 Mr. Naraindran S/O Chandrashagaran     |<font  size="3" > AssistantYear Head      | <font  size="3" ><a href=" naraindran_chandrahagaran@moe.edu.sg"> naraindran_chandrashagaran@moe.edu.sg  </a>   |
 |<font  size="3" >17 Mdm. Grace Foa Chee Zhu<br>     |<font  size="3" >SH – CCE   | <font  size="3" ><a href="foa_chee_zhu@moe.edu.sg     ">foa_chee_zhu@moe.edu.sg </a>   |
 |<font  size="3" >18 Ms. Cheong Xinni Cheryl <br>     |<font  size="3" >SH – Chemistry  | <font  size="3" ><a href="cheong_xinni_cheryl@moe.edu.sg  ">cheong_xinni_cheryl@moe.edu.sg   
-<font  size="3" >19 Mdm. Shen Wei /font>|<font  size="3" >SH – Chinese Language   | <font  size="3" ><a href=" shen_wei@moe.edu.sg   "> shen_wei@moe.edu.sg   </a>   |
+<font  size="3" >19 Mdm. Shen Wei |<font  size="3" >SH – Chinese Language   | <font  size="3" ><a href=" shen_wei@moe.edu.sg   "> shen_wei@moe.edu.sg   </a>   |
 |<font  size="3" >20 Ms. Ng Huey Lee     |<font  size="3" > SH – Design & Technology     | <font  size="3" ><a href=" 	ng_huey_lee@moe.edu.sg    g "> 	ng_huey_lee@moe.edu.sg   </a>   |
 |<font  size="3" >21 Ms. Meenatchi D/O Ramasamy     |<font  size="3" >SH – English Language   | <font  size="3" ><a href="meenatchi_ramasamy@moe.edu.sg    ">meenatchi_ramasamy@moe.edu.sg  </a>   |
 |<font  size="3" >22 Ms. Nurhayati Bte Rahman <br>     |<font  size="3" >SH – Geography   | <font  size="3" ><a href="nurhayati_rahman@moe.edu.sg ">nurhayati_rahman@moe.edu.sg</a>   |
