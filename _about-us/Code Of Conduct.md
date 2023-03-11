@@ -23,10 +23,10 @@ We act with due regard for self & others’ dignity and worth. In empathy, we fe
 | | |
 	
 
-<font size=4 color=red type=bold>Integrity </font><br>
+<font size=4 color=red type=bold>Integrity </font>
 We are honest and have strong moral principles. We live by our values and are honest with everyone.
 
-<font size=4 color=red type=bold>Diligence and Grit</font><br>
+<font size=4 color=red type=bold>Diligence and Grit</font>
 Being diligent, we are responsible to put in the consistent effort to achieve our goals. With grit, we have the resolve and resilience to face challenges and overcome adversity. Together, we reflect discipline.
 
 More details on the Code of Conduct can be found in the Student Handbook.
