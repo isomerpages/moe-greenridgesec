@@ -131,8 +131,13 @@ description: ""
 |<font size=3>4-12|<font size=3><a href="mailto:yap_xiao_ting@moe.edu.sg">Ms. Yap Xiao Ting (Phy)| <font size=3><a href="mailto:huang_shufen_a@moe.edu.sg">Ms. Huang Shufen (POA)|<font size=3><a href="salina_ismail@moe.edu.sg">t3 | 
 |<font size=3>5-1|<font size=3><a href="mailto:radiah_matmin@moe.edu.sg">Mdm. Radiah Bte Matmin (ML)| <font size=3><a href="mailto:chua_chang@moe.edu.sg"> Mr Chua Chang (Chemistry)|<font size=3><a href="salina_ismail@moe.edu.sg">| 
 	
-
-     
+##### Executive and Administrative Staff
+|   |   |   |
+| :--| :-- | -- |
+|<font size=4>Mr. Ng Boon Kiat|<font size=4 > Principal|<font size=4 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a> |
+|<font size=4 >Mrs. Dalina Abdullah - Firdouse|<font size=4 > Vice-Principal | <font  size=4><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> |
+|<font  size=4>Mr. Arthur Ngoh    |<font  size=4 > Vice-Principal   | <font  size=4 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a>  |
+|<font size=4 >Mr. Toh Wee Beng    |<font  size=4 > Vice-Principal(Admin)  | <font  size=4 ><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a>   |
 
 
 
