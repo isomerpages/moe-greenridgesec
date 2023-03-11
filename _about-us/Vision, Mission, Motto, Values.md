@@ -9,7 +9,7 @@ description: ""
 
 
 ### VISION:
-<font size =5>Confident Learners, Compassionate Leaders, Ethical Innovators
+Confident Learners, Compassionate Leaders, Ethical Innovators
 
 ### MISSION:
 Shaping Character, Inspiring Learning
@@ -26,7 +26,7 @@ Together Onward
 **G**\- Grit  
 **E** \- Empathy
 
-  </font>
+
 
 ### SCHOOL LOGO:
 
