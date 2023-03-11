@@ -15,15 +15,15 @@ description: ""
 
 |  | |  |
 | -------- | -------- | -------- |
-|<font face="arial, sans-serif" size="4" >Mr. Ng Boon Kiat</font>|<font face="arial, sans-serif" size="4" > Principal  </font> |<font face="arial, sans-serif" size="4" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
-|<font face="arial, sans-serif" size="4" >Mrs. Dalina Abdullah - Firdouse</font>|<font face="arial, sans-serif" size="4" > Vice-Principal </font>  | <font face="arial, sans-serif" size="4" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
-|<font face="arial, sans-serif" size="4" >Mr. Arthur Ngoh</font>    |<font face="arial, sans-serif" size="4" > Vice-Principal  </font>  | <font face="arial, sans-serif" size="4" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
-|<font face="arial, sans-serif" size="4" >Mr. Toh Wee Beng</font>    |<font face="arial, sans-serif" size="4" > Vice-Principal(Admin)  </font>  | <font face="arial, sans-serif" size="4" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
+|<font size="4" >Mr. Ng Boon Kiat</font>|<font size="4" > Principal  </font> |<font size="4" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
+|<font size="4" >Mrs. Dalina Abdullah - Firdouse</font>|<font size="4" > Vice-Principal </font>  | <font  size="4" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
+|<font  size="4" >Mr. Arthur Ngoh</font>    |<font  size="4" > Vice-Principal  </font>  | <font  size="4" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
+|<font size="4" >Mr. Toh Wee Beng</font>    |<font  size="4" > Vice-Principal(Admin)</font>  | <font  size="4" ><a href="gss@moe.edu.sg"> gss@moe.edu.sg</a> </font>  |
 
 |               |               |             |
 | :--------| :------- | -------:| 
-|<font size="3" >Mdm. Salina Bte Ismail</font>|<font size="3"  > School Staff Developer </font>  | <font face="arial, sans-serif" size="3" ><a href="salina_ismail@moe.edu.sg "> salina_ismail@moe.edu.sg </a> </font> |
-|<font face="arial, sans-serif" size="3" >Mr. Chiu Guo Vei</font>    |<font face="arial, sans-serif" size="3" > HOD – Character & Citizenship Education </font>  | <font face="arial, sans-serif" size="3" ><a href="chiu_guo_vei@moe.edu.sg"> chiu_guo_vei@moe.edu.sg</a> </font>  |
+|<font size="3" >Mdm. Salina Bte Ismail</font>|<font size="3"  > School Staff Developer </font>  | <font size="3" ><a href="salina_ismail@moe.edu.sg "> salina_ismail@moe.edu.sg </a> </font> |
+|<font  size="3" >Mr. Chiu Guo Vei</font>    |<font size="3" > HOD – Character & Citizenship Education </font>  | <font size="3" ><a href="chiu_guo_vei@moe.edu.sg"> chiu_guo_vei@moe.edu.sg</a> </font>  |
 |<font face="arial, sans-serif" size="3" >Mdm. Chng Yi Na</font>    |<font face="arial, sans-serif" size="3" > HOD – English Language</font>  | <font face="arial, sans-serif" size="3" ><a href="chng_yi_na@moe.edu.sg  "> chng_yi_na@moe.edu.sg  </a> </font>  |
 |<font face="arial, sans-serif" size="3" >4 Mdm. Christina D/O Joseph<br> </font>    |<font face="arial, sans-serif" size="3" > HOD – Humanities  </font>  | <font face="arial, sans-serif" size="3" ><a href="christina_joseph@moe.edu.sg "> christina_joseph@moe.edu.sg </a> </font>  |
 |<font face="arial, sans-serif" size="3" >5 Mdm. Wang Jieying Clara  <br> </font>    |<font face="arial, sans-serif" size="3" > HOD – Information- Communications & Technology   </font>  | <font face="arial, sans-serif" size="3" ><a href="wang_jieying_clara@moe.edu.sg  "> wang_jieying_clara@moe.edu.sg  </a> </font>  |
@@ -47,6 +47,11 @@ description: ""
 |<font face="arial, sans-serif" size="3" >Mr. Lim Yeun Chen Mark </font>|<font face="arial, sans-serif" size="3" >SH – Information-Communications & Technology </font>  | <font face="arial, sans-serif" size="3" ><a href="lim_yeun_chen@moe.edu.sg ">lim_yeun_chen@moe.edu.sg </a> </font>  |
 
 
+ 
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| <font size="6" color ="red"  >Text     | <font size="5" >Text     | <font size="4" >Text     |
 
 
 
