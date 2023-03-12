@@ -148,16 +148,16 @@ description: ""
 | <font size=3>Mr Sallehuddin 	| <font size=3>Technical Support Officer 	|
 | <font size=3>Mdm. Ong Siew Khim 	|<font size=3> Technical Support Officer	|
 |<font size=3> Mrs. Teo Mei Lin 	|<font size=3> Technical Support Officer	|
-| Ms. Suriati Bte Kardi | Technical Support Officer 	|
-| Mdm. Tan Ah Ngee	|  Operations Support Officer 	|
-| Ng Poh Heok (Sandy)|  Operations Support Officer 	|
-| Mdm.Chia Siew Ping	| Operations Support Officer 	|
-| Mdm. Toh Ah Bee	| Operations Support Officer  	|
-| Mdm. Ngo Guok Lee (Jenny)	|  Operations Support Officer 	|
-| Mr. Siah Hoya Seng|  Operations Support Officer 	|
-| Mdm. Suriaeni Binte Atan	|  Operations Support Officer 	|
-| Mr. Muhammad Luqman Hasif bin Hashim|  Desktop Engineer 	|
-| Mr .Song Jia Hui	|   Desktop Enginee	|
-|   Ms. Losni	|  Student Health Advisor	|
-|   Mdm. Aisha Bevi Binte V Mohammad Kunhi | School Librarian 	|
+| <font size=3>Ms. Suriati Bte Kardi | <font size=3>Technical Support Officer 	|
+| <font size=3>Mdm. Tan Ah Ngee	|  <font size=3>Operations Support Officer 	|
+| <font size=3>Ng Poh Heok (Sandy)|  <font size=3>Operations Support Officer 	|
+| <font size=3>Mdm.Chia Siew Ping	| <font size=3>Operations Support Officer 	|
+| <font size=3>Mdm. Toh Ah Bee	| <font size=3>Operations Support Officer  	|
+| <font size=3>Mdm. Ngo Guok Lee (Jenny)	|  <font size=3>Operations Support Officer 	|
+| <font size=3>Mr. Siah Hoya Seng| <font size=3> Operations Support Officer 	|
+| <font size=3>Mdm. Suriaeni Binte Atan	|  <font size=3>Operations Support Officer 	|
+|<font size=3> Mr. Muhammad Luqman Hasif bin Hashim| <font size=3> Desktop Engineer 	|
+| <font size=3>Mr .Song Jia Hui	| <font size=3>  Desktop Enginee	|
+|   <font size=3>Ms. Losni	|  <font size=3>Student Health Advisor	|
+|   <font size=3>Mdm. Aisha Bevi Binte V Mohammad Kunhi | <font size=3>School Librarian 	|
 |    	|   |
