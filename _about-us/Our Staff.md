@@ -117,10 +117,10 @@ description: ""
 |<font size=3>5-1|<font size=3><a href="mailto:radiah_matmin@moe.edu.sg">Mdm. Radiah Bte Matmin (ML)| <font size=3><a href="mailto:chua_chang@moe.edu.sg"> Mr Chua Chang (Chemistry)|<font size=3><a href="salina_ismail@moe.edu.sg">| 
 | | |
 	
-##### Counsellors
+##### Counsellors and Allied Educators
 |   |   |   |
 | :--| :-- | --: |
-|<font size=3>Mr. Leong Mun Sung Daniel|<font size=3 >Senior School Cousellor|<font size=3 ><a href="mailto:leong_mun_sung_daniel@moe.edu.sg  "> leong_mun_sung_daniel@moe.edu.sg  </a> |
+|<font size=3>Mr. Leong Mun Sung Daniel |<font size=3 >Senior School Cousellor|<font size=3 ><a href="mailto:leong_mun_sung_daniel@moe.edu.sg  "> leong_mun_sung_daniel@moe.edu.sg  </a> |
 |<font size=3 >Mdm. Clara Yap Bee Hoon |<font size=3 >School Counsellor| <font  size=3><a href="mailto:clara_yap_bee_hoon@moe.edu.sg "> clara_yap_bee_hoon@moe.edu.sg </a> |
 |<font  size=3>Mr. Jeffrey Bin Abdul Mugni |<font  size=3>Senior Special Education Needs Officer  | <font  size=3 ><a href="mailto:jeffrey_abdul_mugni@moe.edu.sg "> jeffrey_abdul_mugni@moe.edu.sg </a>  |
 |<font size=3 > Ms. Gianna Gayatri Francis	|<font  size=3 >Special Education Needs Officer | <font  size=3 ><a href="mailto:gianna_gayatri_mnomokan@moe.edu.sg  "> gianna_gayatri_mnomokan@moe.edu.sg  </a>   |
