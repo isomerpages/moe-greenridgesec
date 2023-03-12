@@ -127,7 +127,7 @@ description: ""
 |<font  size=3> Ms. Ismawati Bte Amar Mamori  |<font  size=3 >Education Career Guidance Counsellor| <font  size=3 ><a href="mailto:ismawati_amar_mamori@moe.edu.sg"> ismawati_amar_mamori@moe.edu.sg</a>  |
 |<font  size=3>Ms. Koh Hui Yan|<font  size=3 >Student Welfare Officer | <font  size=3 ><a href="mailto:koh_hui_yan@moe.edu.sg "> koh_hui_yan@moe.edu.sg </a>  |
 |<font size=3 > Ms. Shawna Teo Lian Choo|<font  size=3 > Allied Educator (T&L)| <font  size=3 ><a href="mailto:shawna_teo_lian_choo@moe.edu.sg "> shawna_teo_lian_choo@moe.edu.sg </a>   |
-| | |
+| | | |
 
 
 ##### Executive and Administrative Staff
