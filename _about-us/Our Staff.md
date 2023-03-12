@@ -134,14 +134,14 @@ description: ""
 
 |  	|  	|
 |:---	|---:	|
-| Ms Kristie Chen 	| Administrative Manager 	|
-| Mr Sarjantpal Singh 	| Operations Manager 	|
-| Mr. L Thanabalan  	| Operations Manager 	|
-| Mr. Peh Kah Huat	| Operations Manager 	|
-| Mdm.   Lee Soh Peng (Jasmine) 	| Administrative Executive 	|
-| Mdm. Siti Aishah Bte Aspari 	| Corporate Support Officer	|
-| Mdm. Magaswari D/O  Rajamanikam	|   Corporate Support Officer 	|
-| Mdm. Nancy Teo 	| Adj-Corporate Support Officer	|
+| <font size=3>Ms Kristie Chen 	| <font size=3>Administrative Manager 	|
+| <font size=3>Mr Sarjantpal Singh 	|<font size=3> Operations Manager 	|
+| <font size=3>Mr. L Thanabalan  	| <font size=3>Operations Manager 	|
+| <font size=3>Mr. Peh Kah Huat	| <font size=3>Operations Manager 	|
+| <font size=3>Mdm.   Lee Soh Peng (Jasmine) 	| <font size=3>Administrative Executive 	|
+|<font size=3> Mdm. Siti Aishah Bte Aspari 	| <font size=3>Corporate Support Officer	|
+| <font size=3>Mdm. Magaswari D/O  Rajamanikam	|   <font size=3>Corporate Support Officer 	|
+| <font size=3>Mdm. Nancy Teo 	| Adj-Corporate Support Officer|
 | Mr. Ishak Bin Hassan 	| ICT Manager  	|
 | Mr. Halim Bin Kalim	| Technical Support Officer 	|
 | Mr. Sutrisno Bin Rahmad| Technical Support Officer 	|
