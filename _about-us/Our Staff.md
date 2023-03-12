@@ -129,9 +129,13 @@ description: ""
 ##### Executive and Administrative Staff
 
 |  	|  	|
-|:---:	|:---:	|
-| Mr Sarjantpal Singh 	| Operations Manager 	|
+|:---	|---:	|
 |  Ms Kristie Chen 	| Administrative Manager 	|
+| Mr Sarjantpal Singh 	| Operations Manager 	|
+| Mr. L Thanabalan  	| Operations Manager 	|
+| Mr. L Thanabalan  	| Operations Manager 	|
+| Mr. L Thanabalan  	| Operations Manager 	|
+| Mr. L Thanabalan  	| Operations Manager 	|
 |    Mdm Joanne Pung Hong Eng 	|   Administrative Executive 	|
 |  Mdm Siti Aishah Bte Aspari 	| Management Support Officer 	|
 |  Mdm Nancy Teo  	| Management Support Officer 	|
