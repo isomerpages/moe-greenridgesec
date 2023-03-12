@@ -18,8 +18,8 @@ BOOK LIST 2023
 | Level | _  | Stream | _  |
 | -------- | -------- | -------- |-------- |
 | Secondary One    | [1E](/files/BookLists/2023/2023%20Sec%201E%20Booklist.pdf)   | [1NA](/files/BookLists/2023/2023%20Sec%201NA%20Booklist.pdf)   |T[1NT](/files/BookLists/2023/2023%20Sec%201NT%20Booklist.pdf)   |
-| Secondary Two   | Text     | Text     |Text     |
-| Secondary Three   | Text     | Text     |Text     |
+| Secondary Two   | [2E](/files/BookLists/2023/2023%20Sec%202E%20Booklist.pdf)   | [2NA](/files/BookLists/2023/2023%20Sec%202NA%20Booklist.pdf)  |[2NT](/files/BookLists/2023/2023%20Sec%202NT%20Booklist.pdf)   |
+| Secondary Three   | [3E](/files/BookLists/2023/2023%20Sec%203E%20Booklist.pdf)    | [3NA](/files/BookLists/2023/2023%20Sec%203NA%20Booklist.pdf)     | [3NT](/files/BookLists/2023/2023%20Sec%203NT%20Booklist.pdf)    |
 | Secondary Four  | Text     | Text     |Text     |
 | SecondaryFive    | Text     | Text     |Text     |
 
