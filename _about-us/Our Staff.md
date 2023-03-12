@@ -151,13 +151,13 @@ description: ""
 | Ms. Suriati Bte Kardi | Technical Support Officer 	|
 | Mdm. Tan Ah Ngee	|  Operations Support Officer 	|
 | Ng Poh Heok (Sandy)|  Operations Support Officer 	|
-| Mdm.Chia Siew Ping	| School Counsellor 	|
-| Mdm. Toh Ah Bee	| ICT Associate  	|
-| Mdm. Ngo Guok Lee (Jenny)	|  Desktop Engineer 	|
-| Mr. Siah Hoya Seng|  Desktop Engineer 	|
-| Mdm. Suriaeni Binte Atan	|  Desktop Engineer 	|
-| Mr. Muhammad Luqman Hasif bin Hashim| Student Health Advisor 	|
-| Mr .Song Jia Hui	|  School Librarian 	|
-|   Ms. Losni	|  IT Trainer 	|
-|   Mdm. Aisha Bevi Binte V Mohammad Kunhi  IT Trainer 	|
+| Mdm.Chia Siew Ping	| Operations Support Officer 	|
+| Mdm. Toh Ah Bee	| Operations Support Officer  	|
+| Mdm. Ngo Guok Lee (Jenny)	|  Operations Support Officer 	|
+| Mr. Siah Hoya Seng|  Operations Support Officer 	|
+| Mdm. Suriaeni Binte Atan	|  Operations Support Officer 	|
+| Mr. Muhammad Luqman Hasif bin Hashim|  Desktop Engineer 	|
+| Mr .Song Jia Hui	|   Desktop Enginee	|
+|   Ms. Losni	|  Student Health Advisor	|
+|   Mdm. Aisha Bevi Binte V Mohammad Kunhi | School Librarian 	|
 |    	|
