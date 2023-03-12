@@ -142,12 +142,12 @@ description: ""
 |<font size=3> Mdm. Siti Aishah Bte Aspari 	| <font size=3>Corporate Support Officer	|
 | <font size=3>Mdm. Magaswari D/O  Rajamanikam	|   <font size=3>Corporate Support Officer 	|
 | <font size=3>Mdm. Nancy Teo 	| Adj-Corporate Support Officer|
-| Mr. Ishak Bin Hassan 	| ICT Manager  	|
-| Mr. Halim Bin Kalim	| Technical Support Officer 	|
-| Mr. Sutrisno Bin Rahmad| Technical Support Officer 	|
-| Mr Sallehuddin 	| Technical Support Officer 	|
-| Mdm. Ong Siew Khim 	| Technical Support Officer	|
-| Mrs. Teo Mei Lin 	| Technical Support Officer	|
+| <font size=3>Mr. Ishak Bin Hassan 	| <font size=3>ICT Manager  	|
+|<font size=3> Mr. Halim Bin Kalim	<font size=3>| Technical Support Officer 	|
+| <font size=3>Mr. Sutrisno Bin Rahmad| <font size=3>Technical Support Officer 	|
+| <font size=3>Mr Sallehuddin 	| <font size=3>Technical Support Officer 	|
+| <font size=3>Mdm. Ong Siew Khim 	|<font size=3> Technical Support Officer	|
+|<font size=3> Mrs. Teo Mei Lin 	|<font size=3> Technical Support Officer	|
 | Ms. Suriati Bte Kardi | Technical Support Officer 	|
 | Mdm. Tan Ah Ngee	|  Operations Support Officer 	|
 | Ng Poh Heok (Sandy)|  Operations Support Officer 	|
