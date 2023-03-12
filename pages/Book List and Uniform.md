@@ -8,11 +8,11 @@ description: ""
 #### Information for 2023 Year-End Textbook and Uniform Sale in GSS
 
 
-<font size=4>All textbooks and uniform may be purchased on-site at Greenridge Secondary School 
-(31 Gangsa Road, Singapore 678972).</font>
+All textbooks and uniform may be purchased on-site at Greenridge Secondary School 
+(31 Gangsa Road, Singapore 678972)
 
 
-<font size=4> BOOK LIST 2023</font>
+BOOK LIST 2023
 
 
 | Level |     | Stream |  |
