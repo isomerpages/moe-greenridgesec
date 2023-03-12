@@ -3,7 +3,7 @@ url: https://greenridgesec.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#ff9933"
-  secondary-color: "#040463"
+  secondary-color: "#000066"
   media-colors:
     - title: media-color-one
       color: "#49759a"
