@@ -31,11 +31,11 @@ BOOK LIST 2023
 
 | Column 1 | School Books Supplier | School Uniform Supplier |
 | -------- | -------- | -------- |
-| Name of Supplier| Text     | Text     |
-| Contact No.    | Text     | Text     |
-| Email    | Text     | Text     |
-| Contact Person| Text     | Text     |
-| Website for Online Order    | Text     | Text     |
+| Name of Supplier| Casco Educational Supply Pte Ltd | Hong Kong Tat Kee Tailor    |
+| Contact No.    | 65474204  | 2411933   |
+| Email    | info@cascoedusuoply.com.sg     | [info@hktatkee.com.sg](info@hktatkee.com.sg)    |
+| Contact Person| Ching Ling or Amy Seah     | Shirley or Lian Thait     |
+| Website for Online Order    | https://cascoedusupply.com.sg/<br>Username: GRSS <br>    | https://hongkongtatkee.com/    |
 | 2023 Opening Hours     | Daily from Monday to Friday<br>7am to 3pm    | 3-6, 9, 11, 13 Jan 2023<br>9am to 3pm    |
 | Venue of Sales / Collection in School     | Next to canteen| Block F2-01 (classroom)|
 | Remarks   | You may also wish to purchase books during the first week of school as lessons will start only in week 2.<br><br>For students with Subject-Based Banding (SBB) selections, please decide on your SBB before making your purchases as the bookshop will not be able to make an exchange.     | Sales of school uniform, PE attire and bowtie/tie thereafter will be available through the bookshop.<br><br>If there is a need, Hong Kong Tat Kee Tailor is also available at:<br>Block 3012, Bedok North Ave 4,<br>#03-2030, Bedok Industrial Park E, <br>Singapore 489978   |
