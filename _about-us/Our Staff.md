@@ -130,21 +130,21 @@ description: ""
 
 |  	|  	|
 |:---	|---:	|
-|  Ms Kristie Chen 	| Administrative Manager 	|
+| Ms Kristie Chen 	| Administrative Manager 	|
 | Mr Sarjantpal Singh 	| Operations Manager 	|
 | Mr. L Thanabalan  	| Operations Manager 	|
-| Mr. L Thanabalan  	| Operations Manager 	|
-| Mr. L Thanabalan  	| Operations Manager 	|
-| Mr. L Thanabalan  	| Operations Manager 	|
-|    Mdm Joanne Pung Hong Eng 	|   Administrative Executive 	|
-|  Mdm Siti Aishah Bte Aspari 	| Management Support Officer 	|
-|  Mdm Nancy Teo  	| Management Support Officer 	|
-| Mrs Teo Mei Lin 	| Technical Support Officer 	|
-| Ms Suriati Bte Kardi 	| Technical Support Officer 	|
+| Mr. Peh Kah Huat	| Operations Manager 	|
+| Mdm.   Lee Soh Peng (Jasmine) 	| Administrative Executive 	|
+| Mdm. Siti Aishah Bte Aspari 	| Corporate Support Officer	|
+| Mdm. Magaswari D/O  Rajamanikam	|   Corporate Support Officer 	|
+| Mdm. Nancy Teo 	| Adj-Corporate Support Officer	|
+| Mr. Ishak Bin Hassan 	| ICT Manager  	|
+| Mr. Halim Bin Kalim	| Technical Support Officer 	|
+| Mr. Sutrisno Bin Rahmad| Technical Support Officer 	|
 | Mr Sallehuddin 	| Technical Support Officer 	|
-| Mdm Tan Ah Ngee 	| Operations Support Officer 	|
-| Mdm Haryati Bte Amin 	| Operations Support Officer 	|
-| Mdm Chia Siew Ping 	| Operations Support Officer 	|
+| Mdm. Ong Siew Khim 	| Operations Support Officer 	|
+| Mrs. Teo Mei Lin 	| Operations Support Officer 	|
+| Ms. Suriati Bte Kardi | Operations Support Officer 	|
 |  Mdm Toh ah Bee 	|  Operations Support Officer 	|
 | Ms Chee Ai Lay 	| School Counsellor 	|
 | Ms Khairunnisa Bte Khalid   	| ICT Associate  	|
