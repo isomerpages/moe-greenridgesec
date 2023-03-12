@@ -142,13 +142,16 @@ description: ""
 | Mr. Halim Bin Kalim	| Technical Support Officer 	|
 | Mr. Sutrisno Bin Rahmad| Technical Support Officer 	|
 | Mr Sallehuddin 	| Technical Support Officer 	|
-| Mdm. Ong Siew Khim 	| Operations Support Officer 	|
-| Mrs. Teo Mei Lin 	| Operations Support Officer 	|
-| Ms. Suriati Bte Kardi | Operations Support Officer 	|
-|  Mdm Toh ah Bee 	|  Operations Support Officer 	|
-| Ms Chee Ai Lay 	| School Counsellor 	|
-| Ms Khairunnisa Bte Khalid   	| ICT Associate  	|
-| Ms Jess Chua 	|  Desktop Engineer 	|
-|  Ms Losni 	| Student Health Advisor 	|
-|  Ms Hazirah Bte Jadzni 	|  School Librarian 	|
+| Mdm. Ong Siew Khim 	| Technical Support Officer	|
+| Mrs. Teo Mei Lin 	| Technical Support Officer	|
+| Ms. Suriati Bte Kardi | Technical Support Officer 	|
+| Mdm. Tan Ah Ngee	|  Operations Support Officer 	|
+| Ng Poh Heok (Sandy)|  Operations Support Officer 	|
+| Mdm.Chia Siew Ping	| School Counsellor 	|
+| Mdm. Toh Ah Bee	| ICT Associate  	|
+| Mdm. Ngo Guok Lee (Jenny)	|  Desktop Engineer 	|
+| Mr. Siah Hoya Seng|  Desktop Engineer 	|
+| Mdm. Suriaeni Binte Atan	|  Desktop Engineer 	|
+| Mr. Muhammad Luqman Hasif bin Hashim| Student Health Advisor 	|
+| Mr .Song Jia Hui	|  School Librarian 	|
 |  Mr Louis Poh 	|  IT Trainer 	|
