@@ -15,7 +15,7 @@ All textbooks and uniform may be purchased on-site at Greenridge Secondary Schoo
 BOOK LIST 2023
 
 
-| Level |     | Stream |  |
+| Level | _  | Stream | _  |
 | -------- | -------- | -------- |-------- |
 | Secondary One    | [1E](/files/BookLists/2023/2023%20Sec%201E%20Booklist.pdf)   | [1NA](/files/BookLists/2023/2023%20Sec%201NA%20Booklist.pdf)   |T[1NT](/files/BookLists/2023/2023%20Sec%201NT%20Booklist.pdf)   |
 | Secondary Two   | Text     | Text     |Text     |
@@ -29,7 +29,7 @@ BOOK LIST 2023
 **Below are the details of our school bookshop and uniform suppliers for you reference**
 
 
-| Column 1 | Column 2 | Column 3 |
+| Column 1 | School Books Supplier | School Uniform Supplier |
 | -------- | -------- | -------- |
 | Name of Supplier| Text     | Text     |
 | Contact No.    | Text     | Text     |
