@@ -9,13 +9,13 @@ description: ""
 
 
 <font size=4>All textbooks and uniform may be purchased on-site at Greenridge Secondary School 
-(31 Gangsa Road, Singapore 678972).
+(31 Gangsa Road, Singapore 678972).</font>
 
 
-<font size=4> BOOK LIST 2023
+<font size=4> BOOK LIST 2023</font>
 
 
-| Level |   | Stream |  |
+| Level |     | Stream |  |
 | -------- | -------- | -------- |-------- |
 | Secondary One    | [1E](/files/BookLists/2023/2023%20Sec%201E%20Booklist.pdf)   | [1NA](/files/BookLists/2023/2023%20Sec%201NA%20Booklist.pdf)   |T[1NT](/files/BookLists/2023/2023%20Sec%201NT%20Booklist.pdf)   |
 | Secondary Two   | Text     | Text     |Text     |
