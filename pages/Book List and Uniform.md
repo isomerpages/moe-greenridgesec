@@ -5,7 +5,7 @@ description: ""
 ---
 # **Book List and Uniform**
 
-**Information for 2022 Year-End Textbook and Uniform Sale in GSS_  **
+#### Information for 2023 Year-End Textbook and Uniform Sale in GSS
 
 
 <font size=4>All textbooks and uniform may be purchased on-site at Greenridge Secondary School 
