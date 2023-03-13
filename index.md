@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Greenridge Secondary School
-      background: /images/f79c42e6f_1072.jpg
+      background: /images/school 4s.gif
       key_highlights:
         - title: Announcements
           description: Click here for more
@@ -21,5 +20,4 @@ sections:
           url: /calendar/
       button: Contact Us
       url: /contact-us/
-      subtitle: " Confident Learners, Compassionate Leaders, Ethical Innovators"
 ---
