@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/school 4s.gif
+      background: /images/school 4ss.gif
       key_highlights:
         - title: Announcements
           description: Click here for more
@@ -18,6 +18,5 @@ sections:
         - title: Calendar
           description: Click here for more
           url: /calendar/
-      button: Contact Us
       url: /contact-us/
 ---
