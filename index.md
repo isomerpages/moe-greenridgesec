@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Greenridge Secondary School
-      background: /images/f79c42e6f_1072.jpg
+      background: /images/school vv.gif
       key_highlights:
         - title: Announcements
           description: Click here for more
