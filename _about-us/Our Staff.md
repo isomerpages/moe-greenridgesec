@@ -134,7 +134,7 @@ description: ""
 ##### Executive and Administrative Staff
 
 
-| Column 1 | Column 2 |
+|  |  |
 | -------- | -------- |
 | Text     | Text     |
 | <font size=3>Ms Kristie Chen 	| <font size=3>Administrative Manager 	|
