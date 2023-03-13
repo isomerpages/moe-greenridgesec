@@ -27,4 +27,10 @@ sections:
       url: https://cms.isomer.gov.sg/sites/moe-greenridgesec/homepage
       image: /images/ALPVIA 1.jpg
       alt: Image alt text
+  - infobar:
+      title: Infobar Title
+      subtitle: This is Infobar
+      description: Infobar description
+      button: Button Text
+      url: https://cms.isomer.gov.sg/sites/moe-greenridgesec/homepage
 ---
