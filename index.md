@@ -28,7 +28,7 @@ sections:
       image: /images/ALPVIA 1.jpg
       alt: Image alt text
   - infobar:
-      title: Infobar Title
+      title: Infobar Example
       subtitle: This is Infobar
       description: Infobar description
       button: Button Text
