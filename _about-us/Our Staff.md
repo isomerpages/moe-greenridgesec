@@ -118,6 +118,7 @@ description: ""
 | | | | |
 	
 ##### Counsellors and Allied Educators
+
 |   |   |   |
 | :--| :-- | --: |
 |<font size=3>Mr. Leong Mun Sung Daniel |<font size=3 >Senior School Cousellor|<font size=3 ><a href="mailto:leong_mun_sung_daniel@moe.edu.sg  "> leong_mun_sung_daniel@moe.edu.sg  </a> |
@@ -131,6 +132,7 @@ description: ""
 
 
 ##### Executive and Administrative Staff
+
 |  	|  	|
 |:---	|---:	|
 | <font size=3>Ms Kristie Chen 	| <font size=3>Administrative Manager 	|
