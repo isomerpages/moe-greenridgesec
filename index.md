@@ -19,4 +19,12 @@ sections:
           description: Click here for more
           url: /calendar/
       url: /contact-us/
+  - infopic:
+      title: ALP example
+      subtitle: This is Infopic
+      description: infopic description  alp alp
+      button: Button Text click to URL
+      url: https://cms.isomer.gov.sg/sites/moe-greenridgesec/homepage
+      image: /images/ALPVIA 1.jpg
+      alt: Image alt text
 ---
