@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Test/.keep
-      - Our Staff.md
       - Vision, Mission, Motto, Values.md
       - Aspiring Greenridgeans.md
       - Code Of Conduct.md
