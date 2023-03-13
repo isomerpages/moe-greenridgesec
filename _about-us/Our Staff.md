@@ -134,7 +134,7 @@ description: ""
 ##### Executive and Administrative Staff
 
 |  	|  	|
-|:---	|---:	|
+|:---|---:|
 | <font size=3>Ms Kristie Chen 	| <font size=3>Administrative Manager 	|
 | <font size=3>Mr Sarjantpal Singh 	|<font size=3> Operations Manager 	|
 | <font size=3>Mr. L Thanabalan  	| <font size=3>Operations Manager 	|
@@ -161,4 +161,4 @@ description: ""
 | <font size=3>Mr .Song Jia Hui	| <font size=3>  Desktop Enginee	|
 |   <font size=3>Ms. Losni	|  <font size=3>Student Health Advisor	|
 |   <font size=3>Mdm. Aisha Bevi Binte V Mohammad Kunhi | <font size=3>School Librarian 	|
-|    	|   |
+|    	|    |
