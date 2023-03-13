@@ -133,8 +133,10 @@ description: ""
 
 ##### Executive and Administrative Staff
 
-|  	|  	|
-|:---|---:|
+
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Text     | Text     |
 | <font size=3>Ms Kristie Chen 	| <font size=3>Administrative Manager 	|
 | <font size=3>Mr Sarjantpal Singh 	|<font size=3> Operations Manager 	|
 | <font size=3>Mr. L Thanabalan  	| <font size=3>Operations Manager 	|
