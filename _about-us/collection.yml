@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staffb.md
       - Test/Our Staff.md
       - Test/.keep
       - Vision, Mission, Motto, Values.md
