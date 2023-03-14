@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/school 4ss.gif
       key_highlights:
         - title: Announcements
           description: Click here for more
