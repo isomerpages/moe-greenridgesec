@@ -8,7 +8,6 @@ description: ""
 ### Teaching & Learning Resources
 
 *   [Education and Career Guidance](/education-and-career-guidance/)
-*   [CPA@GSS](https://tinyurl.com/gsscpa)
 *   [Online Library](https://greenridgesec.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME)
 *   [DT Apps](http://www.focuselearning.co.uk/u/31300/uiqnwEemEaCForvwxBhhAfvehobonymca)
 *   [Library(OPAC)](https://schoolibrary.spydus.com.sg/greenridgesec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
