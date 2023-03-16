@@ -18,7 +18,7 @@ sections:
           description: Click here for more
           url: /calendar/
       url: /contact-us/
-      background: /images/skool 18.gif
+      background: /images/hero-A20230316.gif
   - infopic:
       title: ALP example
       subtitle: This is Infopic
