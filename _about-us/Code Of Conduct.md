@@ -13,7 +13,7 @@ description: ""
 #### Respect and Empathy
 We act with due regard for self & others’ dignity and worth. In empathy, we feel for and are mindful of the needs of others. Together, we reflect a respectful mind.
 	
-<font size=4 color=red type=bold>Respect for Organisational Identity </font>
+<font size=4 color=darkblue type=bold>Respect for Organisational Identity </font>
 
 |Item | Description| 
 | :-------- | :-------- | 
@@ -23,10 +23,10 @@ We act with due regard for self & others’ dignity and worth. In empathy, we fe
 | | |
 	
 
-<font size=4 color=red type=bold>Integrity </font><br>
+<font size=4 color=darkblue type=bold>Integrity </font><br>
 We are honest and have strong moral principles. We live by our values and are honest with everyone.
 
-<font size=4 color=red type=bold>Diligence and Grit</font><br>
+<font size=4 color=darkblue type=bold>Diligence and Grit</font><br>
 Being diligent, we are responsible to put in the consistent effort to achieve our goals. With grit, we have the resolve and resilience to face challenges and overcome adversity. Together, we reflect discipline.
 
 More details on the Code of Conduct can be found in the Student Handbook.
