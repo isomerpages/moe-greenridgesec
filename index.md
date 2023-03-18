@@ -18,7 +18,9 @@ sections:
           description: Click here for more
           url: /calendar/
       url: /contact-us/
-      background: /images/hero-C20230316.gif
+      background: /images/f79c42e6f_1072.jpg
+      title: GREENRIDGE SECONDARY SCHOOL
+      button: contact us
   - infopic:
       title: ALP example
       subtitle: This is Infopic
