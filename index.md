@@ -18,21 +18,8 @@ sections:
           description: Click here for more
           url: /calendar/
       url: /contact-us/
-      background: /images/school 4sss.gif
-      title: GREENRIDGE SECONDARY SCHOOL
-      button: contact us
-  - infopic:
-      title: ALP example
-      subtitle: This is Infopic
-      description: infopic description  alp alp
-      button: Button Text click to URL
-      url: https://cms.isomer.gov.sg/sites/moe-greenridgesec/homepage
-      image: /images/ALPVIA 1.jpg
-      alt: Image alt text
-  - infobar:
-      title: Infobar Example
-      subtitle: This is Infobar
-      description: Infobar description
-      button: Button Text
-      url: https://cms.isomer.gov.sg/sites/moe-greenridgesec/homepage
+  - resources:
+      title: H..I..G..H..L..I..G..H..T..S
+      subtitle: Pride
+      button: Resources Button Name
 ---
