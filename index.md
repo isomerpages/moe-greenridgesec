@@ -18,6 +18,7 @@ sections:
           description: Click here for more
           url: /calendar/
       url: /contact-us/
+      background: /images/hero-C20230316.gif
   - resources:
       title: H..I..G..H..L..I..G..H..T..S
       subtitle: Pride
