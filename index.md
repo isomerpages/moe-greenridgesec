@@ -14,11 +14,10 @@ sections:
         - title: Latest News
           description: Click here for more
           url: m/others/news-archive/2022/
-        - title: Calendar
-          description: Click here for more
+        - title: ""
+          description: ""
           url: /calendar/
       url: /contact-us/
-      background: /images/hero-C20230316.gif
   - resources:
       title: H..I..G..H..L..I..G..H..T..S
       subtitle: Pride
