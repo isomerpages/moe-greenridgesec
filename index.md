@@ -18,7 +18,7 @@ sections:
           description: Click here for more
           url: /calendar/
       url: /contact-us/
-      background: /images/f79c42e6f_1072.jpg
+      background: /images/school 4sss.gif
       title: GREENRIDGE SECONDARY SCHOOL
       button: contact us
   - infopic:
