@@ -19,10 +19,8 @@ sections:
           url: /calendar/
       url: /contact-us/
       background: /images/f79c42e6f_1072.jpg
-      title: Greenridge
-      subtitle: Secondary School
+      title: Greenridge Secondary School
   - resources:
-      title: H..I..G..H..L..I..G..H..T..S
-      subtitle: Pride
-      button: Resources Button Name
+      title: H_I_G_H_L_I_G_H_T_S
+      button: RESOURCES
 ---
