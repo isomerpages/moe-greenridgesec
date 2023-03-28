@@ -15,7 +15,7 @@ sections:
           description: Click here for more
           url: m/others/news-archive/2022/
       url: /contact-us/
-      background: /images/f79c42e6f_1072.jpg
+      background: /images/Heros/Hero 001s.jpg
       title: Greenridge Secondary School
   - resources:
       title: HIGHLIGHTS
