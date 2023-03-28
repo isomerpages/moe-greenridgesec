@@ -14,6 +14,9 @@ sections:
         - title: GSS Buzz!
           description: Click here for more
           url: m/others/news-archive/2022/
+        - title: Contact Us
+          description: Key Highlight description
+          url: /contactus
       url: /contact-us/
       background: /images/Heros/Hero 001v.jpg
 ---
