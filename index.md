@@ -16,7 +16,6 @@ sections:
           url: m/others/news-archive/2022/
       url: /contact-us/
       background: /images/Heros/Hero 001s.jpg
-      title: Greenridge Secondary School
   - infobar:
       title: Greenridge Stories
       button: Click Me
