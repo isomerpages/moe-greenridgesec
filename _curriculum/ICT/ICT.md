@@ -14,7 +14,7 @@ We aim to nurture Greenridgeans to be future-ready as learners and leaders who a
 
 ### HOW WE ENGAGE OUR STUDENTS
 
-![](/images/ICT2.png)
+![ictstudents](/images/Group%20of%205%20Students%20at%20Table%20-%20Vector%20(1).png)
 
 In our journey to develop lifelong learners with an aptitude for self-directedness and , it is important for us to 
 
@@ -52,5 +52,3 @@ Teachers consider the following while planning:
 
 *   Monitor and Provide Feedback
 	*   _How can students’ learning be advanced?_
-
-![](/images/ICT5.png)
