@@ -15,8 +15,8 @@ sections:
           description: Click here for more
           url: m/others/news-archive/2022/
         - title: Contact Us
-          description: Key Highlight description
-          url: /contactus
+          description: ""
+          url: /contact-us/
       url: /contact-us/
       background: /images/Heros/Hero 001v3.jpg
 ---
