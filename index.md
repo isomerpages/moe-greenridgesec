@@ -15,7 +15,7 @@ sections:
           description: Click here for more
           url: m/others/news-archive/2022/
       url: /contact-us/
-      background: /images/Heros/8402_1920by760.jpg
+      background: /images/Heros/Hero 001s.jpg
   - infobar:
       title: Greenridge Stories
       button: Click Me
