@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Students.md
-      - Staff.md
       - Parents/.keep
       - Parents/Parents.md
       - News Archive/.keep
