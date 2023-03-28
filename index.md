@@ -17,9 +17,6 @@ sections:
       url: /contact-us/
       background: /images/Heros/Hero 001s.jpg
       title: Greenridge Secondary School
-  - resources:
-      title: HIGHLIGHTS
-      button: RESOURCES
   - infobar:
       title: Greenridge Stories
       button: Click Me
