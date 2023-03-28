@@ -21,6 +21,6 @@ sections:
       background: /images/f79c42e6f_1072.jpg
       title: Greenridge Secondary School
   - resources:
-      title: H_I_G_H_L_I_G_H_T_S
+      title: HIGHLIGHTS
       button: RESOURCES
 ---
