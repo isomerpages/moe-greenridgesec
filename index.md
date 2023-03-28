@@ -11,7 +11,7 @@ sections:
         - title: What's Happening
           description: Click here for more
           url: /announcements/
-        - title: Latest News
+        - title: GSS Buzz!
           description: Click here for more
           url: m/others/news-archive/2022/
       url: /contact-us/
