@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Announcements
+        - title: What's Happening
           description: Click here for more
           url: /announcements/
         - title: Latest News
