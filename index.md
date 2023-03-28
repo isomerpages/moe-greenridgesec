@@ -20,4 +20,8 @@ sections:
   - resources:
       title: HIGHLIGHTS
       button: RESOURCES
+  - infobar:
+      title: Greenridge Stories
+      button: Click Me
+      url: https://greenridgesec.moe.edu.sg/others/e-open-house/gss-stories
 ---
