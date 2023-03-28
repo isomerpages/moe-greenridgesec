@@ -1,0 +1,20 @@
+collections:
+  school-experience:
+    output: true
+    order:
+      - Curriculum/English Language & Literature.md
+      - Curriculum/Mathematics, POA and EBS.md
+      - Curriculum/Humanities.md
+      - Curriculum/Mother Tongue.md
+      - Curriculum/Science.md
+      - Curriculum/Design & Technology.md
+      - Curriculum/Aesthetics.md
+      - Curriculum/Computer Applications (CPA).md
+      - Curriculum/Physical Education.md
+      - Curriculum/CCE.md
+      - Curriculum/ICT.md
+      - Curriculum/.keep
+      - Co Curriculum/Student Leadership.md
+      - Co Curriculum/Co Curricular Activities (CCA).md
+      - Co Curriculum/.keep
+      - Co Curriculum/Internationalisation.md

@@ -1,0 +1,9 @@
+collections:
+  others:
+    output: true
+    order:
+      - Students.md
+      - Parents/.keep
+      - Parents/Parents.md
+      - News Archive/.keep
+      - News Archive/2022.md

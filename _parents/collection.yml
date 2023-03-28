@@ -1,0 +1,11 @@
+collections:
+  parents:
+    output: true
+    order:
+      - GSS Parents Connect/.keep
+      - GSS Parents Connect/GSS Parent Connect.md
+      - GSS Parents Connect/2017.md
+      - Cyber Wellness for Parents.md
+      - Parents in Education (PiE).md
+      - Heart to Heart Talk.md
+      - Education and Career Guidance.md

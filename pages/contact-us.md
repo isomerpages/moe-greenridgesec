@@ -2,31 +2,44 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Greenridge Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 31 Gangsa Rd
+      - Singapore 678972
+      - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 7.30am - 6.00pm
+        description: Closed on Weekends and Public Holidays
+    maps_link: https://goo.gl/maps/RgGYA3CEATKwwr2y7
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6769 1491
+      - email: ""
+      - other: ""
+    title: Phone Number
+  - content:
+      - phone: +65 6760 1052
+      - email: ""
+      - other: ""
+    title: Phone Number 2
+  - content:
+      - phone: ""
+      - email: gss@moe.edu.sg
+      - other: ""
+    title: Email
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Bukit Panjang MRT, Bukit Panjang LRT, Petir LRT
+    title: "Nearest Train Stations:"
+  - content:
+      - phone: ""
+      - email: ""
+      - other: 67, 75, 170, 170A, 171, 176, 177, 178, 180, 180A, 920, 922, 960, 961,
+          963, 963E, 963R, 970, 972, 972A,  972M, 973, 973A, 974, 975, 976, 979,
+          983
+    title: "Bus Services:"
 ---

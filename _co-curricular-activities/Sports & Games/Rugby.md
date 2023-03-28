@@ -1,0 +1,41 @@
+---
+title: Rugby
+permalink: /school-experience/co-curriculum/cca/sports-and-games/rugby/
+description: ""
+third_nav_title: Sports & Games
+---
+# **Rugby**
+
+![](/images/Rugby1.jpg)
+In Greenridge Secondary School’s Rugby team, we believe that:  
+
+*    All players can be trained and developed into true sportsmen, regardless of their starting point.
+*   Teamwork is the beauty of our sport, where we have individuals working as one, towards a common goal. All players will emerge stronger and fitter, mentally and physically.
+    
+
+  
+
+**CCA COMPETITIONS & ACCOLADES**
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#D9D9D9;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">YEAR</th><th style="background-color:#D9D9D9;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">B Division</th><th style="background-color:#D9D9D9;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">C Division</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2022</td><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">National Schools U-17 Bowl Championships 2022 </span><br><span style="font-weight:bold">Police Cup ‘B’ Division</span><br>Champions </td><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr><tr><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2019</td><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">-</td><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Saint 7s U-14:</span> Champions</td></tr><tr><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2018</td><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">- </td><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">National Schools U-14 Championships 2018 Dr Goh Keng Swee Shield:</span> 1st Placing </td></tr><tr><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2017</td><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Bowl 3rd</td><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Bowl 4th</td></tr><tr><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2016</td><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Bowl 4th</td><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Bowl 2nd</td></tr><tr><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2015</td><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Bowl 2nd</td><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Bowl 2nd</td></tr><tr><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2014</td><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">First Round</td><td style="background-color:#FFF;border-color:#444444;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Bowl 2nd</td></tr></tbody></table>
+
+
+### CCA PROGRAMME FOR SKILLS, LEADERSHIP & CHARACTER DEVELOPMENT
+
+Our training programmes are designed to cater to the needs of our players with varying levels of experience in the sport. Regardless of their experience, we strive to level up the skills of our players so that they can achieve their best and work effectively as a team. Through the training sessions, we aim to develop students who display the school values of Perseverance, Respect, Integrity, Diligence and Empathy.
+
+
+‘B’ Division Rugby Team 2022
+<img src="/images/Rugby2.jpg" 
+     style="width:70%">
+
+Training physical and mental strength
+<img src="/images/Rugby3.jpg" 
+     style="width:70%">
+
+Working as a team during a rugby match
+<img src="/images/Rugby4.png" 
+     style="width:70%">
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D9rVad-WqW0?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

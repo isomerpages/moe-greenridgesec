@@ -1,0 +1,25 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - English Language & Literature.md
+      - Mathematics, POA and EBS.md
+      - Humanities.md
+      - Mother Tongue.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Nutrition & Food Science.md
+      - Design & Technology.md
+      - Aesthetics.md
+      - Computer Applications (CPA).md
+      - Physical Education.md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/Student Development.md
+      - CCE/Citizenship Education.md
+      - CCE/CCE Learning Space.md
+      - CCE/Cyber Wellness.md
+      - CCE/Guidance Programme.md
+      - ICT/.keep
+      - ICT/ICT.md
+      - ICT/Cyberwellness.md

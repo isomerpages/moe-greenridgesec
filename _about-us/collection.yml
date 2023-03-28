@@ -1,0 +1,8 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Our Staff.md
+      - Vision, Mission, Motto, Values.md
+      - Aspiring Greenridgeans.md
+      - Code Of Conduct.md
