@@ -15,5 +15,5 @@ sections:
           description: Click here for more
           url: m/others/news-archive/2022/
       url: /contact-us/
-      background: /images/Heros/Hero 001s.jpg
+      background: /images/Heros/Hero 001 4MB.jpg
 ---
