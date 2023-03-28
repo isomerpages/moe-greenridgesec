@@ -14,9 +14,6 @@ sections:
         - title: Latest News
           description: Click here for more
           url: m/others/news-archive/2022/
-        - title: ""
-          description: ""
-          url: ""
       url: /contact-us/
       background: /images/f79c42e6f_1072.jpg
       title: Greenridge Secondary School
