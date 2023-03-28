@@ -16,8 +16,4 @@ sections:
           url: m/others/news-archive/2022/
       url: /contact-us/
       background: /images/Heros/Hero 001s.jpg
-  - infobar:
-      title: Greenridge Stories
-      button: Click Me
-      url: https://greenridgesec.moe.edu.sg/others/e-open-house/gss-stories
 ---
