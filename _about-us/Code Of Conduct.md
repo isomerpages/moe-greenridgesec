@@ -9,10 +9,11 @@ description: ""
 <font size =4 color=black>Our school’s code of conduct provides moral compass for us to grow into confident learners, compassionate leaders and ethical innovators. We live by the code of conduct both within and beyond the school premises, especially when we can be identified as Greenridgeans. Should we fall short of our code of conduct, we will recognise our misconduct, face consequences with the right attitude, relearn and restore by practising more of the desired behaviour.</font>
 
 #### Respect and Empathy
-<font size =4 color=black>We act with due regard for self & others’ dignity and worth. In empathy, we feel for and are mindful of the needs of others. Together, we reflect a respectful mind.
+<font size =4 color=black>We act with due regard for self & others’ dignity and worth. In empathy, we feel for and are mindful of the needs of others. Together, we reflect a respectful mind.</font>
 	
 <font size=4 color=darkblue type=bold>Respect for Organisational Identity </font>
 
+	
 |Item | Description| 
 | :-------- | :-------- | 
 | Uniform <br>  | We will wear the prescribed school uniform with pride and modification to the uniform is strictly not allowed.<br>We must not fold the sleeves of the uniform.<br>We do not wear T-shirts underneath our uniform.   <br><br> BOYS<br>We tuck our shirt to reveal the trousers pockets in full Shirts must be properly buttoned and tucked.<br>Trousers must be of appropriate length and not be tight.<br>We do not fold the sleeves of shirts or hemlines of trousers.<br><br>Girls<br>Blouses must be properly buttoned and hang out.<br>Skirts must knee-length.|
