@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - For Students.md
-      - Parents/.keep
-      - Parents/Parents.md
+      - For Parents/.keep
+      - For Parents/Parents.md
       - News Archive/.keep
       - News Archive/2022.md
