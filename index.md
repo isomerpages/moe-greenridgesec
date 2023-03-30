@@ -41,4 +41,5 @@ sections:
       button: Button Text
       image: /images/20230330/Rugby s.jpg
       alt: Image alt text
+      url: /school-experience/co-curriculum/cca/sports-and-games/rugby/
 ---
