@@ -27,11 +27,10 @@ sections:
       url: /distinctive-programmes/applied-learning-programme-alp/
   - infopic:
       title: Learning for Life Programme (LLP)
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      button: ">>CLICK TO VIEW<<"
       image: /images/20230330/Our boys trying out their gliderss.jpg
       alt: Image alt text
+      url: /distinctive-programmes/learning-for-life-programme-llp/
   - infopic:
       title: Rugby (CCA)
       button: ">>Click to view<<"
