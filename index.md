@@ -40,7 +40,6 @@ sections:
   - infobar:
       title: video test
       subtitle: Infobar Subtitle
-      description: <iframe src="https://www.w3schools.com" title="W3Schools Free
-        Online Web Tutorials"></iframe>
+      description: <iframe src="https://www.youtube.com/watch?v=FUiu-cdu6mA"></iframe>
       button: Button Text
 ---
