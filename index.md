@@ -36,9 +36,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Rugby (CCA)
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      button: ">>Click to view<<"
       image: /images/20230330/Rugby s.jpg
       alt: Image alt text
       url: /school-experience/co-curriculum/cca/sports-and-games/rugby/
