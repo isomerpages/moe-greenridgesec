@@ -19,4 +19,25 @@ sections:
           url: /contact-us/
       url: /contact-us/
       background: /images/Heros/Hero 001v4.jpg
+  - infopic:
+      title: Applied Learning Programme
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/20230330/Debating via Zoom.jpeg
+      alt: Image alt text
+  - infopic:
+      title: Learning for Life Programme (LLP)
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/20230330/Our boys trying out their gliderss.jpg
+      alt: Image alt text
+  - infopic:
+      title: Rugby (CCA)
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/20230330/Rugby s.jpg
+      alt: Image alt text
 ---
