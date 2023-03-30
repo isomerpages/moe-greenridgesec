@@ -23,9 +23,10 @@ sections:
       title: Applied Learning Programme
       subtitle: Infopic Subtitle
       description: Infopic description
-      button: Button Text
+      button: ">>>>CLICK"
       image: /images/20230330/Debating via Zoom.jpeg
       alt: Image alt text
+      url: /alp/demo1/permalink/
   - infopic:
       title: Learning for Life Programme (LLP)
       subtitle: Infopic Subtitle
