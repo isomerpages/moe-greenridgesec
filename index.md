@@ -40,6 +40,6 @@ sections:
   - infobar:
       title: video test
       subtitle: Infobar Subtitle
-      description: <iframe src="https://www.youtube.com/watch?v=FUiu-cdu6mA"></iframe>
+      description: <iframe src="https://youtu.be/D9rVad-WqW0"></iframe>
       button: Button Text
 ---
