@@ -21,12 +21,10 @@ sections:
       background: /images/Heros/Hero 001v4.jpg
   - infopic:
       title: Applied Learning Programme
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: ">>>>CLICK"
+      button: ">>CLICK TO VIEW<<"
       image: /images/20230330/Debating via Zoom.jpeg
       alt: Image alt text
-      url: /alp/demo1/permalink/
+      url: /distinctive-programmes/applied-learning-programme-alp/
   - infopic:
       title: Learning for Life Programme (LLP)
       subtitle: Infopic Subtitle
