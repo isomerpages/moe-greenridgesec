@@ -37,4 +37,10 @@ sections:
       image: /images/20230330/Rugby s.jpg
       alt: Image alt text
       url: /school-experience/co-curriculum/cca/sports-and-games/rugby/
+  - infobar:
+      title: video test
+      subtitle: Infobar Subtitle
+      description: <iframe src="https://www.w3schools.com" title="W3Schools Free
+        Online Web Tutorials"></iframe>
+      button: Button Text
 ---
