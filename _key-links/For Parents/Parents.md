@@ -2,8 +2,9 @@
 title: Parents
 permalink: /quick-links/Parents/
 description: ""
-third_nav_title: Parents
+third_nav_title: For Parents
 ---
+
 # **Parents**
 
 *   [Parents Connect (Parents Support Group)](/others/Parents/gss-parents-connect/)

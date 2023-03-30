@@ -2,8 +2,9 @@
 title: Applied Learning Programme (ALP)
 permalink: /distinctive-programmes/applied-learning-programme-alp/
 description: ""
-third_nav_title: ALP
+third_nav_title: Applied Learning Program (ALP)
 ---
+
 
 # **Applied Learning Programme (ALP)**
 

@@ -1,9 +1,9 @@
 collections:
-  others:
+  key-links:
     output: true
     order:
-      - Students.md
-      - Parents/.keep
-      - Parents/Parents.md
+      - For Students.md
+      - For Parents/.keep
+      - For Parents/Parents.md
       - News Archive/.keep
       - News Archive/2022.md
