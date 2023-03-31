@@ -38,12 +38,10 @@ sections:
       alt: Image alt text
       url: /school-experience/co-curriculum/cca/sports-and-games/rugby/
   - infobar:
-      title: video test
-      subtitle: Infobar Subtitle
+      title: test  test
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/D9rVad-WqW0?start=2" title="YouTube
         video player" frameborder="0" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
-      button: Button Text
 ---
