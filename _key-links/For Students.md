@@ -16,7 +16,11 @@ description: ""
 
 ### Timetable and information
 
-*   [Student Timetable](/files/2022%20Sem2%20Timetable%20v15-Class.pdf)
+*   [Secondary One TT](/files/Timetable%202023/tt%202023%20t2%20secone.pdf)
+*   [Secondary Two TT](/files/Timetable%202023/tt%202023%20t2%20sectwo.pdf)
+*   [Secondary Three TT](/files/Timetable%202023/tt%202023%20t2%20secthree.pdf)
+*   [Secondary Four TT](/files/Timetable%202023/tt%202023%20t2%20secfour.pdf)
+*   [Secondary Five TT]()
 *   [Book List and Uniform](/book-list-and-uniform/)
 *   [Code of Conduct](/about-us/code-of-conduct)
 
