@@ -29,3 +29,6 @@ description: ""
 *   [Skills Future](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 *   [Application Form for Leave of Absence (LOA)](https://go.gov.sg/gssloa)
 *   [Financial Assistance Scheme (FAS)](https://greenridgesec.moe.edu.sg/others/financial-assistance-scheme-fas)
+*   Group Personal Accident (GPA) Insurance Plan for Students 2023
+	*   [GPA Information](https://www.income.com.sg/studentgpa)
+	*   [GPA Portal for Claim](https://studentgpa.incomegroupins.com.sg)
