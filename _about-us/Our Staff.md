@@ -57,7 +57,8 @@ Mr. Shaifrizman Bin Maktar|SH – Student Management| </a><a href="mailto:shaifr
 |Mdm. Radiah Bte Matmin|ST – Malay Language| <a href="mailto:radiah_matmin@moe.edu.sg">radiah_matmin@moe.edu.sg </a>|
 |Mr. Ong Eng Jye Ugene|ST – Mathematics| <a href="mailto:ong_eng_jye_ugene@moe.edu.sg">ong_eng_jye_ugene@moe.edu.sg</a>   |
 |Mdm. Sangeetha D/O Chandra|ST – Mathematics | <a href="mailto:sangeetha_chandra@moe.edu.sg">sangeetha_chandra@moe.edu.sg</a>|
-|  |  |  |  |
+| | |<b><i> HOD : Head of Department<br>SH : Subject Head<br>ST : Senior Teacher</i> </b>
+|  |  |  |
 
 2023 Form Teachers.
 -------------------
