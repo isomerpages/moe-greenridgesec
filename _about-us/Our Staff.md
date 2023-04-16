@@ -24,9 +24,9 @@ description: ""
 
 |   |   |   |
 |:--| :-- |---:|
-|Mdm. Salina Bte Ismail| School Staff Developer   | <a href="mailto:salina_ismail@moe.edu.sg"> salina_ismail@moe.edu.sg </a>  |
-|Mr. Chiu Guo Vei|HOD – Character &amp; Citizenship Education   | <a href="mailto:chiu_guo_vei@moe.edu.sg"> chiu_guo_vei@moe.edu.sg</a>   |
-|Mdm. Chng Yi Na    | HOD – English Language  | <a href="mailto:chng_yi_na@moe.edu.sg"> chng_yi_na@moe.edu.sg  </a>   |
+|<font size="3"> Mdm. Salina Bte Ismail| <font size="3">School Staff Developer   | <font size="3"><a href="mailto:salina_ismail@moe.edu.sg"> salina_ismail@moe.edu.sg </a>  |
+|<font size="3">Mr. Chiu Guo Vei|<font size="3">HOD – Character &amp; Citizenship Education   |<font size="3"> <a href="mailto:chiu_guo_vei@moe.edu.sg"> chiu_guo_vei@moe.edu.sg</a>   |
+|<font size="3">Mdm. Chng Yi Na    | <font size="3">HOD – English Language  |<font size="3"> <a href="mailto:chng_yi_na@moe.edu.sg"> chng_yi_na@moe.edu.sg  </a>   |
 |Mdm. Christina D/O Joseph|<font size="3"> HOD – Humanities| <a href="mailto:christina_joseph@moe.edu.sg"> christina_joseph@moe.edu.sg </a>   |
 |Mdm. Wang Jieying Clara | HOD – Information - Communications &amp; Technology     | <a href="mailto:wang_jieying_clara@moe.edu.sg"> wang_jieying_clara@moe.edu.sg  </a>   |
 |Ms. Yong Hsueh Li, Shirley |HOD –  Innovation &amp; Design| <a href="mailto:yong_hsueh_li_shirley@moe.edu.sg"> yong_hsueh_li_shirley@moe.edu.sg</a> |
@@ -97,7 +97,7 @@ Mr. Shaifrizman Bin Maktar|SH – Student Management| </a><a href="mailto:shaifr
 |3-8|</a><a href="mailto:lim_yeun_chen@moe.edu.sg"> 	Mr Mark Lim Yeun Chen (Math)|</a><a href="mailto:dai_yuwen@moe.edu.sg"> Dai Yuwen (CL)</a><a href="mailto:salina_ismail@moe.edu.sg"> | 
 |3-9|</a><a href="mailto:tan_pei_lin_esther@moe.edu.sg"> Ms. Tan Pei Lin Esther (SS)| </a><a href="mailto:Sabrina_Wirawan@moe.edu.sg">Ms. Sabrina Wirawan (POA)| | 
 |3-10|</a><a href="mailto:nurhayati_rahman@moe.edu.sg">Nurhayati Rahman (Geo)| </a><a href="mailto:teo_hong@moe.edu.sg">Mr Teo Hong (PE)| | 
-|3-11|&gt;</a><font size="3"><font size="3"><a href="mailto:chin_zhong_ning@moe.edu.sg">Mr Chin Zhong Ning (Math)| </a><a href="mailto:asrida_riduan_mahmood@moe.edu.sg">Mdm. Asrida Binte Riduan Mahmood (ML)| | 
+|3-11|</a><a href="mailto:chin_zhong_ning@moe.edu.sg">Mr Chin Zhong Ning (Math)|</a><a href="mailto:asrida_riduan_mahmood@moe.edu.sg">Mdm. Asrida Binte Riduan Mahmood (ML)| | 
 | | | | |
 
 
@@ -163,4 +163,4 @@ Mr. Shaifrizman Bin Maktar|SH – Student Management| </a><a href="mailto:shaifr
 | <font size="3">Mr .Song Jia Hui	| <font size="3">  Desktop Enginee	|
 |   <font size="3">Ms. Losni	|  <font size="3">Student Health Advisor	|
 |   <font size="3">Mdm. Aisha Bevi Binte V Mohammad Kunhi | <font size="3">School Librarian 	|
-|    	|    |</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font>
+|    	|    |</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font>
