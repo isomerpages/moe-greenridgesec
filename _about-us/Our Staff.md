@@ -50,7 +50,7 @@ description: ""
 |<font size="3">Mr Chin Zhi Hao|<font size="3">SH – Mathematics| <font size="3"><a href="mailto:chin_zhi_hao@moe.edu.sg">chin_zhi_hao@moe.edu.sg</a>   |
 |<font size="3">Ms. Sylvia Lim|<font size="3">SH – Physical Education |<font size="3"> <a href="mailto:lim_sze_hui_sylvia@moe.edu.sg">lim_sze_hui_sylvia@moe.edu.sg</a>   |
 |<font size="3">Ms. Lydia Bte Salim |<font size="3">SH – Science &amp; Innovation| <font size="3"><a href="mailto:lydia_salim@moe.edu.sg">lydia_salim@moe.edu.sg  |   
-|<font size="3">Mr. Shaifrizman Bin Maktar|SH – Student Management| </font></a><font size="3"><a href="mailto:shaifrizman_maktar@moe.edu.sg">shaifrizman_maktar@moe.edu.sg  </a>   |
+|<font size="3">Mr. Shaifrizman Bin Maktar|SH – Student Management| <font size="3"></font></font></a><font size="3"><font size="3"><a href="mailto:shaifrizman_maktar@moe.edu.sg">shaifrizman_maktar@moe.edu.sg  </a></font>   |
 |<font size="3">Mdm. Lim Mei Tju|<font size="3">ST – Art|<font size="3"><a href="mailto:lim_mei_tju@moe.edu.sg">lim_mei_tju@moe.edu.sg</a>   |
 |<font size="3">Mdm. Liaw Poh Geok|<font size="3">ST – Design &amp; Technology|<font size="3"><a href="mailto:liaw_poh_geok@moe.edu.sg">liaw_poh_geok@moe.edu.sg</a>   |
 |<font size="3">Ms. Maria Concepcion|<font size="3">ST – English Language|<font size="3"> <a href="mailto:maria_cgb@moe.edu.sg">maria_cgb@moe.edu.sg</a>   |
