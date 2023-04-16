@@ -87,7 +87,7 @@ Mr. Shaifrizman Bin Maktar|SH – Student Management| </a><a href="mailto:shaifr
 	
 |  <font size="4"> CLASS|<font size="4">Secondary Three  |   |    |
 |:--| :-- |:---|:---|
-|<font size="3">3-1|</font></font></font></a><font size="4"><font size="4"><font size="3"><a href="mailto:liaw_poh_geok@moe.edu.sg"> Mdm. Liaw Poh Geok (D&amp;T) | </a><a href="mailto:melvin_foo_cheng_loong@moe.edu.sg"> Mr Melvin Foo Cheng Loong (Math)| |
+|3-1|</font></font></a><font size="4"><font size="4"><a href="mailto:liaw_poh_geok@moe.edu.sg"> Mdm. Liaw Poh Geok (D&amp;T) | </a><a href="mailto:melvin_foo_cheng_loong@moe.edu.sg"> Mr Melvin Foo Cheng Loong (Math)| |
 |3-2|</a><a href="mailto:tan_mei_li_joanne@moe.edu.sg">Mdm. Tan Mei Li Joanne (EL)| </a><a href="mailto:chee_yuan_jun@moe.edu.sg">Mr Chee Yuan Jun (SS)|</a><a href="mailto:shawna_teo_lian_choo@moe.edu.sg">Ms. Shawna Teo (AED) | 
 |3-3|</a><a href="mailto:maria_cbg@moe.edu.sg"> Ms. Maria Concepcion (EL)| </a><a href="mailto:toh_xin_hui@moe.edu.sg">Ms. Toh Xin Hui (CL)|  | 
 |3-4|</a><a href="mailto:ong_eng_jye_ugene@moe.edu.sg"> Mr Ugene Ong (Math)| </a><a href="mailto:norsuzana_saini@moe.edu.sg">Ms. Norsuzana Saini (D&amp;T)|  | 
@@ -163,4 +163,4 @@ Mr. Shaifrizman Bin Maktar|SH – Student Management| </a><a href="mailto:shaifr
 | <font size="3">Mr .Song Jia Hui	| <font size="3">  Desktop Enginee	|
 |   <font size="3">Ms. Losni	|  <font size="3">Student Health Advisor	|
 |   <font size="3">Mdm. Aisha Bevi Binte V Mohammad Kunhi | <font size="3">School Librarian 	|
-|    	|    |</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font>
+|    	|    |</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font>
