@@ -72,7 +72,7 @@ description: ""
 |<font size="3"> 1-5  </font>|<font size="3"><a href="mailto:cheong_xinni_cheryl@moe.edu.sg"> Ms. Cheryl Cheong (Chemistry)   </a></font>|<font size="3"><a href="mailto:sivaprakasam_uthayarani@moe.edu.sg"> Ms. Sivaprakasam Uthayarani (TL) </a></font>|<font size="3"><a href="mailto:cynthia_lim_xin_ru@moe.edu.sg"> Ms. Cynthia Lim Xin Ru (EL Lit) </a></font> | 
 |<font size="3"> 1-6 </font>|<font size="3"><a href="mailto:chew_cheng_boon@moe.edu.sg"> Mr Chew Cheng Boon (Chemistry) </a></font>|<font size="3"><a href="mailto:hemalatha_a_sivakumar@moe.edu.sg"> Ms. Hemalatha D/O Sivakumar (FCE)</a></font>|   | 
 |<font size="3"> 1-7 </font>|<font size="3"><a href="mailto:lau_yan_wei@moe.edu.sg"> Mr Lau Yan Wei (CL) </a></font>|<font size="3"><a href="mailto:norita_mokhtar@moe.edu.sg"> Mdm. Norita Mokhtar(Art)</a></font>|   | 
-
+| | | | |
 
 |  <font size="4"> CLASS|<font size="4">Secondary Two  |   |    |
 |:--| :-- |:---|:---|
