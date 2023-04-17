@@ -2,6 +2,7 @@
 title: For Students
 permalink: /quick-links/students/
 description: ""
+third_nav_title: For Students
 ---
 # **Students**
 
