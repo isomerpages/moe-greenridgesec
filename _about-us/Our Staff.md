@@ -105,7 +105,7 @@ description: ""
 
 |  <font size="4"> CLASS|<font size="4">Secondary Four and Five  |   |    |
 |:--| :-- |:---|:---|
-|<font size="3"> 4-1  </font>|<font size="3"><a href="mailto:sangeetha_chandra@moe.edu.sg"> Mdm. Sangeetha d/o Chandra (CPA/Math)</a></font>|<font size="3"><a href="mailto:tan_jui_chin_bernard@moe.edu.sg"> r Tan Jui Chin Bernard (CPA/ D &amp; T)</a></font>|   | 
+|<font size="3"> 4-1  </font>|<font size="3"><a href="mailto:sangeetha_chandra@moe.edu.sg"> Mdm. Sangeetha d/o Chandra (CPA/Math)</a></font>|<font size="3"><a href="mailto:tan_jui_chin_bernard@moe.edu.sg">Tan Jui Chin Bernard (CPA/ D &amp; T)</a></font>|   | 
 |<font size="3"> 4-2  </font>|<font size="3"><a href="mailto:lydia_salim@moe.edu.sg"> Ms. Lydia Salim (BIO) </a></font>|<font size="3"><a href="mailto:afiqa_nadia_zainal@moe.edu.sg"> Ms. Afiqa Nadia Bte Zainal (ML)</a></font>|  | 
 |<font size="3"> 4-3  </font>|<font size="3"><a href="mailto:andy_chia_meng_hong@moe.edu.sg"> Mr Andy Chia Meng Hong (D &amp; T)</a></font>|<font size="3"><a href="mailto:lim_ying_ting_denise@moe.edu.sg"> Mdm. Denise Lim Ying Ting (HIS) </a></font>|   | 
 |<font size="3"> 4-4  </font>|<font size="3"><a href="mailto:junaidah_manap@moe.edu.sg"> Ms. Junaidah Binte Manap (ML)</a></font>|<font size="3"><a href="mailto:lee_huan_ghee@moe.edu.sg"> Mr Lee Huan Ghee (PE)</a></font>|   | 
