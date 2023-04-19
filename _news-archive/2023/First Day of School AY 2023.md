@@ -10,8 +10,18 @@ third_nav_title: "2023"
 
 &nbsp;We hope that all students had a fruitful break and are ready for another fulfilling and enriching year ahead. We look forward to welcoming all students back to school on&nbsp;**Tuesday, 4 January 2022**.&nbsp;
 
-&nbsp;Please see the table below for the reporting and dismissal time as well as the entry points into the school.
+
+
+
+
+<p style="color:red">Please see the table below for the reporting and dismissal time as well as the entry points into the school..</p>
+
+
+
+<p style="font-size:30px">This is a paragraph.</p>
+<p style="font-size:22px">This is another paragraph.</p>
  
+
  
  
  
