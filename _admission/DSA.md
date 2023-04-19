@@ -3,7 +3,7 @@ title: DSA
 permalink: /admission/dsa/
 description: ""
 ---
-# **DSA**
+# **Direct School Admission**
 
 **2023 DIRECT SCHOOL ADMISSION-SECONDARY EXERCISE (DSA-SEC)**
 
