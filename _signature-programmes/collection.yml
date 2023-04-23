@@ -1,5 +1,5 @@
 collections:
-  distinctive-programmes:
+  signature-programmes:
     output: true
     order:
       - Applied Learning Program (ALP)/.keep
