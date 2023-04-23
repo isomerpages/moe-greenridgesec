@@ -1,5 +1,5 @@
 collections:
-  school-experience:
+  student-life:
     output: true
     order:
       - Curriculum/English Language & Literature.md
