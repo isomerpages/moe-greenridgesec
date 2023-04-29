@@ -8,12 +8,12 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: What's Happening
+        - title: What's Happening?
           description: Click here for more
           url: /announcements/
-        - title: What’s Exciting
+        - title: What’s Exciting?
           description: Click here for more
-          url: m/others/news-archive
+          url: /news-archive
         - title: Contact Us
           description: ""
           url: /contact-us/
