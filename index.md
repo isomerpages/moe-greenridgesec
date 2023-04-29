@@ -13,7 +13,7 @@ sections:
           url: /announcements/
         - title: What’s Exciting
           description: Click here for more
-          url: m/others/news-archive/2022/
+          url: m/others/news-archive
         - title: Contact Us
           description: ""
           url: /contact-us/
