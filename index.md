@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: What’s Exciting?
           description: Click here for more
-          url: /folders/news-archive/2023
+          url: /whats-exciting/
         - title: What's Happening?
           description: Click here for more
           url: /whats-happening/
