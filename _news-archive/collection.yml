@@ -2,9 +2,9 @@ collections:
   news-archive:
     output: true
     order:
-      - 2023/16th NATIONAL SECONDARY SCHOOLS TRANSLATION COMPETITION 2023.md
-      - 2023/First Day of School AY 2023.md
       - 2023/.keep
+      - 2023/First Day of School AY 2023.md
+      - 2023/16th NATIONAL SECONDARY SCHOOLS TRANSLATION COMPETITION 2023.md
       - 2022/First Day of School AY 2022.md
       - 2022/Esprit d’Excellence 2022.md
       - 2022/Raising A Digitally Smart Child.md
