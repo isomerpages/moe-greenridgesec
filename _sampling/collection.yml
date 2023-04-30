@@ -1,0 +1,4 @@
+collections:
+  sampling:
+    output: true
+    order: []
