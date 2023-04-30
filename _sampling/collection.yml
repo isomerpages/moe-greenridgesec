@@ -1,5 +1,0 @@
-collections:
-  sampling:
-    output: true
-    order:
-      - What's Happening?.md
