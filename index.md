@@ -13,7 +13,7 @@ sections:
           url: /folders/news-archive/2023
         - title: What's Happening?
           description: Click here for more
-          url: /whatshappening/
+          url: /whats-happening/
         - title: Contact Us
           description: ""
           url: /contact-us/
