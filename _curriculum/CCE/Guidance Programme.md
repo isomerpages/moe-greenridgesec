@@ -10,7 +10,7 @@ third_nav_title: CCE
 
 ### ECG
 
-\*under construction\*
+[Education Career Guidance](/education-and-career-guidance/)
 
 ### Sexuality Education Programme
 
