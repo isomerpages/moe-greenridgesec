@@ -8,7 +8,7 @@ third_nav_title: CCE
 
 \*under construction\*
 
-### ECG
+### Education Career Guidance {ECG)
 
 [Education Career Guidance](/education-and-career-guidance/)
 
