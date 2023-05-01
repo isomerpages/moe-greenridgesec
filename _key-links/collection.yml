@@ -2,11 +2,11 @@ collections:
   key-links:
     output: true
     order:
-      - For Students/Book List and Uniform.md
       - For Students/.keep
       - For Students/Students' Timetable.md
       - For Students/Teaching and Learning.md
       - For Students/eGIRO.md
+      - For Students/Book List and Uniform.md
       - For Students/Group Personal Accident Insurance Plan for Students 2023.md
       - For Students/Title	Group Personal Accident (GPA) Insurance Plan for
         Students.md
