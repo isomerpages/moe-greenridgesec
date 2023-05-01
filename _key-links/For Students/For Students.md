@@ -15,16 +15,6 @@ third_nav_title: For Students
 *   [Student Learning Space](https://learning.moe.edu.sg/)
 *   [Digital Literacy](https://sites.google.com/moe.edu.sg/greenridge-sec-sch/home)
 
-### Timetable and information
-
-*   [Secondary One TT](/files/Timetable%202023/tt%202023%20t2%20secone.pdf)
-*   [Secondary Two TT](/files/Timetable%202023/tt%202023%20t2%20sectwo.pdf)
-*   [Secondary Three TT](/files/Timetable%202023/tt%202023%20t2%20secthree.pdf)
-*   [Secondary Four TT](/files/Timetable%202023/tt%202023%20t2%20secfour.pdf)
-*   [Secondary Five TT](/files/Timetable%202023/tt%202023%20t2%20secfive.pdf)
-*   [Book List and Uniform](/book-list-and-uniform/)
-*   [Code of Conduct](/about-us/code-of-conduct)
-
   
 
 ### Others
@@ -34,6 +24,3 @@ third_nav_title: For Students
 *   [Skills Future](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 *   [Application Form for Leave of Absence (LOA)](https://go.gov.sg/gssloa)
 *   [Financial Assistance Scheme (FAS)](https://greenridgesec.moe.edu.sg/others/financial-assistance-scheme-fas)
-*   **Group Personal Accident (GPA) Insurance Plan for Students 2023**
-	*   [GPA Information](https://www.income.com.sg/studentgpa)
-	*   [GPA Portal for Claim](https://studentgpa.incomegroupins.com.sg)
