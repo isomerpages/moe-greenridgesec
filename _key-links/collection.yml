@@ -2,6 +2,7 @@ collections:
   key-links:
     output: true
     order:
+      - For Students/Book List and Uniform.md
       - For Students/.keep
       - For Students/Students' Timetable.md
       - For Students/Teaching and Learning.md
