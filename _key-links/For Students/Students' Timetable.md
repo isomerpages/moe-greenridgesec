@@ -10,4 +10,4 @@ third_nav_title: For Students
 *   [Secondary Two Time Table](/files/Timetable%202023/tt%202023%20t2%20sectwo.pdf)
 *   [Secondary Three  Time Table](/files/Timetable%202023/tt%202023%20t2%20secthree.pdf)
 *   [Secondary Four  Time Table](/files/Timetable%202023/tt%202023%20t2%20secfour.pdf)
-*   [Secondary Five  Time TableT](/files/Timetable%202023/tt%202023%20t2%20secfive.pdf)
+*   [Secondary Five  Time Table](/files/Timetable%202023/tt%202023%20t2%20secfive.pdf)
