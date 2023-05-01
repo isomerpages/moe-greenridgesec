@@ -2,6 +2,7 @@ collections:
   key-links:
     output: true
     order:
+      - For Students/Others.md
       - For Students/Students' Timetable.md
       - For Students/Group Personal Accident Insurance Plan for Students 2023.md
       - For Students/Title	Group Personal Accident (GPA) Insurance Plan for
