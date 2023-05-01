@@ -4,7 +4,7 @@ permalink: /quick-links/students/
 description: ""
 third_nav_title: For Students
 ---
-# **Students**
+# **Resources**
 
 ### Teaching & Learning Resources
 
