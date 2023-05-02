@@ -19,4 +19,3 @@ Account holders from the following banks can sign up for the GIRO scheme with MO
 #### [**CLICK HERE TO VIEW >> MOE EGIRO**](https://www.moe.gov.sg/financial-matters/fees/egiro)
 
 
-#### [**APPLY FOR EGIRO**](https://egiro-moe.dbs.com/IndustryEDDAServices/egiro/#/egiro-moe?boTxnRefNo=BOMIN0012J01MIN20230501091230883277)
