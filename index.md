@@ -12,7 +12,7 @@ sections:
           description: ""
           url: /whats-exciting/
         - title: What's Happening?
-          description: Click here for more
+          description: ""
           url: /whats-happening/
         - title: Contact Us
           description: ""
