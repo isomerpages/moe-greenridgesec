@@ -7,8 +7,8 @@ third_nav_title: For Students
 #### Information sheet on MOE eGIRO for Student Bills 
 
 1.	From 5 Dec 2022, MOE has launched a new MOE eGIRO page [(https://www.moe.gov.sg/financial-matters/fees/egiro)](https://www.moe.gov.sg/financial-matters/fees/egiro) for parents to sign up for GIRO online to pay for their children’s student bills. 
-•	This service is not for setting up GIRO arrangement for Vendor Bills or MOE Kindergarten Bills.
-•	This service is only meant for students studying in Government and Government-Aided Schools.
+* This service is not for setting up GIRO arrangement for Vendor Bills or MOE Kindergarten Bills.
+* This service is only meant for students studying in Government and Government-Aided Schools.
 
 ![](/images/EGIRO/egiro1.png)
 
