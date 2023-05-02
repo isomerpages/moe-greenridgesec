@@ -10,16 +10,19 @@ third_nav_title: For Students
 •	This service is not for setting up GIRO arrangement for Vendor Bills or MOE Kindergarten Bills.
 •	This service is only meant for students studying in Government and Government-Aided Schools.
 
-Use our digital service to apply for GIRO arrangement for your child's school and miscellaneous fees.
+![](/images/EGIRO/egiro1.png)
 
+![](/images/EGIRO/egiro2.png)
 
+![](/images/EGIRO/egiro3.png)
 
-You can apply for your child's school and miscellaneous fees to be paid through GIRO. The same GIRO arrangement will also be extended to cover their payment of enrichment programmes, school charges and deduction of national examination fees (Primary School Leaving Examination and GCE Examinations), where applicable.
+2.	The page is also accessible through the “Services” tab in Parents Gateway app – “GIRO Setup”. 
 
-Account holders from the following banks can sign up for the GIRO scheme with MOE
+![](/images/EGIRO/egiro4.png)
 
-![](/images/2023%20MISCELLANOUS/egiro_bank_logos_4x2.png)
+3.	This MOE eGIRO service is currently available to account holders with the following banks: BOC, DBS/POSB, HSBC, Maybank, OCBC, SCB and UOB.  
+•	Though applications with ICBC bank accounts can be submitted through the portal, they cannot be processed by school’s billing system due to system limitations. Parents are advised to use non-ICBC bank accounts as listed above if they want to set up GIRO with MOE.  
 
-##### [**CLICK HERE TO VIEW >> MOE eGIRO**](https://www.moe.gov.sg/financial-matters/fees/egiro)
+4.	User guide for eGIRO application is attached:
 
-##### [Refer to the user guide here for the steps to sign up.](/files/egiro_user_guide.pdf)
+[](/files/egiro_user_guide.pdf)
