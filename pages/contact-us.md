@@ -21,11 +21,6 @@ contacts:
       - other: ""
     title: Phone Number
   - content:
-      - phone: +65 6760 1052
-      - email: ""
-      - other: ""
-    title: Phone Number 2
-  - content:
       - phone: ""
       - email: gss@moe.edu.sg
       - other: ""

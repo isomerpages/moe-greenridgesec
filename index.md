@@ -8,12 +8,12 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: What's Happening
+        - title: What’s Exciting?
           description: Click here for more
-          url: /announcements/
-        - title: GSS Buzz!
+          url: /whats-exciting/
+        - title: What's Happening?
           description: Click here for more
-          url: m/others/news-archive/2022/
+          url: /whats-happening/
         - title: Contact Us
           description: ""
           url: /contact-us/
