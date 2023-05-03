@@ -13,8 +13,8 @@ We invite you to apply for Direct School Admission (DSA) to Sec 1 (2024). DSA al
 
 For our 2024 Sec 1s, we offer the following talent areas:
 * [Debating and Public Speaking](/signature-programmes/applied-learning-programme/debatenpublicspeaking/)
-* Media / Journalism 
-* Bilingualism 
+* [Media and Journalism](/signature-programmes/applied-learning-programme/medianjournalism/)
+* [Bilingualism](/signature-programmes/applied-learning-programme/bilingualism/)
 * [Community Youth Leadership](/distinctive-programmes/learning-for-life-programme-llp/)
 * [Rugby](/school-experience/co-curriculum/cca/sports-and-games/rugby/)
 
