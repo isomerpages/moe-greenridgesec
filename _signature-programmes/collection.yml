@@ -2,7 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Applied Learning Programme/Debating and Public Speaking.md
       - Applied Learning Programme/.keep
       - Applied Learning Programme/Overview of ALP.md
+      - Applied Learning Programme/Debating and Public Speaking.md
       - Learning for Life Programme.md
