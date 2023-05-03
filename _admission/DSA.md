@@ -16,7 +16,7 @@ For our 2024 Sec 1s, we offer the following talent areas:
 * Media / Journalism 
 * Bilingualism 
 * Community Youth Leadership 
-* Rugby 
+* [Rugby](/school-experience/co-curriculum/cca/sports-and-games/rugby/)
 
 
 Successful applicants will enjoy a range of developmental opportunities to nurture their interests and develop their skills in the talent area offered to them. These students can look forward to opportunities to:
