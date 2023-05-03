@@ -1,6 +1,6 @@
 ---
 title: Humanities
-permalink: /school-experience/curriculum/humanities/
+permalink: /student-life/curriculum/humanities/
 description: ""
 third_nav_title: Curriculum
 ---
@@ -8,9 +8,9 @@ third_nav_title: Curriculum
 
 ### OUR BELIEFS
 
-The 21st century is characterized by constant change and evolution of the human and geographical landscape propelled by rapid changes to our social, economic and political contexts. To manage these challenges and maximise the available opportunities, every learner requires 21st century skills of communication, collaborative learning, critical and creative thinking skills. 
+The 21st&nbsp;century is characterized by constant change and evolution of the human and geographical landscape propelled by rapid changes to our social, economic and political contexts. To manage these challenges and maximise the available opportunities, every learner requires 21st&nbsp;century skills of communication, collaborative learning, critical and creative thinking skills.&nbsp;
 
-As such,  we aim  to deliver a Humanities education for students to 
+As such,&nbsp; we aim&nbsp; to deliver a Humanities education for students to&nbsp;
 
 *   discover and appreciate the complexities that define the human experience
     
@@ -21,21 +21,21 @@ As such,  we aim  to deliver a Humanities education for students to 
 
 ### HOW WE ENGAGE OUR STUDENTS
 
-Through Inquiry-Based Learning and Socratic Questioning, the department strives to develop deep conceptual understanding through the exploration of various issues and topics in Geography, History and Social Studies. 
+Through Inquiry-Based Learning and Socratic Questioning, the department strives to develop deep conceptual understanding through the exploration of various issues and topics in Geography, History and Social Studies.&nbsp;
 
-The active use of technology to support Blended Learning allows students to engage in a range of learning activities within and beyond the classroom. These strategies enable teachers to be the facilitators of learning to guide students in becoming  self-directed learners who can construct knowledge for themselves.
+The active use of technology to support Blended Learning allows students to engage in a range of learning activities within and beyond the classroom. These strategies enable teachers to be the facilitators of learning to guide students in becoming&nbsp; self-directed learners who can construct knowledge for themselves.
 
 ![](/images/Hum6.jpg)
 
-### OUR STUDENTS & TEACHERS @ WORK
+### OUR STUDENTS &amp; TEACHERS @ WORK
 
 **Learning beyond the classroom**
 Rich learning beyond the classroom takes the form of investigations and Learning Journeys as well as external competitions. They reinforce learning in classrooms and help students better retain their learning in the classrooms. Guided by inquiry, students’ learning is enhanced through these investigations as they collaborate to reach an informed conclusion about various issues by:
 
-*   gathering and analysing data 
+*   gathering and analysing data&nbsp;
 *   drawing conclusions based on the data
 *   presenting their data and conclusions
-*   reflecting on their learning 
+*   reflecting on their learning&nbsp;
 *   proposing actions in relation to the investigation issue
 
 **Geographical Investigations**     
@@ -49,7 +49,7 @@ At the National Museum of Singapore, students investigate historical sources ran
 
 
 **Enrichment and Competitions**     
-Students participate in conferences and  competitions such as the Model ASEAN Summit as well as the NUS Geography Challenge and History Challenge. Such platforms allow students to critically apply the knowledge and skills learnt in the Humanities classroom and connect with other Humanities students in Singapore to discuss meaningful societal issues.
+Students participate in conferences and&nbsp; competitions such as the Model ASEAN Summit as well as the NUS Geography Challenge and History Challenge. Such platforms allow students to critically apply the knowledge and skills learnt in the Humanities classroom and connect with other Humanities students in Singapore to discuss meaningful societal issues.
 ![](/images/Hum5.jpg)
 
 **Greenridge Secondary School NUS geography challenge 2022 creative component video**   
@@ -57,7 +57,7 @@ Designing Blueprints for Our Green Futures
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i20N1l976dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i20N1l976dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 **Current Affairs Tuesday Sharing (CATS)**  
@@ -81,4 +81,3 @@ CATS - Influencer Culture
 
 CATS - Nature Society
 (insert YT video)
-

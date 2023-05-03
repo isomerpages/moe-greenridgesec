@@ -1,6 +1,6 @@
 ---
 title: Computer Applications (CPA)
-permalink: /school-experience/curriculum/computer-applications-cpa/
+permalink: /student-life/curriculum/computer-applications-cpa/
 description: ""
 third_nav_title: Curriculum
 ---
@@ -8,7 +8,7 @@ third_nav_title: Curriculum
 
 ### OUR BELIEFS
 
-"We must get our children in schools exposed to IT, exposed to programming," \- [Prime Minister Lee Hsien Loong, 2014](https://www.asiaone.com/singapore/teach-students-computer-coding-urges-pm-lee)  
+"We must get our children in schools exposed to IT, exposed to programming,"&nbsp;\- [Prime Minister Lee Hsien Loong, 2014](https://www.asiaone.com/singapore/teach-students-computer-coding-urges-pm-lee)  
 Globalisation, changing demographics and technological advancements are some of the key driving forces of our current times, and they will continue to shape our future. Hence, MOE has identified a suite of core values and competencies to prepare students for the fast-changing world. The Computer Applications syllabus aims to prepare students to
 
 *   be technologically adept citizens
@@ -41,7 +41,7 @@ To enhance creativity, flexibility and collaborative skills in problem solving, 
 
 Technology is used to not only multiply the effect of a teacher and allow students to reach mastery-based goals but also to augment students’ skills and grasping of concepts, track and assess where students are in their learning so as to effectively engage them. Teachers provide targeted feedback to help students advance in their learning.
 
-### OUR STUDENTS & TEACHERS @ WORK
+### OUR STUDENTS &amp; TEACHERS @ WORK
 
 ![](/images/CPA1.jpg)
 **A sample on how decomposition of problem is done in class**

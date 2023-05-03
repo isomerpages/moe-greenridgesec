@@ -1,12 +1,10 @@
 ---
-title: Applied Learning Programme (ALP)
+title: Overview of ALP
 permalink: /distinctive-programmes/applied-learning-programme-alp/
 description: ""
-third_nav_title: Applied Learning Program (ALP)
+third_nav_title: Applied Learning Programme
 ---
-
-
-# **Applied Learning Programme (ALP)**
+# **Overview of ALP**
 
 ### What is unique about Greenridge ALP?
 

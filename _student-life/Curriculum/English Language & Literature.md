@@ -1,10 +1,10 @@
 ---
 title: English Language & Literature
-permalink: /school-experience/curriculum/english-language-n-literature/
+permalink: /student-life/curriculum/english-language-n-literature/
 description: ""
 third_nav_title: Curriculum
 ---
-# **English Language & Literature**
+# **English Language &amp; Literature**
 
 ### OUR BELIEFS
 
@@ -31,8 +31,8 @@ In line with our belief to prepare students to be future-ready, we ensure that s
 In the English Language curriculum, we guide students through the following stages of learning which we call CLEARR:
 
 *   Contextualisation
-*   Learn & Explore
-*   Apply & Respond 
+*   Learn &amp; Explore
+*   Apply &amp; Respond 
 *   Reinforce
 
 In the Literature curriculum, we enable students’ learning through:
@@ -41,18 +41,18 @@ In the Literature curriculum, we enable students’ learning through:
 *   Interpreting Theme   
 *   Appreciating Style
 
-In all these learning experiences in the Literature curriculum, we strive to promote students’ thinking about the connections between the texts and themselves, the texts and other readers, the texts and other texts as well as the texts and the world. 
+In all these learning experiences in the Literature curriculum, we strive to promote students’ thinking about the connections between the texts and themselves, the texts and other readers, the texts and other texts as well as the texts and the world.&nbsp;
 
 At each stage of learning in the English Language and Literature curriculum, we employ a range of pedagogical approaches to guide students through their learning, so that they can grow to become self-directed, independent learners. In supporting students’ learning, in particular, we consciously use the Gradual Release of Responsibility Framework to enable students to build the confidence in learning.
 
 **Gradual Release of Responsibility Framework**
 ![](/images/EL5.png)
 
-To challenge our students to deepen their learning, we design opportunities in the curriculum for them to engage in the application of their learning in authentic contexts. This ties in with the Apply & Respond stage of CLEARR.
+To challenge our students to deepen their learning, we design opportunities in the curriculum for them to engage in the application of their learning in authentic contexts. This ties in with the Apply &amp; Respond stage of CLEARR.
 
 Various programmes are designed to spark students’ interest in reading as part of the efforts to cultivate their habit to read. The Odd Week Tuesday Article Reading raises students’ awareness of current affairs and provides them with the platforms to apply their knowledge and different skills through reflection and discussions in class. Our EL and Lit subject representatives also lead the way as reading champions, while students are also invited to share their book recommendations to excite others to read.
 
-### OUR STUDENTS & TEACHERS @ WORK
+### OUR STUDENTS &amp; TEACHERS @ WORK
 
 Debating @ National Schools Literature Festival
 ![](/images/EL6.jpg)
@@ -61,14 +61,14 @@ Student writers collaborating during a poetry writing workshop
 ![](/images/EL1-1.jpg)
 
 GSS English Language
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFmxgaYby_Y?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFmxgaYby_Y?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 GSS English Literature
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WuWCbIjpYVY?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WuWCbIjpYVY?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 GSS EL Making a Speech on the Environment
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-zZojsATB-A?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-zZojsATB-A?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 GSS Talk Moves in the Classroom for Productive Academic Discussions
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AHvWGebSNpo?start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AHvWGebSNpo?start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>

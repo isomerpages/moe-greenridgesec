@@ -1,5 +1,5 @@
 ---
-title: Learning for Life Programme (LLP)
+title: Learning for Life Programme
 permalink: /distinctive-programmes/learning-for-life-programme-llp/
 description: ""
 ---

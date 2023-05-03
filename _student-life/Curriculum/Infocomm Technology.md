@@ -1,6 +1,6 @@
 ---
-title: ICT
-permalink: /school-experience/curriculum/ict/
+title: Infocomm Technology
+permalink: /student-life/curriculum/ict/
 third_nav_title: Curriculum
 description: ""
 ---

@@ -4,19 +4,25 @@ permalink: /key-links/for-students/egiro/
 description: ""
 third_nav_title: For Students
 ---
-Apply for eGIRO
-===============
-Use our digital service to apply for GIRO arrangement for your child's school and miscellaneous fees.
+#### Information sheet on MOE eGIRO for Student Bills 
 
+1.	From 5 Dec 2022, MOE has launched a new MOE eGIRO page [(https://www.moe.gov.sg/financial-matters/fees/egiro)](https://www.moe.gov.sg/financial-matters/fees/egiro) for parents to sign up for GIRO online to pay for their children’s student bills. 
+* This service is not for setting up GIRO arrangement for Vendor Bills or MOE Kindergarten Bills.
+* This service is only meant for students studying in Government and Government-Aided Schools.
 
+![](/images/EGIRO/egiro1.png)
 
-You can apply for your child's school and miscellaneous fees to be paid through GIRO. The same GIRO arrangement will also be extended to cover their payment of enrichment programmes, school charges and deduction of national examination fees (Primary School Leaving Examination and GCE Examinations), where applicable.
+![](/images/EGIRO/egiro2.png)
 
-Account holders from the following banks can sign up for the GIRO scheme with MOE
+![](/images/EGIRO/egiro3.png)
 
-![](/images/2023%20MISCELLANOUS/egiro_bank_logos_4x2.png)
+2.	The page is also accessible through the “Services” tab in Parents Gateway app – “GIRO Setup”. 
 
-#### [**CLICK HERE TO VIEW >> MOE EGIRO**](https://www.moe.gov.sg/financial-matters/fees/egiro)
+![](/images/EGIRO/egiro4.png)
 
+3.	This MOE eGIRO service is currently available to account holders with the following banks: BOC, DBS/POSB, HSBC, Maybank, OCBC, SCB and UOB.  
+* Though applications with ICBC bank accounts can be submitted through the portal, they cannot be processed by school’s billing system due to system limitations. Parents are advised to use non-ICBC bank accounts as listed above if they want to set up GIRO with MOE.  
 
-#### [**APPLY FOR EGIRO**](https://egiro-moe.dbs.com/IndustryEDDAServices/egiro/#/egiro-moe?boTxnRefNo=BOMIN0012J01MIN20230501091230883277)
+4.	User guide for eGIRO application is attached:
+
+[](/files/egiro_user_guide.pdf)
