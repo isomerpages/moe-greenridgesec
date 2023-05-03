@@ -12,7 +12,8 @@ Competitions
 a.               Debate: Greenridge Orators is made up of passionate volunteers, a few with little or no debating background, who came together due, in no small part, to their love of the English language and to enhance their speaking and critical thinking skills. The Orators had made a clean sweep of the various competition rounds at the Siingapore Secondary Schools Debating Championships having won against Hwa Chong International, Kranji Secondary School and Jurong West Secondary School. The team looks to the next round on 31 March 2023. ![](/images/Whats%20Exciting/debating%20via%20zoom.jpeg)
 When win was announced
 ![](/images/Whats%20Exciting/when%20win%20was%20announced%20p.png)
-
+When siyeon was announced as best speaker
+![](/images/Whats%20Exciting/when%20siyeon%20was%20announced%20as%20best%20speaker.jpeg)
 
 b.     Rugby: Our boys played with grit and passion against Evergreen Secondary School at the NSG Rugby B Division Semi-finals at PSOEB Stadium on 27th March. Cloudy skies and a slippery pitch did not dampen the spirits of our boys who ran fast and tackled hard. An enthusiastic crowd of supporters, which included parents, staff and school leaders, was there to cheer them on. Though the match ended in a victory for Evergreen Sec, the GSS boys are enthusiastically looking forward to their upcoming third/ fourth placing match with Admiralty Sec School on the 10th of April at the Sports Hub.  ![](/images/Whats%20Exciting/rugby%20p.png)
 
