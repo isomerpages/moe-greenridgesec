@@ -49,5 +49,5 @@ Our Secondary 3 Normal Academic students attended the ITE Applied Learning Modul
 
 7   Grow your Own Greens at ITE East
 
-
+Click Link Below  
 [**16th NATIONAL SECONDARY SCHOOLS TRANSLATION COMPETITION 2023**](/others/news-archive/2023/translation-competition/)
