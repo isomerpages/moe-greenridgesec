@@ -32,7 +32,7 @@ Training physical and mental strength
 
 Working as a team during a rugby match
 
-
+![](/images/RUGBY/rugby-4p.png)
 
 [\[a\]](#cmnt_ref1)Update with 2023 achievements
 
