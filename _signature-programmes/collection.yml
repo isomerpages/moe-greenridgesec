@@ -2,7 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Applied Learning Program (ALP)/.keep
-      - Applied Learning Program (ALP)/Applied Learning Programme (ALP).md
-      - Applied Learning Program (ALP)/GSS Stories.md
+      - Applied Learning Programme/.keep
+      - Applied Learning Programme/Applied Learning Programme (ALP).md
+      - Applied Learning Programme/GSS Stories.md
       - Learning for Life Programme (LLP).md
