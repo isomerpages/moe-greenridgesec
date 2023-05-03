@@ -15,7 +15,7 @@ For our 2024 Sec 1s, we offer the following talent areas:
 * [Debating and Public Speaking](/signature-programmes/applied-learning-programme/debatenpublicspeaking/)
 * Media / Journalism 
 * Bilingualism 
-* Community Youth Leadership 
+* [Community Youth Leadership](/distinctive-programmes/learning-for-life-programme-llp/)
 * [Rugby](/school-experience/co-curriculum/cca/sports-and-games/rugby/)
 
 
