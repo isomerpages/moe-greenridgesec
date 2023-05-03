@@ -12,4 +12,4 @@ Be immersed in new media journalism through creating digital stories and documen
 
 ![](/images/ALP/alp-02.jpg)
 
-Caption: Direct, film and produce digital media
+Direct, film and produce digital media
