@@ -10,6 +10,6 @@ In an ever-evolving media landscape, the written word holds tremendous power to 
 
 Be immersed in new media journalism through creating digital stories and documentary videos. As part of the talent development programme of our Applied Learning Programme (ALP) in English Language, we will equip students with the tools you need to produce compelling and impactful stories, delivered through digital media platforms. Students will have the opportunity to be mentored by professionals in the media industry and participate in national-level competitions, such as the annual Our Schools, Our Stories Photo and Video Contest.
 
-
+![](/images/ALP/alp-02.jpg)
 
 Caption: Direct, film and produce digital media
