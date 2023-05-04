@@ -14,12 +14,12 @@ third_nav_title: For Students
 
 ![](/images/EGIRO/image3z.png)
 
-
+![](/images/EGIRO/image2x.png)
 
 
 (2)  The page is also accessible through the “Services” tab in Parents Gateway app – “GIRO Setup”.
+![](/images/EGIRO/image5z.png)
 
-![](/images/EGIRO/image5p.png)
 
 (3)  This MOE eGIRO service is currently available to account holders with the following banks: BOC, DBS/POSB, HSBC, Maybank, OCBC, SCB and UOB.  
 
