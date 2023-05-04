@@ -16,7 +16,7 @@ third_nav_title: For Students
 ![](/images/EGIRO/image3.png)
 ![](/images/EGIRO/image2.png)
 
-2.  The page is also accessible through the “Services” tab in Parents Gateway app – “GIRO Setup”.
+2.   The page is also accessible through the “Services” tab in Parents Gateway app – “GIRO Setup”.
 
 ![](/images/EGIRO/image5p.png)
 
@@ -24,5 +24,5 @@ third_nav_title: For Students
 
 *   Though applications with ICBC bank accounts can be submitted through the portal, they cannot be processed by school’s billing system due to system limitations. Parents are advised to use non-ICBC bank accounts as listed above if they want to set up GIRO with MOE.  
 
-4.  User guide for eGIRO application is attached:
+4.   User guide for eGIRO application is attached:
 [](/files/egiro_user_guide.pdf)
