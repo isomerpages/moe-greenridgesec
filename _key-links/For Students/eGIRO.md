@@ -10,10 +10,9 @@ third_nav_title: For Students
 
 *   This service is not for setting up GIRO arrangement for Vendor Bills or MOE Kindergarten Bills.
 *   This service is only meant for students studying in Government and Government-Aided Schools.
+![](/images/EGIRO/image1z.png)
+![](/images/EGIRO/image3z.png)
 
-![](/images/EGIRO/image1.png)
-
-![](/images/EGIRO/image3.png)
 ![](/images/EGIRO/image2.png)
 
 (2)  The page is also accessible through the “Services” tab in Parents Gateway app – “GIRO Setup”.
