@@ -25,5 +25,4 @@ third_nav_title: For Students
 *   Though applications with ICBC bank accounts can be submitted through the portal, they cannot be processed by school’s billing system due to system limitations. Parents are advised to use non-ICBC bank accounts as listed above if they want to set up GIRO with MOE.  
 
 4.  User guide for eGIRO application is attached:
-
 [](/files/egiro_user_guide.pdf)
