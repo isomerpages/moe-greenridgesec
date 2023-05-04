@@ -14,7 +14,7 @@ third_nav_title: For Students
 
 ![](/images/EGIRO/image3z.png)
 
-![](/images/EGIRO/image2z.png)
+
 
 
 (2)  The page is also accessible through the “Services” tab in Parents Gateway app – “GIRO Setup”.
