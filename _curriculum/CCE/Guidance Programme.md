@@ -45,8 +45,8 @@ Sexuality Education Lessons:
 ##### &nbsp;&nbsp;&nbsp;&nbsp; **At Greenridge Secondary School, the following Sexuality Education lessons will be taught in 2023:**
 
 
-![](/images/CCE%20SexEdu/sec%2001.jpg)
-[Secondary One](/files/CCE/SED/2023/sec%2001.pdf)
+Click on image
+[![](/images/CCE%20SexEdu/sec%2001.jpg)](/files/CCE/SED/2023/sec%2001.pdf)
 
 [Secondary Two](/files/CCE/SED/2023/sec%2002.pdf)
 
@@ -55,4 +55,3 @@ Sexuality Education Lessons:
 [Secondary Four](/files/CCE/SED/2023/sec%2004.pdf)
 
 [Secondary Five](/files/CCE/SED/2023/sec%2005.pdf)
-
