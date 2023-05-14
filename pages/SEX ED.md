@@ -35,3 +35,18 @@ Sexuality Education Lessons:
 6.	The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction, and an understanding of the possible consequences of sexual behaviour. 
 
 7.	Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
+
+         <!-- /\* Font Definitions \*/ @font-face {font-family:SimSun; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:宋体; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 680460288 22 0 262145 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:"\\@SimSun"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 680460288 22 0 262145 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0mm; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:SimSun; mso-ansi-language:EN-GB;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; mso-fareast-font-family:SimSun; mso-ansi-language:EN-SG; mso-fareast-language:EN-SG;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+##### &nbsp;&nbsp;&nbsp;&nbsp; **At Greenridge Secondary School, the following Sexuality Education lessons will be taught in 2023:**
+
+[Secondary One](/files/CCE/SED/2023/sec%2001.pdf)
+
+[Secondary Two](/files/CCE/SED/2023/sec%2002.pdf)
+
+[Secondary Three](/files/CCE/SED/2023/sec%2003.pdf)
+
+[Secondary Four](/files/CCE/SED/2023/sec%2004.pdf)
+
+[Secondary Five](/files/CCE/SED/2023/sec%2005.pdf)
+
