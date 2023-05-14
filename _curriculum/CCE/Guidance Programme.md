@@ -52,3 +52,34 @@ Sexuality Education Lessons:
 [![](/images/CCE%20SexEdu/sec%203p.png)](/files/CCE/SED/2023/sec%2003.pdf)
 [![](/images/CCE%20SexEdu/sec%204p.png)](/files/CCE/SED/2023/sec%2004.pdf)
 [![](/images/CCE%20SexEdu/sec%205p.png)](/files/CCE/SED/2023/sec%2005.pdf)
+
+
+eTeens Programme:
+
+8.    eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9.   Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Greenridge Secondary School, the eTeens programme will be implemented as follows in 2023:**
+
+ 
+
+| Topics/Lessons | Programme Learning Objectives| Time Period (e.g. Term 3 Week 9) |
+| -------- | -------- | -------- |
+| Mass Talk by HPB appointed vendor    | Awareness of the different STIs and HIV/AIDSModes of transmissionModes of protection, specifically on how the condom is usedConsequences and impact of STIs/HIV    | Term 3 Week 7   |
+| Classroom-based Lesson|      Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making|Term 3 Week 9|
+
+
+
+
+Information for Parents
+
+10.    Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11.    Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here . The completed form is to be submitted by 27 Jan 2023
+
+12.   Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here .  The completed form is to be submitted by 27 Jan 2023
+
+13.   Parents can contact the school at 67691491 or email at [gss@moe.edu.sg](mailto:gss@moe.edu.sg}) for discussion or to seek clarification about the school’s Sexuality Education programme.
+
+
