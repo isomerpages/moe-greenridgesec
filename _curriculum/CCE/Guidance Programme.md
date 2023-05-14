@@ -53,3 +53,5 @@ Sexuality Education Lessons:
 [Secondary Four](/files/CCE/SED/2023/sec%2004.pdf)
 
 [Secondary Five](/files/CCE/SED/2023/sec%2005.pdf)
+
+![](/images/CCE%20SexEdu/sec%2001.jpg)
