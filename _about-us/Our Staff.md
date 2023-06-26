@@ -39,7 +39,6 @@ description: ""
 |<font size="3">Mr. Yong Woei Shyang  </font>  | <font size="3">HOD – Student Management </font> | <font size="3"><a href="mailto:yong_woei_shyang@moe.edu.sg">yong_woei_shyang@moe.edu.sg  </a> </font>  |
 |<font size="3">Mr. Wong Shan Jing</font>  | <font size="3">HOD and Year Head (Sec 2/3) </font>  |<font size="3"><a href="mailto:wong_shan_jing@moe.edu.sg">wong_shan_jing@moe.edu.sg </a> </font>  |
 |<font size="3">Ms. Yiew Qifang Daphne </font>   |<font size="3">Year Head (Sec 1/4/5)</font>  | <font size="3"><a href="mailto:yiew_qifang_daphne@moe.edu.sg">yiew_qifang_daphne@moe.edu.sg </a> </font>  |
-|<font size="3">Mr. Naraindran S/O Chandrashagaran </font>    | <font size="3">AssistantYear Head   </font>   | <font size="3"><a href="mailto:naraindran_chandrahagaran@moe.edu.sg"> naraindran_chandrashagaran@moe.edu.sg  </a> </font>  |
 |<font size="3">Mdm. Grace Foa Chee Zhu</font>  |<font size="3">SH – Character &amp; Citizenship Education </font> | <font size="3"><a href="mailto:foa_chee_zhu@moe.edu.sg">foa_chee_zhu@moe.edu.sg </a> </font>  |
 |<font size="3">Ms. Cheong Xinni Cheryl </font>  |<font size="3">SH – Chemistry </font>  |<font size="3"><a href="mailto:cheong_xinni_cheryl@moe.edu.sg">cheong_xinni_cheryl@moe.edu.sg </a></font>  |
 |<font size="3">Mdm. Shen Wei</font> |<font size="3">SH – Chinese Language </font>| <font size="3"><a href="mailto: shen_wei@moe.edu.sg"> shen_wei@moe.edu.sg   </a> </font>  |
