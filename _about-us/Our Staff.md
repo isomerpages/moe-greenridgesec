@@ -62,7 +62,7 @@ description: ""
 2023 Form Teachers.
 -------------------
 	
-|   <font size="4">CLASS</font>|<font size="4">Secondary One</font>|   |    |
+|   <font size="5">CLASS</font>|<font size="5">Secondary One</font>|   |    |
 |:--| :-- |:---|:---|
 |<font size="3"> 1-1  </font>|<font size="3"><a href="mailto:teo_chin_ling_grace@moe.edu.sg"> Ms. Teo Chin Ling Grace (Math) </a></font>|<font size="3"><a href="mailto:sazali_rahmat@moe.edu.sg"> Mr Sazali Rahmat (ART) </a></font>|   | 
 |<font size="3"> 1-2  </font>|<font size="3"><a href="mailto:shen_wei@moe.edu.sg"> Mdm. Shen Wei (CL)  </a></font>|<font size="3"><a href="mailto:lee_wei_song@moe.edu.sg"> Mr Lee Wei Song (SS/EL) </a></font>|   | 
@@ -73,7 +73,7 @@ description: ""
 |<font size="3"> 1-7 </font>|<font size="3"><a href="mailto:lau_yan_wei@moe.edu.sg"> Mr Lau Yan Wei (CL) </a></font>|<font size="3"><a href="mailto:norita_mokhtar@moe.edu.sg"> Mdm. Norita Mokhtar(Art)</a></font>|   | 
 | | | | |
 
-|   <font size="4">CLASS</font>|<font size="4">Secondary Two</font>|   |    |
+|   <font size="5">CLASS</font>|<font size="5">Secondary Two</font>|   |    |
 |:--| :-- |:---|:---|
 |<font size="3"> 2-1  </font>|<font size="3"><a href="mailto:noor_azhar_ahmad @moe.edu.sg"> Mr Noor Azhar Ahmad (D &amp; T)</a></font>|<font size="3"><a href="mailto:tan_li_li_lily@moe.edu.sg"> Ms. Tan Li Li Lily (Math) </a></font>|   | 
 |<font size="3"> 2-2  </font>|<font size="3"><a href="mailto:lim_mei_tju@moe.edu.sg"> Mdm. Lim Mei Tju, Cheryl (ART)  </a></font>|<font size="3"><a href="mailto:haslinda_rasul@moe.edu.sg"> Ms. Haslinda Rasul (FCE) </a></font>|   | 
@@ -85,7 +85,7 @@ description: ""
 
 
 	
-|  <font size="4"> CLASS</font>|<font size="4">Secondary Three </font> |   |    |
+|  <font size="5"> CLASS</font>|<font size="5">Secondary Three </font> |   |    |
 |:--| :-- |:---|:---|
 |<font size="3"> 3-1  </font>|<font size="3"><a href="mailto:liaw_poh_geok@moe.edu.sg"> Mdm. Liaw Poh Geok (D &amp; T)</a></font>|<font size="3"><a href="mailto:melvin_foo_cheng_loong@moe.edu.sg"> Mr Melvin Foo Cheng Loong (Math)</a></font>|   | 
 |<font size="3"> 3-2  </font>|<font size="3"><a href="mailto:tan_mei_li_joanne@moe.edu.sg"> Mdm. Tan Mei Li Joanne (EL) </a></font>|<font size="3"><a href="mailto:chee_yuan_jun@moe.edu.sg"> Mr Chee Yuan Jun (SS)</a></font>| <font size="3"><a href="mailto:shawna_teo_lian_choo@moe.edu.sg"> Ms. Shawna Teo (AED) </a></font>  | 
@@ -102,7 +102,7 @@ description: ""
 
 
 
-|  <font size="4"> CLASS</font>|<font size="4">Secondary Four and Five  </font>|   |    |
+|  <font size="5"> CLASS</font>|<font size="5">Secondary Four and Five  </font>|   |    |
 |:--| :-- |:---|:---|
 |<font size="3"> 4-1  </font>|<font size="3"><a href="mailto:sangeetha_chandra@moe.edu.sg"> Mdm. Sangeetha d/o Chandra (CPA/Math)</a></font>|<font size="3"><a href="mailto:tan_jui_chin_bernard@moe.edu.sg">Tan Jui Chin Bernard (CPA/ D &amp; T)</a></font>|   | 
 |<font size="3"> 4-2  </font>|<font size="3"><a href="mailto:lydia_salim@moe.edu.sg"> Ms. Lydia Salim (BIO) </a></font>|<font size="3"><a href="mailto:afiqa_nadia_zainal@moe.edu.sg"> Ms. Afiqa Nadia Bte Zainal (ML)</a></font>|  | 
