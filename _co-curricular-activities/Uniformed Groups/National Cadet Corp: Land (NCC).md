@@ -12,7 +12,7 @@ The Greenridge National Cadet Corps (NCC) aims to nurture all-rounded leaders of
 
 Cadets who go through the Greenridge NCC programme emerge as mature and confident leaders.
 
-**CCA COMPETITIONS & ACCOLADES**
+**CCA COMPETITIONS &amp; ACCOLADES**
 In recognition of our efforts in grooming and developing cadets to their fullest potential, Greenridge NCC was awarded Distinction (previously called  the National Cadet Corp Best Unit Award) in 2015, 2016, 2017 and 2021.
 
 ### CCA PROGRAMME FOR SKILLS, LEADERSHIP AND CHARACTER DEVELOPMENT
@@ -60,3 +60,6 @@ Cadets reciting the NCC pledge during the first and last parade of each training
 
 NCC cadets march past during the school’s National Day Parade
 ![](/images/NCC3.jpg)
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTWULOLQ10QbF1yIHzMlu22gLHMMSj6IxwyF8zVMPr2RDmgHa8fWRU9ccrMhneq-5fjgi9acW19dNtZ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="980" height="749" allowfullscreen="true"></iframe>
