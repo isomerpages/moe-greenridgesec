@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Students/.keep
-      - For Students/Students' Timetable.md
       - For Students/Teaching and Learning.md
       - For Students/eGIRO.md
       - For Students/Book List and Uniform.md
