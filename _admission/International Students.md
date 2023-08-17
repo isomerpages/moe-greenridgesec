@@ -13,4 +13,3 @@ For more information on the Admission for International Student, please visit MO
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCkgfIMaDX2hCblRUGtIQSKN22QuStKIIYnY61JaDXqSFb43Ovfudg5TApX2c4dIZI-hz5MFS4unaj/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="5" width="480" height="284" allowfullscreen="false"></iframe>
 <br>
-
