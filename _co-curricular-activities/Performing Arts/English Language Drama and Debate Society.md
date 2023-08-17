@@ -4,7 +4,7 @@ permalink: /school-experience/co-curriculum/cca/performing-arts/english-language
 description: ""
 third_nav_title: Performing Arts
 ---
-# **English Language Drama and Debate Society**
+# **DRAMA**
 
 ![](/images/ELDDS1.jpg)
 
@@ -12,7 +12,7 @@ Greenridge Secondary School’s English Language Drama and Debate Society (ELDDS
 
 The Greenridge Drama Club was set up in 2006 and has since grown tremendously to become Greenridge’s first English Language Drama and Debate Society. Under our Drama curriculum, our enthusiastic and talented members participate actively in the Singapore Youth Festival, the National Library storytelling events, as well as other external performances to broaden their exposure. We also have learning journeys to local and internationally acclaimed performances, and conduct regular workshops and masterclasses. For Debating, our orators sharpen their critical thinking and public speaking skills by participating in a variety of competitions such as the Singapore Secondary Schools Debating Championships and the Raffles Debate Academy U-14 Championships.
 
-**CCA COMPETITIONS & ACCOLADES**
+**CCA COMPETITIONS &amp; ACCOLADES**
 
 ##### Drama
 
@@ -30,9 +30,9 @@ The Greenridge Drama Club was set up in 2006 and has since grown tremendously to
 
 
 
-### CCA PROGRAMME FOR SKILLS, LEADERSHIP & CHARACTER DEVELOPMENT
+### CCA PROGRAMME FOR SKILLS, LEADERSHIP &amp; CHARACTER DEVELOPMENT
 
-Every member of ELDDS will be given the opportunities to explore their passions and will be equipped with necessary skills to grow in leadership and character through drama and debate. 
+Every member of ELDDS will be given the opportunities to explore their passions and will be equipped with necessary skills to grow in leadership and character through drama and debate.&nbsp;
 
 We focus on developing individual performance as well as working effectively as a team to put up the best possible show or performance for our audience. Individual skills include creative expression, voice projection and confidence on stage. For Drama, we develop members who collaborate seamlessly and harmoniously to address all aspects of the performance, from script-writing, costume and make-up to lights, sound and crew work. For Debate, we develop confident young men and women who are critical thinkers, able to articulate their ideas and views.
 
