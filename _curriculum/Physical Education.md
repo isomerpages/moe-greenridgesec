@@ -1,5 +1,5 @@
 ---
 title: Physical Education
-permalink: /school-experience/curriculum/physical-education/
+permalink: /curriculum/physical-education/
 description: ""
 ---

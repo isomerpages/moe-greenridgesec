@@ -31,5 +31,4 @@ Together Onward
 ### SCHOOL LOGO:
 
 
-<img src="/images/School%20Logo.png" 
-     style="width:50%">
+<img src="/images/School%20Logo.png" style="width:50%">

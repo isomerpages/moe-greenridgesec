@@ -2,7 +2,7 @@
 title: CCE Learning Space
 permalink: /school-experience/curriculum/cce/cce-learning-space/
 description: ""
-third_nav_title: CCE
+third_nav_title: CharacterCitizenship Education
 ---
 # **CCE Learning Space**
 
@@ -10,7 +10,7 @@ third_nav_title: CCE
 
 ![](/images/CCE-Learning-Space-2.jpg)
 
-**History of the CCE Learning Space** :
+**History of the CCE Learning Space**&nbsp;:
 
 The CCE learning space came into being at the end of December 2011.
 
@@ -24,23 +24,23 @@ These individuals will also act as role models for the values that we want every
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Yusof Bin Ishak</label>
     <div>
-			<p><h3>Yusof Bin Ishak</h3></p>
+			<p></p><h3>Yusof Bin Ishak</h3><p></p>
 		<p><b>Reflection</b></p>
 		<ul><li>Have you demonstrated any of the qualities that Yusof Ishak had?</li><li>How can you try to emulate Yusof Ishak?</li></ul>
 		<p><b>Quiz Questions</b></p>
 		<ol><li>What achievements did he earn as a member of the National Cadet Corp?</li><li> Which magazine did Yusof Ishak first work for when he started his career as a journalist?</li><li>What happened to the Utusan Melayu during the Japanese Occupation?</li><li>Why did Yusof bin Ishak resigned from the newspaper in 1959?</li><li>He became the chancellor of which University in 1965?</li></ol>
 		<p>Answers can be found later in the page</p>
 		<p><b>Links to more info</b></p>
-		<ul><li><a href="http://www.a2o.com.sg/a2o/public/html/etc/09\_PuanNoorAishah.htm">http://www.a2o.com.sg/a2o/public/html/etc/09\_PuanNoorAishah.htm</a></li><li><a href="http://infopedia.nl.sg/articles/SIP\_1097\_2006-07-28.html">http://infopedia.nl.sg/articles/SIP\_1097\_2006-07-28.html</a></li><li><a href="http://www.polymernotes.org/biographies/SGP\_bio\_binishak.htm">http://www.polymernotes.org/biographies/SGP\_bio\_binishak.htm</a></li><li><a href="http://picas.nhb.gov.sg/picas/public/internetSearch/advancedSearch.jsp?thesaurusFlag=Y&simpleSearch=yusof+bin+ishak&photographOption=1&Submit=Submit&pageNumber=50&total=864">http://picas.nhb.gov.sg/picas/public/internetSearch/advancedSearch.jsp?thesaurusFlag=Y&simpleSearch=yusof+bin+ishak&photographOption=1&Submit=Submit&pageNumber=50&total=864</a></li></ul>
+		<ul><li><a href="http://www.a2o.com.sg/a2o/public/html/etc/09\_PuanNoorAishah.htm">http://www.a2o.com.sg/a2o/public/html/etc/09\_PuanNoorAishah.htm</a></li><li><a href="http://infopedia.nl.sg/articles/SIP\_1097\_2006-07-28.html">http://infopedia.nl.sg/articles/SIP\_1097\_2006-07-28.html</a></li><li><a href="http://www.polymernotes.org/biographies/SGP\_bio\_binishak.htm">http://www.polymernotes.org/biographies/SGP\_bio\_binishak.htm</a></li><li><a href="http://picas.nhb.gov.sg/picas/public/internetSearch/advancedSearch.jsp?thesaurusFlag=Y&amp;simpleSearch=yusof+bin+ishak&amp;photographOption=1&amp;Submit=Submit&amp;pageNumber=50&amp;total=864">http://picas.nhb.gov.sg/picas/public/internetSearch/advancedSearch.jsp?thesaurusFlag=Y&amp;simpleSearch=yusof+bin+ishak&amp;photographOption=1&amp;Submit=Submit&amp;pageNumber=50&amp;total=864</a></li></ul>
 		<p><b>More interesting facts<br><br>Yusof Ishak excelled in both the academic and extra-curricular fields.</b></p>
 		<ul><li>He scored distinctions in both the 1927 Cambridge School Certificate and in the Senior Cambridge Examinations.</li>
 			<li>He was admitted into the prestigious Queen’s Scholarship Class at RI, a group of only 13 and he was the only Malay.</li></ul>
 		<p><b>Excelled in extra-curricular fields.</b></p>
-		<ul><li>Outside the classroom, Yusof was a school athlete, representing RI in many games including hockey, cricket, swimming, water polo, basketball, boxing and weightlifting.</li>
-			<li>He emerged champion in boxing, winning the Aw Boon Par cup in 1932, and weightlifting, becoming the national lightweight champion in 1933.</li><li>Away from the court, Yusof Ishak was the co-editor of _Rafflesian_ , and a prefect.</li><li>He was the first student in the history of the National Cadet Corps to be made a Second Lieutenant.</li></ul>
+		<ul><li>Outside&nbsp;the classroom, Yusof was a school athlete, representing RI in many games including hockey, cricket, swimming, water polo, basketball, boxing and weightlifting.</li>
+			<li>He emerged champion in boxing, winning the Aw Boon Par cup in 1932, and weightlifting, becoming the national lightweight champion in 1933.</li><li>Away from the court, Yusof Ishak was the co-editor of&nbsp;_Rafflesian_&nbsp;, and a prefect.</li><li>He was the first student in the history of the National Cadet Corps to be made a Second Lieutenant.</li></ul>
 		<p><b>Photographs - photos not found</b></p>
 		<p>Yusof Ishak 1 (Image)<br>This picture was taken during a visit by President Yusof Ishak to the Jurong Industrial Estate in the 1960s, and reflects the President’s avid interest in photography. (Taken from <a href="http://www.a2o.com.sg/a2o/public/html/etc/09\_PuanNoorAishah.htm">http://www.a2o.com.sg/a2o/public/html/etc/09\_PuanNoorAishah.htm)</a></p>
-		<p>Yusof Ishak 2 (Image)<br>H.E. The Yang Di-Pertuan Negara , Inche Yusof Bin Ishak installed as chancellor of the University of Singapore at Victoria Theatre on 26 th Nov 1965</p>
+		<p>Yusof Ishak 2 (Image)<br>H.E. The Yang Di-Pertuan Negara , Inche Yusof Bin Ishak installed as chancellor of the University of Singapore at Victoria Theatre on 26&nbsp;th&nbsp;Nov 1965</p>
 		<p>Yusof Ishak 3 (Image)<br>President Yusof Ishak inspecting Guard of Honour at opening of Singapore’s Parliament 1965.</p>
 		<p>Yusof Ishak 4 (Image)<br>President Yusof Ishak enjoying a moment with Ong Cheng Mui and Yatim bin Ibrahim, two of the children attending the Singapore Leprosy Relief Association’s Christmas party at Trafalgar Home.</p>
     </div>
@@ -49,22 +49,22 @@ These individuals will also act as role models for the values that we want every
     <input type="checkbox" id="accordion2">
     <label for="accordion2">S. Rajaratnam</label>
     <div>
-			<p><h3>S. Rajaratnam</h3></p>
+			<p></p><h3>S. Rajaratnam</h3><p></p>
 	<p><b>Reflection</b></p>
 				<ul><li>Draw similarities between yourself and S. Rajaratnam.</li><li>How can you emulate S. Rajaratnam?</li></ul>
 		<p><b>Thinking Questions</b></p>
 				<ul><li>What contributions did S. Rajaratnam make to Singapore?</li><li>What was Mr. Rajaratnam’s contribution to the PAP’s collective leadership and to the governance of Singapore?</li><li>What can we learn from the stories written by S. Rajaratnam?</li></ul>
 	<p><b>Links to more info</b></p>
 		<ul><li><a href="http://www.spp.nus.edu.sg/ips/docs/pub/pa\_tk\_Tribute%20to%20S%20Rajaratnam\_220206.pdf">http://www.spp.nus.edu.sg/ips/docs/pub/pa\_tk\_Tribute%20to%20S%20Rajaratnam\_220206.pdf</a></li><li><a href="http://infopedia.nl.sg/articles/SIP\_644\_2005-01-10.html">http://infopedia.nl.sg/articles/SIP\_644\_2005-01-10.html</a></li><li><a href="http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/">http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/</a></li><li><a href="http://www.viweb.freehosting.net/vilit\_SRaja.htm">http://www.viweb.freehosting.net/vilit\_SRaja.htm</a></li><li><a href="http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/">http://blogs.nlb.gov.sg/highbrowseonline/general/mr-s-rajaratnam/</a></li><li><a href="http://www.singapore-window.org/sw06/060225cn.htm">http://www.singapore-window.org/sw06/060225cn.htm</a></li></ul>
-	<p><b>More Facts</b><br>He is regarded as one of the founding fathers of independent Singapore as it achieved self-government in 1959 and later independence in 1965. He devoted much of his adult life to public service, and helped shape the mentality of Singaporeans on contemporary issues. One of the schools of Nanyang Technological University, is named the S. Rajaratnam School of International Studies in honour of him, as is a 7-storey S. Rajaratnam block at Raffles Institution.<br><br>Rajaratnam studied in, St Paul’s boys’ school, Victoria Institution in Kuala Lumpur, and later in Raffles Institution in Singapore. In 1937, he went to King’s College London to pursue a law degree. However, due to World War II, he was unable to receive funding from his family to continue his studies; instead, he turned to journalism to earn a living. He met his wife Piroska Feher, a Hungarian teacher while in London.<br><br>He returned to Singapore in 1948 when he joined the Malayan Tribune. In 1954, he joined _The Straits Times_ as a journalist. He was bold in writing about the way Singapore was governed by the British. This incurred the displeasure of the colonial government. His column, “I write as I please”, attracted so much attention that he was called for questioning by the government.</p>
+	<p><b>More Facts</b><br>He is regarded as one of the founding fathers of independent Singapore as it achieved self-government in 1959 and later independence in 1965. He devoted much of his adult life to public service, and helped shape the mentality of Singaporeans on contemporary issues. One of the schools of Nanyang Technological University, is named the S. Rajaratnam School of International Studies in honour of him, as is a 7-storey S. Rajaratnam block at Raffles Institution.<br><br>Rajaratnam studied in, St Paul’s boys’ school, Victoria Institution in Kuala Lumpur, and later in Raffles Institution in Singapore. In 1937, he went to King’s College London to pursue a law degree. However, due to World War II, he was unable to receive funding from his family to continue his studies; instead, he turned to journalism to earn a living. He met his wife Piroska Feher, a Hungarian teacher while in London.<br><br>He returned to Singapore in 1948 when he joined the Malayan Tribune. In 1954, he joined&nbsp;_The Straits Times_&nbsp;as a journalist. He was bold in writing about the way Singapore was governed by the British. This incurred the displeasure of the colonial government. His column, “I write as I please”, attracted so much attention that he was called for questioning by the government.</p>
     </div>
   </li>
 	  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Innovation & Technology</label>
+    <label for="accordion3">Innovation &amp; Technology</label>
     <div>
-			<p><h3>Innovation & Technology</h3><p>
-			<p><b>Background</b></p>
+			<p></p><h3>Innovation &amp; Technology</h3><p>
+			</p><p><b>Background</b></p>
 			<ul><li> Despite its limited physical resources, Singapore is a breeding ground for some outstanding technological developments. The number of patents registered here by local companies, individuals and institutions have been growing steadily.</li>
 			<li>Singapore is also one of the top 10 countries registering inventions overseas.</li><li>Innovation and Technology is about improving existing products or inventing new ones to bring convenience to our life. Research and Development is a tertiary industry which emphasises knowledge and creativity over labour. This is suitable for Singapore which has a small population. The Singapore government has thus been encouraging Research and Development by setting up Research Centres of Excellence in our universities, providing billions of dollars in the National Research Fund and also, forming resource centres such as the Games Solution Centre to help small companies develop their products.</li></ul>
 			<p><b>Interesting Facts</b><br>
@@ -81,9 +81,9 @@ These individuals will also act as role models for the values that we want every
 	<input type="checkbox" id="accordion4">
    <label for="accordion4">Aerospace</label>
     <div>
-			<p><h3>Aerospace</h3></p>
+			<p></p><h3>Aerospace</h3><p></p>
 	<p><b>Background</b></p>
-			<ul><li> Singapore’s aerospace industry is booming as a result of strong air travel demands in the Asia Pacific region which is forecasted to grow at around 7% till 2020. Beyond the needs of airline operators such as SIA and the booming budget airline industry, as well as Singapore Armed Forces, Singapore’s aerospace industry is largely driven by MRO (maintenance, repair and overhaul), manufacturing, research and training.</li><li>Singapore’s positioning as a hub for MRO services translates into great opportunities for this lucrative market, which is currently valued at around US$9 million and plans are already underway in the form of Seletar Aerospace Park which will integrate and attract even more aerospace companies.</li><li>As a result, Singapore needs highly skilled manpower to power the lucrative aviation industry, which is technology driven. The key business in Singapore aviation industry is maintenance, repair and overhaul, largely powered by companies such as SAESL, Rolls Royce, Turbine Overhaul Services, SIA Engineering Company and Singapore Technologies Aerospace. Singapore is also home to manufacturing OEMs and suppliers in engine parts, power systems and cabin retrofitting.</li><li>As the aviation industry grows, there is also a stronger demand for aviation related training in Singapore, with companies such as Boeing and Embraer launching their training and flight services centres for pilots, cabin crew and mechanics in Singapore.</li><li>Aerospace R&D is also growing in collaboration with Boeing, EADS, Rolls Royce, Thales, Pratt and Whitney, General Electric. These companies leverage on the availability of talent in Singapore to develop technology on advanced materials, repair technologies and maintenance know-how to power their aircraft in this cost-competitive industry.</li></ul>
+			<ul><li> Singapore’s aerospace industry is booming as a result of strong air travel demands in the Asia Pacific region which is forecasted to grow at around 7% till 2020. Beyond the needs of airline operators such as SIA and the booming budget airline industry, as well as Singapore Armed Forces, Singapore’s aerospace industry is largely driven by MRO (maintenance, repair and overhaul), manufacturing, research and training.</li><li>Singapore’s positioning as a hub for MRO services translates into great opportunities for this lucrative market, which is currently valued at around US$9 million and plans are already underway in the form of Seletar Aerospace Park which will integrate and attract even more aerospace companies.</li><li>As a result, Singapore needs highly skilled manpower to power the lucrative aviation industry, which is technology driven. The key business in Singapore aviation industry is maintenance, repair and overhaul, largely powered by companies such as SAESL, Rolls Royce, Turbine Overhaul Services, SIA Engineering Company and Singapore Technologies Aerospace. Singapore is also home to manufacturing OEMs and suppliers in engine parts, power systems and cabin retrofitting.</li><li>As the aviation industry grows, there is also a stronger demand for aviation related training in Singapore, with companies such as Boeing and Embraer launching their training and flight services centres for pilots, cabin crew and mechanics in Singapore.</li><li>Aerospace R&amp;D is also growing in collaboration with Boeing, EADS, Rolls Royce, Thales, Pratt and Whitney, General Electric. These companies leverage on the availability of talent in Singapore to develop technology on advanced materials, repair technologies and maintenance know-how to power their aircraft in this cost-competitive industry.</li></ul>
 	<p><b>Interesting Facts</b></p>
 	<ul><li>Do you know that Singapore has the largest MRO market share in the Asia-Pacific region? The MRO output in Singapore accounts for nearly one-third of Singapore’s aerospace output and is growing at an average rate of 13.3% per year!</li>
 			<li>Singapore’s aerospace industry employs more than 18,000 workers, yet they are still facing a serious shortage.</li></ul>
@@ -105,7 +105,7 @@ These individuals will also act as role models for the values that we want every
     <input type="checkbox" id="accordion5">
     <label for="accordion5">Services</label>
     <div>
-			<p><h3>Services</h3></p>
+			<p></p><h3>Services</h3><p></p>
 	<p><b>Description of Singapore's Service Industry</b><br>Singapore’s service industry is one of the main source for the country’s growth. As Singapore is small in size, we do not have natural resources that the country can rely on for the growth in the economy. We have to rely on the service industry as the only resource that the country has is population. Tourism, business and financial service sector contributes greatly to the growth in the economy of Singapore. We are constantly seeking to increase our service industry standards to match globalised standards so as to attract greater growth for the country, especially from its tourism sector of the service industry.</p>
 			<p><b>Interesting Facts</b></p>
 		<ul><li>Are you interested in joining the service industry?</li><li>What kind of impact does the service industry have on the economy of Singapore?</li><li>With the huge amount of investment pumped into the service industry, what results have there been?</li></ul>
@@ -119,7 +119,7 @@ These individuals will also act as role models for the values that we want every
     <input type="checkbox" id="accordion6">
     <label for="accordion6">C Kunalan</label>
     <div>
-			<p><h3>C Kunalan</h3></p>
+			<p></p><h3>C Kunalan</h3><p></p>
 			<p><b>Reflection</b></p>
 		<ul><li>Do you have any personal target that you aspire to? How much effort have you put into meeting that personal target?</li></ul>
 		<p><b>Quiz Questions</b></p>
@@ -138,7 +138,7 @@ These individuals will also act as role models for the values that we want every
     <input type="checkbox" id="accordion7">
     <label for="accordion7">Bobby Jones</label>
     <div>
-			<p><h3>Bobby Jones</h3></p>
+			<p></p><h3>Bobby Jones</h3><p></p>
 	<p><b>Reflection</b></p>
 				<ul><li>Have you demonstrated any of the qualities that Bobby Jones had?</li><li>What can you learn from Bobby Jones?</li></ul>
 		<p><b>Quiz Questions</b></p>
@@ -148,17 +148,17 @@ These individuals will also act as role models for the values that we want every
 	<p><b>More interesting facts</b></p>
 	<ul><li>Jones was an average-size man, standing 5’8" tall and weighing about 165 pounds at the height of his golfing career. He had a clean-cut, boyish manner that made him the favourite of golfing fans.</li><li>The putter that Bobby Jones used throughout much of his career was nicknamed "Calamity Jane."</li></ul>
 	<p><b>Photographs - photos not found</b></p>
-		<p>Bobby Jones 1 (Image)<br>The young Bobby Jones. (Taken from <a href=" http://golf.about.com/od/golfersmen/p/bobby\_jones.htm"> http://golf.about.com/od/golfersmen/p/bobby\_jones.htm</a>)</p>
-		<p>Bobby Jones 2 (Image)<br>Bobby Jones at the 1927 British Open in St. Andrews, Scotland. (Taken from <a href="http://www.britannica.com/EBchecked/media/16042/Bobby-Jones-at-the-1927-British-Open-in-St-Andrews"> http://www.britannica.com/EBchecked/media/16042/Bobby-Jones-at-the-1927-British-Open-in-St-Andrews</a>)</p>
-		<p>Bobby Jones 3 (Image)<br>Bobby Jones is one of four golfers to win the US Open four times. (Taken from <a href="http://golf.about.com/od/majorchampionships/f/usopenmostwins.htm"> http://golf.about.com/od/majorchampionships/f/usopenmostwins.htm</a>)</p>
-		<p>Bobby Jones 4 (Image)<br>A movie about Bobby Jones. Jim Caviezel stars as golf legend Bobby Jones, the icon who retired from competition at the tender age of 28. (Taken from <a href="http://www.imdb.com/title/tt0375104/"> http://www.imdb.com/title/tt0375104/</a>)</p>
+		<p>Bobby Jones 1 (Image)<br>The young Bobby Jones. (Taken from <a href="http://golf.about.com/od/golfersmen/p/bobby\_jones.htm">&nbsp;http://golf.about.com/od/golfersmen/p/bobby\_jones.htm</a>)</p>
+		<p>Bobby Jones 2 (Image)<br>Bobby Jones at the 1927 British Open in St. Andrews, Scotland. (Taken from <a href="http://www.britannica.com/EBchecked/media/16042/Bobby-Jones-at-the-1927-British-Open-in-St-Andrews">&nbsp;http://www.britannica.com/EBchecked/media/16042/Bobby-Jones-at-the-1927-British-Open-in-St-Andrews</a>)</p>
+		<p>Bobby Jones 3 (Image)<br>Bobby Jones is one of four golfers to win the US Open four times. (Taken from <a href="http://golf.about.com/od/majorchampionships/f/usopenmostwins.htm">&nbsp;http://golf.about.com/od/majorchampionships/f/usopenmostwins.htm</a>)</p>
+		<p>Bobby Jones 4 (Image)<br>A movie about Bobby Jones. Jim Caviezel stars as golf legend Bobby Jones, the icon who retired from competition at the tender age of 28. (Taken from <a href="http://www.imdb.com/title/tt0375104/">&nbsp;http://www.imdb.com/title/tt0375104/</a>)</p>
     </div>
   </li>
 	<li>
     <input type="checkbox" id="accordion8">
     <label for="accordion8">LTA Adnan bin Saidi</label>
     <div>
-			<p><h3>LTA Adnan bin Saidi</h3></p>
+			<p></p><h3>LTA Adnan bin Saidi</h3><p></p>
 	<p><b>Reflection</b></p>
 				<ul><li>As a student, in what ways can you portray the same courage and determination illustrated by Lieutenant Adnan?</li><li>In your opinion, why do you think Lieutenant Adnan continued to fight on against the Japanese despite being injured and outnumbered?</li></ul>
 		<p><b>Thinking Questions</b></p>
@@ -174,7 +174,7 @@ These individuals will also act as role models for the values that we want every
     <input type="checkbox" id="accordion9">
     <label for="accordion9">Mother Theresa</label>
     <div>
-			<p><h3>Mother Theresa</h3></p>
+			<p></p><h3>Mother Theresa</h3><p></p>
 	<p><b>Reflection</b></p>
 				<ul><li>Mother Teresa was committed to spread her love in humanity by contributing her services to the community selflessly such as helping the poor and sick. How have you done your part to spread the love?</li><li>What is the most memorable act that you have done to make someone happy through a sacrifice?</li></ul>
 		<p><b>Thinking Questions</b></p>
