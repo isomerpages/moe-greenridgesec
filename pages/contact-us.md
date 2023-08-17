@@ -40,6 +40,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: https://greenridgesec.moe.edu.sg/about-us/our-staff/
-    title: Our Staff
+      - other: <a href="https://greenridgesec.moe.edu.sg/about-us/our-staff/">Our
+          Staff</a><p></p>
+    title: "Click to view "
 ---
