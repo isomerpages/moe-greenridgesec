@@ -11,7 +11,6 @@ Admission is subjected to the applicant’s performance in the centralised test 
 
 For more information on the Admission for International Student, please visit MOE's website on International Student Admission&nbsp;[here](https://www.moe.gov.sg/international-students).
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCkgfIMaDX2hCblRUGtIQSKN22QuStKIIYnY61JaDXqSFb43Ovfudg5TApX2c4dIZI-hz5MFS4unaj/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="5" width="480" height="284" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCkgfIMaDX2hCblRUGtIQSKN22QuStKIIYnY61JaDXqSFb43Ovfudg5TApX2c4dIZI-hz5MFS4unaj/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="5" width="480" height="284" allowfullscreen="false"></iframe>
 <br>
 
-<iframe src="https://www.instagram.com/greenridgesecsch" frameborder="5" width="480" height="284" allowfullscreen="true"></iframe>
