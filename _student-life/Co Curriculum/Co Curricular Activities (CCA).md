@@ -15,28 +15,24 @@ Greenridge Secondary School and Fajar Secondary School will merge in January 202
 
 ![](/images/RESIZED%20Banner_CCA_UG.jpg)
 
-| [NPCC](/school-experience/co-curriculum/cca/uniformed-group/national-police-cadet-corps-npcc) | [NCC](/school-experience/co-curriculum/cca/uniformed-group/national-cadet-corp-land-ncc) | [GIRL GUIDES](/school-experience/co-curriculum/cca/uniformed-group/girl-guides) | [SCOUTS](/school-experience/co-curriculum/cca/uniformed-group/scouts) |
+| [NPCC](/co-curriculum/cca/uniformed-group/national-police-cadet-corps-npcc) | [NCC](/co-curriculum/cca/uniformed-group/national-cadet-corp-land-ncc) | [NCDCC](/school-experience/co-curriculum/cca/uniformed-group/girl-guides)| [SCOUTS](/school-experience/co-curriculum/cca/uniformed-group/scouts) |
 | --- | --- | --- | --- |
-|  |  | No recruitment of new members in 2023 |  |
-
-
-
-
+<br>
 
 ![](/images/RESIZED%20Banner_CCA_SPORTS.jpg)
 
 
 
 
-| [RUGBY](/school-experience/co-curriculum/cca/sports-and-games/rugby) | [FOOTBALL](/school-experience/co-curriculum/cca/sports-and-games/football) | [VOLLEYBALL](/school-experience/co-curriculum/ca/sports-and-games/volleyball) | [TCHOUKBALL](/school-experience/co-curriculum/cca/sports-and-games/tchoukball) |
-| --- | --- | --- | --- |
+| [RUGBY](/co-curriculum/cca/sports-and-games/rugby) | [NETBALL](/co-curriculum/cca/sports-and-games/football) |  [FOOTBALL](/co-curriculum/cca/sports-and-games/football) | [VOLLEYBALL](/co-curriculum/ca/sports-and-games/volleyball) | [TCHOUKBALL](/co-curriculum/cca/sports-and-games/tchoukball) |
+| --- | --- | --- | --- |--- |
 |  |  |  |  |
 
 
 
 
-![](/images/RESIZED%20Banner_CCA_CLUBS&SOCIETY.jpg)
+![](/images/RESIZED%20Banner_CCA_CLUBS&amp;SOCIETY.jpg)
 
-| [MEDIA LITERACY CLUB](/school-experience/co-curriculum/ccca/clubs-n-society/media-literacy-club-mlc) | [ROBOTICS](/school-experience/co-curriculum/cca/clubs-n-society/robotics) |
+| [MEDIA LITERACY CLUB](/co-curriculum/ccca/clubs-n-society/media-literacy-club-mlc) | [ROBOTICS](/co-curriculum/cca/clubs-n-society/robotics) |
 | --- | --- |
 |  |  |
