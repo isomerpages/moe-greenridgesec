@@ -4,7 +4,7 @@ title: Greenridge Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: cl
 sections:
   - hero:
       key_highlights:
