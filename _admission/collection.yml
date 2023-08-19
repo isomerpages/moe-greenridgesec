@@ -2,6 +2,6 @@ collections:
   admission:
     output: true
     order:
-      - DSA.md
+      - Direct School Admission (DSA).md
       - Returning Singaporeans.md
       - Internationla Students testpage.md
