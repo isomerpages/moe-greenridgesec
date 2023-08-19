@@ -10,5 +10,5 @@ third_nav_title: Uniformed Groups
 
 #### 
 
-| [NPCC](/school-experience/co-curriculum/cca/uniformed-group/national-police-cadet-corps-npcc) | [NCC](/school-experience/co-curriculum/cca/uniformed-group/national-cadet-corp-land-ncc) |  [SCOUTS](/school-experience/co-curriculum/cca/uniformed-group/scouts) |
-| --- | --- | --- |
+| [NPCC](/cca/uniformed-group/npcc) | [NCC](//cca/uniformed-group/ncc) |  [NCDCC](/cca/uniformed-group/ncdcc) |  [SCOUTS](/cca/uniformed-group/scouts) |
+| --- | --- | --- |--- |
