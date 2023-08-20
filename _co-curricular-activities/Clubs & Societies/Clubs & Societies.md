@@ -8,5 +8,5 @@ third_nav_title: Clubs & Societies
 
 ![](/images/RESIZED%20Banner_CCA_CLUBS&SOCIETY.jpg)
 
-| [INFOCOMM CLUB](/ccca/clubs-n-societies/media-literacy-club-mlc) | [ROBOTICS](/cca/clubs-n-society/robotics) |
+| [INFOCOMM CLUB](/cca/clubs-n-societies/media-literacy-club-mlc) | [ROBOTICS](/cca/clubs-n-society/robotics) |
 | --- | --- |
