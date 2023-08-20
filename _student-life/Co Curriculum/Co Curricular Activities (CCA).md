@@ -19,11 +19,12 @@ Greenridge Secondary School and Fajar Secondary School will merge in January 202
 | --- | --- | --- | --- |
 <br>
 
+#### **Sports &amp; Games**
+
 ![](/images/RESIZED%20Banner_CCA_SPORTS.jpg)
 
-| [RUGBY](/co-curriculum/cca/sports-and-games/rugby) | [NETBALL](/co-curriculum/cca/sports-and-games/football) |  [FOOTBALL](/co-curriculum/cca/sports-and-games/football) | [VOLLEYBALL](/co-curriculum/ca/sports-and-games/volleyball) | [TCHOUKBALL](/co-curriculum/cca/sports-and-games/tchoukball) |
+| [RUGBY](/cca/sports-and-games/rugby) | [FOOTBALL](/cca/sports-and-games/football) | [VOLLEYBALL](/cca/sports-and-games/volleyball)| [TCHOUKBALL](//cca/sports-and-games/tchoukball) |[NETBALL](//cca/sports-and-games/netball) |
 | --- | --- | --- | --- |--- |
-|  |  |  |  |
 
 #### **Clubs &amp; Societies**
 
