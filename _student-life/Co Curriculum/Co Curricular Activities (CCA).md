@@ -17,7 +17,7 @@ Greenridge Secondary School and Fajar Secondary School will merge in January 202
 
 ![](/images/RESIZED%20Banner_CCA_UG.jpg)
 
-| [NPCC](/cca/uniformed-groups/npcc) | [NCC](/cca/uniformed-group/ncc) |  [NCDCC](/cca/uniformed-groups/ncdcc) |  [SCOUTS](/cca/uniformed-groups/scouts) |
+| [NPCC](/cca/uniformed-groups/npcc) | [NCC](/cca/uniformed-groups/ncc) |  [NCDCC](/cca/uniformed-groups/ncdcc) |  [SCOUTS](/cca/uniformed-groups/scouts) |
 | --- | --- | --- |--- |
 
 #### **Sports &amp; Games**
