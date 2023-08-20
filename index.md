@@ -30,7 +30,7 @@ sections:
       button: ">>CLICK TO VIEW<<"
       image: /images/20230330/Our boys trying out their gliderss.jpg
       alt: Image alt text
-      url: /distinctive-programmes/learning-for-life-programme-llp/
+      url: https://www.greenridgesec.moe.edu.sg/distinctive-programmes/learning-for-life-programme-llp/
   - infopic:
       title: Rugby (CCA)
       button: ">>Click to view<<"
