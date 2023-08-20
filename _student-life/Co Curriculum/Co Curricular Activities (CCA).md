@@ -33,8 +33,8 @@ Greenridge Secondary School and Fajar Secondary School will merge in January 202
 
 ![](/images/RESIZED%20Banner_CCA_CLUBS&amp;SOCIETY.jpg)
 
-| [INFOCOMM CLUB](/cca/clubs-n-societies/media-literacy-club-mlc) | [ROBOTICS](/cca/clubs-n-societies/robotics) |
-| -------- | -------- |
+| [INFOCOMM CLUB](/cca/clubs-n-societies/infocomm-technology-media-production) | [ROBOTICS](/cca/clubs-n-societies/robotics) |
+| --- | --- |
 | | |
 
 #### **Performing Arts**
