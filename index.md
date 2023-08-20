@@ -24,7 +24,7 @@ sections:
       button: ">>CLICK TO VIEW<<"
       image: /images/20230330/Debating via Zoom.jpeg
       alt: Image alt text
-      url: /distinctive-programmes/applied-learning-programme-alp/
+      url: /signature-programmes/applied-learning-programme-alp/
   - infopic:
       title: Learning for Life Programme (LLP)
       button: ">>CLICK TO VIEW<<"
