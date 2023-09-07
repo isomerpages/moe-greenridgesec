@@ -17,11 +17,11 @@ Cadets who go through the Greenridge NCC programme emerge as mature, confident a
 
 **Year 1: Junior Cadets**<br>
 Cadets are familiarised with the history of NCC and the Singapore Armed Forces (SAF). They are also exposed to programmes to develop their campcraft skills and foot drills. Key programmes include:<br>
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NCC Affirmation Ceremony<br>
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Total Defence Bronze Badge<br>
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Camp FORGE (Paintball Shooting, Archery, Jungle Survival Skills and Obstacle Course)<br>
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Day Parade<br>
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports Championship (Captain’s Ball)<br>
+●	NCC Affirmation Ceremony<br>
+●	Total Defence Bronze Badge<br>
+●	Camp FORGE (Paintball Shooting, Archery, Jungle Survival Skills and Obstacle Course)<br>
+●	National Day Parade<br>
+●	Sports Championship (Captain’s Ball)<br>
 
 ![Integrity; Standing Strong For What Is Right](/images/NCC2023/integrity_%20standing%20strong%20for%20what%20is%20right%20b.jpg)
 
@@ -50,4 +50,22 @@ Cadet Leaders are given multiple opportunities to develop their leadership and m
 ●	SAR21 Assault Rifle Live Firing<br>
 ●	Sports Championship (Futsal)<br>
 ●	HQ NCC Adventure Expeditions <br>
+
+![Grit; Against All Odds, We Will Excel](/images/NCC2023/grit_%20against%20all%20odds,%20we%20will%20excel%20b.jpg)<br>
+
+**Year 4/5: Senior Cadet Leaders**<br>
+Senior Cadet Leaders will be put in charge of organising and leading the annual Combined Uniformed Groups Camp held in March. After their tenure as leaders in NCC, Senior Cadet Leaders are also given the option to attend the Cadet Officer Course (COC), so they can continue to lead and serve NCC in the capacity of Cadet Officers (Cadet 2nd Lieutenant) after graduation.
+
+![Empathy; Covering Each Other, Leave No One Behind](/images/NCC2023/empathy_%20covering%20each%20other,%20leave%20no%20one%20behind%20b.jpg)<br>
+
+**Accolades and Awards**<br>
+*Unit Recognition Award*<br>
+In recognition of our efforts in grooming and developing cadets to their full potential, Greenridge NCC was awarded Distinction for the Unit Recognition Award in 2015, 2016, 2017, 2021 and 2022.<br>
+*NCC West District Sports Championships 2023*<br>
+Cadet Leaders - 2nd Runner-up Position<br>
+Senior Cadets - 2nd Runner-up Position<br>
+![Together We Achieve](/images/NCC2023/together%20we%20achieve.jpg)
+
+*Orienteering Competition 2022 *<br>
+Senior Cadets - 1st Position<br>
 
