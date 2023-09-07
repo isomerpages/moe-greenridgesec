@@ -6,60 +6,48 @@ third_nav_title: Uniformed Groups
 ---
 # **National Cadet Corp – Land (NCC)**
 
-![](/images/NCC1.jpg)
+![Moving Together, Onward](/images/NCC2023/moving%20together,%20onward.jpg)
 
-The Greenridge National Cadet Corps (NCC) aims to nurture all-rounded leaders of exemplary character, high physical fitness and enduring mental strength. With a strong affiliation with the Singapore Armed Forces, NCC offers our cadets a holistic training programme that includes outdoor adventure activities, survival courses, overseas expeditions, water sports, as well as exclusive opportunities to handle advanced weapons such as the SAR-21 assault rifle. 
+The Greenridge National Cadet Corps (NCC) aims to nurture all-rounded leaders of exemplary character, high physical fitness and enduring mental strength. With a strong affiliation with the Singapore Armed Forces, NCC offers our cadets a holistic training programme that includes outdoor adventure activities, survival courses, overseas expeditions, water sports, as well as exclusive opportunities to handle advanced weapons such as the SAR-21 assault rifle.
+Cadets who go through the Greenridge NCC programme emerge as mature, confident and compassionate leaders.
 
-Cadets who go through the Greenridge NCC programme emerge as mature and confident leaders.
+![Respect; Hormat, Senjata](/images/NCC2023/respect_%20hormat,%20senjata.jpg)
 
-**CCA COMPETITIONS &amp; ACCOLADES**
-In recognition of our efforts in grooming and developing cadets to their fullest potential, Greenridge NCC was awarded Distinction (previously called  the National Cadet Corp Best Unit Award) in 2015, 2016, 2017 and 2021.
+#### CCA PROGRAMME FOR SKILLS, LEADERSHIP AND CHARACTER DEVELOPMENT
 
-### CCA PROGRAMME FOR SKILLS, LEADERSHIP AND CHARACTER DEVELOPMENT
+**Year 1: Junior Cadets**<br>
+Cadets are familiarised with the history of NCC and the Singapore Armed Forces (SAF). They are also exposed to programmes to develop their campcraft skills and foot drills. Key programmes include:<br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NCC Affirmation Ceremony<br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Total Defence Bronze Badge<br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Camp FORGE (Paintball Shooting, Archery, Jungle Survival Skills and Obstacle Course)<br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Day Parade<br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports Championship (Captain’s Ball)<br>
 
-**Year 1: Junior Cadets**
+![Integrity; Standing Strong For What Is Right](/images/NCC2023/integrity_%20standing%20strong%20for%20what%20is%20right%20b.jpg)
 
-Cadets are familiarised with the history of NCC and the Singapore Armed Forces (SAF). They are also exposed to programmes to develop their campcraft skills and foot drills. Key programmes include:
+**Year 2: Senior Cadets**<br>
+Cadets attend the signature Camp STEEL held at HQ NCC, where they will be exposed to advanced survival skills and rifle drills. Other key programmes include:<br>
+●	Total Defence Silver Badge<br>
+●	Camp STEEL (Paintball Challenge, High/Low Elements Obstacle Course)<br>
+●	Navigation Skills<br>
+●	Orienteering Competition<br>
+●	Basic Drills Course<br>
+●	National Day Parade<br>
+●	Freestyle Exhibition Drills (FSD) Competition<br>
+●	Sports Championship (Ultimate Frisbee)<br>
 
-* NCC Affirmation Ceremony   
-* Total Defence Bronze Badge   
-* SAF Familiarisation visit   
-* Camp FORGE (High Elements Adventure, Flying Fox, Paintball, Archery, Airsoft Rifle Shooting)   
+![Striving Hard, Eyes On The Mission](/images/NCC2023/diligence_%20striving%20hard,%20eyes%20on%20the%20mission.jpg)
 
-**Year 2: Senior Cadets**
+**Year 3: Cadet Leaders**<br>
+Cadet Leaders are given multiple opportunities to develop their leadership and mentoring skills as they now hold their responsibilities as leaders of the unit. They get to participate in live firing using the SAR21 Assault Rifle at a SAF live range. Cadet Leaders also get to participate in several Specialist courses to hone their leadership skills. In addition, Cadet Leaders are also given opportunities to go on overseas adventure expeditions. Key programmes include:<br>
+●	Specialist Assessment Course<br>
+●	Advanced Drills Course<br>
+●	Senior Specialist Leaders Course<br>
+●	National Day Parade<br>
+●	Freestyle Exhibition Drills (FSD) Competition<br>
+●	SAR21 Assault Rifle Technical Handling<br>
+●	SAR21 Assault Rifle Individual Marksmanship Trainer<br>
+●	SAR21 Assault Rifle Live Firing<br>
+●	Sports Championship (Futsal)<br>
+●	HQ NCC Adventure Expeditions <br>
 
-Cadets get their first opportunity to fire the SAR21 Assault Rifle at the IMT (Individual Marksmanship Trainer) at a SAF camp. Cadets also attend the Camp STEEL held at HQ NCC, where they will be exposed to jungle survival skills and rifle drills. Key programmes include:
-
-* Total Defence Silver Badge    
-* Basic Survival Course    
-* SAR21 Assault Rifle Technical Handling    
-* SAR21 Assault Rifle Individual Marksmanship Trainer    
-* Camp STEEL (Repelling, Flying Fox, Basic Survival Skills)    
-* NCC Fitness Challenge    
-* Orienteering Competition    
-* Freestyle Exhibition Drills Competition
-
-
-**Year 3: Cadet Leaders**
-
-Cadet Leaders are given multiple opportunities to develop their leadership and mentoring skills as they now hold their responsibilities as leaders of the unit. They get to participate in live firing using the SAR21 Assault Rifle at a SAF live range. Cadet Leaders also get to participate in several Specialist courses to hone their leadership skills. In addition, Cadet Leaders are also given opportunities to go on overseas adventure expeditions.  Key programmes include:
-
-* Specialist Assessment Course    
-* Advanced Drills Course    
-* Senior Specialist Leaders Course    
-* NCC Fitness Challenge   
-* SAR21 Assault Rifle Live Firing   
-* HQ NCC Adventure Expeditions (e.g. Mount Ophir Summit Climb – 2016)
-
-**Year 4/5: Senior Cadet Leaders**
-
-Senior Cadet Leaders will be put in charge of organising and leading the annual Combined Uniformed Groups Camp held in March. After their tenure as leaders in NCC, Senior Cadet Leaders are also given the option to attend the Cadet Officer Course (COC), so they can continue to lead and serve NCC in the capacity of Officers (Cadet 2nd Lieutenant) after graduation.
-
-Cadets reciting the NCC pledge during the first and last parade of each training session
-![](/images/NCC2.jpg)
-
-NCC cadets march past during the school’s National Day Parade
-![](/images/NCC3.jpg)
-
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTWULOLQ10QbF1yIHzMlu22gLHMMSj6IxwyF8zVMPr2RDmgHa8fWRU9ccrMhneq-5fjgi9acW19dNtZ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="980" height="749" allowfullscreen="true"></iframe>
