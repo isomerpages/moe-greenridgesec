@@ -69,3 +69,4 @@ Senior Cadets - 2nd Runner-up Position<br>
 *Orienteering Competition 2022 *<br>
 Senior Cadets - 1st Position<br>
 
+![To Serve With Pride And Dedication](/images/NCC2023/to%20serve%20with%20pride%20and%20dedication.jpg)
