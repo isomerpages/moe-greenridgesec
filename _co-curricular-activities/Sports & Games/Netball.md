@@ -4,7 +4,6 @@ permalink: /cca/sports-and-games/netball/
 description: ""
 third_nav_title: Sports & Games
 ---
-
 ### **OUR GOAL**
 Greenridge Netball continuously strives for excellence by participating in various inter-school competitions as well as netball carnivals. We aim to develop and instill the importance of our RIDGE values: Respect, Integrity, Diligence, Grit, and Empathy in our players.  
 
@@ -42,4 +41,3 @@ Greenridge Netball continuously strives for excellence by participating in vario
 ![](/images/NETBALL2023/netball_5.jpg)
 ●	Deloitte Pesta Sukan at Kallang ActiveSG Netball Centre
 ![](/images/NETBALL2023/netball_6.jpg)and ![](/images/NETBALL2023/netball_7.jpg)
-
