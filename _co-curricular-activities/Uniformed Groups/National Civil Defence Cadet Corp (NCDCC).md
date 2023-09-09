@@ -22,8 +22,4 @@ third_nav_title: Uniformed Groups
 | -------- | -------- | 
 | 2023   | Urban Adventure Civil Defence Skills Challenge (UACDC) 2023TBC |
 | 2023   | Precision Drill Challenge 2023    | 
-| 2022   |Urban Adventure Civil Defence Skills Challenge (UACDC) 2022 1st placing   | 
-
-
-
-
+| 2022   |Urban Adventure Civil Defence Skills Challenge (UACDC) 2022 1st placing   |
