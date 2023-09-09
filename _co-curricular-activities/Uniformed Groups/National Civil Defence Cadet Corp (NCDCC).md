@@ -6,13 +6,14 @@ third_nav_title: Uniformed Groups
 ---
 ## National Civil Defence Cadet Corps![](/images/NCDCC2023/ncdcc__1.jpg)
 
-##### **PHOTO HIGHLIGHTS**<br>
+##### **PHOTO HIGHLIGHTS**
+
 ●	Precision Drill Challenge 2023 at Home Team Academy
 ![Precision Drill Challenge 2023 at Home Team Academy](/images/NCDCC2023/ncdcc__2.jpg)<br>
 ●	NCDCC Day 2023
 ![NCDCC Day 2023](/images/NCDCC2023/ncdcc__3.JPG)<br>
 ●	Performing First Aid 
-![Performing First Aid ](/images/NCDCC2023/ncdcc__4.jpg)
+![Performing First Aid ](/images/NCDCC2023/ncdcc__4.jpg)<br>
 
 
 ##### **COMPETITIONS &amp; ACCOLADES**<br>
