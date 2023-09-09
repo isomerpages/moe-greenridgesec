@@ -4,4 +4,42 @@ permalink: /cca/sports-and-games/netball/
 description: ""
 third_nav_title: Sports & Games
 ---
-#![](/images/General2023/website%20updating%20.png)# Webpage Updates in Progress
+
+### **OUR GOAL**
+Greenridge Netball continuously strives for excellence by participating in various inter-school competitions as well as netball carnivals. We aim to develop and instill the importance of our RIDGE values: Respect, Integrity, Diligence, Grit, and Empathy in our players.  
+
+#### **THE NETBALL EXPERIENCE**
+
+●	Work on ball handling and footwork through ball drills.<br>
+●	Participate in B and C Division National School Games.<br>
+●	Upkeep fitness levels through runs and physical training.<br>
+●	Work well and communicate effectively with team members.<br>
+●	Reflect on training sessions, games played, and skills learnt.<br>
+●	Participate in friendly matches and carnivals with other schools.<br>
+
+
+#### **COMPETITIONS &amp; CARNIVALS**
+
+●	B and C Division National School Games<br>
+●	Netball Schools Challenge League<br>
+●	Yio Chu Kang Sec C Division Carnival <br>
+●	Deloitte Pesta Sukan <br>
+●	Netops Sports Netball Carnival<br>
+●	Westwood Sec Netball Invitational<br>
+
+
+#### **PHOTO HIGHLIGHTS**
+
+●	2023 B Division Netball Team
+![](/images/NETBALL2023/netball_1.jpg)
+●	2023 C Division Netball Team
+![](/images/NETBALL2023/netball_2.jpg)
+●	In action during the B Div Schools Challenge League match 
+![](/images/NETBALL2023/netball_3.jpg)
+●	2023 Deloitte Pesta Sukan
+![](/images/NETBALL2023/netball_4.jpg)
+●	Pep talk before the match
+![](/images/NETBALL2023/netball_5.jpg)
+●	Deloitte Pesta Sukan at Kallang ActiveSG Netball Centre
+![](/images/NETBALL2023/netball_6.jpg)and ![](/images/NETBALL2023/netball_7.jpg)
+
