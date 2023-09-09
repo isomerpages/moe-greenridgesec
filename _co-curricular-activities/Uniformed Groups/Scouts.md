@@ -11,7 +11,7 @@ third_nav_title: Uniformed Groups
 Scouting is a worldwide youth movement with the aim of helping young people develop their full physical, intellectual, emotional, social and spiritual capacities so that they may play constructive roles in society. This is achieved through a value system based on the Scout Promise and Law and a programme with an emphasis on practical outdoor activities. In Greenridge, we provide opportunities for scouts to learn and grow morally, physically and cognitively through a wide range of activities such as camps, donation drives, outdoor activities, overseas trips, campfires and outdoor cooking.
 
   
-#### **CCA COMPETITIONS &amp; ACCOLADES**
+### **CCA COMPETITIONS &amp; ACCOLADES**
 ●	25 Chief Commissioner’s Scout Awards between 2018 and 2023<br>
 ●	President’s Scout Award in 2004<br>
 ●	Frank Cooper Sands Silver Award in 2022<br>
@@ -20,12 +20,10 @@ Scouting is a worldwide youth movement with the aim of helping young people deve
 
 
 
-CCA PROGRAMME FOR SKILLS, LEADERSHIP &amp; CHARACTER DEVELOPMENT
-------------------------------------------------------------
+### **CCA PROGRAMME FOR SKILLS, LEADERSHIP &amp; CHARACTER DEVELOPMENT**
 
-**Job Week/ Uniformed Group Camp**
-
-During this camp, the Scouts will participate in the annual Job Week with the Fox Scout Group. The Job Week aims to inculcate in Scouts the dignity of labour and the value of honest work. The camp is also an avenue for Scouts to have an opportunity to bond with and host a campfire for the school’s Uniformed Groups.
+**Job Week/ Uniformed Group Camp**<br>
+During this camp, the Scouts participate in the annual Job Week with the Fox Scout Group. The Job Week aims to inculcate in Scouts the dignity of labour and the value of honest work. The camp is also an avenue for Scouts to have an opportunity to bond with and host a campfire for the school’s Uniformed Groups.
 
 **Fox Scout Group Camp**
 
