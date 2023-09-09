@@ -71,5 +71,3 @@ Team-building games
 Dance Practice during WSB SG Dance Competition 2023
 
 ![](/images/DANCE2023/modern%20dance%20pic%205.jpg)
-
-
