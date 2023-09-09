@@ -22,34 +22,39 @@ Scouting is a worldwide youth movement with the aim of helping young people deve
 
 ### **CCA PROGRAMME FOR SKILLS, LEADERSHIP &amp; CHARACTER DEVELOPMENT**
 
-**Job Week/ Uniformed Group Camp**<br>
+##### **Job Week/ Uniformed Group Camp**<br>
 During this camp, the Scouts participate in the annual Job Week with the Fox Scout Group. The Job Week aims to inculcate in Scouts the dignity of labour and the value of honest work. The camp is also an avenue for Scouts to have an opportunity to bond with and host a campfire for the school’s Uniformed Groups.
 
-**Fox Scout Group Camp**
+##### **Fox Scout Group Camp**<br>
+The Fox Scout Group Camp is an annual camp organised by the Fox Scout Group to develop the Scouts in an outside-classroom environment. During the camp, the Scouts will have the opportunity to be trained in self-reliance skills such as outdoor cooking, camp craft and orienteering. The Scouts will also get to develop team-building skills and foster friendships as they work with their patrols consisting of Scouts from Greenridge Secondary School and Zhenghua Secondary School​.
 
-The Fox Scout Group Camp is an annual camp organised by the Fox Scout Group to develop the Scouts in an outside-classroom environment. During the camp, the Scouts will have the opportunity to be trained in self-reliance skills such as outdoor cooking, camp craft and orienteering. The Scouts will also get to develop team-building skills and foster friendships as they work with their patrols consisting of Scouts from Fajar Secondary School and Zhenghua Secondary School.  
-
-**National Patrol Camp**
-
+#### **National Patrol Camp**<br>
 The National Patrol Camp (NPC) is a national competition event held once every two years with the aim of identifying Singapore’s Best Patrols that are proficient in Traditional Scout Craft. An integral part of the NPC is the pitching of Scouting skills among the competing teams. The items included in the competition are Camp Standard, Camp Development, Gateway, Pioneering, Backwoodsman Cooking, Campfire Skit, Camp Cook, Orienteering, First Aid Theory Test, Scouting Element and Scout Quiz.
 
-**Other Events and Courses**&nbsp;
+#### **Other Events and Courses**<br>
+●	Investiture Ceremony <br>
+●	Patrol Leaders Training Camp <br>
+●	Overseas Expedition <br>
+●	Abseiling <br>
+●	Rock Climbing <br>
+●	Kayaking <br>
+●	First Aid Course <br>
+●	Civil Defence Course <br>
+●	SANA Course <br>
+●	Total Defence Courses <br>
+●	Campfires <br>
+●	Give-a-Gift Community Service Project<br>
 
-* Investiture Ceremony&nbsp;
-* Patrol Leaders Training Camp&nbsp;
-* Overseas Expedition&nbsp;
-* Abseiling&nbsp;
-* Rock Climbing&nbsp;
-* Kayaking&nbsp;
-* First Aid Course&nbsp;
-* Civil Defence Course&nbsp;
-* SANA Course&nbsp;
-* Total Defence Courses&nbsp;
-* Campfires&nbsp;
-* Give-a-Gift Community Service Project
+#### **PHOTO HIGHLIGHTS**
 
-![](/images/scouts.jpg)
+●	2023 Founder’s Day Parade
+![](/images/SCOUTS2023/scouts-2.jpeg)
+●	Building Ridge Tent
+![](/images/SCOUTS2023/scouts-3.jpeg)
+●	Outdoor Cooking
+![](/images/SCOUTS2023/scouts%204.jpeg)
+●	Morning Inspection 
+![](/images/SCOUTS2023/scouts-5.jpeg)
+●	Pioneering Structure Building
 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-_3Wq47jOK8?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> - need to unlist YT video
