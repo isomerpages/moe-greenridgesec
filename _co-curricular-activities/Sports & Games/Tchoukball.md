@@ -25,5 +25,4 @@ Additionally, we aim to provide the knowledge and skills for students to underst
 | ---| ---| ---|
 |2023 |  **1st ActiveSG-TBAS Interschool ‘B’ Division Tchoukball Championships** <br>Girls Team - Champion of Plate Category |**1st ActiveSG-TBAS Interschool ‘C’ Division Tchoukball Championships** <br>Boys Team - 7th placing <br>Girls Team - Champion of Plate Category|
 |2022 |  **Tchoukball 'B' Division Championships**  <br> Boys Team - 1st Runner Up for Bowl Category <br>Girls Team - 4th Position Overall <br>Girls Team - 3rd Runner Up for Plate Category<br> Girls Team - 1st Place for Bowl Category  |**Tchoukball 'C' Division Championships**<br> Boys Team - 5th placing<br> Girls Team - 10th placing|
-|2019 |  **Tchoukball 'B' Division Championships**  <br> Boys Team - 5th Position Overall  <br> Girls Team - 4th Position Overall |**Tchoukball 'C' Division Championships**<br> Boys Team - 5th 
-
+|2019 |  **Tchoukball 'B' Division Championships**  <br> Boys Team - 5th Position Overall  <br> Girls Team - 4th Position Overall |**Tchoukball 'C' Division Championships**<br> Boys Team - 5th
