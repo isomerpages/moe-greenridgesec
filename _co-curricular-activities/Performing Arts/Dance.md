@@ -59,6 +59,8 @@ In the GSS Modern Dance, we aim to develop confident dancers with strong appreci
 Through our CCA programme, students are exposed to various dance techniques and dance sessions which helps build their strength and flexibility. Dancers also build camaraderie through team building games and overcoming challenges they faced as a team. They are also given opportunities to showcase their talents in school and in public through competitions.
 ##### PHOTO HIGHLIGHTS
 ![](/images/DANCE2023/modern%20dance%20pic%202%20.jpg)
+
+![](/images/DANCE2023/modern%20dance%20pic%205.jpg)
 Performance during SYF 2023
 
 ![](/images/DANCE2023/modern%20dance%20pic%203%20.jpg)
@@ -70,4 +72,3 @@ Team-building games
 ![](/images/DANCE2023/modern%20dance%20pic%206.jpg)
 Dance Practice during WSB SG Dance Competition 2023
 
-![](/images/DANCE2023/modern%20dance%20pic%205.jpg)
