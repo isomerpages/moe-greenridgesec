@@ -22,6 +22,6 @@ Warming up prior to the competitive match
 ![](/images/FOOTBALL2023/football%20picture%203b.jpg)
 Our ‘B’ Division team posing for the cameras
 ![](/images/FOOTBALL2023/football%20picture%204.jpg)
-Caption: Our ‘C’ Division team cheering and motivating themselves prior to the match.<br>
+Our ‘C’ Division team cheering and motivating themselves prior to the match.<br>
 
 Caption: A fantastic goal scored from the free kick by one of our talented ‘C’ Division players!
