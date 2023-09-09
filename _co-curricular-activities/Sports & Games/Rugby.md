@@ -4,15 +4,13 @@ permalink: /cca/sports-and-games/rugby/
 description: ""
 third_nav_title: Sports & Games
 ---
-# **# Rugby**
-
+#  Rugby
+# 
 
 ![](/images/RUGBY/rugby-1.jpeg)
 
-
-
 #### OUR BELIEFS
-In Greenridge Secondary School’s Rugby team, we believe that:
+In Greenridge Secondary School’s Rugby team, we believe that:<br>
 ●	All players can be trained and developed into true sportsmen, regardless of their starting point.<br>
 ●	Teamwork is the beauty of our sport. All of us work as one, towards a common goal. All players will emerge stronger and fitter, mentally and physically..<br>
 ●	We aim to develop students who display the school values of Respect, Integrity, Diligence, Grit and Empathy.<br>
