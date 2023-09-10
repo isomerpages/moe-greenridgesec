@@ -8,11 +8,11 @@ third_nav_title: Curriculum
 
 ### OUR BELIEFS
 
-The purpose of Physical Education is to enable students to demonstrate the physical skills, practices and values to enjoy a lifetime of active, healthy living. We strive to develop every Greenridgean to be physically fit, and to embrace and&nbsp; advocate for a healthy lifestyle.
+We believe a quality Physical Education contributes significantly to the development of physical, mental, and social health of students. Scientific findings show that higher level of physical fitness is associated with higher level of executive functioning skills. Hence, PE is an important and necessary part of school experience to support students’ learning.
 
 ### HOW WE ENGAGE OUR STUDENTS
 
-The following are pedagogical approaches commonly used by our teachers to engage students in learning PE Knowledge, Skills and Attitudes effectively.&nbsp;
+We design our PE programme to enable students to progressively learn knowledge, skills, and values in alignment with the 6 goals of MOE’s Revised PE Syllabus. 
 
 **1\. Sport Education Model**&nbsp;&nbsp;
 
