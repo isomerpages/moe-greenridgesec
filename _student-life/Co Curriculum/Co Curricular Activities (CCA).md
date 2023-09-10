@@ -30,7 +30,7 @@ These are CCAs that will be offered in 2024:
 | Girls’ Brigade (Girls) | Concert Band  | Football (Boys)    |Infocomm Technology (Media Production)    |
 | NCC (Boys) | English Drama   | Netball (Girls)   |Robotics   |
 | NCDCC   | Modern Dance  | Rugby (Boys)    |    |
-| NPCC  |    | Tchoukball  |   |
+| [NPCC](/cca/uniformed-groups/npcc) |    | Tchoukball  |   |
 | Scouts	 |     | Volleyball (Girls)  |   |
 
 #### CCA Orientation and CCA Selection Try-outs
@@ -56,4 +56,3 @@ We will also inform parents via Parents’ Gateway should there be any change to
 
 #### GSS Games Day and Open House
 Students Leaders from CCA will participate in leading their CCAs during the year-end Games Day and Open House as part of the Student Leadership Development Programme.
-
