@@ -22,9 +22,6 @@ To develop grit, we encourage students to stay committed to one CCA throughout t
 These are CCAs that will be offered in 2024:
 
 
-	Visual and Performing Arts	Physical Sports and Games	Clubs and Societies
-
-
 | Uniformed Youth Organisations| Visual and Performing Arts	 | Physical Sports and Games |Clubs and Societies |
 | -------- | -------- | -------- |-------- |
 | Girls’ Brigade (Girls) | Concert Band  | Football (Boys)    |Infocomm Technology (Media Production)    |
