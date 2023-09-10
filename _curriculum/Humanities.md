@@ -51,6 +51,21 @@ At the National Museum of Singapore, students investigate historical sources ran
 Students participate in conferences and&nbsp; competitions such as the Model ASEAN Summit as well as the NUS Geography Challenge and History Challenge. Such platforms allow students to critically apply the knowledge and skills learnt in the Humanities classroom and connect with other Humanities students in Singapore to discuss meaningful societal issues.
 ![](/images/Hum5.jpg)
 
+
+### Humanities Photograph 
+
+1.	In history lessons, students explore many authentic historical sources to enhance their learning experience as well as deepen their understanding of the subject. ![](/images/HUMANITIES2023/1%20exploring%20sources%20in%20history.jpeg)
+2.	Students get an opportunity to taste spices as well as smell them. This gives them an authentic experience of how spice traders in the early years would have honed their trade. ![](/images/HUMANITIES2023/2%20tasting%20spices%20in%20history.jpeg)
+3.	In history we use gamification extensively. This is often in the form of game boards (some created in house) to enable students to understand historical decisions and even war strategies. ![](/images/HUMANITIES2023/3%20gamification%20in%20history%20upper%20secondary.jpeg)<br> ![](/images/HUMANITIES2023/5%20gamification%20in%20history%20lower%20secondary.jpeg)
+5.	While our students may be too young to vote, we give them an authentic voting experience in Secondary 2 when they study about Singapore’s road to independence. Students evaluate the different political parties in existence during this period and cast their vote for the party which would best solve the problems of early Singapore. 
+![](/images/HUMANITIES2023/4%20authentic%20experiences%20in%20historyvoting.jpeg)
+6. We encourage student self-directedness in our Humanities classrooms. Students showcase their knowledge, big picture connections as well as artistic skills in note-taking in History. ![](/images/HUMANITIES2023/6%20student%20self-directedness%20in%20note%20taking.jpeg)
+7. In Social Studies curriculum, we encourage students to engage in contemporary issues discussions as well as self/ peer evaluation. This prompts them to develop into critical learners. ![](/images/HUMANITIES2023/7%20student%20self-directedness%20in%20social%20studies%20classrooms.jpeg)<br>
+![](/images/HUMANITIES2023/8%20empowering%20students%20to%20lead%20discussions%20and%20evaluate%20peer%20work%20in%20social%20studies%20classrooms.jpeg)
+9. [10 + 11] As part of the History learning experience, students are engaged in various learning journeys; some of these are virtual while many are visits to physical sites in Singapore. There, they get to interact with museum docents to learn in depth about various concepts and content in history. 
+
+
+
 **Greenridge Secondary School NUS geography challenge 2022 creative component video**   
 Designing Blueprints for Our Green Futures
 
