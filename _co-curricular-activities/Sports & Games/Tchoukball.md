@@ -7,8 +7,7 @@ third_nav_title: Sports & Games
 # **Tchoukball**
 
 ![](/images/2a.jpg)
-The Greenridge Tchoukball (pronounced as chook-ball) team stems from grit and dedication. This can be seen from its humble beginnings as an interest group started by a group of passionate Tchoukball players in 2014. Since then, the team solidified its presence after multiple accolades and earned its position as an official co-curricular activity (CCA). <br>
-
+The Greenridge Tchoukball (pronounced as chook-ball) team stems from grit and dedication. This can be seen from its humble beginnings as an interest group started by a group of passionate Tchoukball players in 2014. Since then, the team solidified its presence after multiple accolades and earned its position as an official co-curricular activity (CCA). 
  
 #### **OUR GOALS**
 
@@ -123,5 +122,3 @@ Additionally, we aim to provide the knowledge and skills for students to underst
   mso-border-alt:solid #444444 .75pt;padding:8.0pt 4.0pt 8.0pt 4.0pt;
   height:27.75pt"><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="background:white;
   mso-highlight:white">9th Inter-School ‘C’ Division Tchoukball Championships</span></b></p><p class="MsoNormal" style="line-height:normal"><span style="mso-bookmark:_Hlk145177953"><span lang="EN" style="background:white;mso-highlight:white">Champion</span></span><span lang="EN"></span></p></td></tr></tbody></table>
-
-
