@@ -6,14 +6,17 @@ description: ""
 # **Our Compass**
 
 
-<font size="4" color="black">Our school’s code of conduct provides moral compass for us to grow into confident learners, compassionate leaders and ethical innovators. We live by the code of conduct both within and beyond the school premises, especially when we can be identified as Greenridgeans. Should we fall short of our code of conduct, we will recognise our misconduct, face consequences with the right attitude, relearn and restore by practising more of the desired behaviour.</font>
+## Our Beliefs
+Greenridge Secondary School (GSS) believes that every child is unique and can grow to advocate a worthy cause for a brighter future. It is our mission to shape character and inspire learning.<br><br>
+Anchored in our RIDGE values (Respect, Integrity, Diligence, Grit, Empathy) and motto (Together Onward), our students will embrace the strength of diversity and team spirit. A place for IDEAS (Imagination, Discovery, Expression, Accomplishment and Service), we reimagine the joy of learning for life and nurture a Growth Mindset in our students.<br><br>
+Together, we develop in our students the 5 Minds for the Future (Disciplined, Synthesising, Creating, Respectful and Ethical minds); We shape them to be Compassionate Leaders,  and inspire them to become Confident Learners and Ethical Innovators.
 
+## Code Of Conduct
+Our school’s code of conduct provides moral compass for us to grow into confident learners, compassionate leaders and ethical innovators. We live by the code of conduct both within and beyond the school premises, especially when we can be identified as Greenridgeans. Should we fall short of our code of conduct, we will recognise our misconduct, face consequences with the right attitude, relearn and restore by practising more of the desired behaviour.<br>
 #### Respect and Empathy
-<font size="4" color="black">We act with due regard for self &amp; others’ dignity and worth. In empathy, we feel for and are mindful of the needs of others. Together, we reflect a respectful mind.</font><br>
-	
-<font size="4" color="darkblue" type="bold">Respect for Organisational Identity </font>
+We act with due regard for self &amp; others’ dignity and worth. In empathy, we feel for and are mindful of the needs of others. Together, we reflect a respectful mind.
 
-	
+#### Respect for Organisational Identity
 |Item | Description| 
 | :-------- | :-------- | 
 | Uniform  | We will wear the prescribed school uniform with pride and modification to the uniform is strictly not allowed.<br>We must not fold the sleeves of the uniform.<br>We do not wear T-shirts underneath our uniform.   <br><br> BOYS<br>We tuck our shirt to reveal the trousers pockets in full Shirts must be properly buttoned and tucked.<br>Trousers must be of appropriate length and not be tight.<br>We do not fold the sleeves of shirts or hemlines of trousers.<br><br>Girls<br>Blouses must be properly buttoned and hang out.<br>Skirts must knee-length.|
@@ -22,10 +25,10 @@ description: ""
 
 	
 
-### Integrity
+#### Integrity
 We are honest and have strong moral principles. We live by our values and are honest with everyone.
 
-### Diligence and Grit
+#### Diligence and Grit
 Being diligent, we are responsible to put in the consistent effort to achieve our goals. With grit, we have the resolve and resilience to face challenges and overcome adversity. Together, we reflect discipline.
 
-More details on the Code of Conduct can be found in the Student Handbook.
+*More details on the Code of Conduct can be found in the Student Handbook.*
