@@ -4,7 +4,7 @@ permalink: /co-curriculum/cca/
 description: ""
 third_nav_title: Performing Arts
 ---
-# **Performing Arts**
+# Performing Arts
 
 ![](/images/RESIZED%20Banner_CCA_PERFORMING%20ARTS.jpg)
 
