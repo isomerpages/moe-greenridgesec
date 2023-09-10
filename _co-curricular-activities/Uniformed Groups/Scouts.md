@@ -57,3 +57,5 @@ The National Patrol Camp (NPC) is a national competition event held once every t
 ![](/images/SCOUTS2023/scouts-5.jpeg)
 ●	Pioneering Structure Building
 ![](/images/SCOUTS2023/scouts-6.JPG)
+
+updated 20230910
