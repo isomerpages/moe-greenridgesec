@@ -7,24 +7,20 @@ description: ""
 
 ![](/images/Greenridge%20Secondary%20School%20Name%20%20Logo.jpg)
 
-
-### VISION:
+### VISION:<br>
 Confident Learners, Compassionate Leaders, Ethical Innovators
-
-### MISSION:
+### MISSION:<br>
 Shaping Character, Inspiring Learning
-
-### MOTTO:
+### MOTTO:<br>
 Together Onward
-
 ### CORE VALUES:
-**RIDGE**
+**RIDGE**<br>
 
-**R** \- Respect  
-**I** \- Integrity  
-**D** \- Diligence  
-**G**\- Grit  
-**E** \- Empathy
+**R** \- Respect  <br>
+**I** \- Integrity  <br>
+**D** \- Diligence  <br>
+**G**\- Grit  <br>
+**E** \- Empathy<br>
 
 
 
