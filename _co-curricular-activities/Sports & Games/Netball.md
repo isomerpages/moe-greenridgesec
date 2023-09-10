@@ -5,26 +5,24 @@ description: ""
 third_nav_title: Sports & Games
 ---
 ### **OUR GOAL**
-Greenridge Netball continuously strives for excellence by participating in various inter-school competitions as well as netball carnivals. We aim to develop and instill the importance of our RIDGE values: Respect, Integrity, Diligence, Grit, and Empathy in our players.  
+Greenridge Netball continuously strives for excellence by participating in various inter-school competitions as well as netball carnivals. We aim to develop and instill the importance of our RIDGE values: Respect, Integrity, Diligence, Grit, and Empathy in our players.\  
 
 #### **THE NETBALL EXPERIENCE**
-
-●	Work on ball handling and footwork through ball drills.<br>
-●	Participate in B and C Division National School Games.<br>
-●	Upkeep fitness levels through runs and physical training.<br>
-●	Work well and communicate effectively with team members.<br>
-●	Reflect on training sessions, games played, and skills learnt.<br>
-●	Participate in friendly matches and carnivals with other schools.<br>
+●	Work on ball handling and footwork through ball drills.\
+●	Participate in B and C Division National School Games.\
+●	Upkeep fitness levels through runs and physical training.\
+●	Work well and communicate effectively with team members.\
+●	Reflect on training sessions, games played, and skills learnt.\
+●	Participate in friendly matches and carnivals with other schools.\
 
 
 #### **COMPETITIONS &amp; CARNIVALS**
-
-●	B and C Division National School Games<br>
-●	Netball Schools Challenge League<br>
-●	Yio Chu Kang Sec C Division Carnival <br>
-●	Deloitte Pesta Sukan <br>
-●	Netops Sports Netball Carnival<br>
-●	Westwood Sec Netball Invitational<br>
+●	B and C Division National School Games\
+●	Netball Schools Challenge League\
+●	Yio Chu Kang Sec C Division Carnival \
+●	Deloitte Pesta Sukan \
+●	Netops Sports Netball Carnival\
+●	Westwood Sec Netball Invitational\
 
 
 #### **PHOTO HIGHLIGHTS**
