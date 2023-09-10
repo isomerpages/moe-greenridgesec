@@ -12,11 +12,11 @@ Scouting is a worldwide youth movement with the aim of helping young people deve
 
   
 ### **CCA COMPETITIONS &amp; ACCOLADES**
-●	25 Chief Commissioner’s Scout Awards between 2018 and 2023<br>
-●	President’s Scout Award in 2004<br>
-●	Frank Cooper Sands Silver Award in 2022<br>
-●	Frank Cooper Sands Gold Award from 2017 to 2019<br>
-●	National Patrol Camp Silver Award in 2017 and 2019<br>
+-	25 Chief Commissioner’s Scout Awards between 2018 and 2023<br>
+-	President’s Scout Award in 2004<br>
+- Frank Cooper Sands Silver Award in 2022<br>
+- Frank Cooper Sands Gold Award from 2017 to 2019<br>
+-	National Patrol Camp Silver Award in 2017 and 2019<br>
 
 
 
@@ -31,31 +31,31 @@ The Fox Scout Group Camp is an annual camp organised by the Fox Scout Group to d
 #### **National Patrol Camp**<br>
 The National Patrol Camp (NPC) is a national competition event held once every two years with the aim of identifying Singapore’s Best Patrols that are proficient in Traditional Scout Craft. An integral part of the NPC is the pitching of Scouting skills among the competing teams. The items included in the competition are Camp Standard, Camp Development, Gateway, Pioneering, Backwoodsman Cooking, Campfire Skit, Camp Cook, Orienteering, First Aid Theory Test, Scouting Element and Scout Quiz.
 
-#### **Other Events and Courses**<br>
-●	Investiture Ceremony <br>
-●	Patrol Leaders Training Camp <br>
-●	Overseas Expedition <br>
-●	Abseiling <br>
-●	Rock Climbing <br>
-●	Kayaking <br>
-●	First Aid Course <br>
-●	Civil Defence Course <br>
-●	SANA Course <br>
-●	Total Defence Courses <br>
-●	Campfires <br>
-●	Give-a-Gift Community Service Project<br>
+#### **Other Events and Courses**
+-	Investiture Ceremony 
+- Patrol Leaders Training Camp 
+-	Overseas Expedition 
+- Abseiling 
+- Rock Climbing 
+-	Kayaking 
+- First Aid Course 
+-	Civil Defence Course 
+- SANA Course 
+- Total Defence Courses 
+- Campfires 
+- Give-a-Gift Community Service Project
 
 #### **PHOTO HIGHLIGHTS**
 
-●	2023 Founder’s Day Parade
-![](/images/SCOUTS2023/scouts-2.jpeg)
-●	Building Ridge Tent
-![](/images/SCOUTS2023/scouts-3.jpeg)
-●	Outdoor Cooking
-![](/images/SCOUTS2023/scouts%204.jpeg)
-●	Morning Inspection 
-![](/images/SCOUTS2023/scouts-5.jpeg)
-●	Pioneering Structure Building
+2023 Founder’s Day Parade
+![](/images/SCOUTS2023/scouts-2.jpeg)\
+Building Ridge Tent
+![](/images/SCOUTS2023/scouts-3.jpeg)\
+Outdoor Cooking
+![](/images/SCOUTS2023/scouts%204.jpeg)\
+Morning Inspection 
+![](/images/SCOUTS2023/scouts-5.jpeg)\
+Pioneering Structure Building
 ![](/images/SCOUTS2023/scouts-6.JPG)
 
 updated 20230910
