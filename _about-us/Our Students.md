@@ -3,7 +3,7 @@ title: Our Students
 permalink: /about-us/our-students/
 description: ""
 ---
-# **Our Students**
+# Aspiring Greenridgeans
 
 ![](/images/aspiring.jpg)
 
