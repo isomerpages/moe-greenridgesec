@@ -46,17 +46,3 @@ ii.	National Physical Fitness Assessment (NAPFA)
 - Outdoor Expedition &amp; Overnight Camping
 
 
-
-
-**Unstructured Play Programme**
-![](/images/PE2.jpg)
-
-**_Sports Education Programme_**
-![](/images/PE1.jpg)
-
-
-**_Mass Run_**
-![](/images/PE3.jpg)
-
-**_Cross-Country Run_**
-![](/images/PE4.jpg)
