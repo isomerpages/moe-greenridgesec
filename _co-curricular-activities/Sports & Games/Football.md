@@ -24,4 +24,5 @@ Our ‘B’ Division team posing for the cameras
 ![](/images/FOOTBALL2023/football%20picture%204.jpg)
 Our ‘C’ Division team cheering and motivating themselves prior to the match.<br>
 
-Caption: A fantastic goal scored from the free kick by one of our talented ‘C’ Division players!
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=trJddoPF14I&amp;list=PLbn_eWIwsqepnHkOHr-dq5-Jcp6R38gqc&amp;index=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
