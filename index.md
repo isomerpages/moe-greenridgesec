@@ -8,10 +8,10 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: What’s Exciting?
+        - title: Look Back
           description: ""
           url: /whats-exciting/
-        - title: What's Happening?
+        - title: Look Ahead
           description: ""
           url: /whats-happening/
         - title: Contact Us
@@ -37,8 +37,4 @@ sections:
       image: /images/20230330/Rugby s.jpg
       alt: Image alt text
       url: /school-experience/co-curriculum/cca/sports-and-games/rugby/
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
