@@ -31,7 +31,7 @@ Together Onward
 ### SCHOOL CREST:
 
 
-<img src="/images/School%20Logo.png" style="width:50%">
+<img src="/images/School%20Logo.png" style="width:90%">
 
 What our school crest means to us:
 ●  	Blue hills depict a strong foundation in skills and knowledge, and the multiple ridges celebrate different peaks of excellence.<br>
