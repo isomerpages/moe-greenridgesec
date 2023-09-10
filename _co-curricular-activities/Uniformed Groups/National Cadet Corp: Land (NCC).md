@@ -55,20 +55,19 @@ Cadet Leaders are given multiple opportunities to develop their leadership and m
 
 ![Grit; Against All Odds, We Will Excel](/images/NCC2023/grit_%20against%20all%20odds,%20we%20will%20excel%20b.jpg)<br>
 
-**Year 4/5: Senior Cadet Leaders**<br>
+**Year 4/5: Senior Cadet Leaders**\
 Senior Cadet Leaders will be put in charge of organising and leading the annual Combined Uniformed Groups Camp held in March. After their tenure as leaders in NCC, Senior Cadet Leaders are also given the option to attend the Cadet Officer Course (COC), so they can continue to lead and serve NCC in the capacity of Cadet Officers (Cadet 2nd Lieutenant) after graduation.
 
-![Empathy; Covering Each Other, Leave No One Behind](/images/NCC2023/empathy_%20covering%20each%20other,%20leave%20no%20one%20behind%20b.jpg)<br>
+![Empathy; Covering Each Other, Leave No One Behind](/images/NCC2023/empathy_%20covering%20each%20other,%20leave%20no%20one%20behind%20b.jpg)
 
-**Accolades and Awards**<br>
-*Unit Recognition Award*<br>
-In recognition of our efforts in grooming and developing cadets to their full potential, Greenridge NCC was awarded Distinction for the Unit Recognition Award in 2015, 2016, 2017, 2021 and 2022.<br>
-*NCC West District Sports Championships 2023*<br>
-Cadet Leaders - 2nd Runner-up Position<br>
-Senior Cadets - 2nd Runner-up Position<br>
+#### Accolades and Awards
+<u>**Unit Recognition Award**</u>\
+In recognition of our efforts in grooming and developing cadets to their full potential, Greenridge NCC was awarded Distinction for the Unit Recognition Award in 2015, 2016, 2017, 2021 and 2022.<br><br>
+<u>**NCC West District Sports Championships 2023**</u>
+- Cadet Leaders - 2nd Runner-up Position
+- Senior Cadets - 2nd Runner-up Position
 ![Together We Achieve](/images/NCC2023/together%20we%20achieve.jpg)
 
-*Orienteering Competition 2022 *<br>
-Senior Cadets - 1st Position<br>
-
+<u>**Orienteering Competition 2022**</u>
+- Senior Cadets - 1st Position
 ![To Serve With Pride And Dedication](/images/NCC2023/to%20serve%20with%20pride%20and%20dedication.jpg)
