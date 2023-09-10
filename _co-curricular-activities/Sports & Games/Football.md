@@ -17,12 +17,13 @@ In the GSS Football Team, we emphasise commitment, resilience and discipline in 
 
 Our programme aims to equip our members with the skills and knowledge necessary to pursue excellence in their future endeavours. We begin with the goal of achieving success in the annual National School Games. Our weekly training sessions not only involve physical training, but also team building games that allow us to strengthen our awareness of each other’s abilities and enhance our communication skills. Working in partnership with our dedicated football coach, we also help our students develop their community spirit and volunteerism through a range of activities.
 
-![](/images/FOOTBALL2023/football%20picture%202.jpg)
-Warming up prior to the competitive match
-![](/images/FOOTBALL2023/football%20picture%203b.jpg)
-Our ‘B’ Division team posing for the cameras
-![](/images/FOOTBALL2023/football%20picture%204.jpg)
-Our ‘C’ Division team cheering and motivating themselves prior to the match.<br>
+Warming up prior to the competitive match\
+![](/images/FOOTBALL2023/football%20picture%202.jpg)\
+Our ‘B’ Division team posing for the cameras\
+![](/images/FOOTBALL2023/football%20picture%203b.jpg)\
+Our ‘C’ Division team cheering and motivating themselves prior to the match.\
+![](/images/FOOTBALL2023/football%20picture%204.jpg)\
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=oUecU1N8Zkg" title="Football C Division" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
