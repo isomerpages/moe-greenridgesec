@@ -28,14 +28,14 @@ Greenridge Netball continuously strives for excellence by participating in vario
 #### **PHOTO HIGHLIGHTS**
 
 -	2023 B Division Netball Team
-![](/images/NETBALL2023/netball_1.jpg)\
+![](/images/NETBALL2023/netball_1.jpg)
 - 2023 C Division Netball Team
-![](/images/NETBALL2023/netball_2.jpg)\
+![](/images/NETBALL2023/netball_2.jpg)
 - In action during the B Div Schools Challenge League match 
-![](/images/NETBALL2023/netball_3.jpg)\
+![](/images/NETBALL2023/netball_3.jpg)
 -	2023 Deloitte Pesta Sukan
-![](/images/NETBALL2023/netball_4.jpg)\
+![](/images/NETBALL2023/netball_4.jpg)
 -	Pep talk before the match
-![](/images/NETBALL2023/netball_5.jpg)\
-●	Deloitte Pesta Sukan at Kallang ActiveSG Netball Centre
+![](/images/NETBALL2023/netball_5.jpg)
+-	Deloitte Pesta Sukan at Kallang ActiveSG Netball Centre
 ![](/images/NETBALL2023/netball_6.jpg)and ![](/images/NETBALL2023/netball_7.jpg)
