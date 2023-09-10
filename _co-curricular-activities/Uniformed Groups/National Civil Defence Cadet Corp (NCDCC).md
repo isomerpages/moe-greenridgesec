@@ -9,12 +9,11 @@ third_nav_title: Uniformed Groups
 ##### **PHOTO HIGHLIGHTS**
 
 - Precision Drill Challenge 2023 at Home Team Academy
-![Precision Drill Challenge 2023 at Home Team Academy](/images/NCDCC2023/ncdcc__2.jpg)<br>
+![Precision Drill Challenge 2023 at Home Team Academy](/images/NCDCC2023/ncdcc__2.jpg)\
 -	NCDCC Day 2023
-![NCDCC Day 2023](/images/NCDCC2023/ncdcc__3.JPG)<br>
+![NCDCC Day 2023](/images/NCDCC2023/ncdcc__3.JPG)\
 -	Performing First Aid 
-![Performing First Aid ](/images/NCDCC2023/ncdcc__4.jpg)<br>
-
+![Performing First Aid ](/images/NCDCC2023/ncdcc__4.jpg)
 
 ##### **COMPETITIONS &amp; ACCOLADES**<br>
 
