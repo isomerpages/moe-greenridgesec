@@ -135,7 +135,7 @@ ii.	National Physical Fitness Assessment (NAPFA)
 **Term 2**
 - Annual Cross-Country 
 -	Sec 2, 4 &amp; 5 NAPFA
-
+![](/images/PHYEDU2023/axc0xx.gif)
 
 Term 3 
 -	Team Grit Challenge  &amp; Dance of the Nation Competition
