@@ -45,4 +45,5 @@ ii.	National Physical Fitness Assessment (NAPFA)
 - Outdoor Cooking &amp; Master-Chef competition
 - Outdoor Expedition &amp; Overnight Camping
 
+![](/images/PHYEDU2023/ottw00.png)
 
