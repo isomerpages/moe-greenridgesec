@@ -19,4 +19,7 @@ sections:
           url: /contact-us/
       url: /contact-us/
       background: /images/Heros/Hero 001v4.jpg
+  - resources:
+      title: ANNOUNCEMENTS
+      id: resources
 ---
