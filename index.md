@@ -13,7 +13,7 @@ sections:
           url: /look-back/
         - title: Look Ahead
           description: ""
-          url: /whats-happening/
+          url: /look-ahead/
         - title: Contact Us
           description: ""
           url: /contact-us/
