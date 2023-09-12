@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Look Back
           description: ""
-          url: /whats-exciting/
+          url: /look-back/
         - title: Look Ahead
           description: ""
           url: /whats-happening/
