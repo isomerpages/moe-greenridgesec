@@ -3,7 +3,7 @@ title: Look Back
 permalink: /look-back/
 description: ""
 ---
-### What’s Exciting
+### LOOK BACK
 
 Here are some highlights we are pleased to share with you about what Greenridgeans have recently accomplished!
 
