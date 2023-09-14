@@ -5,41 +5,40 @@ description: ""
 ---
 # **Learning for Life Programme (LLP)**
 
-### Community Youth Leadership (CYL)
+#### Community Youth Leadership (CYL)
 
 In Greenridge Secondary School, we aim to develop every Greenridgean into a Community Youth Leader who is confident and compassionate to champion for good causes.
 
-### Approach
+#### Approach
 
 The design of the LLP curriculum is guided by the 3Es (Educate, Encourage and Empower) framework via a two-tiered developmental approach, anchored on three leadership dimensions (self, team and thought leadership).
 
-### 3Es Framework
+#### 3Es Framework
 
 **Educate** 
 
-*   student population via Leadership Modules and CCE lessons for all Sec 1s to 3, and develop their awareness of community and leadership knowledge, competencies and attitudes to better serve the community (Tier 1).
+- student population via Leadership Modules and CCE lessons for all Sec 1s to 3, and develop their awareness of community and leadership knowledge, competencies and attitudes to better serve the community (Tier 1).
     
-*   Student Leaders through targeted leadership development of different position holders (Student Council, CCA Leaders and Class Committee) via leadership seminars, camps and community projects at cluster and national levels (Tier 2). 
+- Student Leaders through targeted leadership development of different position holders (Student Council, CCA Leaders and Class Committee) via leadership seminars, camps and community projects at cluster and national levels (Tier 2). 
     
 **Encourage**
 
-*   leadership development and applications through personal mastery of leadership skills, and recognition structures within and beyond the school
+- leadership development and applications through personal mastery of leadership skills, and recognition structures within and beyond the school
     
 
 **Empower leadership amongst students through:**
 
-*   provisions of platforms for values-in-action initiatives within and beyond the school;
+- provisions of platforms for values-in-action initiatives within and beyond the school;
     
-*   opportunities for students' self-initiated improvement projects and student-led events and programmes within and outside the school; and
+- opportunities for students' self-initiated improvement projects and student-led events and programmes within and outside the school; and
     
-*   follow-up on students' voice and suggestions for school improvement and excellence journey.
+- follow-up on students' voice and suggestions for school improvement and excellence journey.
     
-
 Tier 1 encompasses leadership development that engages and strengthens all their students in developing their awareness of community and leadership knowledge, competencies and attitudes to better serve the community.
 
 Tier 2 leadership development programme empowers selected students who exhibit greater interest or aptitude to lead in actively engaging the community. LLP-CYL is infused into the existing curriculum and programmes, strengthening the programme process and outcomes.
 
-![](/images/llp.jpg)
+
 
 ### Leadership Dimensions
 
@@ -47,18 +46,19 @@ Tier 2 leadership development programme empowers selected students who exhibit g
 
 ### Key Programmes
 
-* Leadership Series - Cohort Level Leadership Development
-* Leadership Workshops (Termly)
-* Respective CCAs Leadership Development 
-* Cohort Level VIA programmes
-* Class Committee Training 
-* Student Leaders Camp 
-* Student Leaders Community Outreach – Children’s Camp, CDAC@Bukit Panjang Club Sunday Programme, SBS Transit Kindness, Project@Bukit Panjang MRT Station, St Luke’s Inter-Generational Games
-* Student Led Projects – Student Leaders Investiture, Level Dialogues, Sec 1 Orientation, Teachers' Day Celebrations and Youth Day Celebrations 
-* Student-Initiated Community Projects – Sports for a Cause Carnival
+- Leadership Series - Cohort Level Leadership Development
+- Leadership Workshops (Termly)
+- Respective CCAs Leadership Development 
+- Cohort Level VIA programmes - SBS Transit Kindness, Project@Bukit Panjang MRT Station  
+- Class Committee Training 
+- Peer Support Leaders Training
+- Student Leaders Camp 
+- Student Leaders Community Outreach – Children’s Camp, Intergenerational Learning Programme, kidsREAD
+- Student-Led Projects – Student Leaders Investiture, Level Dialogues, Teachers’ Day Celebrations and Youth Day Celebrations 
 
 
-![](/images/CYL4.jpg)
+
+
 
 ### Strategic Partnerships
 
