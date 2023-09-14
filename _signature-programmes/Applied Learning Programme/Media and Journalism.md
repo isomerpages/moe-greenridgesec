@@ -4,7 +4,7 @@ permalink: /signature-programmes/applied-learning-programme/medianjournalism/
 description: ""
 third_nav_title: Applied Learning Programme
 ---
-## Media and Journalism
+### Media and Journalism
 
 In an ever-evolving media landscape, the written word holds tremendous power to amplify the voices and the stories of people from all walks of life.
 
