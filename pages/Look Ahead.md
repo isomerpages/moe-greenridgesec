@@ -7,7 +7,6 @@ description: ""
 
 
 ### LOOKING AHEAD TO … September
-
 ##### **<u>11 – 18 September: GCE N level exams</u>**
 
 Candidates are to refer to their respective exam schedules shown on their entry proof slips.&nbsp;
@@ -35,7 +34,6 @@ The start of the end of year exams falls on 28 September for all Sec 1, 2 and 3 
 Sec 4 and Sec 5 students will be attending their Graduation Day and go through a graduation ceremony to initiate their journey into the next phase of their student life. Students will report to school as usual. There will be lessons, followed by preparations for the ceremony.
 
 ### LOOKING AHEAD TO … October
-
 ##### **<u>1 – 9 October: Sec 1 to Sec 3 End of Year Exam</u>**
 The end of year exams continue for Sec 1 – 3 students. (See 28 September)
 
