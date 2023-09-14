@@ -3,9 +3,6 @@ title: Look Ahead
 permalink: /look-ahead/
 description: ""
 ---
-
-
-
 ### LOOKING AHEAD TO … September
 ##### **<u>11 – 18 September: GCE N level exams</u>**
 
