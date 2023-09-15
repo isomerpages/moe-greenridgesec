@@ -6,7 +6,6 @@ third_nav_title: Co Curriculum
 ---
 # **Student Leadership**
 
-![](/images/SL1.png)
 
 
 ### VISION AND PHILOSOPHY
