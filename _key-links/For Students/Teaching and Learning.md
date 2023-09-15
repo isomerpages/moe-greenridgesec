@@ -4,13 +4,13 @@ permalink: /key-links/for-students/teach-learn/
 description: ""
 third_nav_title: For Students
 ---
-# **Resources**
+# Resources
 
 ### Teaching & Learning Resources
-
+*   [Student Learning Space](https://learning.moe.edu.sg/)
 *   [Design and Technology Applications](http://www.focuselearning.co.uk/u/31300/uiqnwEemEaCForvwxBhhAfvehobonymca)
 *   [GSS HBL Site](https://sites.google.com/moe.edu.sg/greenridge-sec-sch/home)
-*   [Student Learning Space](https://learning.moe.edu.sg/)
+
 
 ### Others
 
