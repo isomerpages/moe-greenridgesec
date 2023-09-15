@@ -64,8 +64,6 @@ Our students are engaged to
 
 Subtitle: Advocates sharing key skills on how to evaluate online news
 
-![](/images/ICT2023/ict-09.jpg)Advocates interacting with audience to deepen understanding of information literacy
+![](/images/ICT2023/ict-09.jpg) Advocates interacting with audience to deepen understanding of information literacy
 
-ICT-10.jpg
-
-Subtitle: Advocates sharing a game they have created with the elderly
+![](/images/ICT2023/ict-10.jpg) Advocates sharing a game they have created with the elderly
