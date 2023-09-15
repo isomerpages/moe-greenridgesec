@@ -4,51 +4,72 @@ permalink: /curriculum/ict/
 description: ""
 third_nav_title: ICT
 ---
-# **ICT**
+### ICT
+![](/images/ICT2023/ict-01.jpg)
+#### OUR BELIEFS
+We nurture our Greenridgeans to 
+- deepen their digital literacy skills and
+-	be responsible users of information technology 
+through active and integrated use of technology in our students’ learning experience.
+#### HOW WE ENGAGE OUR STUDENTS
 
-### OUR BELIEFS
+In our journey to get our students to Imagine, Discover, Express, Accomplish and Serve, technology 
+- deepens our teachers' design of student-centric learning experiences
+- enhances our teachers’ assessment of students' understanding and provision of formative feedback for students to - actively engages our students through a variety of platforms and ICT tools. 
 
-We aim to nurture Greenridgeans to be future-ready as learners and leaders who are digitally competent and responsible users in cyberspace through the active use of technology for Blended Learning in every student experience.
+Students collaborating and sharing ideas.
+![](/images/ICT2023/ict-02.jpg)
 
-![](/images/ICT1.jpg)
+Teacher guiding student in online assignment.
+![](/images/ICT2023/ict-03.jpg)
 
-### HOW WE ENGAGE OUR STUDENTS
-
-![ictstudents](/images/Group%20of%205%20Students%20at%20Table%20-%20Vector%20(1).png)
-
-In our journey to develop lifelong learners with an aptitude for self-directedness and , it is important for us to 
-
-*   increase the versatility of their device for learning
-*   enhance their productivity and learning opportunities
-
-Sample of applications used by students
-![](/images/ICT3.jpg)
-
-Thus, digital literacy is designed to be a way of life and integrated into every student experience. 
+Our students are engaged to 
+- search online effectively to find out more
+- interact with subjects' content to deepen their understanding
+- be adaptable and flexible in using technologies responsibly to share their ideas
+-	collaborate anytime, anywhere
+-	connect to peers and experts to develop broader perspectives.
 
   
 
-Teachers use the principles of e-Pedagogy in their lesson design to engage students in active learning of concepts and skills with technology. 
+#### OUR STUDENTS & TEACHERS @ WORK
 
-  
+**Secondary One Foundation Digital Skills & HBL Preparation**
 
-### OUR STUDENTS & TEACHERS @ WORK
+ 
+ICT-4.jpg
+Subtitle: Exposure to various digital productivity tools and platforms 
 
-Learning with technology in GSS is guided by MOE SLS Pedagogical Scaffold, such that teachers design meaningful student-centric learning experiences to engage and respond to students’ learning. The role of technology is carefully planned in order to magnify and augment learning outcomes.
+National Digital Explorer
+ 
+ICT-5.jpg
+Subtitle: Deepening digital literacy skills with certification
 
-![](/images/ICT4.jpg)
 
-Teachers consider the following while planning:
 
-*   Activate Learning  
-	 *   _How will students’ focus and interest be oriented towards the learning objectives?_ 
 
-*   Promote Thinking and Discussion 
 
-	*   _How will students think about ideas and concepts? What skills and processes will students perform? How will students build on their current understanding?_ 
 
-*   Facilitate  Demonstration of  Learning
-	*   _How will students demonstrate their understanding and new learning?_ 
 
-*   Monitor and Provide Feedback
-	*   _How can students’ learning be advanced?_
+
+**Secondary Two Coding Programme**
+ 
+![](/images/ICT2023/ict-06.jpg)Solving a problem with coding
+
+ 
+![](/images/ICT2023/ict-07.jpg)Testing a prototype
+
+**National Cyber Wellness Advocacy Challenge**
+![](/images/ICT2023/ict-8a.jpg)
+
+![](/images/ICT2023/ict-8b.jpg)
+
+Subtitle: Advocates sharing key skills on how to evaluate online news
+
+![](/images/ICT2023/ict-09.jpg)Advocates interacting with audience to deepen understanding of information literacy
+
+ICT-10.jpg
+
+Subtitle: Advocates sharing a game they have created with the elderly 
+
+
