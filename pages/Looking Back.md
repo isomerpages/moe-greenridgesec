@@ -159,10 +159,10 @@ Our beneficiaries are:
 ### <u>**National Day Celebration**</u><br>
 The annual National Day Celebration is a day that we always look forward to. This year is no different as we come together as a whole school and strengthen our sense of nationhood. The theme of this year’s National Day is ‘Onward as One’. We are heartened that the theme corresponds so perfectly with our school motto: Together Onward! 😀
 
-Tchoukball ‘C’ Division Championships
+#### <u>**Tchoukball ‘C’ Division Championships**</u><br>
 On the 23rd and 24th of August, our Tchoukballers participated in the Tchoukball ‘C’ Division Championships. Both our boys and girls teams put forth their trust and unity to overcome the challenges from other worthy opponents. We celebrate the resilience and teamwork they showed. 
  
 Both teams persevered and pressed on. We are pleased to see our girls emerged as Champions in the Plate Category! 
 
-Teachers’ Day Celebration
+#### <u>**Teachers’ Day Celebration**</u><br>
 Our theme for Teachers’ Day is ‘Magic is Might’. Teachers are our wonderful magicians. Their knowledge and the “magic” they use to create a conducive environment for their students. These are what nurtures Greenridgeans and encourages them to learn. With their endless efforts, teachers create MIGHT. So, on the 30th of August, we had a fantastic time with a class party before the concert began. The concert started with an ‘Enchanted Forest’ showcase, followed by song and dance performances as well as an extremely fun quiz about our teachers! We wish our teachers: A Very Happy Teachers’ Day!
