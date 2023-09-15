@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Our Staff.md
       - Vision, Mission, Motto, Values, Crest.md
+      - Our Staff.md
       - Our Compass.md
       - Our Students.md
       - Our Heritage.md
