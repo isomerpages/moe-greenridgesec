@@ -8,6 +8,7 @@ third_nav_title: For Students
 
 ### Teaching & Learning Resources
 
+*   [GSS HBL Site](https://sites.google.com/moe.edu.sg/greenridge-sec-sch/home)
 *   [Student Learning Space](https://learning.moe.edu.sg/)
 *   [Education and Career Guidance](/education-and-career-guidance/)
 *   [Online Library](https://greenridgesec.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME)
