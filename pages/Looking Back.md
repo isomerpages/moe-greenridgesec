@@ -103,7 +103,7 @@ GSS Delivery (to develop agility, accuracy, and balance)
 Head or Tail (to enhance speed and agility)
 
 
-Xinyao Music Camp 
+#### <u>**Xinyao Music Camp**</u><br>
 On the 21st of May, 16 of our Sec 1 students participated in a Xinyao Music Camp at Singapore Polytechnic. Just three days later, on 24th May, our Sec 1 and Sec 3 cohort of students were treated to a Xinyao performance to promote their appreciation of the Chinese Language through music. 
 
 
