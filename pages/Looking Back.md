@@ -70,7 +70,7 @@ Our Secondary 3 Normal Academic students attended the ITE Applied Learning Modul
 
 
 ## April	
-#### <u>**Chinese Language Translation Competition**</u><br>
+#### <u>Chinese Language Translation Competition</u><br>
 6 students from Secondary 3 participated in the 16th National Secondary Schools Translation Competition 2023 on 1 April 2023, and achieved commendable results. The competition comprised an individual and group component. The individual task required participants to translate a video advertisement. In the group component of three students per group, each group completed tasks at different stations situated at different corners of Nanyang Junior College. The points that the students get were consolidated from both the individual and group components.\
 We are delighted to share that Ma XiaoXiao of class 3-9 achieved laudable results and clinched the Individual Award. Congratulations, XiaoXiao!
 
