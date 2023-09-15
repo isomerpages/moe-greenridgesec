@@ -2,13 +2,13 @@ collections:
   key-links:
     output: true
     order:
-      - For Parents.md
       - For Students/.keep
       - For Students/Teaching and Learning.md
       - For Students/eGIRO.md
       - For Students/Book List and Uniform.md
       - For Students/Group Personal Accident Insurance Plan for Students 2023.md
       - For Students/Others.md
+      - For Parents.md
       - For Teachers.md
       - News Archive/.keep
       - News Archive/2022.md
