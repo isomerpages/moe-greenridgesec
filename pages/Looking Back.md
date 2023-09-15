@@ -110,54 +110,53 @@ On the 21st of May, 16 of our Sec 1 students participated in a Xinyao Music Camp
 ## June	
 The June holiday is a time when we rest and rejuvenate to re-energise ourselves for the months ahead! Have a good break, everyone!
 
-GSS Commemorates Youth Day
+#### <u>**GSS Commemorates Youth Da**y</u><br>
 We started Term 3 joyously by commemorating Youth Day. On the 28th of June, in celebration of the young and the young-at-heart, we engaged in different experiences. These were the places we had a great bonding time at: 
-Bistro Bowl to have a blast challenging each other
-Golden Village Cinema for a movie
-Laser Tag at Fun Empire for some targeted shooting
-Sentosa Luge for a sky ride and a good time zipping down curved slopes 
-Snow City to frolic in the snow and in bumper cars
-Super Park to challenge our physical self
+- Bistro Bowl to have a blast challenging each other
+- Golden Village Cinema for a movie
+- Laser Tag at Fun Empire for some targeted shooting
+- Sentosa Luge for a sky ride and a good time zipping down curved slopes 
+- Snow City to frolic in the snow and in bumper cars
+- Super Park to challenge our physical self
 Universal Studios Singapore for a thrilling time
 
 
 ## July
-Code for Fun for Sec 2s
+#### <u>**Code for Fun for Sec 2s**</u><br>
 Our Sec 2 students had their exposure to coding in the enrichment programme organised specially for them. They clearly had a lot of fun seeing the electronics they put together come ‘alive’ with movements they coded.
 
-ECG Fair at Wordskills ASEAS 2023
-Our students from Sec 3-7 &amp; 3-8 had an exciting opportunity to attend ECG Fair at Worldskills ASEAN 2023 on 24th July 2023 (Monday), 9:00am – 12:00pm, at Suntec Singapore Convention and Exhibition Centre. This is an international skills competition that aims to inspire young people to develop a passion for skills and pursue excellence in their skill areas. 
+#### <u>**ECG Fair at Wordskills ASEAS 2023**</u><br>
+Our students from Sec 3-7 &amp; 3-8 had an exciting opportunity to attend ECG Fair at Worldskills ASEAN 2023 on 24th July 2023 (Monday), 9:00am – 12:00pm, at Suntec Singapore Convention and Exhibition Centre. This is an international skills competition that aims to inspire young people to develop a passion for skills and pursue excellence in their skill areas. <br>
 During the event, they 
-attended workshops and talks conducted by industry professionals to deepen their understanding of the skills needed for different industries
-(ii)   visited exhibition booths to discover their interests, skills and purpose as well as explore the different opportunities available
-(iii)  tried hands-on activities at “Try-a-Skill” booths to experience the skills required in different industries; 
-(iv)  watched Singapore competitors at the WorldSkills ASEAN competition arena pit their skills against their ASEAN counterparts.
+1. attended workshops and talks conducted by industry professionals to deepen their understanding of the skills needed for different industries
+2. visited exhibition booths to discover their interests, skills and purpose as well as explore the different opportunities available
+3. tried hands-on activities at “Try-a-Skill” booths to experience the skills required in different industries; 
+4. watched Singapore competitors at the WorldSkills ASEAN competition arena pit their skills against their ASEAN counterparts.
 
 
-Applied Learning Module (ApLM) programme
-From 24-26 July 2023 (Mon-Wed), our students from Sec 3-1 and Sec 3-2 attended the Applied Learning Module (ApLM) programme. Through this programme, the students will be able to adopt applied learning approaches through hands-on and practical sessions at ITE. They will discover individual strengths and interests which will help them make more informed education and career choices.
-
+#### <u>**Applied Learning Module (ApLM) programme**</u><br>
+From 24-26 July 2023 (Mon-Wed), our students from Sec 3-1 and Sec 3-2 attended the Applied Learning Module (ApLM) programme. Through this programme, the students will be able to adopt applied learning approaches through hands-on and practical sessions at ITE. They will discover individual strengths and interests which will help them make more informed education and career choices.<br>
 The following are the courses that the students would have chosen to participate in:
-Mobile Robot in Mechatronics
-Designing and Build your Own Glider
-Fitness for Life
+- Mobile Robot in Mechatronics
+- Designing and Build your Own Glider
+- Fitness for Life
 
 During these 3 days, the two classes visited ITE College West or Central to attend a practical hands-on course from 8.30am-5pm each day. Throughout the course, our students took notes of their day’s learning and based on Kolb’s experiential learning model, applied the learning they acquired. 
 
-Learning Journey to the National Museum
+#### <u>**Learning Journey to the National Museum**</u><br>
 On the 24th of July, two Sec 2 classes visited the National Museum.
 
-Read for Books 2023
-We participated in NLB’s Read for Books initiative which is a charity book drive to raise awareness and share the gift of reading with the less privileged.
-For every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries. In total, for both days, we raised 227 books for the following beneficiaries by just reading for 15 mins! 
+#### <u>**Read for Books 2023**</u><br>
+We participated in NLB’s Read for Books initiative which is a charity book drive to raise awareness and share the gift of reading with the less privileged.<br>
+For every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries. In total, for both days, we raised 227 books for the following beneficiaries by just reading for 15 mins!<br>
 Our beneficiaries are: 
-The WondeRead initiative (comprising children aged 7 – 17 years old from less privileged backgrounds), 
-kidsREAD (children aged 4-8 years old from the less privileged families), and 
-Ready to READ @ NLB (provides parents with ready resources to kick-start positive reading habits with their children at home). 
+1. The WondeRead initiative (comprising children aged 7 – 17 years old from less privileged backgrounds),
+2. kidsREAD (children aged 4-8 years old from the less privileged families), and 
+3. Ready to READ @ NLB (provides parents with ready resources to kick-start positive reading habits with their children at home). 
 
 
-August	
-National Day Celebration
+## August	
+### <u>**National Day Celebration**</u><br>
 The annual National Day Celebration is a day that we always look forward to. This year is no different as we come together as a whole school and strengthen our sense of nationhood. The theme of this year’s National Day is ‘Onward as One’. We are heartened that the theme corresponds so perfectly with our school motto: Together Onward! 😀
 
 Tchoukball ‘C’ Division Championships
