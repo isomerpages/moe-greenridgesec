@@ -3,9 +3,6 @@ title: Vision, Mission, Motto, Values, Crest
 permalink: /about-us/vision-mission-motto-values/
 description: ""
 ---
-# **Our Compass**
-
-
 Greenridge Secondary School (GSS) believes that every child is unique and can grow to advocate a worthy cause for a brighter future. It is our mission to shape character and inspire learning.<br><br>
 Anchored in our RIDGE values (Respect, Integrity, Diligence, Grit, Empathy) and motto (Together Onward), our students will embrace the strength of diversity and team spirit. A place for IDEAS (Imagination, Discovery, Expression, Accomplishment and Service), we reimagine the joy of learning for life and nurture a Growth Mindset in our students.<br><br>
 Together, we develop in our students the 5 Minds for the Future (Disciplined, Synthesising, Creating, Respectful and Ethical minds); We shape them to be Compassionate Leaders,  and inspire them to become Confident Learners and Ethical Innovators.
