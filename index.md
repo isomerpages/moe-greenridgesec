@@ -8,13 +8,13 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Look Back
+        - title: Looking Back
           description: ""
           url: /look-back/
-        - title: Look Ahead
+        - title: Looking Ahead
           description: ""
           url: /look-ahead/
-        - title: Contact Us
+        - title: Looking Great!
           description: ""
           url: /contact-us/
       url: /contact-us/
