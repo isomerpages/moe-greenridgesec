@@ -142,7 +142,7 @@ description: ""
 | <font size="3">Ms Kristie Chen</font> | <font size="3">Administrative Manager</font> 	|
 | <font size="3">Mr Sarjantpal Singh</font>| <font size="3">Operations Manager</font> 	|
 | <font size="3">Mr. L Thanabalan</font>  	|  <font size="3">Operations Manager</font> 	|
-| <font size="3">Mdm.   Lee Soh Peng (Jasmine)</font>|  <font size="3">Administrative Executive</font>|
+| <font size="3">Mdm. Lee Soh Peng (Jasmine)</font>|<font size="3">Administrative Executive</font>|
 |<font size="3"> Mdm. Siti Aishah Bte Aspari</font>|  <font size="3">Corporate Support Officer</font>	|
 |<font size="3">Mdm. Magaswari D/O  Rajamanikam</font>|<font size="3">Corporate Support Officer</font>|
 | <font size="3">Mr. Ishak Bin Hassan </font>	| <font size="3"> ICT Manager</font>  	|
