@@ -80,23 +80,23 @@ International students are valuable members of our community. To help them appre
 #### <u>**Arts Exposure: The Boy in the Striped Pyjamas Play and Perfecting Pratas**</u><br>
 Some of our lower secondary students had their very first theatrical experience when they watched ‘The Boy In The Striped Pyjamas’ play at The Gateway theatre. It also happens to be the text that our students will be reading for Literature. On the 5th of April, our Secondary Two students caught the local play, ‘Perfecting Pratas’ by Desmond Sim at Kewalram Chanrai Arts Centre. The theatre experience raised students’ awareness about creative expression in the dramatic arts and it was evident that our Greenridgeans thoroughly enjoyed the theatrical performances.
 
-Singapore Secondary Schools Debating Championships
+#### <u>**Singapore Secondary Schools Debating Championships**</u><br>
 Our GSS Orators Debate Team had climbed up the ridge of various peaks as they faced challenger after challenger and prevailed up to this stage of the competition. They made it to the Grand Finals at ACJC! On 28 April, they battled United World College. It was a tough fight and they emerged as Runners Up! We are so proud of our debaters!
 
-Anti-Scam and Cybersecurity Makeathon Competition
+#### <u>**Anti-Scam and Cybersecurity Makeathon Competition**</u><br>
 5 of our Secondary 3 students participated in the Anti-Scam and Cybersecurity Makeathon Grand Finals on 14th April 2023, Friday at Toa Payoh HB Hub, Atrium. The competition aims to empower them to become advocates and active drivers to develop solutions to tackle scams and cybercrime. They were among the 12 outstanding groups who were shortlisted to showcase their innovative tabletop game prototypes that were developed over the four-month long competition. Well done, Greenridgeans!
 
-International Science Drama Competition
+#### <u>**International Science Drama Competition**</u><br>
 On 15 April Saturday, our Drama Club represented the school for the International Science Drama competition. *In the competition, we did a play called "Chef Haritha and her millets." The play is about environmental sustainability and consuming clean food. We are proud to announce that we won 2nd place in the Open Category. Not only that, one of our members received the outstanding performer award in the Singapore Finals too, and it's none other than our very own Haritha d/o Jeyaram Pandian from 4-10.
 
-Eco-Pedal Boat Challenge @ MakerSpace 
+#### <u>**Eco-Pedal Boat Challenge @ MakerSpace** </u><br>
 Our second activity at MakerSpace is to pose a challenge to our students to apply their creative thinking and problem-solving skills to create an eco-pedal boat through a process of experimentation with their ideas and design. They really enjoyed the hands-on and collaborative experience.
 
 ## May 	
-Honours Day
+#### <u>**Honours Day**</u><br>
 The inaugural Honours Day, on the 5th of May, was when we recognised the achievements of our students in 2022. Being a newly merged school, the theme ‘Venture Forth’ is an apt one. Our Sec 1 to Sec 5 students’ accomplishments, in both former Fajar Secondary School and former Greenridge Secondary School, were celebrated with pomp and splendour. 
 
-Sports Carnival (Part 1)
+#### <u>**Sports Carnival (Part 1)**</u><br>
 We really enjoyed ourselves at our first Sports Carnival on the 5th of May. It was a morning of fun and fitness as we frolic about the various challenges set up by our very own PE department: 
 Circuit Challenge (to hone strength, endurance, and teamwork)
 GSS Delivery (to develop agility, accuracy, and balance) 
@@ -167,5 +167,3 @@ Both teams persevered and pressed on. We are pleased to see our girls emerged as
 
 Teachers’ Day Celebration
 Our theme for Teachers’ Day is ‘Magic is Might’. Teachers are our wonderful magicians. Their knowledge and the “magic” they use to create a conducive environment for their students. These are what nurtures Greenridgeans and encourages them to learn. With their endless efforts, teachers create MIGHT. So, on the 30th of August, we had a fantastic time with a class party before the concert began. The concert started with an ‘Enchanted Forest’ showcase, followed by song and dance performances as well as an extremely fun quiz about our teachers! We wish our teachers: A Very Happy Teachers’ Day!
-
-
