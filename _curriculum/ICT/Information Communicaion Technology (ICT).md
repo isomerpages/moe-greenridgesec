@@ -37,13 +37,11 @@ Our students are engaged to
 **Secondary One Foundation Digital Skills & HBL Preparation**
 
  
-ICT-4.jpg
-Subtitle: Exposure to various digital productivity tools and platforms 
+![](/images/ICT2023/ict-04.jpg) Exposure to various digital productivity tools and platforms 
 
-National Digital Explorer
+**National Digital Explorer**
  
-ICT-5.jpg
-Subtitle: Deepening digital literacy skills with certification
+![](/images/ICT2023/ict-05.jpg) Deepening digital literacy skills with certification
 
 
 
@@ -70,6 +68,4 @@ Subtitle: Advocates sharing key skills on how to evaluate online news
 
 ICT-10.jpg
 
-Subtitle: Advocates sharing a game they have created with the elderly 
-
-
+Subtitle: Advocates sharing a game they have created with the elderly
