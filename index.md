@@ -13,7 +13,7 @@ sections:
           url: /looking-back/
         - title: Looking Ahead
           description: ""
-          url: /look-ahead/
+          url: /looking-ahead/
         - title: Looking Great!
           description: ""
           url: /about-us/our-students/
