@@ -18,7 +18,7 @@ sections:
           description: ""
           url: /about-us/our-students/
       url: /contact-us/
-      background: /images/Heros/Hero 001v4.jpg
+      background: /images/Heros/hero 20230915.jpg
   - resources:
       title: ANNOUNCEMENTS
       id: resources
