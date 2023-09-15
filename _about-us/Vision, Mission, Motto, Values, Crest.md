@@ -10,31 +10,30 @@ Together, we develop in our students the 5 Minds for the Future (Disciplined, Sy
 
 ![](/images/Greenridge%20Secondary%20School%20Name%20%20Logo.jpg)
 
-### VISION:<br>
-Confident Learners, Compassionate Leaders, Ethical Innovators
+### VISION:
+<font size="5.5"> Confident Learners, Compassionate Leaders, Ethical Innovators</font>
 ### MISSION:<br>
-Shaping Character, Inspiring Learning
+<font size="5.5">Shaping Character, Inspiring Learning</font>
 ### MOTTO:<br>
-Together Onward
+<font size="5.5">Together Onward</font>
 ### CORE VALUES:
 **RIDGE**<br>
-
-**R** \- Respect  <br>
-**I** \- Integrity  <br>
-**D** \- Diligence  <br>
-**G**\- Grit  <br>
-**E** \- Empathy<br>
-
+##### *R* - Respect 
+##### *I*  - Integrity 
+##### *D* - Diligence 
+##### *G* - Grit  
+##### *E* - Empathy
 
 
-### SCHOOL CREST:
+
+### *SCHOOL CREST:*
 
 
 <img src="/images/School%20Logo.png" style="width:90%">
 
-What our school crest means to us:
+<font size="5.5">What our school crest means to us:
 * Blue hills depict a strong foundation in skills and knowledge, and the multiple ridges celebrate different peaks of excellence.<br>
 * Orange sun symbolises a new dawn with a zest for life and creativity.<br>
 * Sunlit orange ridges signify a bright future with promising hope and success<br>
 * White space within the orange arc represents students of virtue, with high moral standards<br>
-* Together, the orange arc and the blue hills stand for G(reenridge).<br>
+* Together, the orange arc and the blue hills stand for G(reenridge).<br></font>
