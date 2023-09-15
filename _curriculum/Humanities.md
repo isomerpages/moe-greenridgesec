@@ -24,7 +24,7 @@ Through Inquiry-Based Learning and Socratic Questioning, the department strives 
 
 The active use of technology to support Blended Learning allows students to engage in a range of learning activities within and beyond the classroom. These strategies enable teachers to be the facilitators of learning to guide students in becoming&nbsp; self-directed learners who can construct knowledge for themselves.
 
-![](/images/Hum6.jpg)
+
 
 ### OUR STUDENTS &amp; TEACHERS @ WORK
 
@@ -40,16 +40,16 @@ Rich learning beyond the classroom takes the form of investigations and Learning
 **Geographical Investigations**     
 Students ‘do’ Geography by using various instruments to investigate the environmental elements in various locations. Conducting investigations in the ‘field’ allows students to better visualise and understand the geographical concepts and processes learnt.
 
-![](/images/Hum2.jpg)
+
 
 **Historical Investigations**     
 At the National Museum of Singapore, students investigate historical sources ranging from physical objects, documents and oral histories reflecting different perspectives of our past. Exploring the past helps us appreciate the present and understand our place in the future.
-![](/images/Hum6.jpg)
+
 
 
 **Enrichment and Competitions**     
 Students participate in conferences and&nbsp; competitions such as the Model ASEAN Summit as well as the NUS Geography Challenge and History Challenge. Such platforms allow students to critically apply the knowledge and skills learnt in the Humanities classroom and connect with other Humanities students in Singapore to discuss meaningful societal issues.
-![](/images/Hum5.jpg)
+
 
 
 ### Humanities Photograph 
