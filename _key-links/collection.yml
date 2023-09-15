@@ -2,6 +2,7 @@ collections:
   key-links:
     output: true
     order:
+      - For Parents/For Parents.md
       - For Parents/.keep
       - For Students/.keep
       - For Students/Teaching and Learning.md
