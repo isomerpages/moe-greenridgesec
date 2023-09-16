@@ -59,24 +59,24 @@ Students are advised not to go on holiday during this period if:&nbsp;
 
 ### LOOKING AHEAD TO … November
 
-##### **<u>&nbsp;1 – 3 November: Sec 1 – Sec 3 Bridging or Remedial Programme</u>**
+##### **1 – 3 November: <u>Sec 1 – Sec 3 Bridging or Remedial Programme</u>**
 
 The bridging and remedial programme continues. (See 30 October)
 
-##### **<u>14 – 24 November: Internationalisation Programme</u>**
+##### **14 – 24 November: <u>Internationalisation Programme</u>**
 
 Selected Greenridgeans will be going on an immersive exchange programme to Thailand.&nbsp;
 
-##### **<u>18 November: GSS Open House</u>**
+##### **18 November: <u>GSS Open House</u>**
 
 Our annual Open House is on Saturday, 18 November from 8am to 1pm. All Primary Six students and their parents are invited to walk through our gates and get to know us!
 
 Our students are to make preparations to present the various school programmes they have been involved in this year, e.g. CCA exhibits, performances and subject exhibitions.&nbsp;
 
-##### **<u>18 November 2023 – 1 January 2024: Term 4 Vacation</u>**
+##### **18 November 2023 – 1 January 2024: <u>Term 4 Vacation</u>**
 
 ### LOOKING AHEAD TO … December
 
-##### **<u>1 December 2023 – 2 January 2024: Term 4 Vacation</u>**
+##### **1 December 2023 – 2 January 2024: <u>Term 4 Vacation</u>**
 
 CCA and Student Leaders may be required to return to school in the last week of December to begin preparation for the new school year.**
