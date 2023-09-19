@@ -30,25 +30,24 @@ How do students know what they need to learn? How do they know they have succeed
 
 In asking these questions, we seek to develop our students to be Assessment Capable Visible Learners. We provide students with the space for them to reflect and co-construct the success criteria for their learning. As students reflect on their learning experiences using a collaborative tool such as Padlet, teachers can provide feedback to help students internalise their learning.
 
-![](/images/CCE2.jpg)
+
 
 **4\. Contemporary Issues**  
 
 Contemporary&nbsp; issues consist of topics that are current, relevant to the students and have&nbsp; generated diverse opinions. During CCE lessons, students have the opportunity to share their views and personal stories in a safe and conducive environment. This enables students to hear multiple perspectives and encourages them to respect and understand diverse views. Then the conversation concludes with students committing to act for the common good.
 
-![](/images/CCE3.jpg)
 
 **5\. Student Development Experiences**&nbsp;  
 
 Apart from timetabled lessons, CCE is pervasive in all other student development experiences, such as CCAs, cohort camps and Applied Learning Programmes. With such an array of planned programmes to meet the diverse developmental needs of each academic level, students need to make coherent sense of these experiences. Students are given opportunities to reflect and make connections across these experiences.
 
-![](/images/CCE4.jpg)
+
 
 **6\. Values in Action (VIA) Programme**&nbsp;&nbsp;
 
 VIA is one of the key student development experiences where students have the opportunity to demonstrate graciousness and play a role in enhancing community spirit and well-being. Weactively reach out to various partners for opportunities where our students can contribute in meeting the needs of the community. As our students make a positive impact in their immediate community, we hope that these experiences help instil in our students an enduring sense of purpose for their lives.
 
-![](/images/CCE5.jpg)
+
 
 **7\. Education and Career Guidance Programme**&nbsp;
 
@@ -56,7 +55,6 @@ The Education and Career Guidance (ECG) Programme supports our students in achie
 
 It takes a village to raise a child to be a citizen of good character who is&nbsp; resilient and demonstrates strong socio-emotional skill. With a strong partnership between home, school and community, we&nbsp; can work together to develop Greenridgeans as a caring community of inspired learners.
 
-![](/images/CCE6.jpg)
 
 ### Our CCE Programmes
 
