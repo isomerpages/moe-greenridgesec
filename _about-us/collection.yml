@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Vision, Mission, Motto, Values, Crest.md
+      - Our Compasss.md
       - Our Staff.md
       - Our Compass.md
       - Our Students.md
