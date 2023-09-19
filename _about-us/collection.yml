@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Our Compasss.md
+      - Our Compass.md
       - Our Staff.md
       - Code Of Conduct.md
       - Our Students.md
