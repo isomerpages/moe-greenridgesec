@@ -40,45 +40,41 @@ In particular, GSS adopts the 5E Inquiry Approach (Engage, Explore, Explain, Ela
 
 GSS staff and students organized the Greenridge Math &amp; Science Challenge for the primary schools in the West Cluster, to be engaged in an application of mathematics and sciences in various rounds of games and model-making.
 
-![](/images/Sci2.jpg)
+
 
 **Sec 1 Learning Journey – Brain Festival**
 
 Students were engaged in experiments and an Escape Room game during the Brain Fest at Singapore Science Centre.
 
-![](/images/Sci3.jpg)
-![](/images/Sci4.jpg)
+
 
 **Learning Journey to Edible Garden City**
 
 Science Department teachers went on a Learning Journey at Edible Garden City for inspiration on how scientific knowledge can be applied in the production of home-grown crops and integrated with the concept of social enterprise to solve challenging first-world issues.
 
-![](/images/Sci6.jpg)
 
 **Nanyang Polytechnic E-science &amp; Technology Challenge**&nbsp;
 
 For the challenge, Sec 2 students prepared their Robot Frog using recyclable materials. The robot was tested for its ability to travel across a fixed distance of 2 meters in the shortest possible time and in the straightest possible direction.
 
-![](/images/Sci7.jpg)
+
 They also built an alternative energy harvester using recycled materials which can be used to harvest sunlight, wind, waste heat or utilise mechanical means to generate electricity.
 
-![](/images/Sci8.jpg)
+
 Lastly, the students used programming software such as Python and Blocky to create the shortest pathway for a robot to rescue the survivors.
 
 **Sec 1 Science Project – Survival Island**
 
 The students obtained drinkable water from muddy and bacteria-loaded water from the river in the island with limited amount of materials and resources given to them.
 
-![](/images/Sci9.jpg)
+
 At the end of the project, students presented their plans, experimental set-ups, trials and testing, challenges faced and conclusions.
 
 **Sec 3 Biology &amp; Geography Learning Journey – Ecological Field Study**
 
 This exposure gave students an opportunity to see what biologists and geographers do in Singapore and how to carry out field work in research or project work in higher education institutions.
 
-![](/images/Sci10.jpg)
 
-![](/images/Sci11.jpg)
 
 #### Reflections by A-Star Award recipient 2019 and 2020
 
@@ -105,16 +101,3 @@ This exposure gave students an opportunity to see what biologists and geographer
 –&nbsp;**Ang Wei Jun**’s reflection on Survival Island Project, 1/7’2020
 
 ### Science Videos
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6YvOe9ZUMlM?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<b>Interview with Lower Sec Science Students on General Science- Matthew Khor</b>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJPEHoMJd8A?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<b>NYP E&nbsp; science and tech challenge Video of rescue Robot 1</b>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iZ50uM5N_Mw?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<b>Sivaraman Sriram from Secondary One, a participant for Science Buskers’ (Virtual) Festival 2020, demonstrates hot air rising. The hot air will rise it pushes the slightly bent holes on the top of the lampshade causing it to rotate.</b>
