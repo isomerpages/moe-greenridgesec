@@ -45,6 +45,6 @@ Students cut their own paper design templates to test and make improvements to t
 
 ##### Upper Secondary Design and Make:
 Students create their design solutions and make mock ups to test their solutions for improvement.
-    
+ ![](/images/Design&Techology2023/pix003.png)   
 Students discover more about electronics through exploration activities with breadboards and snap on circuits. Through collaborative work and constructive peer feedback, students make improvements in their explanation of concepts using online collaborative apps.
-
+![](/images/Design&Techology2023/pix004.png)
