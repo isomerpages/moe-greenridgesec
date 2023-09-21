@@ -22,35 +22,31 @@ The design of the LLP curriculum is guided by the 3Es (Educate, Encourage and Em
 
 <b>Tier 2</b> leadership development programme empowers selected students who exhibit greater interest or aptitude to lead in actively engaging the community. LLP-CYL is infused into the existing curriculum and programmes, strengthening the programme process and outcomes.
 
+*Champions of Literacy Programme (KidsREAD) at Kranji Primary School, engaging Primary 1 and 2 students in reading and activities.*
+![](/images/LLP2023/llp001.jpg)
+
+*Champions of Active Ageing for Elderly preparing for Intergenerational Learning Programme to engage senior citizens in the community. *
+![](/images/LLP2023/llp002.jpg)
 
 
-
-
-
-
-
-
- 
-Leadership Dimensions
+**Leadership Dimensions**
+ ![](/images/LLP2023/llp003.jpg)
  
-Key Programmes
-•	Leadership Series - Cohort Level Leadership Development
-•	Respective CCAs Leadership Development 
-•	Cohort Level VIA programmes
-•	Class Committee Training 
-•	Student Leaders Camp 
-•	Student Leaders Community Outreach – KidsREAD by NLB, SBS Transit Kindness, Intergenerational Learning Programme
-•	Student Led Projects – Student Leaders Investiture, Level Dialogues, Sec 1 Orientation and Teachers’ Day Celebration
+**Key Programmes**
+- Leadership Series - Cohort Level Leadership Development
+- Respective CCAs Leadership Development 
+- Cohort Level VIA programmes
+- Class Committee Training 
+- Student Leaders Camp 
+- Student Leaders Community Outreach – KidsREAD by NLB, SBS Transit Kindness, Intergenerational Learning Programme
+- Student Led Projects – Student Leaders Investiture, Level Dialogues, Sec 1 Orientation and Teachers’ Day Celebration
 
+**Strategic Partnerships**<br>
+**National Library Board**
+- KidsREAD
 
-
-
-
-Strategic Partnerships
-National Library Board
-- KidsREAD 
-National Silver Academy (C3A
+**National Silver Academy (C3A**
 - Intergenerational Learning Programme
-SBS Transit
-- Kindness Project
 
+**SBS Transit**
+- Kindness Project
