@@ -39,4 +39,9 @@ In order to ignite a greater enthusiasm for Mathematics among our lower secondar
 Throughout this process, our students were encouraged to deeply engage with the problem at hand, applying their knowledge of relevant mathematical concepts and skills. Additionally, they were taught how to effectively collect and analyse data, in order to identify the most promising solutions. <br>
 To foster a sense of teamwork and encourage creativity, students were given the opportunity to work together in groups, allowing them to share their ideas and perspectives. Each group was responsible for creating their own unique models to solve the given problem. <br>
 In order to showcase their hard work and demonstrate their understanding, students were asked to present their models to their peers and teachers. To accommodate the current virtual learning environment, students recorded their presentations using a virtual platform. This allowed for an inclusive and interactive experience, where feedback and questions could be shared among the students.<br>
-Overall, this initiative aimed to not only enhance our students' mathematical skills and knowledge, but also foster their ability to think critically, collaborate effectively, and communicate their ideas confidently
+Overall, this initiative aimed to not only enhance our students' mathematical skills and knowledge, but also foster their ability to think critically, collaborate effectively, and communicate their ideas confidently![](/images/MathsPOAEBS2023/lower%20sec%20mathematical%20modelling.jpeg)
+
+#### 2023 EBS Digital Tic-Tac-Toe Competition
+Our Sec 3 EBS pupils participated in the EBS Digital Tic-Tac-Toe competition. It is a nationwide online competition for EBS students. 
+Students are engaged in short quizzes and games online to score points. Questions are gamified and game board uses Tic-Tac-Toe, allowing students to select the topics on the board to form a connecting line.
+![](/images/MathsPOAEBS2023/2023%20ebs%20digital%20tic-tac-toe%20competition.jpeg)
