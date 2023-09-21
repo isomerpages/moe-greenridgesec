@@ -38,10 +38,12 @@ Participating in the at the National Schools Literature Festival
 
 
 A student speaks confidently in a floor debate at the Grand Finals of the Singapore Secondary Schools Debating Championships
-
+![](/images/ENGLISH%20LIT2023/copy%20of%20vwg_5476.jpg)
 
 Schoolwide reading programmes spark our students’  @ National Schools Literature Festival
 
 Student writers collaborating during a poetry writing workshop
+
 GSS EL Making a Speech on the Environment
+![](/images/ENGLISH%20LIT2023/copy%20of%20vwg_5839.jpg)
 GSS Talk Moves in the Classroom for Productive Academic Discussions
