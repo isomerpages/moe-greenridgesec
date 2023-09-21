@@ -15,7 +15,7 @@ Above all, our students will develop character and resilience, as the continuum 
 ### STUDENT LEADERSHIP FRAMEWORK
 In GSS, the design of the Student Leadership Programme and Community Youth Leadership (Learning for Life Programme) are guided by the 3Es (Educate, Encourage and Empower) framework, together with our school’s values to provide a meaningful learning experience for our student leaders. 
 #### 3Es Framework
-**Educate **
+**Educate**
 - student population via training workshops and develop their awareness of leadership theories, competencies and attitudes. 
 - Student Leaders through targeted leadership development of different position holders (Student Council, CCA Leaders, Class Champions and Peer Support Leaders) via leadership workshops and camps.
 
@@ -38,10 +38,18 @@ Peer Support Leaders provide mental and social well-being support to their class
 Class Champions and the respective subject champions lead their class in class matters, ensuring safety, encouraging their classmates to seek improvement and participating actively in school activities.
  
 Student Leaders’ Investiture
- 
- 
+![](/images/StudentLeaders2023/sldr01.png)<br>
+![](/images/StudentLeaders2023/sldr02.png)
  
 Student Council Executive Committee 2023/2024
- 
+![](/images/StudentLeaders2023/sldr03.png)
 
-Leadership Trainings
+**Leadership Trainings**\
+Cohort Level Leadership Development Module: 
+Students engaged in a leadership challenge
+![](/images/StudentLeaders2023/sldr04.png)\
+Student Council Training and Meeting
+![](/images/StudentLeaders2023/sldr05.png)\
+Peer Support Leaders in action:
+Conducting class bonding/interaction activities during termly Highlight of the Term (HOT)![](/images/StudentLeaders2023/sldr08.png)
+
