@@ -138,10 +138,9 @@ ii.	National Physical Fitness Assessment (NAPFA)
 -	Sec 2, 4 &amp; 5 NAPFA
 ![](/images/PHYEDU2023/axc000.gif)
 
-Term 3 
--	Team Grit Challenge  &amp; Dance of the Nation Competition
+**Term 3 **
+- Team Grit Challenge  &amp; Dance of the Nation Competition
 -	Sec 3 MOE-OBS Challenge Programme [5D4N]
 
-Term 4 
-●	Sports Carnival – Part 2
-
+**Term 4 **
+- Sports Carnival – Part 2
