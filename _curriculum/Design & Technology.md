@@ -68,11 +68,11 @@ Drinking Can Dispenser by Danis and Guang Jun
   ![](/images/Design&Techology2023/pix008.png) 
 Mini Compost Bin by Suhairah and Visswajit
 
-(NOTE: LINK FOR VIDEOS IF NEEDED FOR CLARITY OF PICTURES - https://drive.google.com/drive/folders/16E_zR2iGIG5-SFMxJdyqe8hbJ92-J7lg?usp=drive_link) - to be removed if pictures are ok
 
-**National Design Project where Secondary 3 D&T students learn to use Design Thinking to address the theme “ Design for Wellness”**
+
+- National Design Project where Secondary 3 D&T students learn to use Design Thinking to address the theme “ Design for Wellness”
 
  ![](/images/Design&Techology2023/pix009.png)
-Spreading the love for D&T 
+- Spreading the love for D&T 
 ![](/images/Design&Techology2023/pix010.png)
 Our D&T students sharing their passion with parents and children during Open House 2022
