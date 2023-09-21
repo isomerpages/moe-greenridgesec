@@ -17,16 +17,16 @@ Together, we develop in our students the 5 Minds for the Future (Disciplined, Sy
 ### MOTTO:<br>
 <font size="5.5">Together Onward</font>
 ### CORE VALUES:
-**RIDGE**<br>
-##### *R* - Respect 
-##### *I*  - Integrity 
+#### RIDGE<br>
+#####  *R* - Respect 
+#####   *I*  - Integrity 
 ##### *D* - Diligence 
 ##### *G* - Grit  
 ##### *E* - Empathy
 
 
 
-### *SCHOOL CREST:*
+### SCHOOL CREST
 
 
 <img src="/images/School%20Logo.png" style="width:80%">
