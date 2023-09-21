@@ -3,10 +3,7 @@ title: Code Of Conduct
 permalink: /about-us/code-of-conduct/
 description: ""
 ---
-# **Our Compass**
-
-
-## Code Of Conduct
+# Code Of Conduct
 Our school’s code of conduct provides moral compass for us to grow into confident learners, compassionate leaders and ethical innovators. We live by the code of conduct both within and beyond the school premises, especially when we can be identified as Greenridgeans. Should we fall short of our code of conduct, we will recognise our misconduct, face consequences with the right attitude, relearn and restore by practising more of the desired behaviour.<br>
 #### Respect and Empathy
 We act with due regard for self &amp; others’ dignity and worth. In empathy, we feel for and are mindful of the needs of others. Together, we reflect a respectful mind.
