@@ -4,7 +4,7 @@ permalink: /cca/uniformed-groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# **National Cadet Corp – Land (NCC)**
+# **National Cadet Corps – Land (NCC)**
 
 ![Moving Together, Onward](/images/NCC2023/moving%20together,%20onward.jpg)
 
