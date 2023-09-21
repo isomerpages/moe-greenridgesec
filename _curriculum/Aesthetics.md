@@ -17,12 +17,16 @@ Music lessons provide students with authentic hands-on learning experiences and 
 
 
 
+### OUR STUDENTS & TEACHERS @ WORK
+![](/images/AESTHETICS2023/img_0889.JPG)
 
-### OUR STUDENTS & TEACHERS @ WORK 
- 
 
+![](/images/AESTHETICS2023/img_6356.JPG)
 
-  
+![](/images/AESTHETICS2023/art%20installation_turning%20plastic%20waste%20into%20art.jpeg)
 
-  
+![](/images/AESTHETICS2023/img_1517.JPG)
 
+![](/images/AESTHETICS2023/img_0948.JPG)
+
+![](/images/AESTHETICS2023/img_e3224.JPG)
