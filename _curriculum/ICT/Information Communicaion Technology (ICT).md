@@ -20,7 +20,7 @@ In our journey to get our students to Imagine, Discover, Express, Accomplish and
 Students collaborating and sharing ideas.
 ![](/images/ICT2023/ict-02.jpg)
 
-Teacher guiding student in online assignment.
+Students creating video explanations to demonstrate their understanding.
 ![](/images/ICT2023/ict-03.jpg)
 
 Our students are engaged to 
