@@ -52,4 +52,3 @@ Student Council Training and Meeting
 ![](/images/StudentLeaders2023/sldr05.png)\
 Peer Support Leaders in action:
 Conducting class bonding/interaction activities during termly Highlight of the Term (HOT)![](/images/StudentLeaders2023/sldr08.png)
-
