@@ -4,9 +4,9 @@ permalink: /student-life/curriculum/mathematics-poa-ebs/
 description: ""
 third_nav_title: Curriculum
 ---
-# **Mathematics/POA/EBS**
+# Mathematics/POA/EBS
 
-## OUR BELIEFS
+### OUR BELIEFS
 
 The overarching goal of the Mathematics curriculum is to ensure that all students will achieve a level of mastery of mathematics that will serve them well in life, and for those who have the interest and ability to pursue mathematics at the highest possible level.
 
