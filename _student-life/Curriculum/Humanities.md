@@ -4,7 +4,7 @@ permalink: /student-life/curriculum/humanities/
 description: ""
 third_nav_title: Curriculum
 ---
-# **Humanities**
+# Humanities
 
 ### OUR BELIEFS
 
