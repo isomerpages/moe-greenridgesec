@@ -45,11 +45,3 @@ Student Council Executive Committee 2023/2024
  
 
 Leadership Trainings
-
-
-
-
-
-
-
- 
