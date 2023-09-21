@@ -70,29 +70,3 @@ Students participate in conferences and&nbsp; competitions such as the Model ASE
 **Greenridge Secondary School NUS geography challenge 2022 creative component video**   
 Designing Blueprints for Our Green Futures
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i20N1l976dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-
-**Current Affairs Tuesday Sharing (CATS)**  
-
-CATS is a platform where students share about issues that matter to them so as to raise awareness and generate meaningful discussions.
-
-By participating in CATS, students are able to:
-
-*   understand and empathise with the experiences of individuals and groups in society
-    
-*   develop critical thinking and effective communication skills
-    
-*   collaborate with others to achieve common goals
-
-
-GSS student experience in participating in CATS
-(insert YT video)
-
-CATS - Influencer Culture
-(insert YT video)
-
-CATS - Nature Society
-(insert YT video)
