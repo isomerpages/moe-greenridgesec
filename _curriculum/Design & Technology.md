@@ -48,3 +48,31 @@ Students create their design solutions and make mock ups to test their solutions
  ![](/images/Design&Techology2023/pix003.png)   
 Students discover more about electronics through exploration activities with breadboards and snap on circuits. Through collaborative work and constructive peer feedback, students make improvements in their explanation of concepts using online collaborative apps.
 ![](/images/Design&Techology2023/pix004.png)
+
+##### Extension of learning through Makerspace Workshops and Competitions!
+- MakerSpace Workshops\
+A series of MakerSpace Workshops for Sec 1 - 3 students was conducted by our D&T teachers and instructors! 
+![](/images/Design&Techology2023/pix005.png)  
+
+Powered Toy Car! Eco Pedal Boat Challenge! Eco Glow up - Innovating through upcycling! Creativity reigns in our programme.
+
+- Student Maker Challenge 2023\
+Our Sec 1 students learn to digitally fabricate a working prototype that addresses the challenge statement: “With limited land and resources, how might we ensure food security and food sustainability?”
+
+![](/images/Design&Techology2023/pix006.png)
+Egg Holder by Azfar and Wei Feng
+
+ ![](/images/Design&Techology2023/pix007.png) 
+Drinking Can Dispenser by Danis and Guang Jun
+
+  ![](/images/Design&Techology2023/pix008.png) 
+Mini Compost Bin by Suhairah and Visswajit
+
+(NOTE: LINK FOR VIDEOS IF NEEDED FOR CLARITY OF PICTURES - https://drive.google.com/drive/folders/16E_zR2iGIG5-SFMxJdyqe8hbJ92-J7lg?usp=drive_link) - to be removed if pictures are ok
+
+**National Design Project where Secondary 3 D&T students learn to use Design Thinking to address the theme “ Design for Wellness”**
+
+ ![](/images/Design&Techology2023/pix009.png)
+Spreading the love for D&T 
+![](/images/Design&Techology2023/pix010.png)
+Our D&T students sharing their passion with parents and children during Open House 2022
