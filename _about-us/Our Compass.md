@@ -29,7 +29,7 @@ Together, we develop in our students the 5 Minds for the Future (Disciplined, Sy
 ### *SCHOOL CREST:*
 
 
-<img src="/images/School%20Logo.png" style="width:90%">
+<img src="/images/School%20Logo.png" style="width:80%">
 
 <font size="5.5">What our school crest means to us:
 * Blue hills depict a strong foundation in skills and knowledge, and the multiple ridges celebrate different peaks of excellence.<br>
