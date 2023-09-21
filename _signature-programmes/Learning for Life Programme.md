@@ -3,84 +3,54 @@ title: Learning for Life Programme
 permalink: /signature-programmes/learning-for-life-programme-llp/
 description: ""
 ---
-# **Learning for Life Programme (LLP)**
-
-#### Community Youth Leadership (CYL)
-
+# Learning for Life Programme (LLP)
+### Community Youth Leadership (CYL)
 In Greenridge Secondary School, we aim to develop every Greenridgean into a Community Youth Leader who is confident and compassionate to champion for good causes.
-
 #### Approach
-
 The design of the LLP curriculum is guided by the 3Es (Educate, Encourage and Empower) framework via a two-tiered developmental approach, anchored on three leadership dimensions (self, team and thought leadership).
-
 #### 3Es Framework
-
-**Educate** 
-
+**Educate **
 - student population via Leadership Modules and CCE lessons for all Sec 1s to 3, and develop their awareness of community and leadership knowledge, competencies and attitudes to better serve the community (Tier 1).
-    
-- Student Leaders through targeted leadership development of different position holders (Student Council, CCA Leaders and Class Committee) via leadership seminars, camps and community projects at cluster and national levels (Tier 2). 
-    
+- Student Leaders through targeted leadership development via leadership seminars, camps and community projects at cluster and national levels (Tier 2).<br>
 **Encourage**
-
-- leadership development and applications through personal mastery of leadership skills, and recognition structures within and beyond the school
-    
-
+- leadership development and applications through personal mastery of leadership skills, and recognition structures within and beyond the school<br>
 **Empower leadership amongst students through:**
-
 - provisions of platforms for values-in-action initiatives within and beyond the school;
-    
-- opportunities for students' self-initiated improvement projects and student-led events and programmes within and outside the school; and
-    
-- follow-up on students' voice and suggestions for school improvement and excellence journey.
-    
-Tier 1 encompasses leadership development that engages and strengthens all their students in developing their awareness of community and leadership knowledge, competencies and attitudes to better serve the community.\
-Tier 2 leadership development programme empowers selected students who exhibit greater interest or aptitude to lead in actively engaging the community. LLP-CYL is infused into the existing curriculum and programmes, strengthening the programme process and outcomes.
+- opportunities for students’ self-initiated improvement projects and student-led events and programmes within and outside the school; and
 
+<b>Tier 1</b> encompasses leadership development that engages and strengthens all their students in developing their awareness of community and leadership knowledge, competencies and attitudes to better serve the community.<br>
 
-Cohort Level Leadership Development Module: Students engaged in a leadership challenge
-![](/images/LLP2023/leadership%20modules%202.jpg)
-
-Staging an online performance for children
-![](/images/LLP2023/llp-02.jpg)
-
-Enjoying a game with seniors in the community  
-![](/images/LLP2023/llp-03.jpg)
-### Leadership Dimensions
-
-![](/images/CYL3.png)
-
-### Key Programmes
-
-- Leadership Series - Cohort Level Leadership Development
-- Leadership Workshops (Termly)
-- Respective CCAs Leadership Development 
-- Cohort Level VIA programmes - SBS Transit Kindness, Project@Bukit Panjang MRT Station  
-- Class Committee Training 
-- Peer Support Leaders Training
-- Student Leaders Camp 
-- Student Leaders Community Outreach – Children’s Camp, Intergenerational Learning Programme, kidsREAD
-- Student-Led Projects – Student Leaders Investiture, Level Dialogues, Teachers’ Day Celebrations and Youth Day Celebrations 
+<b>Tier 2</b> leadership development programme empowers selected students who exhibit greater interest or aptitude to lead in actively engaging the community. LLP-CYL is infused into the existing curriculum and programmes, strengthening the programme process and outcomes.
 
 
 
 
 
-### Strategic Partnerships
 
-**Northwest CDC**   
-\- Reduce @ North West   
-\- CDAC @ Bukit Panjang   
-\- CDAC Club Sunday
 
-**CDAC**   
-\- CDAC Club Sunday
 
-**St Luke’s Eldercare**   
-\- Inter-Generational Games
 
-**SBS Transit**    
-\- Kindness Project
+ 
+Leadership Dimensions
+ 
+Key Programmes
+•	Leadership Series - Cohort Level Leadership Development
+•	Respective CCAs Leadership Development 
+•	Cohort Level VIA programmes
+•	Class Committee Training 
+•	Student Leaders Camp 
+•	Student Leaders Community Outreach – KidsREAD by NLB, SBS Transit Kindness, Intergenerational Learning Programme
+•	Student Led Projects – Student Leaders Investiture, Level Dialogues, Sec 1 Orientation and Teachers’ Day Celebration
 
-**Senja-Cashew YEC**    
-\- Children’s Camp (Bukit Panjang residents)
+
+
+
+
+Strategic Partnerships
+National Library Board
+- KidsREAD 
+National Silver Academy (C3A
+- Intergenerational Learning Programme
+SBS Transit
+- Kindness Project
+
