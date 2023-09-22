@@ -18,7 +18,7 @@ sections:
           description: ""
           url: /about-us/our-students/
       url: /contact-us/
-      background: /images/Heros/hero 20230915.jpg
+      background: /images/Heros/greenridge secondary school_testt.gif
   - resources:
       title: ANNOUNCEMENTS
       id: resources
