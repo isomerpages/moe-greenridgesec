@@ -102,6 +102,10 @@ Circuit Challenge (to hone strength, endurance, and teamwork)
 GSS Delivery (to develop agility, accuracy, and balance) 
 Head or Tail (to enhance speed and agility)
 
+#### <u>Istana Heritage Challenge </u><br>
+On 19 May, 10 of our students took part in the Istana Heritage Challenge. The Challenge gave students an opportunity to learn more about the rich history of the Istana and the role of the President in Singapore. Students took part in a guided tour, before competing in various challenges to test their understanding.<br>
+Jovan Tan from 2/5 shared, “This trip has enabled me to learn more about the history of Singapore in general. I found the state gifts on display from various countries particularly interesting. Overall, visiting the Istana Heritage Gallery was an informative and thought-provoking experience."
+
 
 #### <u>Xinyao Music Camp</u><br>
 On the 21st of May, 16 of our Sec 1 students participated in a Xinyao Music Camp at Singapore Polytechnic. Just three days later, on 24th May, our Sec 1 and Sec 3 cohort of students were treated to a Xinyao performance to promote their appreciation of the Chinese Language through music. 
