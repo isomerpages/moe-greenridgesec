@@ -32,6 +32,7 @@ Together, we develop in our students the 5 Minds for the Future (Disciplined, Sy
 <img src="/images/School%20Logo.png" style="width:80%"><br>
 
 <font size="5.5">What our school crest means to us:<br>
+	
 - Blue hills depict a strong foundation in skills and knowledge, and the multiple ridges celebrate different peaks of excellence.<br>
 - Orange sun symbolises a new dawn with a zest for life and creativity.<br>
 - Sunlit orange ridges signify a bright future with promising hope and success<br>
