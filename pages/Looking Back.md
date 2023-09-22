@@ -114,6 +114,10 @@ On the 21st of May, 16 of our Sec 1 students participated in a Xinyao Music Camp
 ## June	
 The June holiday is a time when we rest and rejuvenate to re-energise ourselves for the months ahead! Have a good break, everyone!
 
+#### <u>MLLPC MALAY FIESTA 2023: SHORT SKIT COMPETITION</u><br>
+Three of our students from Sec 2/6 took part in the MLLPC MALAY FIESTA 2023: SHORT SKIT COMPETITION (1, 2, 3 Aksi!). This competition called for the creation of a 3-minute short skit that ingeniously conveyed the essence of a selected Malay idiom. Collaboratively, the students authored the script and filmed the skit, resulting in an enjoyable and unforgettable experience. This competition kindled a passion for employing the Malay language in innovative ways.
+
+
 #### <u>GSS Commemorates Youth Day</u><br>
 We started Term 3 joyously by commemorating Youth Day. On the 28th of June, in celebration of the young and the young-at-heart, we engaged in different experiences. These were the places we had a great bonding time at: 
 - Bistro Bowl to have a blast challenging each other
