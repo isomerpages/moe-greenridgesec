@@ -134,28 +134,28 @@ description: ""
 
 |  |  |
 | -------- | -------- |
-| <font size="3">Ms Kristie Chen</font> | <font size="3">Administrative Manager</font> 	|
-| <font size="3">Mr Sarjantpal Singh</font>| <font size="3">Operations Manager</font> 	|
-| <font size="3">Mr. L Thanabalan</font>  	|  <font size="3">Operations Manager</font> 	|
-| <font size="3">Mdm. Lee Soh Peng (Jasmine)</font>|<font size="3">Administrative Executive</font>|
-|<font size="3"> Mdm. Siti Aishah Bte Aspari</font>|  <font size="3">Corporate Support Officer</font>	|
-|<font size="3">Mdm. Magaswari D/O  Rajamanikam</font>|<font size="3">Corporate Support Officer</font>|
-| <font size="3">Mr. Ishak Bin Hassan </font>	| <font size="3"> ICT Manager</font>  	|
-|<font size="3"> Mr. Halim Bin Kamil</font>	 | <font size="3">Technical Support Officer </font>	|
-| <font size="3">Mr. Sutrisno Bin Rahmad</font>| <font size="3"> Technical Support Officer</font> 	|
-| <font size="3">Mr Sallehuddin </font>	|  <font size="3">Technical Support Officer </font>	|
-| <font size="3">Mdm. Ong Siew Khim </font>	|<font size="3"> Technical Support Officer</font>	|
-|<font size="3"> Mrs. Teo Mei Lin</font> 	|<font size="3"> Technical Support Officer</font>	|
-| <font size="3">Ms. Suriati Bte Kardi</font> | <font size="3">Technical Support Officer </font>|
-| <font size="3">Mdm. Tan Ah Ngee</font>	|  <font size="3">Operations Support Officer</font>|
-| <font size="3">Ng Poh Heok (Sandy)</font>|  <font size="3">Operations Support Officer</font>|
-| <font size="3">Mdm.Chia Siew Ping</font>	| <font size="3">Operations Support Officer</font>|
-| <font size="3">Mdm. Toh Ah Bee</font>	| <font size="3">Operations Support Officer</font>|
-| <font size="3">Mdm. Ngo Guok Lee (Jenny)</font>	|  <font size="3">Operations Support Officer</font>|
-| <font size="3">Mr. Siah Hoya Seng</font>| <font size="3"> Operations Support Officer </font>|
-| <font size="3">Mdm. Suriaeni Binte Atan</font>	|  <font size="3"> Operations Support Officer </font>|
-|<font size="3">Mr. Muhammad Luqman Hasif bin Hashim</font>|<font size="3">Desktop Engineer</font>	|
-| <font size="3">Mr. Song Jia Hui</font>	| <font size="3">  Desktop Enginee</font>	|
-| <font size="3">Ms. Losni</font>|<font size="3">Student Health Advisor</font>	|
+| <font size="3"> Ms Kristie Chen </font> | <font size="3"> Administrative Manager </font> 	|
+| <font size="3"> Mr Sarjantpal Singh </font>| <font size="3"> Operations Manager </font> 	|
+| <font size="3"> Mr. L Thanabalan </font>| <font size="3"> Operations Manager </font> 	|
+| <font size="3"> Mdm. Lee Soh Peng (Jasmine) </font>|<font size="3">Administrative Executive </font>|
+|<font size="3"> Mdm. Siti Aishah Bte Aspari </font>|  <font size="3"> Corporate Support Officer </font>	|
+|<font size="3"> Mdm. Magaswari D/O  Rajamanikam </font>|<font size="3"> Corporate Support Officer </font>|
+| <font size="3">Mr. Ishak Bin Hassan </font>	| <font size="3"> ICT Manager </font>  	|
+|<font size="3"> Mr. Halim Bin Kamil </font>	 | <font size="3"> Technical Support Officer </font>	|
+| <font size="3"> Mr. Sutrisno Bin Rahmad </font>| <font size="3"> Technical Support Officer </font>|
+| <font size="3"> Mr Sallehuddin </font>	| <font size="3"> Technical Support Officer </font>	|
+| <font size="3"> Mdm. Ong Siew Khim </font>	|<font size="3"> Technical Support Officer </font>	|
+|<font size="3"> Mrs. Teo Mei Lin</font> 	|<font size="3"> Technical Support Officer </font>	|
+| <font size="3"> Ms. Suriati Bte Kardi </font> | <font size="3">Technical Support Officer </font>|
+| <font size="3"> Mdm. Tan Ah Ngee</font>	|  <font size="3"> Operations Support Officer </font>|
+| <font size="3"> Ng Poh Heok (Sandy) </font>|  <font size="3"> Operations Support Officer </font>|
+| <font size="3"> Mdm.Chia Siew Ping </font>	| <font size="3"> Operations Support Officer </font>|
+| <font size="3"> Mdm. Toh Ah Bee </font>	| <font size="3"> Operations Support Officer </font>|
+| <font size="3"> Mdm. Ngo Guok Lee (Jenny) </font>	|  <font size="3"> Operations Support Officer </font>|
+| <font size="3"> Mr. Siah Hoya Seng </font>| <font size="3"> Operations Support Officer </font>|
+| <font size="3"> Mdm. Suriaeni Binte Atan </font>	|  <font size="3"> Operations Support Officer </font>|
+|<font size="3"> Mr. Muhammad Luqman Hasif bin Hashim </font>|<font size="3"> Desktop Engineer </font>	|
+| <font size="3"> Mr. Song Jia Hui </font>	| <font size="3">  Desktop Enginee </font>	|
+| <font size="3"> Ms. Losni</font> |<font size="3">Student Health Advisor </font>	|
 | <font size="3">Mdm. Aisha Bevi Binte V Mohammad Kunhi</font> | <font size="3">School Librarian</font> |
 |    	|    |</font>
