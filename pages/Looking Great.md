@@ -21,7 +21,7 @@ description: ""
 
 |  | | 
 | -------- | -------- | 
-| ![](/images/LookingGreat2023/photo%202%20-ml%20translation%20cropped.jpg)  | In March this year, three of our Secondary 4 Malay students, Sofea Khaliesah Binte Mohammed Ariffin from 4/12, Adrianna Binti Abdul Rahim and Ros Idaman from 4/8, represented the school for the Malay Language Translation Competition 2023 organised by National Junior College.    | 
+| ![](/images/LookingGreat2023/photo%202%20-ml%20translation%20cropped%20.png)  | In March this year, three of our Secondary 4 Malay students, Sofea Khaliesah Binte Mohammed Ariffin from 4/12, Adrianna Binti Abdul Rahim and Ros Idaman from 4/8, represented the school for the Malay Language Translation Competition 2023 organised by National Junior College.    | 
 
 
 
