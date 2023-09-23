@@ -13,11 +13,11 @@ description: ""
 ##### <u>Singapore Secondary Schools Debating Championships (Division III)</u>
 
 Our GSS Orators Debate Team had climbed up the ridge of various peaks as they faced challenger after challenger and prevailed up to this stage of the competition. They made it to the Grand Finals at ACJC! On 28 April, they battled United World College. It was a tough fight and they emerged as Runners Up! We are so proud of our debaters!
-
+![](/images/LookingGreat2023/photo%201%20-%20debate%20final%20cropped.jpeg)
 
 ##### <u>Malay Language Translation Competition</u>
 In March this year, three of our Secondary 4 Malay students, Sofea Khaliesah Binte Mohammed Ariffin from 4/12, Adrianna Binti Abdul Rahim and Ros Idaman from 4/8, represented the school for the Malay Language Translation Competition 2023 organised by National Junior College.
-
+![](/images/LookingGreat2023/photo%202%20-ml%20translation%20cropped.jpg)
 
 ##### <u>16th National Secondary Schools Translation Competition 2023</u>
 
@@ -25,7 +25,7 @@ Six students from Secondary 3 participated in the 16th National Secondary School
 
 
 We are delighted to share that Ma XiaoXiao of class 3-9 achieved laudable results and clinched the Individual Award. Congratulations, XiaoXiao!
-
+![](/images/LookingGreat2023/photo%203%20-%20cl%20translation%20cropped.jpg)
 
 
 
