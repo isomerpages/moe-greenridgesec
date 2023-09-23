@@ -18,7 +18,7 @@ Our GSS Orators Debate Team had climbed up the ridge of various peaks as they fa
 
 | |  | 
 | ---- | -------- | 
-|  ![](/images/LookingGreat2023/photo%201%20-%20debate%20final%20cropped.jpeg) | Our GSS Orators Debate Team had climbed up the ridge of various peaks as they faced challenger after challenger and prevailed up to this stage of the competition. They made it to the Grand Finals at ACJC! On 28 April, they battled United World College. It was a tough fight and they emerged as Runners Up! We are so proud of our debaters! | 
+| ![](/images/LookingGreat2023/photo1%20debatefinal.jpg) | Our GSS Orators Debate Team had climbed up the ridge of various peaks as they faced challenger after challenger and prevailed up to this stage of the competition. They made it to the Grand Finals at ACJC! On 28 April, they battled United World College. It was a tough fight and they emerged as Runners Up! We are so proud of our debaters! | 
 
 
 ##### <u>Malay Language Translation Competition</u>
