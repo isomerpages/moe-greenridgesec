@@ -57,7 +57,6 @@ description: ""
 |  |  |  |
 
 ### 2023 Form Teachers.
-
 	
 |   <font size="5">CLASS</font>|<font size="5">Secondary One</font>|   |    |
 |:--| :-- |:---|:---|
@@ -118,6 +117,7 @@ description: ""
 
 	
 #### Counsellors and Allied Educators
+
 |   |   |   |
 | :--| :-- | --: |
 |<font size="3">Mr. Leong Mun Sung Daniel </font> | <font size="3">Senior School Cousellor </font>| <font size="3"><a href="mailto:leong_mun_sung_daniel@moe.edu.sg"> leong_mun_sung_daniel@moe.edu.sg </a></font> |
@@ -131,6 +131,7 @@ description: ""
 
 
 #### Executive and Administrative Staff
+
 |  |  |
 | -------- | -------- |
 | <font size="3">Ms Kristie Chen</font> | <font size="3">Administrative Manager</font> 	|
@@ -157,4 +158,4 @@ description: ""
 | <font size="3">Mr. Song Jia Hui</font>	| <font size="3">  Desktop Enginee</font>	|
 | <font size="3">Ms. Losni</font>|<font size="3">Student Health Advisor</font>	|
 | <font size="3">Mdm. Aisha Bevi Binte V Mohammad Kunhi</font> | <font size="3">School Librarian</font> |
-|    	|    |<font></font></font>
+|    	|    |</font>
