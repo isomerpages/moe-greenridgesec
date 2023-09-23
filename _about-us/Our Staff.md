@@ -121,7 +121,7 @@ description: ""
 |   |   |   |
 | :--| :-- | --: |
 |<font size="3">Mr. Leong Mun Sung Daniel </font> | <font size="3">Senior School Cousellor </font>| <font size="3"><a href="mailto:leong_mun_sung_daniel@moe.edu.sg"> leong_mun_sung_daniel@moe.edu.sg </a></font> |
-| <font size="3">Mdm. Clara Yap Bee Hoon </font> |<font size="3">School Counsellor </font>| <font size="3"><a href="mailto:clara_yap_bee_hoon@moe.edu.sg"> clara_yap_bee_hoon@moe.edu.sg </a> |
+| <font size="3">Mdm. Clara Yap Bee Hoon </font> |<font size="3">School Counsellor </font>| <font size="3"><a href="mailto:clara_yap_bee_hoon@moe.edu.sg"> clara_yap_bee_hoon@moe.edu.sg </a></font>  |
 |<font size="3">Mr. Jeffrey Bin Abdul Mugni </font> | <font size="3">Senior Special Education Needs Officer </font> |<font size="3"> <a href="mailto:jeffrey_abdul_mugni@moe.edu.sg"> jeffrey_abdul_mugni@moe.edu.sg  </a></font> |
 | <font size="3">Ms. Gianna Gayatri Francis </font>	|<font size="3"> Special Education Needs Officer </font>| <font size="3"><a href="mailto:gianna_gayatri_mnomokan@moe.edu.sg"> gianna_gayatri_mnomokan@moe.edu.sg  </a></font>  |
 | <font size="3">Ms. Ismawati Bte Amar Mamori </font> | <font size="3">Education Career Guidance Counsellor </font>| <font size="3"><a href="mailto:ismawati_amar_mamori@moe.edu.sg"> ismawati_amar_mamori@moe.edu.sg  </a></font>  |
@@ -158,4 +158,4 @@ description: ""
 | <font size="3"> Mr. Song Jia Hui </font>	| <font size="3">  Desktop Enginee </font>	|
 | <font size="3"> Ms. Losni</font> |<font size="3">Student Health Advisor </font>	|
 | <font size="3">Mdm. Aisha Bevi Binte V Mohammad Kunhi</font> | <font size="3">School Librarian</font> |
-|    	|    |</font>
+|    	|    |
