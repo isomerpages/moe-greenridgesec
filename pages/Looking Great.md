@@ -105,10 +105,7 @@ Muhammad Shahiq Afiq Bin Mohammad Sofyan of Class 4-11
 The Singapore Olympic Foundation Peter Lim Scholarship is awarded annually to exceptional athletes under 18 years old to pursue sporting excellence in their chosen fields. Muhammad Shahiq received this prestigious award for his outstanding sporting achievements and character. Congratulations, Shahiq!
 
 
-Tchoukball
-
-
-Tchoukball ‘C’ Division Girls Plate Championship 2023  
-Champion
+#### <u>Tchoukball</u>
+##### Tchoukball ‘C’ Division Girls Plate Championship 2023<br>**Champion**
 
 The girls competed in the Plate category and out of their 5 matches, they won 4 of them and had a draw in the last match. The team’s trust in each other and strong sense of unity helped them dominate in most of their games. They hope to continue honing their skills, prioritise teamwork, resilience and the joy of healthy competition. We wish them the very best in their endeavours!
