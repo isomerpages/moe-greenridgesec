@@ -75,47 +75,34 @@ At the same competition, one of the performers was conferred the Outstanding Per
 
 
 #### <u>National Police Cadet Corps</u>
+##### *The Singapore Police Force – National Police Cadet Corps (SPF-NPCC) badge*<br>
+##### **4 award recipients**
 
-
-The Singapore Police Force – National Police Cadet Corps (SPF-NPCC) badge
-4 award recipients
-
-
-The Singapore Police Force – National Police Cadet Corps (SPF-NPCC) badge is the pinnacle badge of the NPCC, awarded to graduating cadets who have shown outstanding leadership qualities and contributions to the corps can vie for in their four/five years of their NPCC journey. Each year, there are hundreds of cadets who go through several rounds of selection through their respective area as well as headquarter interviews and only the top few cadets are chosen to receive this prestigious award. 
+The Singapore Police Force – National Police Cadet Corps (SPF-NPCC) badge is the pinnacle badge of the NPCC, awarded to graduating cadets who have shown outstanding leadership qualities and contributions to the corps can vie for in their four/five years of their NPCC journey. Each year, there are hundreds of cadets who go through several rounds of selection through their respective area as well as headquarter interviews and only the top few cadets are chosen to receive this prestigious award. <br>
 This year, four of our Greenridge Secondary School NPCC cadets stood out from the rest and were awarded this pinnacle badge on 1st April 2023. These cadets are: 
-SSGT (NPCC) Muhammad Wafiq Bin Zainol from class 4-4 
-SSGT (NPCC) Javen Goh Hong Yi from class 4-7
-SI (NPCC) Daniyal Rizqi Mohd Kairi from class 4-9 and 
-SSGT (NPCC) Qu’ratul Umaira Binte Sharifudin from class 4-12
+1. SSGT (NPCC) Muhammad Wafiq Bin Zainol from class 4-4 
+2. SSGT (NPCC) Javen Goh Hong Yi from class 4-7
+3. SI (NPCC) Daniyal Rizqi Mohd Kairi from class 4-9 and 
+4. SSGT (NPCC) Qu’ratul Umaira Binte Sharifudin from class 4-12
+
 Congratulations to all our recipients. We will continue to strive for excellence in developing our GSS NPCC cadets!
 
-
-
-National School Games – Football  
+#### <u>National School Games – Football </u>
 Our footballers secured a place in the Quarter-finals of the National School Games in the National ‘B’ Division Boys Championship. The team faced fierce competition which saw them make a lot of adjustments, try a lot of strategies and learnt from the experience. We look forward to seeing you grow! Let’s do better in 2024! 
 
+#### <u>National School Games – Rugby </u>
 
-National School Games – Rugby 
-
-
-Singapore Schools Sports Council National ‘B’ Division Boys Rugby Championship 2023 
-4th Place
+##### Singapore Schools Sports Council National ‘B’ Division Boys Rugby Championship 2023 <br>**4th Place**
 
 
 Our boys put up a gritty fight right up to the end! They had the school cheering behind them at the Singapore Sports Hub on the 10th of April. It was a most exhilarating and nail-biting game which saw our boys continuously pushing themselves to overcome their challengers. We are very, very proud that our Rugby boys showed great sportsmanship, dedication and resilience throughout the game. You had really given their best in true GSS spirit! Well done, boys!
 
 
-
-
-Singapore Olympic Foundation (SOF) Peter Lim Scholarship 
-Award recipient
+##### Singapore Olympic Foundation (SOF) Peter Lim Scholarship <br>**Award recipient**
 Muhammad Shahiq Afiq Bin Mohammad Sofyan of Class 4-11
 
 
 The Singapore Olympic Foundation Peter Lim Scholarship is awarded annually to exceptional athletes under 18 years old to pursue sporting excellence in their chosen fields. Muhammad Shahiq received this prestigious award for his outstanding sporting achievements and character. Congratulations, Shahiq!
-
-
-
 
 
 Tchoukball
@@ -125,5 +112,3 @@ Tchoukball ‘C’ Division Girls Plate Championship 2023
 Champion
 
 The girls competed in the Plate category and out of their 5 matches, they won 4 of them and had a draw in the last match. The team’s trust in each other and strong sense of unity helped them dominate in most of their games. They hope to continue honing their skills, prioritise teamwork, resilience and the joy of healthy competition. We wish them the very best in their endeavours!
-
-
