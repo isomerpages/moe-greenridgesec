@@ -6,7 +6,6 @@ third_nav_title: Clubs & Societies
 ---
 # InfoCOMM Technology (Media Production)
 
-![](/images/DSC_2916.jpg)
 
 The Infocomm Technology Club (Media Productions) is a CCA that was formed from the merger of the former Media Resource Library and Audio Visual Aid (AVA) clubs. Our students support school events and programmes through taking photos, providing AVA support,&nbsp; as well as recording and production of videos for the Applied Learning Programme (ALP), festive celebrations, Sports Carnival, Racial Harmony Day, and the National Day parade. Additionally, students take part in various competitions such as Our Schools Our Stories Competition.
 
@@ -22,7 +21,5 @@ To enhance their video production skills, students attend workshops such as the 
 
 Students also engage in team-bonding sessions through various activities such as team sports. This is important to strengthen their bonds among members of different levels so that they will be able to work efficiently in their project teams.
 
-![](/images/Infocomm1.jpg)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_IQ3mPoPs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
