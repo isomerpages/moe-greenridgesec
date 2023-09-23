@@ -29,9 +29,7 @@ description: ""
 
 |  |  | 
 | -------- | -------- | 
-|![](/images/LookingGreat2023/photo%203%20-%20cl%20translation%20cropped.jpg) | Six students from Secondary 3 participated in the 16th National Secondary Schools Translation Competition 2023 on 1 April 2023, and achieved commendable results. Our school representatives were: Tsui Kiu Kay Shawna 3-7，Zhu Yiran 3-7, Shen Zhuyan 3-7, Gao Haiqian 3-7, Liu Peining 3-8 and Ma XiaoXiao 3-9.
-
-We are delighted to share that Ma XiaoXiao of class 3-9 achieved laudable results and clinched the Individual Award. Congratulations, XiaoXiao!    | 
+|![](/images/LookingGreat2023/photo%203%20-%20cl%20translation%20cropped.jpg) | Six students from Secondary 3 participated in the 16th National Secondary Schools Translation Competition 2023 on 1 April 2023, and achieved commendable results. Our school representatives were: Tsui Kiu Kay Shawna 3-7，Zhu Yiran 3-7, Shen Zhuyan 3-7, Gao Haiqian 3-7, Liu Peining 3-8 and Ma XiaoXiao 3-9.<br><br>We are delighted to share that Ma XiaoXiao of class 3-9 achieved laudable results and clinched the Individual Award. Congratulations, XiaoXiao!    | 
 
 
 
