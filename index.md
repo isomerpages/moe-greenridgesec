@@ -16,7 +16,7 @@ sections:
           url: /looking-ahead/
         - title: Looking Great!
           description: ""
-          url: /about-us/our-students/
+          url: /looking-great/
       url: /contact-us/
       background: /images/Heros/Hero 001v4.jpg
   - resources:
