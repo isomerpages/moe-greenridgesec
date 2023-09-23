@@ -10,9 +10,6 @@ description: ""
 ### Leadership Team
 
 
-
-
-
 |   |   |   |
 | :--| :-- | -- |
 |<font size="4"> Mr. Ng Boon Kiat</font>|<font size="4"> Principal</font>|<font size="4"><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a></font> |
@@ -59,8 +56,8 @@ description: ""
 | | |<b><i> HOD : Head of Department<br>SH : Subject Head<br>ST : Senior Teacher</i> </b>
 |  |  |  |
 
-2023 Form Teachers.
--------------------
+### 2023 Form Teachers.
+
 	
 |   <font size="5">CLASS</font>|<font size="5">Secondary One</font>|   |    |
 |:--| :-- |:---|:---|
@@ -120,8 +117,7 @@ description: ""
 | | | | |
 
 	
-##### Counsellors and Allied Educators
-
+#### Counsellors and Allied Educators
 |   |   |   |
 | :--| :-- | --: |
 |<font size="3">Mr. Leong Mun Sung Daniel </font> | <font size="3">Senior School Cousellor </font>| <font size="3"><a href="mailto:leong_mun_sung_daniel@moe.edu.sg"> leong_mun_sung_daniel@moe.edu.sg </a></font> |
@@ -134,9 +130,7 @@ description: ""
 	
 
 
-##### Executive and Administrative Staff
-
-
+#### Executive and Administrative Staff
 |  |  |
 | -------- | -------- |
 | <font size="3">Ms Kristie Chen</font> | <font size="3">Administrative Manager</font> 	|
