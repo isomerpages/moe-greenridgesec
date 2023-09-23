@@ -99,10 +99,7 @@ Our boys put up a gritty fight right up to the end! They had the school cheering
 
 
 ##### Singapore Olympic Foundation (SOF) Peter Lim Scholarship <br>**Award recipient**
-Muhammad Shahiq Afiq Bin Mohammad Sofyan of Class 4-11
-
-
-The Singapore Olympic Foundation Peter Lim Scholarship is awarded annually to exceptional athletes under 18 years old to pursue sporting excellence in their chosen fields. Muhammad Shahiq received this prestigious award for his outstanding sporting achievements and character. Congratulations, Shahiq!
+Muhammad Shahiq Afiq Bin Mohammad Sofyan of Class 4-11<br>The Singapore Olympic Foundation Peter Lim Scholarship is awarded annually to exceptional athletes under 18 years old to pursue sporting excellence in their chosen fields. Muhammad Shahiq received this prestigious award for his outstanding sporting achievements and character. Congratulations, Shahiq!
 
 
 #### <u>Tchoukball</u>
