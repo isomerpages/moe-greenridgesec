@@ -9,6 +9,8 @@ In 2023, the former Greenridge Secondary School (also previously known as Dunear
 
 The new school is an amalgamation of both schools’ strengths in the areas of uniformed groups, sports, performing arts, Applied Learning and Learning for Life. With these strengths and synergy coming together, the new Greenridge Secondary School looks forward to growing from strength to strength as students experience  a technology-rich learning environment. 
 
+With the merged Greenridge Secondary at Bukit Panjang (long hill), our promise to all students and staff is that, there is space for everyone at Greenridge and together we will scale to the top of the ridge to experience a new Dawn (Fajar)
+
 
 ### Brief Histories of the Schools 
 
