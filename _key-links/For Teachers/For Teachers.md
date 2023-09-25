@@ -13,4 +13,4 @@ third_nav_title: For Teachers
 | [School Cockpit (intranet)](https://schoolcockpit.moe.gov.sg/)   | -  | [All Ears](https://allears.estl.edu.sg/home)  |
 | [School Cockpit Information System](https://icollaborate.moe.gov.sg/scplus/Pages/Introduction.aspx)  | -    | [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)   |
 | [HRP](https://www.hrp.gov.sg/)  | -    | [Classroom Google](https://classroom.google.com/)   |
-| [SC:Mobile](https://scmobile.moe.edu.sg/login)    | -  | Text     |
+| [SC:Mobile](https://scmobile.moe.edu.sg/login)    | -  | -   |
