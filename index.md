@@ -8,33 +8,18 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: What’s Exciting?
+        - title: Looking Back
           description: ""
-          url: /whats-exciting/
-        - title: What's Happening?
+          url: /looking-back/
+        - title: Looking Ahead
           description: ""
-          url: /whats-happening/
-        - title: Contact Us
+          url: /looking-ahead/
+        - title: Looking Great!
           description: ""
-          url: /contact-us/
+          url: /looking-great/
       url: /contact-us/
       background: /images/Heros/Hero 001v4.jpg
-  - infopic:
-      title: Applied Learning Programme
-      button: ">>CLICK TO VIEW<<"
-      image: /images/20230330/Debating via Zoom.jpeg
-      alt: Image alt text
-      url: /distinctive-programmes/applied-learning-programme-alp/
-  - infopic:
-      title: Learning for Life Programme (LLP)
-      button: ">>CLICK TO VIEW<<"
-      image: /images/20230330/Our boys trying out their gliderss.jpg
-      alt: Image alt text
-      url: /distinctive-programmes/learning-for-life-programme-llp/
-  - infopic:
-      title: Rugby (CCA)
-      button: ">>Click to view<<"
-      image: /images/20230330/Rugby s.jpg
-      alt: Image alt text
-      url: /school-experience/co-curriculum/cca/sports-and-games/rugby/
+  - resources:
+      title: ANNOUNCEMENTS
+      id: resources
 ---

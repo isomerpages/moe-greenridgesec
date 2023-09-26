@@ -1,15 +1,13 @@
 ---
 title: Parents in Education (PiE)
-permalink: /others/parents/parents-in-education-pie/
+permalink: /parents/parents-in-education-pie/
 description: ""
 ---
-
-
 # **Parents in Education (PiE)**
 
 ### **New Website for Parents and Resource Pack for Schools on Home-School-Community Partnership**
 
-1\. Parents can now look to the [Parents in Education (PiE) website](http://www.moe.gov.sg/parents-in-education/) for resources to help them better support the education and development of their children. Developed by the Ministry of Education (MOE), the new website was launched by Mr Heng Swee Keat, Minister for Education, at the MOE Work Plan Seminar today. Mr Heng also announced that a Partnerships Resource Pack will be provided to schools to help them to engage parents and the community.
+1\. Parents can now look to the&nbsp;[Parents in Education (PiE) website](http://www.moe.gov.sg/parents-in-education/)&nbsp;for resources to help them better support the education and development of their children. Developed by the Ministry of Education (MOE), the new website was launched by Mr Heng Swee Keat, Minister for Education, at the MOE Work Plan Seminar today. Mr Heng also announced that a Partnerships Resource Pack will be provided to schools to help them to engage parents and the community.
 
 2\. The PiE website will contain articles on parenting tips, educational news, information on the school curriculum, and resources for parents to support their children’s learning at home. MOE welcomes parents’ feedback on the PiE website and will continue to update and ensure relevance of the resources for parents .
 
@@ -28,8 +26,7 @@ description: ""
 *   Together, we work towards common goals
 
 
-<img src="/images/2012_Parents_ParentsInLearning_Logo.jpg" 
-     style="width:50%">
+<img src="/images/2012_Parents_ParentsInLearning_Logo.jpg" style="width:50%">
 		 
 6\. The framework has been developed in consultation with parents, school leaders, teachers, and the COMmunity and PArents in Support of Schools (COMPASS).
 

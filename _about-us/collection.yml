@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Compass.md
       - Our Staff.md
-      - Vision, Mission, Motto, Values.md
       - Code Of Conduct.md
-      - Aspiring Greenridgeans.md
+      - Our Heritage.md

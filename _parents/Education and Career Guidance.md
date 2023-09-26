@@ -1,9 +1,8 @@
 ---
 title: Education and Career Guidance
-permalink: /others/parents/education-and-career-guidance/
+permalink: /parents/education-and-career-guidance/
 description: ""
 ---
-
 # **Education and Career Guidance**
 
 1) [ECG Slides for Parents Connect Briefing](/files/Education%20and%20Career%20Guidance%202017%20For%20Parents.pdf) 

@@ -12,8 +12,8 @@ The Science curriculum in GSS aims to instill and inspire passion and appreciati
 
 Our students are constantly engaged and inspired by the scientific phenomena and technology around them, and are encouraged to inquire and innovate, with our teachers working closely with them to ensure that our students acquire the knowledge (core ideas), skills (practices) and compass (values, ethics and attitudes) required for the challenges in the 21st century world. Students shall acquire an accomplished level of scientific literacy, to be a knowledgeable citizen who is a confident, self-directed lifelong learner and an active contributor to the community and nation.
 
+<img style="width:90%" src="/images/Sci1.png">
 
-<img src="/images/Sci1.png" style="width:70%">
 		 
 		 
 ### How We Engage Our Students
@@ -33,88 +33,53 @@ In particular, GSS adopts the 5E Inquiry Approach (Engage, Explore, Explain, Ela
 * Sec 3, 4 and 5:&nbsp; Students deepen theirscientific knowledge, skills and attitudes&nbsp; and extend their learning by analyzing data and evaluating authentic real-life problems.
 
 ### Our Students &amp; Teachers @ Work
+#### Singapore Youth Science Fair 2023
 
-**[Nutrition &amp; Food Science](/school-experience/curriculum/science/nutrition-n-food-science/)**
+![](/images/Science2023/sysf_1.jpg)
 
-**Greenridge Math &amp; Science Challenge 2020**
+![](/images/Science2023/sysf_2.JPG)
+A team of Secondary 2 students participated in the Singapore Youth Science Fair (SYSF) 2023, which revolved around the theme 'Science for Sustainable Living.' They earned a Commendation Award for their project titled 'Finding the most suitable color for T-shirts during extremely hot weather.' 
 
-GSS staff and students organized the Greenridge Math &amp; Science Challenge for the primary schools in the West Cluster, to be engaged in an application of mathematics and sciences in various rounds of games and model-making.
+1. Inspired Inquiry: Our students began by keenly observing their surroundings and drawing inspiration from their science lessons. Their objective was clear: to address the challenges posed by the relentless heat.
 
-![](/images/Sci2.jpg)
+2. Scientific Methodology: With guidance from their science teacher, they meticulously planned a scientific approach to test their hypotheses.
 
-**Sec 1 Learning Journey – Brain Festival**
+3. Data Collection and Analysis: The team collected data to support their findings. This rigorous process not only validated their hypothesis but also provided valuable insights into the choice of colours and materials for clothes in extreme heat.
 
-Students were engaged in experiments and an Escape Room game during the Brain Fest at Singapore Science Centre.
-
-![](/images/Sci3.jpg)
-![](/images/Sci4.jpg)
-
-**Learning Journey to Edible Garden City**
-
-Science Department teachers went on a Learning Journey at Edible Garden City for inspiration on how scientific knowledge can be applied in the production of home-grown crops and integrated with the concept of social enterprise to solve challenging first-world issues.
-
-![](/images/Sci6.jpg)
-
-**Nanyang Polytechnic E-science &amp; Technology Challenge**&nbsp;
-
-For the challenge, Sec 2 students prepared their Robot Frog using recyclable materials. The robot was tested for its ability to travel across a fixed distance of 2 meters in the shortest possible time and in the straightest possible direction.
-
-![](/images/Sci7.jpg)
-They also built an alternative energy harvester using recycled materials which can be used to harvest sunlight, wind, waste heat or utilise mechanical means to generate electricity.
-
-![](/images/Sci8.jpg)
-Lastly, the students used programming software such as Python and Blocky to create the shortest pathway for a robot to rescue the survivors.
-
-**Sec 1 Science Project – Survival Island**
-
-The students obtained drinkable water from muddy and bacteria-loaded water from the river in the island with limited amount of materials and resources given to them.
-
-![](/images/Sci9.jpg)
-At the end of the project, students presented their plans, experimental set-ups, trials and testing, challenges faced and conclusions.
-
-**Sec 3 Biology &amp; Geography Learning Journey – Ecological Field Study**
-
-This exposure gave students an opportunity to see what biologists and geographers do in Singapore and how to carry out field work in research or project work in higher education institutions.
-
-![](/images/Sci10.jpg)
-
-![](/images/Sci11.jpg)
-
-#### Reflections by A-Star Award recipient 2019 and 2020
-
-“I learnt a lot through this 3 day workshop at the Science Centre. As a Pure Science student, it was an amazing experience for me to be able to try these hands-on activities which aided my understanding of the topics taught in school. We also had talks by professionals about the science industry and scholarships.”
-
-–&nbsp;**Claudia Tan Ying En**, 4/4’2020
-
-“It was a really memorable and insightful experience as I got to know more about what scientists research about. Through the workshops I attended, I am more aware about the environment as well as get a taste of the life of a scientist and be more certain about which direction in life I want to pursue. Overall, I had a fun and meaningful time and would like to thank the school for allowing Jane and I to represent the school.”
-
-–&nbsp;**Jophiela Yong**, 3/6’2020
-
-#### Reflections by students who had benefitted from Science Curriculum and  Co-Curricular Programme
-“The school's science programmes have exposed me to different types of experiments, concepts and learning. It has ignited my passion in Science as I found learning about new scientific concepts interesting along with getting to try different science experiments. I also learnt about the various perspectives about science. Working in groups also helps me learn how to interact well with others in the future.” –&nbsp;**Pearlyn Heng**, 4/5’2020
-
-  
-
-“I remember vividly working together with my friends for the Earth Day@Senja Square program where we helped educate the public about the environment and how to care for it.”  
-–&nbsp;**Daniel Mirzal**, 4/4’2020
-
-“My team presented the concept of painting with acids and bases during the Science Carnival in 2018 to Sec 1 students. It was amazing that such a simple science concept can interest others. Through such platforms, it inspired me to participate in the Science Buskers’ Competition in 2019 and represented the school in the finals.”  
-–&nbsp;**Sng Jia Hao**, 4/4’2020
-
-“I had a great time doing the science experiments for the Survival Island Project. It was interesting and engaging and it made me understand the science concepts better.”    
-–&nbsp;**Ang Wei Jun**’s reflection on Survival Island Project, 1/7’2020
-
-### Science Videos
+4. Effective Communication: They then prepared a project report and a video presentation to effectively communicate their findings and the importance of their research.
 
 
+#### Singapore Junior Chemistry Olympiad (SJChO) 2023
+![](/images/Science2023/sjcho_1.jpg)
 
+We are thrilled to announce the outstanding performance of our students at the Singapore Junior Chemistry Olympiad 2023. Out of the twenty-two talented participants from our school, three students demonstrated exceptional knowledge and skills by advancing to the finals. We are proud to announce that in the finals, two of our young chemists secured Gold Medals and the third finalist received a Merit Award. These remarkable achievements reflect our students' dedication to academic excellence and their promising futures in the field of chemistry. Congratulations to our outstanding participants!
+![](/images/Science2023/sjcho_2.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6YvOe9ZUMlM?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<b>Interview with Lower Sec Science Students on General Science- Matthew Khor</b>
+#### Lower Secondary Science Experiences
+##### Secondary 1’s Farm-to-Table Movement
 
+![](/images/Science2023/vertical%20garden_1.jpeg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJPEHoMJd8A?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<b>NYP E&nbsp; science and tech challenge Video of rescue Robot 1</b>
+![](/images/Science2023/vertical%20garden_2.jpeg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iZ50uM5N_Mw?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<b>Sivaraman Sriram from Secondary One, a participant for Science Buskers’ (Virtual) Festival 2020, demonstrates hot air rising. The hot air will rise it pushes the slightly bent holes on the top of the lampshade causing it to rotate.</b>
+![](/images/Science2023/vertical%20garden_3.jpeg)
+
+As the key shifts in our Science education include providing students with more opportunities for interdisciplinary learning in STEM and encouraging students to learn for life, the secondary 1 students embarked on a journey to grow vegetables in the school’s vertical garden and Vegepods. 
+
+They completed the entire process, from germinating the seeds and transplanting them into the proper growth beds to watching the vegetables grow and harvesting them for donation to our neighbours.
+
+##### Secondary 1’s Water Filtration System
+![](/images/Science2023/water%20filtration_1.jpeg)
+
+![](/images/Science2023/water%20filtration_2.jpeg)
+
+Our Secondary 1 students embraced the power of collaboration and innovation as they worked together in groups on this inspiring project. They brainstormed creative ideas, conducted thorough research, and placed their theories to the test to construct an efficient water filtration system. Using the provided materials, they're on a mission to turn contaminated water into clean water. This hands-on experience not only sharpens their problem-solving skills but also reinforces the importance of teamwork and environmental stewardship.
+
+##### Making a Terrarium in Secondary 2 Science
+
+![](/images/Science2023/terrarium_1.jpeg)
+
+![](/images/Science2023/terrarium_2.jpeg)
+
+In an exciting STEM activity, our Secondary 2 students built terrariums. This hands-on project allowed them to delve into several key aspects of science. They not only constructed functional terrariums but also grasped the water cycle and the vital role plants play in it. Furthermore, they learned about the significance of maintaining a harmonious ecosystem within these mini-worlds. This engaging experience not only fostered their scientific knowledge but also instilled a deeper appreciation for environmental sustainability. Our students' enthusiasm for learning shines through in their creative terrariums, showcasing their commitment to STEM education.
+

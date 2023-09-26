@@ -1,28 +1,26 @@
 ---
 title: Nutrition & Food Science
-permalink: /school-experience/curriculum/science/nutrition-n-food-science/
+permalink: /curriculum/science/nutrition-n-food-science/
 description: ""
 third_nav_title: Science
 ---
-
-# **Nutrition & Food Science**
+# **Nutrition &amp; Food Science**
 
 ### OUR BELIEFS
 
 Our subject is instrumental for the development and honing of practical real-life solving skills for the students. The students would be equipped with the ability to make sense of knowledge and develop critical and inventive thinking skills for the creation of effective solutions in a VUCA (volatile, uncertain, complex and ambiguous) environment.
 
   
-For NFS, we envision our students to demonstrate a sense of responsibility to share nutritional knowledge with family and the community and stay abreast of new developments in culinary and food technology. 
+For&nbsp;NFS, we envision our students to demonstrate a sense of responsibility to share nutritional knowledge with family and the community and stay abreast of new developments in culinary and food technology.&nbsp;
 
 ### OUR BELIEFS
 
 Our subject is instrumental for the development and honing of practical real-life solving skills for the students. The students would be equipped with the ability to make sense of knowledge and develop critical and inventive thinking skills for the creation of effective solutions in a VUCA (volatile, uncertain, complex and ambiguous) environment.
 
-For NFS, we envision our students to demonstrate a sense of responsibility to share nutritional knowledge with family and the community and stay abreast of new developments in culinary and food technology.
+For&nbsp;NFS, we envision our students to demonstrate a sense of responsibility to share nutritional knowledge with family and the community and stay abreast of new developments in culinary and food technology.
 
-<img src="/images/NFS1.png" 
-     style="width:70%">
- Nutrition and Food Science Education Framework
+<img src="/images/NFS1.png" style="width:70%">
+&nbsp;Nutrition and Food Science Education Framework
  
  
 We aim to develop our students to become Discerning Consumers, Health Ambassadors and Food Innovators.
@@ -39,7 +37,7 @@ We explore different pedagogies to engage our students in their learning through
 *   Enrichment workshops and competitions platforms to enhance learning experience
 
 
-### OUR STUDENTS & TEACHERS @ WORK
+### OUR STUDENTS &amp; TEACHERS @ WORK
 
 ![](/images/CT6.jpg)
 Secondary 2 students prepare to make cookies and pancakes
@@ -55,4 +53,3 @@ Upper Secondary students learn about Carbohydrates and My Healthy Plate through 
 
 ![](/images/CT11.jpg)
 Use of card games to encourage fun learning through group discussions
-

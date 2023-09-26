@@ -10,9 +10,6 @@ description: ""
 ### Leadership Team
 
 
-
-
-
 |   |   |   |
 | :--| :-- | -- |
 |<font size="4"> Mr. Ng Boon Kiat</font>|<font size="4"> Principal</font>|<font size="4"><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a></font> |
@@ -59,8 +56,7 @@ description: ""
 | | |<b><i> HOD : Head of Department<br>SH : Subject Head<br>ST : Senior Teacher</i> </b>
 |  |  |  |
 
-2023 Form Teachers.
--------------------
+### 2023 Form Teachers.
 	
 |   <font size="5">CLASS</font>|<font size="5">Secondary One</font>|   |    |
 |:--| :-- |:---|:---|
@@ -70,7 +66,7 @@ description: ""
 |<font size="3"> 1-4  </font>|<font size="3"><a href="mailto:YUANA_MUHAMAD@MOE.EDU.SG"> Mdm Yuana Bte Muhamad (ML) </a></font>|<font size="3"><a href="mailto:tan_ai_choo@moe.edu.sg"> Ms Tan Ai Choo (Maths)</a></font>|   | 
 |<font size="3"> 1-5  </font>|<font size="3"><a href="mailto:cheong_xinni_cheryl@moe.edu.sg"> Ms. Cheryl Cheong (Chemistry)   </a></font>|<font size="3"><a href="mailto:sivaprakasam_uthayarani@moe.edu.sg"> Ms. Sivaprakasam Uthayarani (TL) </a></font>| | 
 |<font size="3"> 1-6 </font>|<font size="3"><a href="mailto:chew_cheng_boon@moe.edu.sg"> Mr Chew Cheng Boon (Chemistry) </a></font>|<font size="3"><a href="mailto:poon_sook_keng@moe.edu.sg"> Mdm Poon Sook Keng (CL) </a></font> |   | 
-|<font size="3"> 1-7 </font>|<font size="3"><a href="mailto:norita_mokhtar@moe.edu.sg"> Mdm. Norita Mokhtar(Art)</a></font>|<font size="3"><a href="mailto:hemalatha_a_sivakumar@moe.edu.sg"> Ms. Hemalatha D/O Sivakumar (FCE)</a></font> | <font size="3"><a href="mailto:cynthia_lim_xin_ru@moe.edu.sg"> Ms. Cynthia Lim Xin Ru (EL Lit) </a></font>|
+|<font size="3"> 1-7 </font>|<font size="3"><a href="mailto:hemalatha_a_sivakumar@moe.edu.sg"> Ms. Hemalatha D/O Sivakumar (FCE)</a></font>|<font size="3"><a href="mailto:cynthia_lim_xin_ru@moe.edu.sg"> Ms. Cynthia Lim Xin Ru (EL Lit) </a></font> | |
 |_ |_ |_ |_ |
 
 |   <font size="5">CLASS</font>|<font size="5">Secondary Two</font>|   |    |
@@ -120,12 +116,12 @@ description: ""
 | | | | |
 
 	
-##### Counsellors and Allied Educators
+#### Counsellors and Allied Educators
 
 |   |   |   |
 | :--| :-- | --: |
 |<font size="3">Mr. Leong Mun Sung Daniel </font> | <font size="3">Senior School Cousellor </font>| <font size="3"><a href="mailto:leong_mun_sung_daniel@moe.edu.sg"> leong_mun_sung_daniel@moe.edu.sg </a></font> |
-| <font size="3">Mdm. Clara Yap Bee Hoon </font> |<font size="3">School Counsellor </font>| <font size="3"><a href="mailto:clara_yap_bee_hoon@moe.edu.sg"> clara_yap_bee_hoon@moe.edu.sg </a> |
+| <font size="3">Mdm. Clara Yap Bee Hoon </font> |<font size="3">School Counsellor </font>| <font size="3"><a href="mailto:clara_yap_bee_hoon@moe.edu.sg"> clara_yap_bee_hoon@moe.edu.sg </a></font>  |
 |<font size="3">Mr. Jeffrey Bin Abdul Mugni </font> | <font size="3">Senior Special Education Needs Officer </font> |<font size="3"> <a href="mailto:jeffrey_abdul_mugni@moe.edu.sg"> jeffrey_abdul_mugni@moe.edu.sg  </a></font> |
 | <font size="3">Ms. Gianna Gayatri Francis </font>	|<font size="3"> Special Education Needs Officer </font>| <font size="3"><a href="mailto:gianna_gayatri_mnomokan@moe.edu.sg"> gianna_gayatri_mnomokan@moe.edu.sg  </a></font>  |
 | <font size="3">Ms. Ismawati Bte Amar Mamori </font> | <font size="3">Education Career Guidance Counsellor </font>| <font size="3"><a href="mailto:ismawati_amar_mamori@moe.edu.sg"> ismawati_amar_mamori@moe.edu.sg  </a></font>  |
@@ -134,33 +130,32 @@ description: ""
 	
 
 
-##### Executive and Administrative Staff
-
+#### Executive and Administrative Staff
 
 |  |  |
 | -------- | -------- |
-| <font size="3">Ms Kristie Chen</font> | <font size="3">Administrative Manager</font> 	|
-| <font size="3">Mr Sarjantpal Singh</font>| <font size="3">Operations Manager</font> 	|
-| <font size="3">Mr. L Thanabalan</font>  	|  <font size="3">Operations Manager</font> 	|
-| <font size="3">Mdm.   Lee Soh Peng (Jasmine)</font>|  <font size="3">Administrative Executive</font>|
-|<font size="3"> Mdm. Siti Aishah Bte Aspari</font>|  <font size="3">Corporate Support Officer</font>	|
-|<font size="3">Mdm. Magaswari D/O  Rajamanikam</font>|<font size="3">Corporate Support Officer</font>|
-| <font size="3">Mr. Ishak Bin Hassan </font>	| <font size="3"> ICT Manager</font>  	|
-|<font size="3"> Mr. Halim Bin Kamil</font>	 | <font size="3">Technical Support Officer </font>	|
-| <font size="3">Mr. Sutrisno Bin Rahmad</font>| <font size="3"> Technical Support Officer</font> 	|
-| <font size="3">Mr Sallehuddin </font>	|  <font size="3">Technical Support Officer </font>	|
-| <font size="3">Mdm. Ong Siew Khim </font>	|<font size="3"> Technical Support Officer</font>	|
-|<font size="3"> Mrs. Teo Mei Lin</font> 	|<font size="3"> Technical Support Officer</font>	|
-| <font size="3">Ms. Suriati Bte Kardi</font> | <font size="3">Technical Support Officer </font>|
-| <font size="3">Mdm. Tan Ah Ngee</font>	|  <font size="3">Operations Support Officer</font>|
-| <font size="3">Ng Poh Heok (Sandy)</font>|  <font size="3">Operations Support Officer</font>|
-| <font size="3">Mdm.Chia Siew Ping</font>	| <font size="3">Operations Support Officer</font>|
-| <font size="3">Mdm. Toh Ah Bee</font>	| <font size="3">Operations Support Officer</font>|
-| <font size="3">Mdm. Ngo Guok Lee (Jenny)</font>	|  <font size="3">Operations Support Officer</font>|
-| <font size="3">Mr. Siah Hoya Seng</font>| <font size="3"> Operations Support Officer </font>|
-| <font size="3">Mdm. Suriaeni Binte Atan</font>	|  <font size="3">Operations Support Officer </font>|
-|<font size="3">Mr. Muhammad Luqman Hasif bin Hashim</font>|<font size="3">Desktop Engineer</font>	|
-| <font size="3">Mr. Song Jia Hui</font>	| <font size="3">  Desktop Enginee</font>	|
-| <font size="3">Ms. Losni</font>|<font size="3">Student Health Advisor</font>	|
+| <font size="3"> Ms Kristie Chen </font> | <font size="3"> Administrative Manager </font> 	|
+| <font size="3"> Mr Sarjantpal Singh </font>| <font size="3"> Operations Manager </font> 	|
+| <font size="3"> Mr. L Thanabalan </font>| <font size="3"> Operations Manager </font> 	|
+| <font size="3"> Mdm. Lee Soh Peng (Jasmine) </font>|<font size="3">Administrative Executive </font>|
+|<font size="3"> Mdm. Siti Aishah Bte Aspari </font>|  <font size="3"> Corporate Support Officer </font>	|
+|<font size="3"> Mdm. Magaswari D/O  Rajamanikam </font>|<font size="3"> Corporate Support Officer </font>|
+| <font size="3">Mr. Ishak Bin Hassan </font>	| <font size="3"> ICT Manager </font>  	|
+|<font size="3"> Mr. Halim Bin Kamil </font>	 | <font size="3"> Technical Support Officer </font>	|
+| <font size="3"> Mr. Sutrisno Bin Rahmad </font>| <font size="3"> Technical Support Officer </font>|
+| <font size="3"> Mr Sallehuddin </font>	| <font size="3"> Technical Support Officer </font>	|
+| <font size="3"> Mdm. Ong Siew Khim </font>	|<font size="3"> Technical Support Officer </font>	|
+|<font size="3"> Mrs. Teo Mei Lin</font> 	|<font size="3"> Technical Support Officer </font>	|
+| <font size="3"> Ms. Suriati Bte Kardi </font> | <font size="3">Technical Support Officer </font>|
+| <font size="3"> Mdm. Tan Ah Ngee</font>	|  <font size="3"> Operations Support Officer </font>|
+| <font size="3"> Ng Poh Heok (Sandy) </font>|  <font size="3"> Operations Support Officer </font>|
+| <font size="3"> Mdm.Chia Siew Ping </font>	| <font size="3"> Operations Support Officer </font>|
+| <font size="3"> Mdm. Toh Ah Bee </font>	| <font size="3"> Operations Support Officer </font>|
+| <font size="3"> Mdm. Ngo Guok Lee (Jenny) </font>	|  <font size="3"> Operations Support Officer </font>|
+| <font size="3"> Mr. Siah Hoya Seng </font>| <font size="3"> Operations Support Officer </font>|
+| <font size="3"> Mdm. Suriaeni Binte Atan </font>	|  <font size="3"> Operations Support Officer </font>|
+|<font size="3"> Mr. Muhammad Luqman Hasif bin Hashim </font>|<font size="3"> Desktop Engineer </font>	|
+| <font size="3"> Mr. Song Jia Hui </font>	| <font size="3">  Desktop Enginee </font>	|
+| <font size="3"> Ms. Losni</font> |<font size="3">Student Health Advisor </font>	|
 | <font size="3">Mdm. Aisha Bevi Binte V Mohammad Kunhi</font> | <font size="3">School Librarian</font> |
-|    	|    |</font>
+|    	|    |

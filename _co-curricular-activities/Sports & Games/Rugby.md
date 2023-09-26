@@ -1,39 +1,207 @@
 ---
 title: Rugby
-permalink: /school-experience/co-curriculum/cca/sports-and-games/rugby/
+permalink: /cca/sports-and-games/rugby/
 description: ""
 third_nav_title: Sports & Games
 ---
-Rugby
-=====
+#  Rugby
+# 
 
 ![](/images/RUGBY/rugby-1.jpeg)
 
+#### OUR BELIEFS
 In Greenridge Secondary School’s Rugby team, we believe that:
+- All players can be trained and developed into true sportsmen, regardless of their starting point.
+-	Teamwork is the beauty of our sport. All of us work as one, towards a common goal. All players will emerge stronger and fitter, mentally and physically.
+-	We aim to develop students who display the school values of Respect, Integrity, Diligence, Grit and Empathy
 
-*   &nbsp;All players can be trained and developed into true sportsmen, regardless of their starting point.
-*   Teamwork is the beauty of our sport, where we have individuals working as one, towards a common goal. All players will emerge stronger and fitter, mentally and physically.
 
-CCA COMPETITIONS &amp; ACCOLADES
+#### QUOTES FROM OUR RUGBY BOYS 
+“Personally, rugby has taught me to have more <u>**self discipline.**</u> For example, showing up and taking our training session seriously. Despite needing to train under unpredictable weather, it has taught me how to <u>**adapt to different challenges**</u>. During the fasting period, it teaches me not to give up easily and <u> **persevere**  </u> in training with the support from the teachers, coaches and the rest of the team. This leads the team to have a stronger team morale as we will have to learn and accept one another despite the team's unique characters. Rugby has taught me self-discipline, adaptability, and perseverance. With the support from the teachers, coaches and the rest of the team, we strive to give our best for every game."    
+**Muhamad Amran Bin Mazli, Sec 4 (2023)**
 
-<table class="c0" style="border-spacing: 0px; border-collapse: collapse; margin-right: auto; font-family: &quot;Century Gothic&quot;; letter-spacing: normal; orphans: 2; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody><tr class="c18" style="height: 27.8pt;"><td class="c8" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; background-color: rgb(217, 217, 217); width: 60pt;"><p class="c17" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: center;"><span class="c4" style="font-size: 10.5pt; color: rgb(69, 69, 69); font-weight: 700;">YEAR</span></p></td><td class="c1" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; background-color: rgb(217, 217, 217); width: 194.2pt;"><p class="c17" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: center;"><span class="c4" style="font-size: 10.5pt; color: rgb(69, 69, 69); font-weight: 700;">B Division</span></p></td><td class="c5 c25" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 213.8pt; background-color: rgb(217, 217, 217);"><p class="c17" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: center;"><span class="c4" style="font-size: 10.5pt; color: rgb(69, 69, 69); font-weight: 700;">C Division</span></p></td></tr><tr class="c3" style="height: 62.2pt;"><td class="c11" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 60pt;"><p class="c17" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: center;"><span class="c4" style="font-size: 10.5pt; color: rgb(69, 69, 69); font-weight: 700;">2022</span></p></td><td class="c23" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 194.2pt;"><p class="c2" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: left;"><span class="c20 c4" style="text-decoration: none; vertical-align: baseline; font-family: Arial; font-style: normal; font-size: 10.5pt; color: rgb(69, 69, 69); font-weight: 700;">National Schools U-17 Bowl Championships 2022</span></p><p class="c2" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: left;"><span class="c4 c20" style="text-decoration: none; vertical-align: baseline; font-family: Arial; font-style: normal; font-size: 10.5pt; color: rgb(69, 69, 69); font-weight: 700;">Police Cup ‘B’ Division</span></p><p class="c2" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: left;"><span class="c9" style="color: rgb(69, 69, 69); font-size: 10.5pt;">Champions</span></p></td><td class="c5" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 213.8pt;"><p class="c2 c19" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: left; height: 11pt;"><span class="c10" style="color: rgb(72, 72, 72); font-weight: 400; text-decoration: none; vertical-align: baseline; font-size: 12pt; font-family: Arial; font-style: normal;"></span></p><sup><a href="#cmnt1" id="cmnt_ref1">[a]</a></sup></td></tr><tr class="c18" style="height: 27.8pt;"><td class="c11" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 60pt;"><p class="c17" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: center;"><span class="c4" style="font-size: 10.5pt; color: rgb(69, 69, 69); font-weight: 700;">2019</span></p></td><td class="c23" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 194.2pt;"><p class="c2" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: left;"><span class="c4" style="font-size: 10.5pt; color: rgb(69, 69, 69); font-weight: 700;">-</span></p></td><td class="c5" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 213.8pt;"><p class="c2" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: left;"><span class="c4" style="font-size: 10.5pt; color: rgb(69, 69, 69); font-weight: 700;">Saint 7s U-14:</span><span class="c9" style="color: rgb(69, 69, 69); font-size: 10.5pt;">&nbsp;Champions</span></p></td></tr><tr class="c7" style="height: 39pt;"><td class="c11" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 60pt;"><p class="c17" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: center;"><span class="c4" style="font-size: 10.5pt; color: rgb(69, 69, 69); font-weight: 700;">2018</span></p></td><td class="c23" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 194.2pt;"><p class="c2" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: left;"><span class="c4" style="font-size: 10.5pt; color: rgb(69, 69, 69); font-weight: 700;">-</span></p></td><td class="c5" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 213.8pt;"><p class="c2" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: left;"><span class="c4" style="font-size: 10.5pt; color: rgb(69, 69, 69); font-weight: 700;">National Schools U-14 Championships 2018 Dr Goh Keng Swee Shield:</span><span class="c9" style="color: rgb(69, 69, 69); font-size: 10.5pt;">&nbsp;1st Placing</span></p></td></tr><tr class="c18" style="height: 27.8pt;"><td class="c11" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 60pt;"><p class="c17" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: center;"><span class="c4" style="font-size: 10.5pt; color: rgb(69, 69, 69); font-weight: 700;">2017</span></p></td><td class="c23" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 194.2pt;"><p class="c2" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: left;"><span class="c9" style="color: rgb(69, 69, 69); font-size: 10.5pt;">Bowl 3rd</span></p></td><td class="c5" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 213.8pt;"><p class="c2" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: left;"><span class="c9" style="color: rgb(69, 69, 69); font-size: 10.5pt;">Bowl 4th</span></p></td></tr><tr class="c18" style="height: 27.8pt;"><td class="c11" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 60pt;"><p class="c17" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: center;"><span class="c4" style="font-size: 10.5pt; color: rgb(69, 69, 69); font-weight: 700;">2016</span></p></td><td class="c23" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 194.2pt;"><p class="c2" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: left;"><span class="c9" style="color: rgb(69, 69, 69); font-size: 10.5pt;">Bowl 4th</span></p></td><td class="c5" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 213.8pt;"><p class="c2" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: left;"><span class="c9" style="color: rgb(69, 69, 69); font-size: 10.5pt;">Bowl 2nd</span></p></td></tr><tr class="c18" style="height: 27.8pt;"><td class="c11" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 60pt;"><p class="c17" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: center;"><span class="c4" style="font-size: 10.5pt; color: rgb(69, 69, 69); font-weight: 700;">2015</span></p></td><td class="c23" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 194.2pt;"><p class="c2" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: left;"><span class="c9" style="color: rgb(69, 69, 69); font-size: 10.5pt;">Bowl 2nd</span></p></td><td class="c5" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 213.8pt;"><p class="c2" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: left;"><span class="c9" style="color: rgb(69, 69, 69); font-size: 10.5pt;">Bowl 2nd</span></p></td></tr><tr class="c18" style="height: 27.8pt;"><td class="c11" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 60pt;"><p class="c17" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: center;"><span class="c4" style="font-size: 10.5pt; color: rgb(69, 69, 69); font-weight: 700;">2014</span></p></td><td class="c23" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 194.2pt;"><p class="c2" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: left;"><span class="c9" style="color: rgb(69, 69, 69); font-size: 10.5pt;">First Round</span></p></td><td class="c5" colspan="1" rowspan="1" style="padding: 8pt 4pt; border-style: solid; border-color: rgb(68, 68, 68); border-width: 1pt; vertical-align: top; width: 213.8pt;"><p class="c2" style="margin: 0px; color: rgb(0, 0, 0); font-size: 11pt; font-family: Arial; padding-top: 0pt; padding-bottom: 0pt; line-height: 1.15; orphans: 2; widows: 2; text-align: left;"><span class="c9" style="color: rgb(69, 69, 69); font-size: 10.5pt;">Bowl 2nd</span></p></td></tr></tbody></table>
-
-### CCA PROGRAMME FOR SKILLS, LEADERSHIP &amp; CHARACTER DEVELOPMENT
-
-Our training programmes are designed to cater to the needs of our players with varying levels of experience in the sport. Regardless of their experience, we strive to level up the skills of our players so that they can achieve their best and work effectively as a team. Through the training sessions, we aim to develop students who display the school values of&nbsp;Respect, Integrity, Diligence, Grit and Empathy.[\[b\]](#cmnt2)
-
-‘B’ Division Rugby Team 2023
-
-![](/images/RUGBY/rugby-2p.png)
-
-Training physical and mental strength
-
-![](/images/RUGBY/rugby-3p.png)
-
+#### PHOTO HIGHLIGHTS
+2023 B Division Rugby Team at the finals of the National School Games
+![](/images/RUGBY/rugby-2p.png)\
+Grit and determination
+![](/images/RUGBY/rugby-3p.png)\
 Working as a team during a rugby match
-
 ![](/images/RUGBY/rugby-4p.png)
 
-[\[a\]](#cmnt_ref1)Update with 2023 achievements
+#### COMPETITIONS &amp; ACCOLADES
 
-[\[b\]](#cmnt_ref2)For updating
+   <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; mso-font-kerning:0pt; mso-ligatures:none; mso-ansi-language:EN;} .MsoPapDefault {mso-style-type:export-only; line-height:115%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="624" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ cell-none;mso-border-insidev:cell-none"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:27.75pt"><td width="80" valign="top" style="width:60.0pt;border:solid #444444 1.0pt;
+  mso-border-alt:solid #444444 .75pt;background:#D9D9D9;padding:8.0pt 4.0pt 8.0pt 4.0pt;
+  height:27.75pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-size:10.5pt;
+  color:#454545">YEAR</span></b><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td><td width="259" valign="top" style="width:194.25pt;border:solid #444444 1.0pt;
+  border-left:none;mso-border-left-alt:solid #444444 .75pt;mso-border-alt:solid #444444 .75pt;
+  background:#D9D9D9;padding:8.0pt 4.0pt 8.0pt 4.0pt;height:27.75pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-size:10.5pt;
+  color:#454545">B Division</span></b><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td><td width="285" valign="top" style="width:213.75pt;border:solid #444444 1.0pt;
+  border-left:none;mso-border-left-alt:solid #444444 .75pt;mso-border-alt:solid #444444 .75pt;
+  background:#D9D9D9;padding:8.0pt 4.0pt 8.0pt 4.0pt;height:27.75pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-size:10.5pt;
+  color:#454545">C Division</span></b><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td></tr><tr style="mso-yfti-irow:1;height:62.25pt"><td width="80" valign="top" style="width:60.0pt;border:solid #444444 1.0pt;
+  border-top:none;mso-border-top-alt:solid #444444 .75pt;mso-border-alt:solid #444444 .75pt;
+  padding:8.0pt 4.0pt 8.0pt 4.0pt;height:62.25pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-size:10.5pt;
+  color:#454545">2023</span></b><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td><td width="259" valign="top" style="width:194.25pt;border-top:none;border-left:
+  none;border-bottom:solid #444444 1.0pt;border-right:solid #444444 1.0pt;
+  mso-border-top-alt:solid #444444 .75pt;mso-border-left-alt:solid #444444 .75pt;
+  mso-border-alt:solid #444444 .75pt;padding:8.0pt 4.0pt 8.0pt 4.0pt;
+  height:62.25pt"><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">National School Games</span></b></p><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">Rugby ‘B’<span style="mso-spacerun:yes">&nbsp; </span>Division Championships</span></b></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">Bowl Category</span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">4th Placing</span><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td><td width="285" valign="top" style="width:213.75pt;border-top:none;border-left:
+  none;border-bottom:solid #444444 1.0pt;border-right:solid #444444 1.0pt;
+  mso-border-top-alt:solid #444444 .75pt;mso-border-left-alt:solid #444444 .75pt;
+  mso-border-alt:solid #444444 .75pt;padding:8.0pt 4.0pt 8.0pt 4.0pt;
+  height:62.25pt"><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">National School Games</span></b></p><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">Rugby ‘C’ Division Championships</span></b></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">Bowl Category</span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">Participation</span><span lang="EN" style="font-size:
+  12.0pt;color:#484848"></span></p></td></tr><tr style="mso-yfti-irow:2;height:62.25pt"><td width="80" valign="top" style="width:60.0pt;border:solid #444444 1.0pt;
+  border-top:none;mso-border-top-alt:solid #444444 .75pt;mso-border-alt:solid #444444 .75pt;
+  padding:8.0pt 4.0pt 8.0pt 4.0pt;height:62.25pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-size:10.5pt;
+  color:#454545">2022</span></b><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td><td width="259" valign="top" style="width:194.25pt;border-top:none;border-left:
+  none;border-bottom:solid #444444 1.0pt;border-right:solid #444444 1.0pt;
+  mso-border-top-alt:solid #444444 .75pt;mso-border-left-alt:solid #444444 .75pt;
+  mso-border-alt:solid #444444 .75pt;padding:8.0pt 4.0pt 8.0pt 4.0pt;
+  height:62.25pt"><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">National School Games</span></b></p><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">Rugby ‘B’ Division Championships</span></b></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">Bowl Category</span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">Champion</span><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td><td width="285" valign="top" style="width:213.75pt;border-top:none;border-left:
+  none;border-bottom:solid #444444 1.0pt;border-right:solid #444444 1.0pt;
+  mso-border-top-alt:solid #444444 .75pt;mso-border-left-alt:solid #444444 .75pt;
+  mso-border-alt:solid #444444 .75pt;padding:8.0pt 4.0pt 8.0pt 4.0pt;
+  height:62.25pt"><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">National School Games</span></b></p><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">Rugby ‘C’ Division Championships</span></b></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">Bowl Category</span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">4th Placing</span><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td></tr><tr style="mso-yfti-irow:3;height:27.75pt"><td width="80" valign="top" style="width:60.0pt;border:solid #444444 1.0pt;
+  border-top:none;mso-border-top-alt:solid #444444 .75pt;mso-border-alt:solid #444444 .75pt;
+  padding:8.0pt 4.0pt 8.0pt 4.0pt;height:27.75pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-size:10.5pt;
+  color:#454545">2019</span></b><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td><td width="259" valign="top" style="width:194.25pt;border-top:none;border-left:
+  none;border-bottom:solid #444444 1.0pt;border-right:solid #444444 1.0pt;
+  mso-border-top-alt:solid #444444 .75pt;mso-border-left-alt:solid #444444 .75pt;
+  mso-border-alt:solid #444444 .75pt;padding:8.0pt 4.0pt 8.0pt 4.0pt;
+  height:27.75pt"><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">-</span></b><span lang="EN" style="font-size:12.0pt;color:#484848"></span></p></td><td width="285" valign="top" style="width:213.75pt;border-top:none;border-left:
+  none;border-bottom:solid #444444 1.0pt;border-right:solid #444444 1.0pt;
+  mso-border-top-alt:solid #444444 .75pt;mso-border-left-alt:solid #444444 .75pt;
+  mso-border-alt:solid #444444 .75pt;padding:8.0pt 4.0pt 8.0pt 4.0pt;
+  height:27.75pt"><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">Saint 7s U-14 Rugby Championship:</span></b><span lang="EN" style="font-size:10.5pt;
+  color:#454545"> Champions</span><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td></tr><tr style="mso-yfti-irow:4;height:39.0pt"><td width="80" valign="top" style="width:60.0pt;border:solid #444444 1.0pt;
+  border-top:none;mso-border-top-alt:solid #444444 .75pt;mso-border-alt:solid #444444 .75pt;
+  padding:8.0pt 4.0pt 8.0pt 4.0pt;height:39.0pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-size:10.5pt;
+  color:#454545">2018</span></b><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td><td width="259" valign="top" style="width:194.25pt;border-top:none;border-left:
+  none;border-bottom:solid #444444 1.0pt;border-right:solid #444444 1.0pt;
+  mso-border-top-alt:solid #444444 .75pt;mso-border-left-alt:solid #444444 .75pt;
+  mso-border-alt:solid #444444 .75pt;padding:8.0pt 4.0pt 8.0pt 4.0pt;
+  height:39.0pt"><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">-</span></b><span lang="EN" style="font-size:12.0pt;color:#484848"></span></p></td><td width="285" valign="top" style="width:213.75pt;border-top:none;border-left:
+  none;border-bottom:solid #444444 1.0pt;border-right:solid #444444 1.0pt;
+  mso-border-top-alt:solid #444444 .75pt;mso-border-left-alt:solid #444444 .75pt;
+  mso-border-alt:solid #444444 .75pt;padding:8.0pt 4.0pt 8.0pt 4.0pt;
+  height:39.0pt"><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">National Schools U-14 Championships Dr Goh Keng Swee Shield:</span></b><span lang="EN" style="font-size:10.5pt;color:#454545"></span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">Bowl Category</span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">1st Placing</span><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td></tr><tr style="mso-yfti-irow:5;height:27.75pt"><td width="80" valign="top" style="width:60.0pt;border:solid #444444 1.0pt;
+  border-top:none;mso-border-top-alt:solid #444444 .75pt;mso-border-alt:solid #444444 .75pt;
+  padding:8.0pt 4.0pt 8.0pt 4.0pt;height:27.75pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-size:10.5pt;
+  color:#454545">2017</span></b><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td><td width="259" valign="top" style="width:194.25pt;border-top:none;border-left:
+  none;border-bottom:solid #444444 1.0pt;border-right:solid #444444 1.0pt;
+  mso-border-top-alt:solid #444444 .75pt;mso-border-left-alt:solid #444444 .75pt;
+  mso-border-alt:solid #444444 .75pt;padding:8.0pt 4.0pt 8.0pt 4.0pt;
+  height:27.75pt"><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">National Schools U-17 Championships Police Cup</span></b><span lang="EN" style="font-size:10.5pt;
+  color:#454545"></span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">Bowl Category</span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">3rd placing</span><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td><td width="285" valign="top" style="width:213.75pt;border-top:none;border-left:
+  none;border-bottom:solid #444444 1.0pt;border-right:solid #444444 1.0pt;
+  mso-border-top-alt:solid #444444 .75pt;mso-border-left-alt:solid #444444 .75pt;
+  mso-border-alt:solid #444444 .75pt;padding:8.0pt 4.0pt 8.0pt 4.0pt;
+  height:27.75pt"><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">National Schools U-14 Championships Dr Goh Keng Swee Shield:</span></b><span lang="EN" style="font-size:10.5pt;color:#454545"></span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">Bowl Category</span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">4th placing</span><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td></tr><tr style="mso-yfti-irow:6;height:27.75pt"><td width="80" valign="top" style="width:60.0pt;border:solid #444444 1.0pt;
+  border-top:none;mso-border-top-alt:solid #444444 .75pt;mso-border-alt:solid #444444 .75pt;
+  padding:8.0pt 4.0pt 8.0pt 4.0pt;height:27.75pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-size:10.5pt;
+  color:#454545">2016</span></b><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td><td width="259" valign="top" style="width:194.25pt;border-top:none;border-left:
+  none;border-bottom:solid #444444 1.0pt;border-right:solid #444444 1.0pt;
+  mso-border-top-alt:solid #444444 .75pt;mso-border-left-alt:solid #444444 .75pt;
+  mso-border-alt:solid #444444 .75pt;padding:8.0pt 4.0pt 8.0pt 4.0pt;
+  height:27.75pt"><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">National Schools U-17 Championships Police Cup</span></b><span lang="EN" style="font-size:10.5pt;
+  color:#454545"></span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">Bowl Category</span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">4th placing</span><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td><td width="285" valign="top" style="width:213.75pt;border-top:none;border-left:
+  none;border-bottom:solid #444444 1.0pt;border-right:solid #444444 1.0pt;
+  mso-border-top-alt:solid #444444 .75pt;mso-border-left-alt:solid #444444 .75pt;
+  mso-border-alt:solid #444444 .75pt;padding:8.0pt 4.0pt 8.0pt 4.0pt;
+  height:27.75pt"><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">National Schools U-14 Championships Dr Goh Keng Swee Shield:</span></b><span lang="EN" style="font-size:10.5pt;color:#454545"></span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">Bowl Category</span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">2nd placing</span><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td></tr><tr style="mso-yfti-irow:7;height:27.75pt"><td width="80" valign="top" style="width:60.0pt;border:solid #444444 1.0pt;
+  border-top:none;mso-border-top-alt:solid #444444 .75pt;mso-border-alt:solid #444444 .75pt;
+  padding:8.0pt 4.0pt 8.0pt 4.0pt;height:27.75pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-size:10.5pt;
+  color:#454545">2015</span></b><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td><td width="259" valign="top" style="width:194.25pt;border-top:none;border-left:
+  none;border-bottom:solid #444444 1.0pt;border-right:solid #444444 1.0pt;
+  mso-border-top-alt:solid #444444 .75pt;mso-border-left-alt:solid #444444 .75pt;
+  mso-border-alt:solid #444444 .75pt;padding:8.0pt 4.0pt 8.0pt 4.0pt;
+  height:27.75pt"><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">National Schools U-17 Championships Police Cup</span></b><span lang="EN" style="font-size:10.5pt;
+  color:#454545"></span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">Bowl Category</span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">2nd placing</span><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td><td width="285" valign="top" style="width:213.75pt;border-top:none;border-left:
+  none;border-bottom:solid #444444 1.0pt;border-right:solid #444444 1.0pt;
+  mso-border-top-alt:solid #444444 .75pt;mso-border-left-alt:solid #444444 .75pt;
+  mso-border-alt:solid #444444 .75pt;padding:8.0pt 4.0pt 8.0pt 4.0pt;
+  height:27.75pt"><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">National Schools U-14 Championships Dr Goh Keng Swee Shield:</span></b><span lang="EN" style="font-size:10.5pt;color:#454545"></span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">Bowl Category</span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">2nd placing</span><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:27.75pt"><td width="80" valign="top" style="width:60.0pt;border:solid #444444 1.0pt;
+  border-top:none;mso-border-top-alt:solid #444444 .75pt;mso-border-alt:solid #444444 .75pt;
+  padding:8.0pt 4.0pt 8.0pt 4.0pt;height:27.75pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="font-size:10.5pt;
+  color:#454545">2014</span></b><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td><td width="259" valign="top" style="width:194.25pt;border-top:none;border-left:
+  none;border-bottom:solid #444444 1.0pt;border-right:solid #444444 1.0pt;
+  mso-border-top-alt:solid #444444 .75pt;mso-border-left-alt:solid #444444 .75pt;
+  mso-border-alt:solid #444444 .75pt;padding:8.0pt 4.0pt 8.0pt 4.0pt;
+  height:27.75pt"><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">-</span><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td><td width="285" valign="top" style="width:213.75pt;border-top:none;border-left:
+  none;border-bottom:solid #444444 1.0pt;border-right:solid #444444 1.0pt;
+  mso-border-top-alt:solid #444444 .75pt;mso-border-left-alt:solid #444444 .75pt;
+  mso-border-alt:solid #444444 .75pt;padding:8.0pt 4.0pt 8.0pt 4.0pt;
+  height:27.75pt"><p class="MsoNormal" style="line-height:normal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN" style="font-size:10.5pt;color:#454545">National Schools U-14 Championships Dr Goh Keng Swee Shield:</span></b><span lang="EN" style="font-size:10.5pt;color:#454545"></span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">Bowl Category</span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
+  10.5pt;color:#454545">2nd placing</span><span lang="EN" style="font-size:12.0pt;
+  color:#484848"></span></p></td></tr></tbody></table>
