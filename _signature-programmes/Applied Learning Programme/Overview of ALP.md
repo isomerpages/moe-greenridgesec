@@ -21,9 +21,10 @@ Discover useful new skills for communicating in real-world situations. The ALP i
 - In Sec 2, students focus on producing video documentaries to raise awareness and influence change. In order to craft these video documentaries, students conduct research and interviews, and pick up skills on video production through workshops.
 ![](/images/ALP2023/alp004.jpg)Students work collaboratively with their peers to craft a storyboard for their video documentary. 
 ![](/images/ALP2023/alp005.jpg)Students film an interview. 
+![](/images/ALP2023/alp006.jpg)Students use green screen technology for their video production. 
 
 #### Nurturing Talents
 As part of the school’s commitment to nurture confident communicators, we groom talents in the various platforms of communication such as debating, emceeing, journalism, broadcasting and digital media production. Find out more by clicking on the links below! 
 -  Debating and Public Speaking 
-- Media and Journalism
-- Bilingualism
+-  Media and Journalism
+-  Bilingualism
