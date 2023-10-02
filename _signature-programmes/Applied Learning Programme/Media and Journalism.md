@@ -13,4 +13,4 @@ Be immersed in new media journalism through creating digital stories and documen
 
 ![](/images/ALP2023/nmj002.jpg)Students visit the Singapore Press Holdings Newsroom to interact with and learn from journalists and photojournalists.  
 
-![](/images/ALP2023/nmj003.jpg)The learning journey offers students a chance to witness the spaces in which news stories are written and broadcasted. 
+![](/images/ALP2023/nmj003.jpg)The learning journey offers students a chance to witness the spaces in which news stories are written and broadcasted.
