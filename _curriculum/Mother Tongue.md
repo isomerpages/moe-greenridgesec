@@ -4,7 +4,7 @@ permalink: /curriculum/mother-tongue/
 description: ""
 ---
 # **Mother Tongue**
-![](/images/MotherTongue2023/1%20mtl1.jpg)
+<img src="/images/MotherTongue2023/1%20mtl1.jpg" style="width:85%">
 ### OUR BELIEFS
 
 “To each what he originally had – his culture, his language, a link with his past, his heritage.” Mr Lee Kuan Yew, 1966
@@ -16,25 +16,25 @@ Our GSS Mother Tongue Languages (MTL) Department aims to provide our students wi
 #### PHOTO HIGHLIGHTS
 
 **Sec 2 Chinese Script Writing Workshop (MTL Enhanced ALP)**
-![](/images/MotherTongue2023/2%20cl%20drama.jpg)\
+<img src="/images/MotherTongue2023/2%20cl%20drama.jpg" style="width:75%">
 **Sec 1 Malay &amp; Tamil Lyrics Writing Workshop (MTL Enhanced ALP**
-![](/images/MotherTongue2023/3%20ml%20lyrics.jpg)<br>![](/images/MotherTongue2023/4%20tl%20lyrics.jpg)\
-**MTL Week Malay Kompang**
-![](/images/MotherTongue2023/5%20ml%20silat.jpeg)\
+<img src="/images/MotherTongue2023/3%20ml%20lyrics.jpg" style="width:75%"><br><img src="/images/MotherTongue2023/4%20tl%20lyrics.jpg" style="width:75%">
+**MTL Week Malay Silat*
+<img src="/images/MotherTongue2023/5%20ml%20silat.jpeg" style="width:75%">
 **MTL Week Tamil Dance**
-![](/images/MotherTongue2023/6%20tl%20dance.jpg)\
+<img src="/images/MotherTongue2023/6%20tl%20dance.jpg" style="width:75%">
 **MTL Week CL Taji**
-![](/images/MotherTongue2023/7%20cl%20taiji.jpg)\
+<img src="/images/MotherTongue2023/7%20cl%20taiji.jpg" style="width:75%">
 **Tamil Speaking Competition “Beauty of Tamil Language”**
-![](/images/MotherTongue2023/8%20beauty%20of%20tl.jpg)\
+<img src="/images/MotherTongue2023/8%20beauty%20of%20tl.jpg" style="width:75%">
 **与声剧来 ‘Script It Right’ Chinese Radio Drama Script Writing Competition 2023**
-![](/images/MotherTongue2023/9%20script%20it%20right.jpg)<br>![](/images/MotherTongue2023/10%20script%20it%20right%202.jpg)\
+<img src="/images/MotherTongue2023/9%20script%20it%20right.jpg" style="width:80%"><br><img src="/images/MotherTongue2023/10%20script%20it%20right%202.jpg" style="width:75%">
 **8th National Chinese Poetry-Writing Competition **
-![](/images/MotherTongue2023/11%20poems.jpg)\
+<img src="/images/MotherTongue2023/11%20poems.jpg" style="width:75%">
 16th National Secondary Schools Translation Competition 2023
-![](/images/MotherTongue2023/12%20translation.jpg)
+<img src="/images/MotherTongue2023/12%20translation.jpg" style="width:75%">
 
-#### COMPETITIONS &amp; ACCOLADES
+### COMPETITIONS &amp; ACCOLADES
    <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:"Microsoft JhengHei"; panose-1:2 11 6 4 3 5 4 4 2 4; mso-font-charset:136; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:679 684672000 22 0 1048585 0;} @font-face {font-family:"\\@Microsoft JhengHei"; mso-font-charset:136; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:679 684672000 22 0 1048585 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; mso-font-kerning:0pt; mso-ligatures:none; mso-ansi-language:EN;} .MsoPapDefault {mso-style-type:export-only; line-height:115%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} /\* List Definitions \*/ @list l0 {mso-list-id:914781730; mso-list-template-ids:-1729214610;} @list l0:level1 {mso-level-tab-stop:none; mso-level-number-position:left; margin-left:18.0pt; text-indent:-18.0pt;} @list l0:level2 {mso-level-number-format:alpha-lower; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:54.0pt; text-indent:-18.0pt;} @list l0:level3 {mso-level-number-format:roman-lower; mso-level-tab-stop:none; mso-level-number-position:right; margin-left:90.0pt; text-indent:-9.0pt;} @list l0:level4 {mso-level-tab-stop:none; mso-level-number-position:left; margin-left:126.0pt; text-indent:-18.0pt;} @list l0:level5 {mso-level-number-format:alpha-lower; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:162.0pt; text-indent:-18.0pt;} @list l0:level6 {mso-level-number-format:roman-lower; mso-level-tab-stop:none; mso-level-number-position:right; margin-left:198.0pt; text-indent:-9.0pt;} @list l0:level7 {mso-level-tab-stop:none; mso-level-number-position:left; margin-left:234.0pt; text-indent:-18.0pt;} @list l0:level8 {mso-level-number-format:alpha-lower; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:270.0pt; text-indent:-18.0pt;} @list l0:level9 {mso-level-number-format:roman-lower; mso-level-tab-stop:none; mso-level-number-position:right; margin-left:306.0pt; text-indent:-9.0pt;} @list l1 {mso-list-id:1239246921; mso-list-template-ids:305053928;} @list l1:level1 {mso-level-tab-stop:none; mso-level-number-position:left; margin-left:18.0pt; text-indent:-18.0pt;} @list l1:level2 {mso-level-number-format:alpha-lower; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:54.0pt; text-indent:-18.0pt;} @list l1:level3 {mso-level-number-format:roman-lower; mso-level-tab-stop:none; mso-level-number-position:right; margin-left:90.0pt; text-indent:-9.0pt;} @list l1:level4 {mso-level-tab-stop:none; mso-level-number-position:left; margin-left:126.0pt; text-indent:-18.0pt;} @list l1:level5 {mso-level-number-format:alpha-lower; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:162.0pt; text-indent:-18.0pt;} @list l1:level6 {mso-level-number-format:roman-lower; mso-level-tab-stop:none; mso-level-number-position:right; margin-left:198.0pt; text-indent:-9.0pt;} @list l1:level7 {mso-level-tab-stop:none; mso-level-number-position:left; margin-left:234.0pt; text-indent:-18.0pt;} @list l1:level8 {mso-level-number-format:alpha-lower; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:270.0pt; text-indent:-18.0pt;} @list l1:level9 {mso-level-number-format:roman-lower; mso-level-tab-stop:none; mso-level-number-position:right; margin-left:306.0pt; text-indent:-9.0pt;} ol {margin-bottom:0cm;} ul {margin-bottom:0cm;} -->
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="624" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
