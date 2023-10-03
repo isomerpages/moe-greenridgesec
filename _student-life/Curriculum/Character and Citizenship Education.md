@@ -97,5 +97,3 @@ The Education and Career Guidance (ECG) Programme supports our students in achie
 It takes a village to raise a child to be a citizen of good character who is resilient and demonstrates strong socio-emotional skills. With strong partnerships between home, school and community, we can work together to develop Greenridgeans as Confident Learners, Compassionate Leaders and Ethical Innovators. 
 
 ![](/images/CCE2023/cce017.png)
-
-
