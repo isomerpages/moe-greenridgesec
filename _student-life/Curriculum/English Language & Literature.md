@@ -26,7 +26,7 @@ We create opportunities for students to:
 <img style="width:80%" src="/images/ENGLISH%20LIT2023/el%20003.jpg">
 
 As part of our Applied Learning Programme in the English Language, we also develop our students to become confident and persuasive communicators. Click here to find out more!  
-PHOTO AND VIDEO HIGHLIGHTS
+### PHOTO AND VIDEO HIGHLIGHTS
 Students embark on learning journeys to the theatre that bring their Literature texts to life.
 
 
