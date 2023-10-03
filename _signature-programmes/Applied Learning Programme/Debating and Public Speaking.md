@@ -10,10 +10,10 @@ In today’s world, global awareness, critical thinking, and effective communica
 
 Through the talent development programme of our Applied Learning Programme (ALP) in English Language, we will help students to hone their public speaking skills so that they can speak with poise, eloquence and conviction, whether they are conducting an interview or delivering a speech. With the mentoring by highly experienced debate coaches and public speakers, students will be able to represent the school in national-level competitions such as the Singapore Secondary Schools Debating Championships and Orators’ Trophy.
 
-![](/images/ALP/alp-1a.jpg)
+<img src="/images/ALP/alp-1a.jpg" style="width:75%">
 &nbsp;Our debate team deep in discussion
-
-![](/images/ALP/alp-1b.JPG)
+<br><br>
+<img src="/images/ALP/alp-1b.JPG" style="width:75%">
 &nbsp;2nd place in the Singapore Secondary Schools Debating Championships 2023 (Division 3)<br><b>
 
 <iframe width="100%" height="385" src="https://www.youtube.com/embed/adFeKyQqygc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
