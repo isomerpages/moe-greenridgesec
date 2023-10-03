@@ -9,3 +9,5 @@ image: ""
 ---
 #### CCA Stand Down
 There will be no CCA from 18 September to 13 October in view of the End-of-Year Examinations.
+
+CCA will resume on 17th October 2023.

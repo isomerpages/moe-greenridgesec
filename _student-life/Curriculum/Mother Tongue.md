@@ -4,7 +4,7 @@ permalink: /student-life/curriculum/mother-tongue/
 description: ""
 third_nav_title: Curriculum
 ---
-# **Mother Tongue**
+# Mother Tongue
 ![](/images/MotherTongue2023/1%20mtl1.jpg)
 ### OUR BELIEFS
 

@@ -4,14 +4,14 @@ permalink: /student-life/curriculum/ict/
 third_nav_title: Curriculum
 description: ""
 ---
-### ICT
+# ICT
 ![](/images/ICT2023/ict-01.jpg)
-#### OUR BELIEFS
+### OUR BELIEFS
 We nurture our Greenridgeans to 
 - deepen their digital literacy skills and
 -	be responsible users of information technology 
 through active and integrated use of technology in our students’ learning experience.
-#### HOW WE ENGAGE OUR STUDENTS
+### HOW WE ENGAGE OUR STUDENTS
 
 In our journey to get our students to Imagine, Discover, Express, Accomplish and Serve, technology 
 - deepens our teachers' design of student-centric learning experiences
@@ -32,7 +32,7 @@ Our students are engaged to
 
   
 
-#### OUR STUDENTS & TEACHERS @ WORK
+### OUR STUDENTS & TEACHERS @ WORK
 
 **Secondary One Foundation Digital Skills & HBL Preparation**
 

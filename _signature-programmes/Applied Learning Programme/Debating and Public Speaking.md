@@ -15,3 +15,6 @@ Through the talent development programme of our Applied Learning Programme (ALP)
 
 ![](/images/ALP/alp-1b.JPG)
 &nbsp;2nd place in the Singapore Secondary Schools Debating Championships 2023 (Division 3)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/adFeKyQqygc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+&nbsp;A student participates in the Orators Trophy

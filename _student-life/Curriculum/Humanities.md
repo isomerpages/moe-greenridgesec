@@ -53,7 +53,7 @@ Students participate in conferences and&nbsp; competitions such as the Model ASE
 
 
 
-### Humanities Photograph 
+### Photo Highlights
 
 1.	In history lessons, students explore many authentic historical sources to enhance their learning experience as well as deepen their understanding of the subject. ![](/images/HUMANITIES2023/1%20exploring%20sources%20in%20history.jpeg)
 2.	Students get an opportunity to taste spices as well as smell them. This gives them an authentic experience of how spice traders in the early years would have honed their trade. ![](/images/HUMANITIES2023/2%20tasting%20spices%20in%20history.jpeg)
@@ -69,4 +69,3 @@ Students participate in conferences and&nbsp; competitions such as the Model ASE
 
 **Greenridge Secondary School NUS geography challenge 2022 creative component video**   
 Designing Blueprints for Our Green Futures
-
