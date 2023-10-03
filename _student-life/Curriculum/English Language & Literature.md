@@ -33,15 +33,21 @@ Students embark on learning journeys to the theatre that bring their Literature 
 
 As part of their submission to the National Schools’ Literature Festival, students created their own book trailer of the play ‘Don’t Know, Don’t Care”: 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BFIazst9rjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+A student speaks confidently in a floor debate at the Grand Finals of the Singapore Secondary Schools Debating Championships.
+<img style="width:60%" src="/images/ENGLISH%20LIT2023/el%20006.jpg">
+
 
 
 A student speaks confidently in a floor debate at the Grand Finals of the Singapore Secondary Schools Debating Championships.
 
 In July 2023, Literature students from Upper Secondary participated in the Set Text Round Table, as part of the National Schools’ Literature Festival. In this competition, students from all over Singapore engaged in a spirited and robust discussion on their literature text together. Students who participated in this competition are:
-LI GUO (3-9’2023)
-
-NUR SYAIDINA DANIYA BINTE SAID (4-10’2023), who was also awarded the “Engaging Diplomat Award”
-
+- LI GUO (3-9’2023)
+<img style="width:60%" src="/images/ENGLISH%20LIT2023/el%20007.jpg">
+- NUR SYAIDINA DANIYA BINTE SAID (4-10’2023), who was also awarded the “Engaging Diplomat Award”
+<img style="width:60%" src="/images/ENGLISH%20LIT2023/el%20008.jpg">
 
 
 Upper Secondary Literature students had the opportunity to watch a film adaptation of their Literature text, Boom, and engage the Director, Mr Derrick Chew, in a dialogue session about the themes, characters and artistic interpretation of the play.
+<img style="width:70%" src="/images/ENGLISH%20LIT2023/el%20009.jpg">
