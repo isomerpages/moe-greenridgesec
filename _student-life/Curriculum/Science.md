@@ -4,7 +4,7 @@ permalink: /student-life/curriculum/science/
 description: ""
 third_nav_title: Curriculum
 ---
-# **Science**
+# Science
 
 ### Our Beliefs
 
@@ -82,4 +82,3 @@ Our Secondary 1 students embraced the power of collaboration and innovation as t
 ![](/images/Science2023/terrarium_2.jpeg)
 
 In an exciting STEM activity, our Secondary 2 students built terrariums. This hands-on project allowed them to delve into several key aspects of science. They not only constructed functional terrariums but also grasped the water cycle and the vital role plants play in it. Furthermore, they learned about the significance of maintaining a harmonious ecosystem within these mini-worlds. This engaging experience not only fostered their scientific knowledge but also instilled a deeper appreciation for environmental sustainability. Our students' enthusiasm for learning shines through in their creative terrariums, showcasing their commitment to STEM education.
-
