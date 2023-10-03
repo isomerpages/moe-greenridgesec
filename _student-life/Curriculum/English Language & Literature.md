@@ -33,7 +33,7 @@ Students embark on learning journeys to the theatre that bring their Literature 
 
 As part of their submission to the National Schools’ Literature Festival, students created their own book trailer of the play ‘Don’t Know, Don’t Care”: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BFIazst9rjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/BFIazst9rjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 A student speaks confidently in a floor debate at the Grand Finals of the Singapore Secondary Schools Debating Championships.
 <img style="width:60%" src="/images/ENGLISH%20LIT2023/el%20006.jpg">
