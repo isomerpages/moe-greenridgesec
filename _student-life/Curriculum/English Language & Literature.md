@@ -44,9 +44,9 @@ A student speaks confidently in a floor debate at the Grand Finals of the Singap
 
 In July 2023, Literature students from Upper Secondary participated in the Set Text Round Table, as part of the National Schools’ Literature Festival. In this competition, students from all over Singapore engaged in a spirited and robust discussion on their literature text together. Students who participated in this competition are:
 - LI GUO (3-9’2023)
-<img style="width:60%" src="/images/ENGLISH%20LIT2023/el%20007.jpg">
+<img style="width:70%" src="/images/ENGLISH%20LIT2023/el%20007.jpg">
 - NUR SYAIDINA DANIYA BINTE SAID (4-10’2023), who was also awarded the “Engaging Diplomat Award”
-<img style="width:60%" src="/images/ENGLISH%20LIT2023/el%20008.jpg">
+<img style="width:70%" src="/images/ENGLISH%20LIT2023/el%20008.jpg">
 
 
 Upper Secondary Literature students had the opportunity to watch a film adaptation of their Literature text, Boom, and engage the Director, Mr Derrick Chew, in a dialogue session about the themes, characters and artistic interpretation of the play.
