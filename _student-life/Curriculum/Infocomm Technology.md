@@ -4,9 +4,9 @@ permalink: /student-life/curriculum/ict/
 third_nav_title: Curriculum
 description: ""
 ---
-### ICT
+# ICT
 ![](/images/ICT2023/ict-01.jpg)
-#### OUR BELIEFS
+### OUR BELIEFS
 We nurture our Greenridgeans to 
 - deepen their digital literacy skills and
 -	be responsible users of information technology 
