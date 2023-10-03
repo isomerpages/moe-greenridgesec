@@ -28,9 +28,8 @@ We create opportunities for students to:
 As part of our Applied Learning Programme in the English Language, we also develop our students to become confident and persuasive communicators. Click here to find out more!  
 ### PHOTO AND VIDEO HIGHLIGHTS
 Students embark on learning journeys to the theatre that bring their Literature texts to life.
-
-
-
+<img style="width:70%" src="/images/ENGLISH%20LIT2023/el%20004.jpg">\
+<img style="width:70%" src="/images/ENGLISH%20LIT2023/el%20005.jpg">
 
 As part of their submission to the National Schools’ Literature Festival, students created their own book trailer of the play ‘Don’t Know, Don’t Care”: 
 
@@ -45,8 +44,4 @@ NUR SYAIDINA DANIYA BINTE SAID (4-10’2023), who was also awarded the “Engagi
 
 
 
-Upper Secondary Literature students had the opportunity to watch a film adaptation of their Literature text, Boom, and engage the Director, Mr Derrick Chew, in a dialogue session about the themes, characters and artistic interpretation of the play. 
-
-
-
-
+Upper Secondary Literature students had the opportunity to watch a film adaptation of their Literature text, Boom, and engage the Director, Mr Derrick Chew, in a dialogue session about the themes, characters and artistic interpretation of the play.
