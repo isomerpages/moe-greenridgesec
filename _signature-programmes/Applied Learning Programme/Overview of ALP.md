@@ -26,5 +26,5 @@ Discover useful new skills for communicating in real-world situations. The ALP i
 #### Nurturing Talents
 As part of the school’s commitment to nurture confident communicators, we groom talents in the various platforms of communication such as debating, emceeing, journalism, broadcasting and digital media production. Find out more by clicking on the links below! 
 -  [Debating and Public Speaking ](https://greenridgesec.moe.edu.sg/signature-programmes/applied-learning-programme/debatenpublicspeaking/)
--  Media and Journalism
+-  [Media and Journalism](https://greenridgesec.moe.edu.sg/signature-programmes/applied-learning-programme/medianjournalism/)
 -  Bilingualism
