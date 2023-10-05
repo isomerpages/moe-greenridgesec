@@ -5,6 +5,7 @@ description: ""
 ---
 # **Mother Tongue**
 <img src="/images/MotherTongue2023/1%20mtl1.jpg" style="width:85%">
+
 ### OUR BELIEFS
 
 “To each what he originally had – his culture, his language, a link with his past, his heritage.” Mr Lee Kuan Yew, 1966
@@ -13,7 +14,7 @@ Quoting the vision of our founding Prime Minister Lee Kuan Yew for a bilingual S
 
 Our GSS Mother Tongue Languages (MTL) Department aims to provide our students with vibrant Mother Tongue language and cultural learning experiences, to encourage our students to use their respective Mother Tongue language in their daily lives and develop the passion for the life-long learning of their Mother Tongue Languages.
 
-#### PHOTO HIGHLIGHTS
+### PHOTO HIGHLIGHTS
 
 **Sec 2 Chinese Script Writing Workshop (MTL Enhanced ALP)**
 <img src="/images/MotherTongue2023/2%20cl%20drama.jpg" style="width:75%">
