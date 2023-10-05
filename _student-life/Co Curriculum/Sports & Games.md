@@ -4,10 +4,8 @@ permalink: /student-life/cca/sports-n-games/
 description: ""
 third_nav_title: Co Curriculum
 ---
-# **Sports & Games**
+# Sports &amp; Games
 
 
 
-| [RUGBY](/cca/sports-and-games/rugby) | [FOOTBALL](/cca/sports-and-games/football) | [VOLLEYBALL](/cca/sports-and-games/volleyball)| [TCHOUKBALL](/cca/sports-and-games/tchoukball) |[NETBALL](/cca/sports-and-games/netball) |
-| -------- | -------- | -------- | -------- | -------- |
-| | | | | |
+### [RUGBY](/cca/sports-and-games/rugby) <br>[FOOTBALL](/cca/sports-and-games/football) <br>[VOLLEYBALL](/cca/sports-and-games/volleyball)<br> [TCHOUKBALL](/cca/sports-and-games/tchoukball) <br>[NETBALL](/cca/sports-and-games/netball)

@@ -11,8 +11,8 @@ Candidates are to refer to their respective exam schedules shown on their entry 
 ##### **12 – 15 September: <u>Sec 3 MOE-OBS Camp Challenge 5D4N</u>**
 Our Sec 3 cohort will be experiencing the Outward Bound Singapore programme held at two venues:&nbsp;
 - OBSRAC (@ Punggol to Pulau Ubin)
-- OBSECC (@East Coast Campus)&nbsp;\
-Students not attending the MOE-OBS Camp will attend a Parallel Programme in school.
+- OBSECC (@East Coast Campus)&nbsp;<br>
+Students who are unable to attend the MOE-OBS Camp will attend a Parallel Programme in school.
 
 ##### **18 – 19 &amp; 21 September: <u>Sec 1 and Sec 2 MTL Oral Exam</u>**
 

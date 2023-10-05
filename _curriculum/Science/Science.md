@@ -64,7 +64,7 @@ We are thrilled to announce the outstanding performance of our students at the S
 
 ![](/images/Science2023/vertical%20garden_3.jpeg)
 
-As the key shifts in our Science education include providing students with more opportunities for interdisciplinary learning in STEM and encouraging students to learn for life, the secondary 1 students embarked on a journey to grow vegetables in the school’s vertical garden and Vegepods. 
+As the key shifts in our Science education include providing students with more opportunities for interdisciplinary learning in STEM and encouraging students to learn for life, the Secondary 1 students embarked on a journey to grow vegetables in the school’s vertical garden and Vegepods. 
 
 They completed the entire process, from germinating the seeds and transplanting them into the proper growth beds to watching the vegetables grow and harvesting them for donation to our neighbours.
 

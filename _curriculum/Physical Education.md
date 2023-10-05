@@ -128,18 +128,20 @@ ii.	National Physical Fitness Assessment (NAPFA)
 
 ##### PE Co-curriculum programmes organised include
 
-**Term 1**
+##### **Term 1**
 - Sports Carnival – Part 1
 -	Sec 1 OAL Camp [4D3N]![](/images/PHYEDU2023/sec%201%20oalcc.gif)
 
-**Term 2**
+##### **Term 2**
 - Annual Cross-Country 
 -	Sec 2, 4 &amp; 5 NAPFA
 ![](/images/PHYEDU2023/axc000.gif)
 
-Term 3 
--	Team Grit Challenge  &amp; Dance of the Nation Competition
+##### **Term 3**
+
+- Team Grit Challenge  &amp; Dance of the Nation Competition
 -	Sec 3 MOE-OBS Challenge Programme [5D4N]
 
-Term 4 
-●	Sports Carnival – Part 2
+##### **Term 4**
+
+-	Sports Carnival – Part 2
