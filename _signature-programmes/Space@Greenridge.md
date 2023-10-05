@@ -3,7 +3,7 @@ title: Space@Greenridge
 permalink: /signature-programmes/space-sreenridge/
 description: ""
 ---
-# Space@Greenridge
+### Space@Greenridge
 
 ### OUR MISSION
 At Greenridge Secondary School, we're all about helping students become an ethical innovator through Student-Initiated Learning (SIL). 
@@ -18,13 +18,24 @@ Interest-based workshops are organised every term to broaden students’ learnin
 
 ### PHOTO AND VIDEO HIGHLIGHTS
 
-‘Powered’ Toy Car Workshop 
+
+#### Eco-Pedal Boat Workshop 
+<iframe width="100%" height="385" src="https://www.youtube.com/embed/c0qIzU6GfF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+#### ‘Powered’ Toy Car Workshop 
+<iframe width="100%" height="385" src="https://www.youtube.com/embed/pVmqAC-85XY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>
 
 
-Eco-Pedal Boat Workshop 
+![](/images/Space2023/ecoboat-1.JPG)
 
- 
+![](/images/Space2023/ecoboat-2.JPG)
 
-Eco-Glow Up Workshop
+#### Eco-Glow Up Workshop
+![](/images/Space2023/ecoglow-1.JPG)
 
 
+![](/images/Space2023/ecoglow-2.jpg)
+
+![](/images/Space2023/ecoglow-3.JPG)
+
+![](/images/Space2023/ecoglow-4.jpg)
