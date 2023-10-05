@@ -6,10 +6,10 @@ third_nav_title: Co Curriculum
 ---
 # Co-Curricular Activities (CCA)
 
-#### OUR BELIEFS
+### OUR BELIEFS
 Co-curricular activities (CCA) are necessary and important in the life of a student. CCA is part of the holistic education delivered in an authentic setting. We believe CCA develops and strengthens core values and 21st Century Competencies and enhances the joy of learning.
 
-#### HOW WE ENGAGE OUR STUDENTS
+### HOW WE ENGAGE OUR STUDENTS
 
 Every CCA owns a Student Development Plan (SDP) designed to enable students to progressively learn knowledge, skills and values pertaining to the uniqueness of their CCA. Through CCA involvement, students will get to experience Imagine, Discover, Express, Achieve and Serve (IDEAS). CCA learning experience enables the school to develop confident learners, compassionate leaders, and ethical innovators. 
 
@@ -30,12 +30,12 @@ These are CCAs that will be offered in 2024:
 | [NPCC](/cca/uniformed-groups/npcc) |    | Tchoukball  |   |
 | Scouts	 |     | Volleyball (Girls)  |   |
 
-#### CCA Orientation and CCA Selection Try-outs
+### CCA Orientation and CCA Selection Try-outs
 
 All Secondary Ones will participate in CCA orientation and selection try-outs held in January over 2 weeks. We will inform students of the schedule for CCA try-outs at the start of the year. Secondary Ones will try-out for all CCAs before submitting their 3 CCA options. One of their 3 choices must include a Uniformed Youth Organisation because we believe UYO is strongest in capacity to develop student leadership skills. We will allocate students to a CCA that is most suitable for them based on the matching of their choices and results from the selection try-outs. New students joining the school in Secondary Two or Secondary Three will be allocated CCA of their choice.
 
 
-#### CCA Practice
+### CCA Practice
 
 Tuesday and Thursday are our official CCA practice days. CCAs typically start their practice at 3.00 pm and end at 5.30 pm or 6.00 pm. We advise students to stay in school to complete their homework before the start of CCA practice. 
 
@@ -51,5 +51,5 @@ We will also inform parents via Parents’ Gateway should there be any change to
 ●	Graduation Day<br>
 
 
-#### GSS Games Day and Open House
+### GSS Games Day and Open House
 Students Leaders from CCA will participate in leading their CCAs during the year-end Games Day and Open House as part of the Student Leadership Development Programme.
