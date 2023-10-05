@@ -1,6 +1,6 @@
 ---
 title: Space@Greenridge
-permalink: /signature-programmes/space-sreenridge/
+permalink: /signature-programmes/space-greenridge/
 description: ""
 ---
 ### Space@Greenridge
