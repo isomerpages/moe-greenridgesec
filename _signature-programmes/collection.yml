@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Space@Greenridge.md
       - Applied Learning Programme/.keep
       - Applied Learning Programme/Overview of ALP.md
       - Applied Learning Programme/Debating and Public Speaking.md
