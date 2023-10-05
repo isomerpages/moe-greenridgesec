@@ -64,5 +64,3 @@ Students participate in conferences and&nbsp; competitions such as the Model ASE
 7. In Social Studies curriculum, we encourage students to engage in contemporary issues discussions as well as self/ peer evaluation. This prompts them to develop into critical learners. ![](/images/HUMANITIES2023/7%20student%20self-directedness%20in%20social%20studies%20classrooms.jpeg)<br>
 ![](/images/HUMANITIES2023/8%20empowering%20students%20to%20lead%20discussions%20and%20evaluate%20peer%20work%20in%20social%20studies%20classrooms.jpeg)
 9. As part of the History learning experience, students are engaged in various learning journeys; some of these are virtual while many are visits to physical sites in Singapore. There, they get to interact with museum docents to learn in depth about various concepts and content in history. ![](/images/HUMANITIES2023/10%20history%20lj%20to%20nms.jpeg)<br> ![](/images/HUMANITIES2023/11%20history%20lj.jpeg)
-
-
