@@ -4,10 +4,5 @@ permalink: /co-curriculum/cca/
 description: ""
 third_nav_title: Performing Arts
 ---
-# Performing Arts
-
-![](/images/RESIZED%20Banner_CCA_PERFORMING%20ARTS.jpg)
-
-
-| [DANCE](/cca/performing-arts/dance) | [DRAMA](/cca/performing-arts/drama) | [CONCERT BAND](/cca/performing-arts/concert-band) |
-| --- | --- | --- | 
+# PERFORMING ARTS
+##  [CHOIR](/cca/performing-arts/choir)  <br>[CHINESE ORCHESTRA](/cca/performing-arts/chinese-orchestra) <br>[DANCE](/cca/performing-arts/dance)<br>  [DRAMA](/cca/performing-arts/drama) <br>[CONCERT BAND](/cca/performing-arts/concert-band)
