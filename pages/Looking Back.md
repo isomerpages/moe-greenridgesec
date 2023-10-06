@@ -178,3 +178,5 @@ Our theme for Teachers’ Day is ‘Magic is Might’. Teachers are our wonderfu
 ## September
 ### <u>Graduation Day</u><br>
 On Graduation Day, we honoured the hard work and dedication of our Class of 2023 that has brought them to this day, poised to step forward into the next chapter of their lives! With pride and joy, parents and teachers came together in celebrating this memorable occasion with our graduating cohort, as we remembered the moments that have shaped their individual stories, and the people who have been part of their journeys.
+
+<iframe loop="1" width="100%" height="315" src="https://www.youtube.com/embed/OmmLDS59w6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=0; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
