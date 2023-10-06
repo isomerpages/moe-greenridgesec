@@ -71,6 +71,7 @@ Selected Greenridgeans will be going on an immersive exchange programme to Thail
 
 <u>**Open House 2023**</u><br>
 Wondering about the rich learning experiences that Greenridge Secondary offers? Come visit us on 18 November, 8:30 am to 1 pm for our annual Open House to find out more! 
+![](/images/LOOKING%20AHEAD/open%20house%20poster_2.jpg)
 
 ##### **18 November 2023 – 1 January 2024: <u>Term 4 Vacation</u>**
 
