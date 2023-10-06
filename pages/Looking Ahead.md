@@ -69,9 +69,8 @@ Selected Greenridgeans will be going on an immersive exchange programme to Thail
 
 ##### **18 November: <u>GSS Open House</u>**
 
-Our annual Open House is on Saturday, 18 November from 8am to 1pm. All Primary Six students and their parents are invited to walk through our gates and get to know us!
-
-Our students are to make preparations to present the various school programmes they have been involved in this year, e.g. CCA exhibits, performances and subject exhibitions.&nbsp;
+<u>**Open House 2023**</u><br>
+Wondering about the rich learning experiences that Greenridge Secondary offers? Come visit us on 18 November, 8:30 am to 1 pm for our annual Open House to find out more! 
 
 ##### **18 November 2023 – 1 January 2024: <u>Term 4 Vacation</u>**
 
