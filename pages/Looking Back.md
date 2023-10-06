@@ -174,3 +174,7 @@ Both teams persevered and pressed on. We are pleased to see our girls emerged as
 
 #### <u>Teachers’ Day Celebration</u><br>
 Our theme for Teachers’ Day is ‘Magic is Might’. Teachers are our wonderful magicians. Their knowledge and the “magic” they use to create a conducive environment for their students. These are what nurtures Greenridgeans and encourages them to learn. With their endless efforts, teachers create MIGHT. So, on the 30th of August, we had a fantastic time with a class party before the concert began. The concert started with an ‘Enchanted Forest’ showcase, followed by song and dance performances as well as an extremely fun quiz about our teachers! We wish our teachers: A Very Happy Teachers’ Day!
+
+## September
+### <u>Graduation Day</u><br>
+On Graduation Day, we honoured the hard work and dedication of our Class of 2023 that has brought them to this day, poised to step forward into the next chapter of their lives! With pride and joy, parents and teachers came together in celebrating this memorable occasion with our graduating cohort, as we remembered the moments that have shaped their individual stories, and the people who have been part of their journeys.
