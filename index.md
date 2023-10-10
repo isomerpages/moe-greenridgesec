@@ -18,7 +18,7 @@ sections:
           description: ""
           url: /looking-great/
       url: /contact-us/
-      background: /images/Heros/greenridge secondary school_testt.gif
+      background: /images/Heros/greenridge secondary school _test.gif
   - resources:
       title: ANNOUNCEMENTS
       id: resources
