@@ -66,9 +66,9 @@ The bridging and remedial programme continues. (See 30 October)
 
 Selected Greenridgeans will be going on an ian overseas immersion exchange programme to Thailand.&nbsp;
 
-##### **18 November: <u>GSS Open House</u>**
+###  **18 November: <u>GSS Open House</u>**
 
-<u>**Open House 2023**</u><br>
+
 Wondering about the rich learning experiences that Greenridge Secondary offers? Come visit us on 18 November, 8:30 am to 1 pm for our annual Open House to find out more! 
 ![](/images/LOOKING%20AHEAD/open%20house%20poster_2.jpg)
 
