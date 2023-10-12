@@ -17,7 +17,6 @@ sections:
         - title: Looking Great!
           description: ""
           url: /looking-great/
-      url: /contact-us/
       background: /images/Heros/Hero 001v4.jpg
   - resources:
       title: ANNOUNCEMENTS
