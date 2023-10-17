@@ -17,6 +17,6 @@ Please take note that, for families with the below mentioned conditions, you are
 - Family with more than 3 grandparents in the household
 
 ##### <u>Application Form</u>
-e-FAS Application Form:: https://go.gov.sg/moe-efas (also available on Parents Gateway (under Services tab – Financial Assistance) via Singpass login)
+e-FAS Application Form::[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) (also available on Parents Gateway (under Services tab – Financial Assistance) via Singpass login)
 
 [MOE FAS Application Form  2024](/files/2024%20moe%20fas%20application%20form.pdf)
