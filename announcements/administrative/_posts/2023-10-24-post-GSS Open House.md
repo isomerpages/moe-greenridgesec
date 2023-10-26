@@ -1,7 +1,7 @@
 ---
 title: GSS Open House
-permalink: /announcements/administrative/permalink/
-date: 2023-10-10
+permalink: /announcements/administrative/openhouse2023/
+date: 2023-10-24
 layout: post
 description: ""
 image: ""

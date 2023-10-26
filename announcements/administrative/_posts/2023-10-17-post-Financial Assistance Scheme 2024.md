@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance Scheme 2024
-permalink: /announcements/administrative/permalink/
+permalink: /announcements/administrative/fas/
 date: 2023-10-17
 layout: post
 description: ""
