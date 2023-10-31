@@ -21,5 +21,4 @@ sections:
   - resources:
       title: ANNOUNCEMENTS
       id: resources
-      subtitle: ANNOUNCEMENTS
 ---
