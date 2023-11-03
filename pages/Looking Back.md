@@ -13,10 +13,8 @@ On Graduation Day, we honoured the hard work and dedication of our Class of 2023
 ## August	
 ### <u>National Day Celebration</u><br>
 The annual National Day Celebration is a day that we always look forward to. This year is no different as we come together as a whole school and strengthen our sense of nationhood. The theme of this year’s National Day is ‘Onward as One’. We are heartened that the theme corresponds so perfectly with our school motto: Together Onward! 😀
-
 #### <u>Tchoukball ‘C’ Division Championships</u><br>
-On the 23rd and 24th of August, our Tchoukballers participated in the Tchoukball ‘C’ Division Championships. Both our boys and girls teams put forth their trust and unity to overcome the challenges from other worthy opponents. We celebrate the resilience and teamwork they showed. 
- 
+On the 23rd and 24th of August, our Tchoukballers participated in the Tchoukball ‘C’ Division Championships. Both our boys and girls teams put forth their trust and unity to overcome the challenges from other worthy opponents. We celebrate the resilience and teamwork they showed. <br>
 Both teams persevered and pressed on. We are pleased to see our girls emerged as Champions in the Plate Category! 
 
 #### <u>Teachers’ Day Celebration</u><br>
@@ -33,7 +31,6 @@ During the event, they
 2. visited exhibition booths to discover their interests, skills and purpose as well as explore the different opportunities available
 3. tried hands-on activities at “Try-a-Skill” booths to experience the skills required in different industries; 
 4. watched Singapore competitors at the WorldSkills ASEAN competition arena pit their skills against their ASEAN counterparts.
-
 
 #### <u>Applied Learning Module (ApLM) programme</u><br>
 From 24-26 July 2023 (Mon-Wed), our students from Sec 3-1 and Sec 3-2 attended the Applied Learning Module (ApLM) programme. Through this programme, the students will be able to adopt applied learning approaches through hands-on and practical sessions at ITE. They will discover individual strengths and interests which will help them make more informed education and career choices.<br>
