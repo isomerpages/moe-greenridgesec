@@ -5,5 +5,5 @@ date: 2023-09-09
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
