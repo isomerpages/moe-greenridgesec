@@ -13,7 +13,7 @@ variant: markdown
 ##### All textbooks and uniform may be purchased on-site at Greenridge Secondary School (31 Gangsa Road, Singapore 678972)
 
 
-## Book List and Uniform 2024
+## Book List 2024
 
 
 <font size="5"> *Please click on your Class to view your booklists for 2024.*</font>
