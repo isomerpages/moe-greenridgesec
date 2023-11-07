@@ -32,6 +32,6 @@ variant: markdown
 
 |  |  | 
 | -------- | -------- |
-| Date Of Sale     | 14 Nov 2023 to 15 Dec 2023     |
+| Date Of Sales     | 14 Nov 2023 to 15 Dec 2023     |
 | Operating Hours   | Mon to Fri, 9am to 3pm (Closed on Sat, Sun &amp; Public Holidays)
 Levels    |Secondary 2 - 4 |
