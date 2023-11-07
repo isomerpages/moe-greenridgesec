@@ -7,4 +7,5 @@ description: ""
 image: ""
 variant: markdown
 ---
-
+Dear Parents, please click [HERE](/files/Book%20Lists%202024/2023%20year-end%20textbook%20and%20uniform%20sale_8nov23.pdf) to view letter
+&gt; <iframe src="https://cms.isomer.gov.sg/files/Book%20Lists%202024/2023%20year-end%20textbook%20and%20uniform%20sale_8nov23.pdf&quot;"></iframe>
