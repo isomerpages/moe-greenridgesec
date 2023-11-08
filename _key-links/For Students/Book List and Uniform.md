@@ -25,7 +25,7 @@ All textbooks and uniform may be purchased on-site at Greenridge Secondary Schoo
 
 |  | | |
 | -------- | -------- | -------- |
-|  |     |     |
+|               |               |               |
 
 
 
