@@ -36,7 +36,7 @@ All textbooks and uniform may be purchased on-site at Greenridge Secondary Schoo
 
 | | Bookshop Supplier | Uniform Supplier  |
 | -------- | :--------: | :--------: |
-|<b>Name of Supplier  </b>   | Casco Educational Supply Pte Ltd  | Hong Kong Tat Kee Tailor      |
+|Name of Supplier    | Casco Educational Supply Pte Ltd  | Hong Kong Tat Kee Tailor      |
 | WhatsApp message only    | -    | 98666192 (Miranda)     |
 | Email | [order@cascoedusupply.com.sg](order@cascoedusupply.com.sg)  | [info@hktatkee.com.sg](info@hktatkee.com.sg)   |
 | Website for Online Order   | [https://grss.cascoedusupply.com.sg/](https://grss.cascoedusupply.com.sg/) <br>(from 6 Nov onwards)    | [https://hongkongtatkee.com/](https://hongkongtatkee.com/)<br>(from 15 Nov onwards)    |
