@@ -56,3 +56,5 @@ All textbooks and uniform may be purchased on-site at Greenridge Secondary Schoo
 | Walk-in payment mode   | Cash, PayNow or NTUC Care Fund (e-Voucher) only   | Cash or PayNow only    |
 | Remarks      | Refer to booklist for more information     | 2024 Secondary 3 boys are required to purchase long pants    |
 |     |   |     |
+
+Dear parents and students, please refer to the [attached letter dated 8 November 2023](/files/Book%20Lists%202024/2023%20year-end%20textbook%20and%20uniform%20sale_8nov23.pdf);for details on the purchase of books and uniforms during the 2023 year-end school holidays.
