@@ -28,12 +28,11 @@ All textbooks and uniform may be purchased on-site at Greenridge Secondary Schoo
 |               |               |               |
 
 
-
 |  |  | 
 | -------- | -------- |
 | Date Of Sales     | 14 Nov 2023 to 15 Dec 2023     |
-| Operating Hours   | Mon to Fri, 9am to 3pm (Closed on Sat, Sun &amp; Public Holidays)
-|Levels    |Secondary 2 - 4 |
+| Operating Hours   | Mon to Fri, 9am to 3pm (Closed on Sat, Sun &amp; Public Holidays)  |
+|Levels    | Secondary 2 - 4 |
 |  |  |
 
 
