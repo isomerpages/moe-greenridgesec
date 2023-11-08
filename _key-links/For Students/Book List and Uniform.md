@@ -15,7 +15,7 @@ All textbooks and uniform may be purchased on-site at Greenridge Secondary Schoo
 ### Book List 2024
 
 
- *Please click on your Class to view your booklists for 2024.*
+ Please click on your Class to view your booklists for 2024.
 
 | Level | NT |  NA|  Exp |
 | -------- | -------- | -------- |-------- |
