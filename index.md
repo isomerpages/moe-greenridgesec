@@ -21,4 +21,14 @@ sections:
   - resources:
       title: ANNOUNCEMENTS
       id: resources
+  - infopic:
+      title: "18 November: GSS Open House"
+      subtitle: Add an image and text
+      id: infopic
+      description: >
+        Wondering about the rich learning experiences that Greenridge Secondary
+        offers? 
+      button: Button Text
+      image: /images/LOOKING AHEAD/open house poster_2.jpg
+      alt: Image alt text
 ---
