@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-### You may delay, but time will not.”
+### "You may delay, but time will not.”
 
                                      – Benjamin Franklin
 
