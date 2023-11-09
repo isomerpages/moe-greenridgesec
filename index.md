@@ -19,11 +19,11 @@ sections:
           url: /looking-great/
       background: /images/Heros/Hero 001v4.jpg
   - infopic:
-      title: "GSS Open House :18 November:"
+      title: GSS Open House :18 November
       id: infopic
       description: >
         Wondering about the rich learning experiences that Greenridge Secondary
-        offers? 
+        offers?  We welcome you.
       image: /images/LOOKING AHEAD/open house poster_2.jpg
       alt: Image alt text
   - resources:
