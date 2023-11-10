@@ -29,6 +29,11 @@ As ethical innovators, we collaborate and co-create in order to realise our imag
 Some of our best students’ Student Initiated Learning (SIL) projects were proudly exhibited! The learning they did on their own ranged from learning to bake, play a guitar, create a video game, write a novella, and learn sign language, among many others! All of us had a great time going from class to class looking at the products our students created this year. <br><br>
 They also put their initiative at the forefront as they go through three challenges: PET rocket competition, Marble Run contest and Fort Knight! Watch them in action on our Instagram page [https://www.instagram.com/greenridgesecsch/](https://www.instagram.com/greenridgesecsch/)
 ![](/images/SUMMIT2023/Our_Imagination.png)
+
+PET rocket competition , "Launch"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K57qxT6uSOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
 ### <u>Examination Season</u>
 Our students and teachers went through the rigorous preparation for the various examinations: the internal end-of-year exam and the GCE N and O level national examinations. We wish all our students all the best in showcasing what they have learnt!  
 
