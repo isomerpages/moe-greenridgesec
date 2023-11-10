@@ -5,6 +5,7 @@ date: 2023-10-24
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 ###  **18 November: <u>GSS Open House</u>**
 

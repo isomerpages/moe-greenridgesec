@@ -1,6 +1,6 @@
 ---
-title: Administrative jsjsjsj
-permalink: /announcements/administrative/administrative/
+title: Administrative Matters
+permalink: /announcements/administrative/administrative-matters/
 date: 2023-09-09
 layout: post
 description: ""

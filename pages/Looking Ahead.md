@@ -2,7 +2,21 @@
 title: Looking Ahead
 permalink: /looking-ahead/
 description: ""
+variant: markdown
 ---
+### LOOKING AHEAD TO … October
+
+#### <u> GSS Summit </u>
+This will be the first time Greenridgeans will be experiencing a rigorous 5-day programme full of exciting activities featuring the school’s key programmes from the Applied Learning Programme to Education and Career Guidance to Student Initiated Learning! 
+
+At the GSS Summit, our students will have the chance to acquire new skills and engage in the sharing of ideas and expertise with both their peers and professionals. This will be achieved through a variety of activities such as workshops, games, learning journeys, showcases, and competitions. We wait excitedly for a week of chock-a-block fun and learning!
+
+
+#### <u>GROW Programme </u>
+The school supports our students who require additional coaching and guidance in their academic pursuits to perform at a higher level. We work with our parents to help our students. This is a great opportunity for them to learn, unlearn and relearn.  
+
+
+
 ### LOOKING AHEAD TO … September
 ##### **11 – 18 September:<u> GCE N level exams</u>**
 

@@ -18,6 +18,16 @@ sections:
           description: ""
           url: /looking-great/
       background: /images/Heros/Hero 001v4.jpg
+  - infopic:
+      title: GSS Open House 18 Nov
+      id: infopic
+      description: Wondering about the rich learning experiences that Greenridge
+        Secondary offers to our students? We welcome you to our school's Open
+        House.See you soon!
+      image: /images/LOOKING AHEAD/OH1.jpg
+      alt: Image alt text
+      url: https://greenridgesec.moe.edu.sg/announcements/administrative/openhouse2023/
+      button: Open   House   Information
   - resources:
       title: ANNOUNCEMENTS
       id: resources
