@@ -2,10 +2,19 @@
 title: Looking Great
 permalink: /looking-great/
 description: ""
+variant: markdown
 ---
 # LOOKING GREAT! 🦚
 
 ### Curriculum Achievements in 2023
+
+##### <u>National Design Project Exhibition</u>
+
+At the National Design Project Exhibition, Minister Chan Chun Sing visited our exhibition booth! He posted this on his Instagram page: 
+
+Yu Cong, Vernette, Jun Fu, Rui Jie, Ezekiel and Solano from Greenridge Secondary School (@greenridgesecsch) developed 'Remindogatchi', a device that reminds seniors to take their medications through fun emojis on a display. Simple ideas, but very useful applications.
+
+Well done, Greenridgeans!
 
 
 
