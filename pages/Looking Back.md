@@ -4,6 +4,36 @@ permalink: /looking-back/
 description: ""
 variant: markdown
 ---
+
+## October	
+
+### <u>Post-Examination Activities</u>
+After all the hard work throughout the year, Greenridgeans reveled in a slew of fun and exciting activities to cap the year. The school organised GSS Summit, a series of activities centered around the school’s core programmes. Visit our Instagram to see all the action! Go to [https://www.instagram.com/greenridgesecsch/](https://www.instagram.com/greenridgesecsch/) now! 😊
+
+- <b>GSS Summit Day 1 – Our Future (Education and Career Guidance)</b>
+The school invited many speakers from different industries to provide Greenridgeans with exposure to a wide range of industries and professions to explore a multitude of career options.<br><br>
+Our Sec 1 students embarked on a learning journey to Our Tampines Hub where they learnt about Food Waste Management, providing them with the knowledge of food waste and how it is recycled and integrated back into nature in Singapore. One interesting activity was the Eco-Digester Learning Trail Tour and the Eco-Digester facility.<br><br>
+The Sec 2s went to different places, namely the Esplanade, the Singapore Sports Hub, the Build Construction and Authority – Samwoh, Copthorne King’s Hotel, and A-Star (Advanced Remanufacturing and Technology Centre). Some even got a chance to fly a plane in a flight simulator under the Flight 101 Program!<br><br>
+As for our Sec 3s, they were visited by professionals from industries such as Accountancy, Architecture &amp; Construction, Aviation, Business &amp; Enterprise, Creative &amp; Design, Consultancy, Early Childhood Education, Engineering, Game Design, Healthcare, Hotel and Tourism, Infocomm and IT Security, Media, and Urban Air Mobility.	 <br><br>
+
+
+- <b>GSS Summit Day 2 – Our Voices (Applied Learning Programme)</b>
+Our Applied Learning Programme in English and Mother Tongue Languages saw all our Sec 1, 2 and 3 students experience fun and games at the Carnival of Voices where a plethora of games and activities awaited our excited students. There were the Teleprompter Challenge, Charades, Magnetic Poetry, Batik Making, VR Tour of India and Top Painting, among others.<br><br>
+There were also 12 interactive sessions to choose from like ‘Be the Next JJ Lin or Taylor Swift: An Insiders Revelation to Songwriting’, Dikir Barat and ‘Being a Comic Creator in Singapore’. As if those are not enough, there was also a Deepavali Concert followed by a Debate Showcase by our GSS Orators. 
+
+- <b>GSS Summit Day 3 – Our Vitality </b>
+This was Play Day! Through three games: Road Relay, Tug of War   and Hoops Showdown  ! We had a whale of a time together. Demonstrating sportsmanship and our RIDGE values, we cheer for one another’s good performance and effort.
+
+
+- <b>GSS Summit Day 4 – Our Imagination</b>
+As ethical innovators, we collaborate and co-create in order to realise our imagination, design and creation! <br><br>
+Some of our best students’ Student Initiated Learning (SIL) projects were proudly exhibited! The learning they did on their own ranged from learning to bake, play a guitar, create a video game, write a novella, and learn sign language, among many others! All of us had a great time going from class to class looking at the products our students created this year. <br><br>
+They also put their initiative at the forefront as they go through three challenges: PET rocket competition, Marble Run contest and Fort Knight! Watch them in action on our Instagram page [https://www.instagram.com/greenridgesecsch/](https://www.instagram.com/greenridgesecsch/)
+
+### <u>Examination Season</u>
+Our students and teachers went through the rigorous preparation for the various examinations: the internal end-of-year exam and the GCE N and O level national examinations. We wish all our students all the best in showcasing what they have learnt!  
+
+
 ## September
 ### <u>Graduation Day</u><br>
 On Graduation Day, we honoured the hard work and dedication of our Class of 2023 that has brought them to this day, poised to step forward into the next chapter of their lives! With pride and joy, parents and teachers came together in celebrating this memorable occasion with our graduating cohort, as we remembered the moments that have shaped their individual stories, and the people who have been part of their journeys.
@@ -175,16 +205,3 @@ A whole host of activities were lined up for Greenridgeans to foster closer ties
 
 #### <u>GSS Celebrates Chinese New Year!</u><br>
 On Friday, 20th January, GSS rang in the Chinese New Year with vibrant festivities! We spruced up our classrooms, decorating them with New Year accessories and couplets. Various music and dance perform ances by our students and a quiz added to the joyous atmosphere. We revel in the lion dance performance and a surprise visitor from the God of Fortune himself!
-
-
-
-
-
-
-
-
-
-
-
-
-
