@@ -26,6 +26,8 @@ sections:
         House.See you soon!
       image: /images/LOOKING AHEAD/OH1.jpg
       alt: Image alt text
+      url: https://greenridgesec.moe.edu.sg/announcements/administrative/openhouse2023/
+      button: Open   House   Information
   - resources:
       title: ANNOUNCEMENTS
       id: resources
