@@ -24,7 +24,7 @@ sections:
       description: Wondering about the rich learning experiences that Greenridge
         Secondary offers to our students? We welcome you to our school's Open
         House.See you soon!
-      image: /images/LOOKING AHEAD/open house poster_2.jpg
+      image: /images/LOOKING AHEAD/OH1.jpg
       alt: Image alt text
   - resources:
       title: ANNOUNCEMENTS
