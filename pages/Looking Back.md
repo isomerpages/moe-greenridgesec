@@ -14,15 +14,15 @@ The school invited many speakers from different industries to provide Greenridge
 Our Sec 1 students embarked on a learning journey to Our Tampines Hub where they learnt about Food Waste Management, providing them with the knowledge of food waste and how it is recycled and integrated back into nature in Singapore. One interesting activity was the Eco-Digester Learning Trail Tour and the Eco-Digester facility.<br><br>
 The Sec 2s went to different places, namely the Esplanade, the Singapore Sports Hub, the Build Construction and Authority – Samwoh, Copthorne King’s Hotel, and A-Star (Advanced Remanufacturing and Technology Centre). Some even got a chance to fly a plane in a flight simulator under the Flight 101 Program!<br><br>
 As for our Sec 3s, they were visited by professionals from industries such as Accountancy, Architecture &amp; Construction, Aviation, Business &amp; Enterprise, Creative &amp; Design, Consultancy, Early Childhood Education, Engineering, Game Design, Healthcare, Hotel and Tourism, Infocomm and IT Security, Media, and Urban Air Mobility.	 <br><br>
-![](/images/SUMMIT2023/Our_Future.png)
+![](/images/SUMMIT2023/Our_Future.png)<br><br>
 
 - <b>GSS Summit Day 2 – Our Voices (Applied Learning Programme)</b>
 Our Applied Learning Programme in English and Mother Tongue Languages saw all our Sec 1, 2 and 3 students experience fun and games at the Carnival of Voices where a plethora of games and activities awaited our excited students. There were the Teleprompter Challenge, Charades, Magnetic Poetry, Batik Making, VR Tour of India and Top Painting, among others.<br><br>
 There were also 12 interactive sessions to choose from like ‘Be the Next JJ Lin or Taylor Swift: An Insiders Revelation to Songwriting’, Dikir Barat and ‘Being a Comic Creator in Singapore’. As if those are not enough, there was also a Deepavali Concert followed by a Debate Showcase by our GSS Orators. 
-![](/images/SUMMIT2023/Our_Voices.png)
+![](/images/SUMMIT2023/Our_Voices.png)<br><br>
 - <b>GSS Summit Day 3 – Our Vitality </b>
 This was Play Day! Through three games: Road Relay, Tug of War   and Hoops Showdown  ! We had a whale of a time together. Demonstrating sportsmanship and our RIDGE values, we cheer for one another’s good performance and effort.
-![](/images/SUMMIT2023/Our_Vitalty.png)
+![](/images/SUMMIT2023/Our_Vitalty.png)<br><br>
 
 - <b>GSS Summit Day 4 – Our Imagination</b>
 As ethical innovators, we collaborate and co-create in order to realise our imagination, design and creation! <br><br>
@@ -31,7 +31,7 @@ They also put their initiative at the forefront as they go through three challen
 ![](/images/SUMMIT2023/Our_Imagination.png)
 
 PET rocket competition , "Launch"
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K57qxT6uSOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K57qxT6uSOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br><br>
 
 
 ### <u>Examination Season</u>
