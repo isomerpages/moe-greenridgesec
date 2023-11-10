@@ -14,7 +14,7 @@ At the National Design Project Exhibition, Minister Chan Chun Sing visited our e
 
 Yu Cong, Vernette, Jun Fu, Rui Jie, Ezekiel and Solano from Greenridge Secondary School (@greenridgesecsch) developed 'Remindogatchi', a device that reminds seniors to take their medications through fun emojis on a display. Simple ideas, but very useful applications.
 
-Well done, Greenridgeans!
+Well done, Greenridgeans! ![](/images/LookingGreat2023/CCS.jpg)
 
 
 
