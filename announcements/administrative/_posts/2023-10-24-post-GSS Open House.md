@@ -15,3 +15,9 @@ Wondering about the rich learning experiences that Greenridge Secondary offers? 
 
 ### [CLICK ME !](https://www.instagram.com/reel/CzGlKXASRZX/?utm_source=ig_web_copy_link)
 
+
+### Watch the video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ca0s6ns3WyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br><br>
+
+
+
