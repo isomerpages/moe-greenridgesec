@@ -14,3 +14,4 @@ Wondering about the rich learning experiences that Greenridge Secondary offers? 
 ![](/images/LOOKING%20AHEAD/open%20house%20poster_2.jpg)
 
 ### [CLICK ME !](https://www.instagram.com/reel/CzGlKXASRZX/?utm_source=ig_web_copy_link)
+
