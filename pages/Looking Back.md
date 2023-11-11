@@ -31,7 +31,7 @@ They also put their initiative at the forefront as they go through three challen
 ![](/images/SUMMIT2023/Our_Imagination.png)
 
 PET rocket competition , "Launch"
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K57qxT6uSOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br><br>
+<iframe width="560" height="455" src="https://www.youtube.com/embed/K57qxT6uSOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br><br>
 
 
 ### <u>Examination Season</u>
