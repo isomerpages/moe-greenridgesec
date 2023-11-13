@@ -7,7 +7,7 @@ variant: markdown
 ## October	
 
 ### <u>Post-Examination Activities</u>
-After all the hard work throughout the year, Greenridgeans reveled in a slew of fun and exciting activities to cap the year. The school organised GSS Summit, a series of activities centered around the school’s core programmes. Visit our Instagram to see all the action! Go to [https://www.instagram.com/greenridgesecsch/](https://www.instagram.com/greenridgesecsch/) now! 😊
+At Greenridge Secondary, we end the year with the GSS Summit. It signifies us reaching the summit of Greenridge where we explore and celebrate our Imagination, Voices, Vitality and Future. Visit our Instagram to see all the action! Go to  [https://www.instagram.com/greenridgesecsch/](https://www.instagram.com/greenridgesecsch/) now! 😊
 
 - <b>GSS Summit Day 1 – Our Future (Education and Career Guidance)</b>
 The school invited many speakers from different industries to provide Greenridgeans with exposure to a wide range of industries and professions to explore a multitude of career options.<br><br>
