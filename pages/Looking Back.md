@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## October	
 
-### <u>Post-Examination Activities</u>
+### <u>GSS Summit</u>
 At Greenridge Secondary, we end the year with the GSS Summit. It signifies us reaching the summit of Greenridge where we explore and celebrate our Imagination, Voices, Vitality and Future. Visit our Instagram to see all the action! Go to  [https://www.instagram.com/greenridgesecsch/](https://www.instagram.com/greenridgesecsch/) now! 😊
 
 - <b>GSS Summit Day 1 – Our Future (Education and Career Guidance)</b>
