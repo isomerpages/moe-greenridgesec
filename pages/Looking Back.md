@@ -15,7 +15,7 @@ As the sun set, their adventure continued at the lively and vibrant night market
 Here are some highlights of their visit.
 
 Insert photo 5, 6, 7, 8, 9, 12, 16 with their captions
-Insert the video entitled ‘Thai Dance (1)’ and ‘note of appreciation’
+Insert the video entitled ‘Thai Dance (1)’, ‘Milking a Cow’ and ‘note of appreciation’
 
 
 ## October	
