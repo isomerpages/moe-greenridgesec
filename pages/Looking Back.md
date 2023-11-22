@@ -29,11 +29,14 @@ As the sun set, their adventure continued at the lively and vibrant night market
 
 ![Rice planting with Thai buddies.](/images/Bangkok2023/_16__Rice_planting_with_Thai_buddies.jpg)Rice planting with Thai buddies.
 
-A fantastic goal scored from the free kick by one of our talented ‘C’ Division players!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vxvnekhGunctrJddoPF14I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-Insert the video entitled ‘Thai Dance (1)’, ‘Milking a Cow’ and ‘note of appreciation’
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vxvnekhGunc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+Learning Thai Dance
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CG-rcGkn7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> Milking a Cow in Thailand Farm
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jHQge_buLMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+Note of Appreciation by Amani
 
 ## October	
 
