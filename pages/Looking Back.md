@@ -27,7 +27,8 @@ Here are some highlights of their visit.
 
 ![Rice planting with Thai buddies.](/images/Bangkok2023/_16__Rice_planting_with_Thai_buddies.jpg)Rice planting with Thai buddies.
 
-
+A fantastic goal scored from the free kick by one of our talented ‘C’ Division players!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vxvnekhGunctrJddoPF14I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Insert the video entitled ‘Thai Dance (1)’, ‘Milking a Cow’ and ‘note of appreciation’
 
