@@ -4,6 +4,20 @@ permalink: /looking-back/
 description: ""
 variant: markdown
 ---
+## November
+
+### <u>Internationalisation Programme – Visit to Suankularb Wittayalai Nonthaburi School</u>
+Overseas trips enhance our students’ global cultural literacy where they learn to appreciate the cultures of other countries, develop cross-cultural skills and build friendships across borders. on 14 November, 20 of our students, accompanied by 4 teachers, embarked on a 6-day exchange programme to Thailand. 
+The overseas experience aims to grow our students’ confidence in an international setting through enhancing their awareness of the history, culture and lifestyle of the Thai nation. Through this experiential learning, our students hone their awareness of the need to develop cultural sensitivity when interacting with our neighbouring countries. To facilitate this, the unique feature of this programme is that the students and staff from our partner school in Bangkok, Suankularb Wittayalai Nonthaburi School (SKNS), hosted our students over the duration of our visit and we will reciprocate and host them in Singapore when they visit in 2024.
+Weekend Adventures! Our students ventured into the world of farming with their SKNS buddies, creating unforgettable memories on a visit to a local farm. From planting rice to whipping up delicious egg dishes and making sweet treats, it was a hands-on experience like no other.
+
+As the sun set, their adventure continued at the lively and vibrant night market, adding the perfect finale to a day filled with laughter, learning and new friendships. It is turning out to be an experience of a lifetime!  
+Here are some highlights of their visit.
+
+Insert photo 5, 6, 7, 8, 9, 12, 16 with their captions
+Insert the video entitled ‘Thai Dance (1)’ and ‘note of appreciation’
+
+
 ## October	
 
 ### <u>GSS Summit</u>
