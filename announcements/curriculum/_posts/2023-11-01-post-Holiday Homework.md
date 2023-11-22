@@ -1,7 +1,7 @@
 ---
 title: Holiday Homework
 permalink: /announcements/curriculum/homework/
-date: 2023-11-07
+date: 2023-11-01
 layout: post
 description: ""
 image: ""

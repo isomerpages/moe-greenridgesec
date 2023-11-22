@@ -4,6 +4,40 @@ permalink: /looking-back/
 description: ""
 variant: markdown
 ---
+## November
+
+### <u>Internationalisation Programme – Visit to Suankularb Wittayalai Nonthaburi School</u>
+Overseas trips enhance our students’ global cultural literacy where they learn to appreciate the cultures of other countries, develop cross-cultural skills and build friendships across borders. on 14 November, 20 of our students, accompanied by 4 teachers, embarked on a 6-day exchange programme to Thailand. 
+
+The overseas experience aims to grow our students’ confidence in an international setting through enhancing their awareness of the history, culture and lifestyle of the Thai nation. Through this experiential learning, our students hone their awareness of the need to develop cultural sensitivity when interacting with our neighbouring countries. To facilitate this, the unique feature of this programme is that the students and staff from our partner school in Bangkok, Suankularb Wittayalai Nonthaburi School (SKNS), hosted our students over the duration of our visit and we will reciprocate and host them in Singapore when they visit in 2024.
+
+Weekend Adventures! Our students ventured into the world of farming with their SKNS buddies, creating unforgettable memories on a visit to a local farm. From planting rice to whipping up delicious egg dishes and making sweet treats, it was a hands-on experience like no other.
+
+As the sun set, their adventure continued at the lively and vibrant night market, adding the perfect finale to a day filled with laughter, learning and new friendships. It is turning out to be an experience of a lifetime!  
+##### Here are some highlights of their visit.
+![Classroom Experience](/images/Bangkok2023/_5__Classroom_experience.jpeg)Classroom Experience
+
+![Game Of Dodge Ball](/images/Bangkok2023/_6__Game_of_Dodge_ball.jpg)Game Of Dodge Ball
+
+![Learning a traditional Thai dance](/images/Bangkok2023/_7__Learning_a_traditional_Thai_dance.jpeg)Learning a traditional Thai dance
+
+![Learning to play Thai traditional music instruments.](/images/Bangkok2023/_8__Learning_to_play_Thai_traditional_instruments.jpeg)Learning to play Thai traditional music instruments.
+
+![Experience milking a cow.](/images/Bangkok2023/_9__Experience_milking_a_cow.jpg)Experience milking a cow.
+
+![Cooking our self-collected quail eggs](/images/Bangkok2023/_12__Cooking_our_self_collected_quail_eggs.jpg)Cooking our self-collected quail eggs
+
+![Rice planting with Thai buddies.](/images/Bangkok2023/_16__Rice_planting_with_Thai_buddies.jpg)Rice planting with Thai buddies.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vxvnekhGunc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+Learning Thai Dance
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CG-rcGkn7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> Milking a Cow in Thailand Farm
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jHQge_buLMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+Note of Appreciation by Amani
+
 ## October	
 
 ### <u>GSS Summit</u>
