@@ -15,20 +15,28 @@ Weekend Adventures! Our students ventured into the world of farming with their S
 
 As the sun set, their adventure continued at the lively and vibrant night market, adding the perfect finale to a day filled with laughter, learning and new friendships. It is turning out to be an experience of a lifetime!  
 ##### Here are some highlights of their visit.
-![Classroom Experience](/images/Bangkok2023/_5__Classroom_experience.jpeg)Classroom Experience
 
-![Game Of Dodge Ball](/images/Bangkok2023/_6__Game_of_Dodge_ball.jpg)Game Of Dodge Ball
+![](/images/Bangkok2023/_5__Classroom_experience.jpeg)
+Classroom Experience
 
-![Learning a traditional Thai dance](/images/Bangkok2023/_7__Learning_a_traditional_Thai_dance.jpeg)Learning a traditional Thai dance
+![](/images/Bangkok2023/_6__Game_of_Dodge_ball.jpg)
+Game Of Dodge Ball
 
-![Learning to play Thai traditional music instruments.](/images/Bangkok2023/_8__Learning_to_play_Thai_traditional_instruments.jpeg)Learning to play Thai traditional music instruments.
+![](/images/Bangkok2023/_7__Learning_a_traditional_Thai_dance.jpeg)
+Learning a traditional Thai dance
 
-![Experience milking a cow.](/images/Bangkok2023/_9__Experience_milking_a_cow.jpg)Experience milking a cow.
+![](/images/Bangkok2023/_8__Learning_to_play_Thai_traditional_instruments.jpeg)
+Learning to play Thai traditional music instruments.
 
-![Cooking our self-collected quail eggs](/images/Bangkok2023/_12__Cooking_our_self_collected_quail_eggs.jpg)Cooking our self-collected quail eggs
+![](/images/Bangkok2023/_9__Experience_milking_a_cow.jpg)
+Experience milking a cow.
 
-![Rice planting with Thai buddies.](/images/Bangkok2023/_16__Rice_planting_with_Thai_buddies.jpg)Rice planting with Thai buddies.
+![](/images/Bangkok2023/_12__Cooking_our_self_collected_quail_eggs.jpg)
+Cooking our self-collected quail eggs
 
+![](/images/Bangkok2023/_16__Rice_planting_with_Thai_buddies.jpg)
+Rice planting with Thai buddies.
+<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vxvnekhGunc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 Learning Thai Dance
