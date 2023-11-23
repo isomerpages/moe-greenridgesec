@@ -145,6 +145,9 @@ We started Term 3 joyously by commemorating Youth Day. On the 28th of June, in c
 - Super Park to challenge our physical self
 Universal Studios Singapore for a thrilling time
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CB96JKch6Jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
 ## May 	
 #### <u>Honours Day</u><br>
 The inaugural Honours Day, on the 5th of May, was when we recognised the achievements of our students in 2022. Being a newly merged school, the theme ‘Venture Forth’ is an apt one. Our Sec 1 to Sec 5 students’ accomplishments, in both former Fajar Secondary School and former Greenridge Secondary School, were celebrated with pomp and splendour. 
