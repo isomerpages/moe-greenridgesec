@@ -16,25 +16,25 @@ Weekend Adventures! Our students ventured into the world of farming with their S
 As the sun set, their adventure continued at the lively and vibrant night market, adding the perfect finale to a day filled with laughter, learning and new friendships. It is turning out to be an experience of a lifetime!  
 ##### Here are some highlights of their visit.
 
-![](/images/Bangkok2023/_5__Classroom_experience.jpeg)
+![](/images/Bangkok2023/5classroom_experience.jpeg)
 Classroom Experience
 
-![](/images/Bangkok2023/_6__Game_of_Dodge_ball.jpg)
+![](/images/Bangkok2023/6game_of_dodge_ball.jpg)
 Game Of Dodge Ball
 
-![](/images/Bangkok2023/_7__Learning_a_traditional_Thai_dance.jpeg)
+![](/images/Bangkok2023/7learning_a_traditional_thai_dance.jpeg)
 Learning a traditional Thai dance
 
-![](/images/Bangkok2023/_8__Learning_to_play_Thai_traditional_instruments.jpeg)
+![](/images/Bangkok2023/8learning_to_play_thai_traditional_instruments.jpeg)
 Learning to play Thai traditional music instruments.
 
-![](/images/Bangkok2023/_9__Experience_milking_a_cow.jpg)
+![](/images/Bangkok2023/9experience_milking_a_cow.jpg)
 Experience milking a cow.
 
-![](/images/Bangkok2023/_12__Cooking_our_self_collected_quail_eggs.jpg)
+![](/images/Bangkok2023/12cooking_our_self_collected_quail_eggs.jpg)
 Cooking our self-collected quail eggs
 
-![](/images/Bangkok2023/_16__Rice_planting_with_Thai_buddies.jpg)
+![](/images/Bangkok2023/16rice_planting_with_thai_buddies.jpg)
 Rice planting with Thai buddies.
 <br>
 
