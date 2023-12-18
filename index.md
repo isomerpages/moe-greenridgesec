@@ -52,7 +52,7 @@ sections:
             Post Secondary Pathways, 
 
             Joint Intake Exercise (JIE ‘N’, ‘E’, ‘H’) matters, please click the following.
-          link_text: "click here for Briefing Slides "
+          link_text: click here for Briefing Slides
           link_url: https://go.gov.sg/gss-gce-n
         - title: Admission or Transfer to Greenridge Secondary School
           date: 01 December 2023
