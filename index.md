@@ -50,10 +50,10 @@ sections:
           link_text: ""
           link_url: ""
         - title: Admission or Transfer to Greenridge Secondary School
-          date: 18 December 2023
+          date: 01 December 2023
           announcement: If you would like to seek admission or transfer to Greenridge
             Secondary School for your child/ward, please complete the online
             application form.
-          link_text: ""
-          link_url: ""
+          link_text: click here for online application form..
+          link_url: https://for.edu.sg/gssadmission
 ---
