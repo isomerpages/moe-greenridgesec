@@ -31,12 +31,26 @@ sections:
   - resources:
       title: ANNOUNCEMENTS
       id: resources
-  - infobar:
-      title: Admission or Transfer to Greenridge Secondary School
-      id: infobar
-      description: If you would like to seek admission or transfer to Greenridge
-        Secondary School for your child/ward, please complete the online
-        application form.
-      button: CLICK  for application form
-      url: https://for.edu.sg/gssadmission
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Release of GCE N Level Examination Results
+          date: 18 December 2023
+          announcement: >-
+            The GCE N Level Examination Results is out. For Joint Admission
+            Exercise Information,
+
+            Post Secondary Pathways, 
+
+            Joint Intake Exercise (JIE ‘N’, ‘E’, ‘H’) matters, please click the following.
+          link_text: click here for Briefing Slides
+          link_url: https://go.gov.sg/gss-gce-n
+        - title: Admission or Transfer to Greenridge Secondary School
+          date: 01 December 2023
+          announcement: If you would like to seek admission or transfer to Greenridge
+            Secondary School for your child/ward, please complete the online
+            application form.
+          link_text: click here for online application form..
+          link_url: https://for.edu.sg/gssadmission
 ---
