@@ -39,4 +39,19 @@ sections:
         application form.
       button: CLICK  for application form
       url: https://for.edu.sg/gssadmission
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Release of GCE N Level Examination Results
+          date: 18 December 2023
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+        - title: Admission or Transfer to Greenridge Secondary School
+          date: 18 December 2023
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
