@@ -42,13 +42,18 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: Release of GCE N Level Examination Results
           date: 18 December 2023
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+          announcement: >-
+            The GCE N Level Examination Results is out. For Joint Admission
+            Exercise Information,
+
+            Post Secondary Pathways, 
+
+            Joint Intake Exercise (JIE ‘N’, ‘E’, ‘H’) matters, please click the following.
+          link_text: "click here for Briefing Slides "
+          link_url: https://go.gov.sg/gss-gce-n
         - title: Admission or Transfer to Greenridge Secondary School
           date: 01 December 2023
           announcement: If you would like to seek admission or transfer to Greenridge
