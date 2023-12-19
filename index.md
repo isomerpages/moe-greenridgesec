@@ -40,6 +40,12 @@ sections:
             application form.
           link_text: click here for online application form..
           link_url: https://for.edu.sg/gssadmission
+        - title: Secondary One Registration 2023
+          date: 19 December 2023
+          announcement: Please click link below for information of Secondary One
+            Registration at Greenridge Secondary School
+          link_text: click me
+          link_url: https://greenridgesec.moe.edu.sg/sec-one-reg2023/
   - resources:
       title: ANNOUNCEMENTS
       id: resources
