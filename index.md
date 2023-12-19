@@ -53,4 +53,14 @@ sections:
             application form.
           link_text: click here for online application form..
           link_url: https://for.edu.sg/gssadmission
+  - textcards:
+      title: Latest
+      subtitle: quick announcements
+      id: textcards
+      cards:
+        - title: Booklist Page updated
+          description: Secondary One and Five book lists have been added. Click the link
+            below.
+          linktext: click me
+          url: https://greenridgesec.moe.edu.sg/book-list-and-uniform/
 ---
