@@ -18,23 +18,16 @@ sections:
           description: ""
           url: /looking-great/
       background: /images/Heros/Hero 001v4.jpg
-  - infopic:
-      title: GSS Open House 18 Nov
-      id: infopic
-      description: Wondering about the rich learning experiences that Greenridge
-        Secondary offers to our students? We welcome you to our school's Open
-        House.See you soon!
-      image: /images/LOOKING AHEAD/OH1.jpg
-      alt: Image alt text
-      url: https://greenridgesec.moe.edu.sg/announcements/administrative/openhouse2023/
-      button: Open   House   Information
-  - resources:
-      title: ANNOUNCEMENTS
-      id: resources
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Secondary One Registration 2023
+          date: 19 December 2023
+          announcement: Please click link below for information of Secondary One
+            Registration at Greenridge Secondary School
+          link_text: click me
+          link_url: https://greenridgesec.moe.edu.sg/sec-one-reg2023/
         - title: Release of GCE N Level Examination Results
           date: 18 December 2023
           announcement: >-
@@ -53,4 +46,27 @@ sections:
             application form.
           link_text: click here for online application form..
           link_url: https://for.edu.sg/gssadmission
+  - resources:
+      title: ANNOUNCEMENTS
+      id: resources
+  - textcards:
+      title: Latest
+      subtitle: quick announcements
+      id: textcards
+      cards:
+        - title: Booklist Page updated
+          description: Secondary One and Five book lists have been added. Click the link
+            below.
+          linktext: click me
+          url: https://greenridgesec.moe.edu.sg/book-list-and-uniform/
+  - infopic:
+      title: GSS Open House 18 Nov
+      id: infopic
+      description: Wondering about the rich learning experiences that Greenridge
+        Secondary offers to our students? We welcome you to our school's Open
+        House.See you soon!
+      image: /images/LOOKING AHEAD/OH1.jpg
+      alt: Image alt text
+      url: https://greenridgesec.moe.edu.sg/announcements/administrative/openhouse2023/
+      button: Open   House   Information
 ---
