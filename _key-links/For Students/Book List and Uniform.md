@@ -46,15 +46,14 @@ All textbooks and uniform may be purchased on-site at Greenridge Secondary Schoo
 | | Bookshop Supplier | Uniform Supplier  |
 | -------- | -------- | -------- |
 |Name of Supplier    | Casco Educational Supply Pte Ltd  | Hong Kong Tat Kee Tailor      |
+| Contact No.    | Sch bookshop: 62350683 (9am to 3pm)<br>Casco Office: 65474204 (9am to 5pm)     | 98666192 (Miranda)     |
 | WhatsApp message only    | -    | 98666192 (Miranda)     |
 | Email | [order@cascoedusupply.com.sg](order@cascoedusupply.com.sg)  | [info@hktatkee.com.sg](info@hktatkee.com.sg)   |
-| Website for Online Order   | [https://grss.cascoedusupply.com.sg/](https://grss.cascoedusupply.com.sg/) <br>(from 6 Nov onwards)    | [https://hongkongtatkee.com/](https://hongkongtatkee.com/)<br>(from 15 Nov onwards)    |
-| Sales/Collection Venue   | Classroom F2-01  | Gym (next to canteen)     |
-| Collection/Delivery Lead Time for Online Order    |- Collection in school will be ready within 3-5 working days <br>- Home delivery will take up to 2 weeks   | - Collection in school will be ready within 3-5 working days <br>- Home delivery will take up to 2 weeks    |
-| Online payment mode   | Credit or debit card, PayNow   | Credit or debit card     |
-| Home delivery charge | $13    | $12      |
-| Walk-in payment mode   | Cash, PayNow or NTUC Care Fund (e-Voucher) only   | Cash or PayNow only    |
-| Remarks      | Refer to booklist for more information     | 2024 Secondary 3 boys are required to purchase long pants    |
-|     |   |     |
+| Contact Person | Ching Ling or Amy Seah  | Shirly or Lian Thai   |
+| Website for Online Order   | [https://cascoedusupply.com.sg/](https://cascoedusupply.com.sg/)  | [https://hongkongtatkee.com/](https://hongkongtatkee.com/) |
+| 2024 Opening Hours   | Daily from Monday to Friday<br> 7:00 am to 3:00 pm | 2 ~ 5 Jan 2024 and <br>8 ~ 12 Jan 2024<br> 9:00 am to 3:00 pm     |
+| Venue of Sales / Collection in School (till end of 2023)  | Bookshop (next to Canteen)  | Gym (next to canteen)     |
+| Remarks      | You may also wish to purchase books during the first week of school as lessons will start only in Week 2 (i.e. from 8 Jan 2024) from the bookshop.  | Sales of school uniform, PE attire and bowtie/tie thereafter will be available through the bookshop after 12 Jan 2024.<br>The recommended school attire to purchase: <br>*2 sets of school uniform (shorts for Sec 1 boys),<br>*1 set of PE attire<br>*1 collar polo t-shirt<br>*	1 bowtie (girl) or tie (boy)<br><br><i>The bowtie/tie purchased will be kept by the uniform supplier and passed to your child's Form Teacher. It will be given to your child during the first week of school.</i>  |
+|    |    |    |
 
 Dear parents and students, please refer to the [attached letter dated 8 November 2023](/files/Book%20Lists%202024/2023%20year-end%20textbook%20and%20uniform%20sale_8nov23.pdf);for details on the purchase of books and uniforms during the 2023 year-end school holidays.
