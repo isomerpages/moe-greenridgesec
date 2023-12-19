@@ -50,10 +50,10 @@ All textbooks and uniform may be purchased on-site at Greenridge Secondary Schoo
 | | Bookshop Supplier | Uniform Supplier  |
 | -------- | -------- | -------- |
 |Name of Supplier    | Casco Educational Supply Pte Ltd  | Hong Kong Tat Kee Tailor      |
-| Contact No.    | Sch bookshop: 62350683 (9am to 3pm)<br>Casco Office: 65474204 (9am to 5pm)     | 98666192 (Miranda)     |
+| Contact No.    | Sch bookshop: 62350683 (9am to 3pm)<br>Casco Office: 65474204 (9am to 5pm)     | 62411933 (Shirley or Lian Thai)   |
 | WhatsApp message only    | -    | 98666192 (Miranda)     |
 | Email | [order@cascoedusupply.com.sg](order@cascoedusupply.com.sg)  | [info@hktatkee.com.sg](info@hktatkee.com.sg)   |
-| Contact Person | Ching Ling or Amy Seah  | Shirly or Lian Thai   |
+| Contact Person | Ching Ling or Amy Seah  | Shirley or Lian Thai   |
 | Website for Online Order   | [https://cascoedusupply.com.sg/](https://cascoedusupply.com.sg/)  | [https://hongkongtatkee.com/](https://hongkongtatkee.com/) |
 | 2024 Opening Hours   | Daily from Monday to Friday<br> 7:00 am to 3:00 pm | 2 ~ 5 Jan 2024 and <br>8 ~ 12 Jan 2024<br> 9:00 am to 3:00 pm     |
 | Venue of Sales / Collection in School (till end of 2023)  | Bookshop (next to Canteen)  | Gym (next to canteen)     |
