@@ -16,7 +16,7 @@ All textbooks and uniform may be purchased on-site at Greenridge Secondary Schoo
 
 
  Please click on your Class to view your booklists for 2024.<br>
- Secondary One and Secondary Five is same booklist for all streams.
+ <b>Secondary One and Secondary Five is same booklist for all streams.</b>
 
 | Level | NT |  NA|  Exp |
 | -------- | -------- | -------- | -------- |
