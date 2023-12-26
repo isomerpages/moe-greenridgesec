@@ -2,6 +2,7 @@
 title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
+variant: markdown
 ---
 # **Our Staff**
 
@@ -18,43 +19,41 @@ description: ""
 |<font size="4">Mr. Toh Wee Beng </font>   |<font size="4"> Vice-Principal(Admin)</font>  | <font size="4"><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a></font>   |
 |  |  |  | 
 	
-
 |   |   |   |
 |:--| :-- |---:|
-|<font size="3"> Mdm. Salina Bte Ismail </font>| <font size="3">School Staff Developer </font>  | <font size="3"><a href="mailto:salina_ismail@moe.edu.sg"> salina_ismail@moe.edu.sg </a></font>  |
-|<font size="3">Mr. Chiu Guo Vei </font> |<font size="3">HOD – Character &amp; Citizenship Education </font>  |<font size="3"> <a href="mailto:chiu_guo_vei@moe.edu.sg"> chiu_guo_vei@moe.edu.sg </a></font>   |
-|<font size="3">Mdm. Chng Yi Na  </font>  | <font size="3">HOD – English Language </font>  |<font size="3"> <a href="mailto:chng_yi_na@moe.edu.sg"> chng_yi_na@moe.edu.sg  </a></font>  |
-|<font size="3">Mdm. Christina D/O Joseph </font>|<font size="3"> HOD – Humanities </font>| <font size="3"><a href="mailto:christina_joseph@moe.edu.sg"> christina_joseph@moe.edu.sg </a></font>   |
-|<font size="3">Mdm. Wang Jieying Clara </font> | <font size="3">HOD – Information - Communications &amp; Technology </font> | <font size="3"><a href="mailto:wang_jieying_clara@moe.edu.sg"> wang_jieying_clara@moe.edu.sg  </a> </font>  |
-|<font size="3">Ms. Yong Hsueh Li, Shirley </font> |<font size="3">HOD – Innovation and Design </font>| <font size="3"><a href="mailto:yong_hsueh_li_shirley@moe.edu.sg"> yong_hsueh_li_shirley@moe.edu.sg </a></font> |
-|<font size="3">Mrs. Goh-Kok Mei Leng </font>  | <font size="3">HOD – Mathematics   </font> |<font size="3"><a href="mailto: kok_mei_leng@moe.edu.sg">  kok_mei_leng@moe.edu.sg </a></font>   |
-|<font size="3">Mdm. Tew Geok Eng </font> | <font size="3">HOD – Mathematics 	</font> |<font size="3"><a href="mailto:tew_geok_eng@moe.edu.sg">  tew_geok_eng@moe.edu.sg </a></font>   |
-|<font size="3">Mdm. Ng Tze Fang </font> | <font size="3">HOD – Mother Tongue Language</font> |<font size="3"><a href="mailto:ng_tze_fang@moe.edu.sg">ng_tze_fang@moe.edu.sg</a> </font> |
-|<font size="3">Mr. R Rajkumar   </font>  | <font size="3">HOD – Normal(Technical)  </font>  | <font size="3"><a href="mailto:r_rajkumar@moe.edu.sg"> r_rajkumar@moe.edu.sg   </a></font>   |
-|<font size="3">Ms. Ang Lip Eng Penny </font> |<font size="3"> HOD – Physical Education  CCA    </font>   | <font size="3"><a href="mailto:ang_lip_eng@moe.edu.sg"> ang_lip_eng@moe.edu.sg  </a></font>   |
-|<font size="3">Mr. Ahangama Badalge Terence </font> | <font size="3">HOD – Science </font>   |<font size="3"> <a href="mailto:ahangama_badalge_terence@moe.edu.sg">ahangama_badalge_terence@moe.edu.sg</a></font>   |
-|<font size="3">Mr. Yong Woei Shyang  </font>  | <font size="3">HOD – Student Management </font> | <font size="3"><a href="mailto:yong_woei_shyang@moe.edu.sg">yong_woei_shyang@moe.edu.sg  </a> </font>  |
-|<font size="3">Mr. Wong Shan Jing</font>  | <font size="3">HOD and Year Head (Sec 2/3) </font>  |<font size="3"><a href="mailto:wong_shan_jing@moe.edu.sg">wong_shan_jing@moe.edu.sg </a> </font>  |
-|<font size="3">Ms. Yiew Qifang Daphne </font>   |<font size="3">Year Head (Sec 1/4/5)</font>  | <font size="3"><a href="mailto:yiew_qifang_daphne@moe.edu.sg">yiew_qifang_daphne@moe.edu.sg </a> </font>  |
-|<font size="3">Mdm. Grace Foa Chee Zhu</font>  |<font size="3">SH – Character &amp; Citizenship Education </font> | <font size="3"><a href="mailto:foa_chee_zhu@moe.edu.sg">foa_chee_zhu@moe.edu.sg </a> </font>  |
-|<font size="3">Ms. Cheong Xinni Cheryl </font>  |<font size="3">SH – Chemistry </font>  |<font size="3"><a href="mailto:cheong_xinni_cheryl@moe.edu.sg">cheong_xinni_cheryl@moe.edu.sg </a></font>  |
-|<font size="3">Mdm. Shen Wei</font> |<font size="3">SH – Chinese Language </font>| <font size="3"><a href="mailto: shen_wei@moe.edu.sg"> shen_wei@moe.edu.sg   </a> </font>  |
-|<font size="3">Ms. Ng Huey Lee</font> | <font size="3">SH – Design &amp; Technology   </font>  |<font size="3"><a href="mailto: 	ng_huey_lee@moe.edu.sg"> 	ng_huey_lee@moe.edu.sg   </a> </font>  |
-|<font size="3">Ms. Meenatchi D/O Ramasamy</font>|<font size="3">SH – English Language </font>  |<font size="3"><a href="mailto:meenatchi_ramasamy@moe.edu.sg">meenatchi_ramasamy@moe.edu.sg  </a></font>   |
-|<font size="3">Ms. Nurhayati Bte Rahman</font>|<font size="3">SH – Geography </font>  | <font size="3"><a href="mailto:nurhayati_rahman@moe.edu.sg">nurhayati_rahman@moe.edu.sg </a></font>   |
-|<font size="3">Mr. Lim Yeun Chen Mark </font> |<font size="3">SH – Information-Communications &amp; Technology </font>  | <font size="3"><a href="mailto:lim_yeun_chen@moe.edu.sg">lim_yeun_chen@moe.edu.sg </a></font>   |
-|<font size="3">Mr Chin Zhi Hao</font>|<font size="3">SH – Mathematics </font>| <font size="3"><a href="mailto:chin_zhi_hao@moe.edu.sg">chin_zhi_hao@moe.edu.sg </a></font>   |
-|<font size="3">Ms. Sylvia Lim</font>|<font size="3">SH – Physical Education </font> |<font size="3"> <a href="mailto:lim_sze_hui_sylvia@moe.edu.sg">lim_sze_hui_sylvia@moe.edu.sg </a></font>   |
-|<font size="3">Ms. Lydia Bte Salim</font> |<font size="3">SH – Science &amp; Innovation </font>| <font size="3"><a href="mailto:lydia_salim@moe.edu.sg">lydia_salim@moe.edu.sg </a></font> |   
-|<font size="3">Mr. Shaifrizman Bin Maktar</font>|<font size="3">SH - Student Management </font> |<font size="3"><a href="mailto:shaifrizman_maktar@moe.edu.sg">shaifrizman_maktar@moe.edu.sg  </a></font>   |
-|<font size="3">Mdm. Lim Mei Tju</font>|<font size="3">ST – Art</font>|<font size="3"><a href="mailto:lim_mei_tju@moe.edu.sg">lim_mei_tju@moe.edu.sg </a></font>   |
-|<font size="3">Mdm. Liaw Poh Geok</font>|<font size="3">ST – Design and Technology </font>|<font size="3"><a href="mailto:liaw_poh_geok@moe.edu.sg">liaw_poh_geok@moe.edu.sg </a></font>   |
-|<font size="3">Ms. Maria Concepcion</font>|<font size="3">ST – English Language </font>|<font size="3"> <a href="mailto:maria_cgb@moe.edu.sg">maria_cgb@moe.edu.sg </a></font>   |
-|<font size="3">Mdm. Radiah Bte Matmin </font>| <font size="3">ST – Malay Language </font> | <font size="3"><a href="mailto:radiah_matmin@moe.edu.sg">radiah_matmin@moe.edu.sg  </a></font>|
-|<font size="3">Mr. Ong Eng Jye Ugene </font> | <font size="3">ST – Mathematics </font> | <font size="3"><a href="mailto:ong_eng_jye_ugene@moe.edu.sg">ong_eng_jye_ugene@moe.edu.sg </a></font>   |
-|<font size="3">Mdm. Sangeetha D/O Chandra</font>|<font size="3">ST – Mathematics </font> | <font size="3"><a href="mailto:sangeetha_chandra@moe.edu.sg">sangeetha_chandra@moe.edu.sg</a></font>|
+|<font size="3"> Mdm. Salina Bte Ismail </font>| <font size="3">School Staff Developer </font>  | <font size="3"><a href="mailto:salina_ismail@gss.gss.moe.edu.sg"> salina_ismail@gss.gss.moe.edu.sg </a></font>  |
+|<font size="3">Mr. Chiu Guo Vei </font> |<font size="3">HOD – Character &amp; Citizenship Education </font>  |<font size="3"> <a href="mailto:chiu_guo_vei@gss.moe.edu.sg"> chiu_guo_vei@gss.moe.edu.sg </a></font>   |
+|<font size="3">Mdm. Christina D/O Joseph </font>|<font size="3"> HOD – Humanities </font>| <font size="3"><a href="mailto:christina_joseph@gss.moe.edu.sg"> christina_joseph@gss.moe.edu.sg </a></font>   |
+|<font size="3">Mdm. Wang Jieying Clara </font> | <font size="3">HOD – Information - Communications &amp; Technology </font> | <font size="3"><a href="mailto:wang_jieying_clara@gss.moe.edu.sg"> wang_jieying_clara@gss.moe.edu.sg  </a> </font>  |
+|<font size="3">Ms. Yong Hsueh Li, Shirley </font> |<font size="3">HOD – Innovation and Design </font>| <font size="3"><a href="mailto:yong_hsueh_li_shirley@gss.moe.edu.sg"> yong_hsueh_li_shirley@gss.moe.edu.sg </a></font> |
+|<font size="3">Mrs. Goh-Kok Mei Leng </font>  | <font size="3">HOD – Mathematics   </font> |<font size="3"><a href="mailto: kok_mei_leng@gss.moe.edu.sg">  kok_mei_leng@gss.moe.edu.sg </a></font>   |
+|<font size="3">Mdm. Tew Geok Eng </font> | <font size="3">HOD – Mathematics 	</font> |<font size="3"><a href="mailto:tew_geok_eng@gss.moe.edu.sg">  tew_geok_eng@gss.moe.edu.sg </a></font>   |
+|<font size="3">Mdm. Ng Tze Fang </font> | <font size="3">HOD – Mother Tongue Language</font> |<font size="3"><a href="mailto:ng_tze_fang@gss.moe.edu.sg">ng_tze_fang@gss.moe.edu.sg</a> </font> |
+|<font size="3">Mr. R Rajkumar   </font>  | <font size="3">HOD – Normal(Technical)  </font>  | <font size="3"><a href="mailto:r_rajkumar@gss.moe.edu.sg"> r_rajkumar@gss.moe.edu.sg   </a></font>   |
+|<font size="3">Ms. Ang Lip Eng Penny </font> |<font size="3"> HOD – Physical Education  CCA    </font>   | <font size="3"><a href="mailto:ang_lip_eng@gss.moe.edu.sg"> ang_lip_eng@gss.moe.edu.sg  </a></font>   |
+|<font size="3">Mr. Ahangama Badalge Terence </font> | <font size="3">HOD – Science </font>   |<font size="3"> <a href="mailto:ahangama_badalge_terence@gss.moe.edu.sg">ahangama_badalge_terence@gss.moe.edu.sg</a></font>   |
+|<font size="3">Mr. Yong Woei Shyang  </font>  | <font size="3">HOD – Student Management </font> | <font size="3"><a href="mailto:yong_woei_shyang@gss.moe.edu.sg">yong_woei_shyang@gss.moe.edu.sg  </a> </font>  |
+|<font size="3">Mr. Wong Shan Jing</font>  | <font size="3">HOD and Year Head (Sec 2/3) </font>  |<font size="3"><a href="mailto:wong_shan_jing@gss.moe.edu.sg">wong_shan_jing@gss.moe.edu.sg </a> </font>  |
+|<font size="3">Ms. Yiew Qifang Daphne </font>   |<font size="3">Year Head (Sec 1/4/5)</font>  | <font size="3"><a href="mailto:yiew_qifang_daphne@gss.moe.edu.sg">yiew_qifang_daphne@gss.moe.edu.sg </a> </font>  |
+|<font size="3">Mdm. Grace Foa Chee Zhu</font>  |<font size="3">SH – Character &amp; Citizenship Education </font> | <font size="3"><a href="mailto:foa_chee_zhu@gss.moe.edu.sg">foa_chee_zhu@gss.moe.edu.sg </a> </font>  |
+|<font size="3">Ms. Cheong Xinni Cheryl </font>  |<font size="3">SH – Chemistry </font>  |<font size="3"><a href="mailto:cheong_xinni_cheryl@gss.moe.edu.sg">cheong_xinni_cheryl@gss.moe.edu.sg </a></font>  |
+|<font size="3">Mdm. Shen Wei</font> |<font size="3">SH – Chinese Language </font>| <font size="3"><a href="mailto: shen_wei@gss.moe.edu.sg"> shen_wei@gss.moe.edu.sg   </a> </font>  |
+|<font size="3">Ms. Meenatchi D/O Ramasamy</font>|<font size="3">SH – English Language </font>  |<font size="3"><a href="mailto:meenatchi_ramasamy@gss.moe.edu.sg">meenatchi_ramasamy@gss.moe.edu.sg  </a></font>   |
+|<font size="3">Ms. Nurhayati Bte Rahman</font>|<font size="3">SH – Geography </font>  | <font size="3"><a href="mailto:nurhayati_rahman@gss.moe.edu.sg">nurhayati_rahman@gss.moe.edu.sg </a></font>   |
+|<font size="3">Mr. Lim Yeun Chen Mark </font> |<font size="3">SH – Information-Communications &amp; Technology </font>  | <font size="3"><a href="mailto:lim_yeun_chen@gss.moe.edu.sg">lim_yeun_chen@gss.moe.edu.sg </a></font>   |
+|<font size="3">Mr Chin Zhi Hao</font>|<font size="3">SH – Mathematics </font>| <font size="3"><a href="mailto:chin_zhi_hao@gss.moe.edu.sg">chin_zhi_hao@gss.moe.edu.sg </a></font>   |
+|<font size="3">Ms. Sylvia Lim</font>|<font size="3">SH – Physical Education </font> |<font size="3"> <a href="mailto:lim_sze_hui_sylvia@gss.moe.edu.sg">lim_sze_hui_sylvia@gss.moe.edu.sg </a></font>   |
+|<font size="3">Ms. Lydia Bte Salim</font> |<font size="3">SH – Science &amp; Innovation </font>| <font size="3"><a href="mailto:lydia_salim@gss.moe.edu.sg">lydia_salim@gss.moe.edu.sg </a></font> |   
+|<font size="3">Mr. Shaifrizman Bin Maktar</font>|<font size="3">SH - Student Management </font> |<font size="3"><a href="mailto:shaifrizman_maktar@gss.moe.edu.sg">shaifrizman_maktar@gss.moe.edu.sg  </a></font>   |
+|<font size="3">Mdm. Lim Mei Tju</font>|<font size="3">ST – Art</font>|<font size="3"><a href="mailto:lim_mei_tju@gss.moe.edu.sg">lim_mei_tju@gss.moe.edu.sg </a></font>   |
+|<font size="3">Mdm. Liaw Poh Geok</font>|<font size="3">ST – Design and Technology </font>|<font size="3"><a href="mailto:liaw_poh_geok@gss.moe.edu.sg">liaw_poh_geok@gss.moe.edu.sg </a></font>   |
+|<font size="3">Ms. Maria Concepcion</font>|<font size="3">ST – English Language </font>|<font size="3"> <a href="mailto:maria_cgb@gss.moe.edu.sg">maria_cgb@gss.moe.edu.sg </a></font>   |
+|<font size="3">Mdm. Radiah Bte Matmin </font>| <font size="3">ST – Malay Language </font> | <font size="3"><a href="mailto:radiah_matmin@gss.moe.edu.sg">radiah_matmin@gss.moe.edu.sg  </a></font>|
+|<font size="3">Mr. Ong Eng Jye Ugene </font> | <font size="3">ST – Mathematics </font> | <font size="3"><a href="mailto:ong_eng_jye_ugene@gss.moe.edu.sg">ong_eng_jye_ugene@gss.moe.edu.sg </a></font>   |
+|<font size="3">Mdm. Sangeetha D/O Chandra</font>|<font size="3">ST – Mathematics </font> | <font size="3"><a href="mailto:sangeetha_chandra@gss.moe.edu.sg">sangeetha_chandra@gss.moe.edu.sg</a></font>|
 | | |<b><i> HOD : Head of Department<br>SH : Subject Head<br>ST : Senior Teacher</i> </b>
 |  |  |  |
+
 
 ### 2023 Form Teachers.
 	
@@ -120,14 +119,14 @@ description: ""
 
 |   |   |   |
 | :--| :-- | --: |
-|<font size="3">Mr. Leong Mun Sung Daniel </font> | <font size="3">Senior School Cousellor </font>| <font size="3"><a href="mailto:leong_mun_sung_daniel@moe.edu.sg"> leong_mun_sung_daniel@moe.edu.sg </a></font> |
-| <font size="3">Mdm. Clara Yap Bee Hoon </font> |<font size="3">School Counsellor </font>| <font size="3"><a href="mailto:clara_yap_bee_hoon@moe.edu.sg"> clara_yap_bee_hoon@moe.edu.sg </a></font>  |
-|<font size="3">Mr. Jeffrey Bin Abdul Mugni </font> | <font size="3">Senior Special Education Needs Officer </font> |<font size="3"> <a href="mailto:jeffrey_abdul_mugni@moe.edu.sg"> jeffrey_abdul_mugni@moe.edu.sg  </a></font> |
-| <font size="3">Ms. Gianna Gayatri Francis </font>	|<font size="3"> Special Education Needs Officer </font>| <font size="3"><a href="mailto:gianna_gayatri_mnomokan@moe.edu.sg"> gianna_gayatri_mnomokan@moe.edu.sg  </a></font>  |
-| <font size="3">Ms. Ismawati Bte Amar Mamori </font> | <font size="3">Education Career Guidance Counsellor </font>| <font size="3"><a href="mailto:ismawati_amar_mamori@moe.edu.sg"> ismawati_amar_mamori@moe.edu.sg  </a></font>  |
-| <font size="3">Ms. Koh Hui Yan </font> |<font size="3">Student Welfare Officer </font>| <font size="3"><a href="mailto:koh_hui_yan@moe.edu.sg"> koh_hui_yan@moe.edu.sg   </a></font>  |
-| <font size="3">Ms. Shawna Teo Lian Choo </font>| <font size="3">Allied Educator (T &amp; L)</font>| <font size="3"> <a href="mailto:shawna_teo_lian_choo@moe.edu.sg"> shawna_teo_lian_choo@moe.edu.sg </a></font> |
-	
+|<font size="3">Mr. Leong Mun Sung Daniel </font> | <font size="3">Senior School Cousellor </font>| <font size="3"><a href="mailto:leong_mun_sung_daniel@gss.moe.edu.sg"> leong_mun_sung_daniel@gss.moe.edu.sg </a></font> |
+| <font size="3">Mdm. Clara Yap Bee Hoon </font> |<font size="3">School Counsellor </font>| <font size="3"><a href="mailto:clara_yap_bee_hoon@gss.moe.edu.sg"> clara_yap_bee_hoon@gss.moe.edu.sg </a></font>  |
+|<font size="3">Mr. Jeffrey Bin Abdul Mugni </font> | <font size="3">Senior Special Education Needs Officer </font> |<font size="3"> <a href="mailto:jeffrey_abdul_mugni@gss.moe.edu.sg"> jeffrey_abdul_mugni@gss.moe.edu.sg  </a></font> |
+| <font size="3">Ms. Gianna Gayatri Francis </font>	|<font size="3"> Special Education Needs Officer </font>| <font size="3"><a href="mailto:gianna_gayatri_mnomokan@gss.moe.edu.sg"> gianna_gayatri_mnomokan@gss.moe.edu.sg  </a></font>  |
+| <font size="3">Ms. Ismawati Bte Amar Mamori </font> | <font size="3">Education Career Guidance Counsellor </font>| <font size="3"><a href="mailto:ismawati_amar_mamori@gss.moe.edu.sg"> ismawati_amar_mamori@gss.moe.edu.sg  </a></font>  |
+| <font size="3">Ms. Koh Hui Yan </font> |<font size="3">Student Welfare Officer </font>| <font size="3"><a href="mailto:koh_hui_yan@gss.moe.edu.sg"> koh_hui_yan@gss.moe.edu.sg   </a></font>  |
+| <font size="3">Ms. Shawna Teo Lian Choo </font>| <font size="3">Allied Educator (T &amp; L)</font>| <font size="3"> <a href="mailto:shawna_teo_lian_choo@gss.moe.edu.sg"> shawna_teo_lian_choo@gss.moe.edu.sg </a></font> |
+
 
 
 #### Executive and Administrative Staff
