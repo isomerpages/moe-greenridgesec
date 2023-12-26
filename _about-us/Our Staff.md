@@ -38,7 +38,6 @@ variant: markdown
 |<font size="3">Mdm. Grace Foa Chee Zhu</font>  |<font size="3">SH – Character &amp; Citizenship Education </font> | <font size="3"><a href="mailto:foa_chee_zhu@gss.moe.edu.sg">foa_chee_zhu@gss.moe.edu.sg </a> </font>  |
 |<font size="3">Ms. Cheong Xinni Cheryl </font>  |<font size="3">SH – Chemistry </font>  |<font size="3"><a href="mailto:cheong_xinni_cheryl@gss.moe.edu.sg">cheong_xinni_cheryl@gss.moe.edu.sg </a></font>  |
 |<font size="3">Mdm. Shen Wei</font> |<font size="3">SH – Chinese Language </font>| <font size="3"><a href="mailto: shen_wei@gss.moe.edu.sg"> shen_wei@gss.moe.edu.sg   </a> </font>  |
-|<font size="3">Ms. Ng Huey Lee</font> | <font size="3">SH – Design &amp; Technology   </font>  |<font size="3"><a href="mailto: 	ng_huey_lee@gss.moe.edu.sg"> 	ng_huey_lee@gss.moe.edu.sg   </a> </font>  |
 |<font size="3">Ms. Meenatchi D/O Ramasamy</font>|<font size="3">SH – English Language </font>  |<font size="3"><a href="mailto:meenatchi_ramasamy@gss.moe.edu.sg">meenatchi_ramasamy@gss.moe.edu.sg  </a></font>   |
 |<font size="3">Ms. Nurhayati Bte Rahman</font>|<font size="3">SH – Geography </font>  | <font size="3"><a href="mailto:nurhayati_rahman@gss.moe.edu.sg">nurhayati_rahman@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mr. Lim Yeun Chen Mark </font> |<font size="3">SH – Information-Communications &amp; Technology </font>  | <font size="3"><a href="mailto:lim_yeun_chen@gss.moe.edu.sg">lim_yeun_chen@gss.moe.edu.sg </a></font>   |
