@@ -2,6 +2,7 @@
 title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
+variant: markdown
 ---
 # **Our Staff**
 
@@ -23,7 +24,6 @@ description: ""
 |:--| :-- |---:|
 |<font size="3"> Mdm. Salina Bte Ismail </font>| <font size="3">School Staff Developer </font>  | <font size="3"><a href="mailto:salina_ismail@moe.edu.sg"> salina_ismail@moe.edu.sg </a></font>  |
 |<font size="3">Mr. Chiu Guo Vei </font> |<font size="3">HOD – Character &amp; Citizenship Education </font>  |<font size="3"> <a href="mailto:chiu_guo_vei@moe.edu.sg"> chiu_guo_vei@moe.edu.sg </a></font>   |
-|<font size="3">Mdm. Chng Yi Na  </font>  | <font size="3">HOD – English Language </font>  |<font size="3"> <a href="mailto:chng_yi_na@moe.edu.sg"> chng_yi_na@moe.edu.sg  </a></font>  |
 |<font size="3">Mdm. Christina D/O Joseph </font>|<font size="3"> HOD – Humanities </font>| <font size="3"><a href="mailto:christina_joseph@moe.edu.sg"> christina_joseph@moe.edu.sg </a></font>   |
 |<font size="3">Mdm. Wang Jieying Clara </font> | <font size="3">HOD – Information - Communications &amp; Technology </font> | <font size="3"><a href="mailto:wang_jieying_clara@moe.edu.sg"> wang_jieying_clara@moe.edu.sg  </a> </font>  |
 |<font size="3">Ms. Yong Hsueh Li, Shirley </font> |<font size="3">HOD – Innovation and Design </font>| <font size="3"><a href="mailto:yong_hsueh_li_shirley@moe.edu.sg"> yong_hsueh_li_shirley@moe.edu.sg </a></font> |
