@@ -6,7 +6,7 @@ variant: markdown
 ---
 # **Our Staff**
 
-## STAFF DIRECTORY 2023
+## STAFF DIRECTORY 2024
 
 ### Leadership Team
 
