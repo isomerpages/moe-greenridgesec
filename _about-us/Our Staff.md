@@ -28,7 +28,6 @@ variant: markdown
 |<font size="3">Mrs. Goh-Kok Mei Leng </font>  | <font size="3">HOD – Mathematics   </font> |<font size="3"><a href="mailto: kok_mei_leng@gss.moe.edu.sg">  kok_mei_leng@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mdm. Tew Geok Eng </font> | <font size="3">HOD – Mathematics 	</font> |<font size="3"><a href="mailto:tew_geok_eng@gss.moe.edu.sg">  tew_geok_eng@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mdm. Ng Tze Fang </font> | <font size="3">HOD – Mother Tongue Language</font> |<font size="3"><a href="mailto:ng_tze_fang@gss.moe.edu.sg">ng_tze_fang@gss.moe.edu.sg</a> </font> |
-|<font size="3">Mr. R Rajkumar   </font>  | <font size="3">HOD – Normal(Technical)  </font>  | <font size="3"><a href="mailto:r_rajkumar@gss.moe.edu.sg"> r_rajkumar@gss.moe.edu.sg   </a></font>   |
 |<font size="3">Ms. Ang Lip Eng Penny </font> |<font size="3"> HOD – Physical Education  CCA    </font>   | <font size="3"><a href="mailto:ang_lip_eng@gss.moe.edu.sg"> ang_lip_eng@gss.moe.edu.sg  </a></font>   |
 |<font size="3">Mr. Ahangama Badalge Terence </font> | <font size="3">HOD – Science </font>   |<font size="3"> <a href="mailto:ahangama_badalge_terence@gss.moe.edu.sg">ahangama_badalge_terence@gss.moe.edu.sg</a></font>   |
 |<font size="3">Mr. Yong Woei Shyang  </font>  | <font size="3">HOD – Student Management </font> | <font size="3"><a href="mailto:yong_woei_shyang@gss.moe.edu.sg">yong_woei_shyang@gss.moe.edu.sg  </a> </font>  |
