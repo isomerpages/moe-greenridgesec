@@ -16,7 +16,6 @@ variant: markdown
 |<font size="4"> Mr. Ng Boon Kiat</font>|<font size="4"> Principal</font>|<font size="4"><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a></font> |
 |<font size="4"> Mrs. Dalina Abdullah - Firdouse</font>|<font size="4"> Vice-Principal</font> | <font size="4"><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg </a></font> |
 |<font size="4"> Mr. Arthur Ngoh </font> |<font size="4"> Vice-Principal </font>  | <font size="4"><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg </a></font>  |
-|<font size="4">Mr. Toh Wee Beng </font>   |<font size="4"> Vice-Principal(Admin)</font>  | <font size="4"><a href="mailto:gss@moe.edu.sg"> gss@moe.edu.sg</a></font>   |
 |  |  |  | 
 	
 |   |   |   |
