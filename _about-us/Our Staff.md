@@ -55,64 +55,60 @@ variant: markdown
 |  |  |  |
 
 
-### 2023 Form Teachers.
+### 2024 Form Teachers.
 	
 |   <font size="5">CLASS</font>|<font size="5">Secondary One</font>|   |    |
 |:--| :-- |:---|:---|
-|<font size="3"> 1-1  </font>|<font size="3"><a href="mailto:teo_chin_ling_grace@moe.edu.sg"> Ms. Teo Chin Ling Grace (Math) </a></font>|<font size="3"><a href="mailto:sazali_rahmat@moe.edu.sg"> Mr Sazali Rahmat (ART) </a></font>|   | 
-|<font size="3"> 1-2  </font>|<font size="3"><a href="mailto:shen_wei@moe.edu.sg"> Mdm. Shen Wei (CL)  </a></font>|<font size="3"><a href="mailto:lee_wei_song@moe.edu.sg"> Mr Lee Wei Song (SS/EL) </a></font>|   | 
-|<font size="3"> 1-3  </font>|<font size="3"><a href="mailto:lim_sze_hui_sylvia@moe.edu.sg"> Ms. Sylvia Lim (PE)  </a></font>|<font size="3"><a href="mailto:siti_khatijah_ahmad@moe.edu.sg"> Mdm. Siti Khatijah Binte Ahmad (ML) </a></font>|   | 
-|<font size="3"> 1-4  </font>|<font size="3"><a href="mailto:YUANA_MUHAMAD@MOE.EDU.SG"> Mdm Yuana Bte Muhamad (ML) </a></font>|<font size="3"><a href="mailto:tan_ai_choo@moe.edu.sg"> Ms Tan Ai Choo (Maths)</a></font>|   | 
-|<font size="3"> 1-5  </font>|<font size="3"><a href="mailto:cheong_xinni_cheryl@moe.edu.sg"> Ms. Cheryl Cheong (Chemistry)   </a></font>|<font size="3"><a href="mailto:sivaprakasam_uthayarani@moe.edu.sg"> Ms. Sivaprakasam Uthayarani (TL) </a></font>| | 
-|<font size="3"> 1-6 </font>|<font size="3"><a href="mailto:chew_cheng_boon@moe.edu.sg"> Mr Chew Cheng Boon (Chemistry) </a></font>|<font size="3"><a href="mailto:poon_sook_keng@moe.edu.sg"> Mdm Poon Sook Keng (CL) </a></font> |   | 
-|<font size="3"> 1-7 </font>|<font size="3"><a href="mailto:hemalatha_a_sivakumar@moe.edu.sg"> Ms. Hemalatha D/O Sivakumar (FCE)</a></font>|<font size="3"><a href="mailto:cynthia_lim_xin_ru@moe.edu.sg"> Ms. Cynthia Lim Xin Ru (EL Lit) </a></font> | |
+|<font size="3"> 1-1  </font>|<font size="3"><a href="mailto:lau_yan_wei@gss.moe.edu.sg"> Mr Lau Yan Wei (CL) </a></font>|<font size="3"><a href="mailto:natasha_ashikin_nor_sam@gss.moe.edu.sg"> Mdm. Natasha Ashikin Bte Nor S.A (Music)</a></font>|   | 
+|<font size="3"> 1-2  </font>|<font size="3"><a href="mailto:muhammad_faiz_rosli@gss.moe.edu.sg"> Mr Muhammad Faiz (SS) </a></font>|<font size="3"><a href="mailto:rajarajeswari_anbazhagan@gss.moe.edu.sg"> Mdm. Rajarajeswari Anbazhagan (TL) </a></font>|   | 
+|<font size="3"> 1-3  </font>|<font size="3"><a href="mailto:siti_fasihah_borhan@gss.moe.edu.sg"> Ms. Siti Fasihah Borhan (ML) </a></font>|<font size="3"><a href="mailto:oei_jacqueline_joan@gss.moe.edu.sg"> Ms. Oei Jacqueline Joan (Chemistry) </a></font>|   | 
+|<font size="3"> 1-4  </font>|<font size="3"><a href="mailto:yap_xiao_ting@gss.moe.edu.sg"> Ms. Yap Xiao Ting (Phy)  </a></font>|<font size="3"><a href="mailto:viknesh_kumar_somu@gss.moe.edu.sg"> Mr Viknesh Kumar Somu  (EL/SS) </a></font>|   | 
+|<font size="3"> 1-5  </font>|<font size="3"><a href="mailto:koh_kha_chuang@gss.moe.edu.sg"> Mr Koh Kha Chuang (Physics)   </a></font>|<font size="3"><a href="mailto:haslinda_rasul@gss.moe.edu.sg"> Ms. Haslinda Rasul (FCE) </a></font>| | 
+|<font size="3"> 1-6 </font>|<font size="3"><a href="mailto:lee_yue_zhi@gss.moe. edu.sg"> Ms. Lee Yue Zhi (Music) </a></font>|<font size="3"><a href="mailto:lee_wei_song@gss.moe.edu.sg"> Mr Lee Wei Song (SS/EL) </a></font> |   | 
+|<font size="3"> 1-7 </font>|<font size="3"><a href="mailto:tan_jui_chin_bernard@gss.moe.edu.sg">Tan Jui Chin Bernard (CPA/ D’&amp;’T) </a></font>|<font size="3"><a href="mailto:lim_wan_han@gss.moe.edu.sg"> Ms. Lim Wan Han (EL) </a></font> | |
+|<font size="3"> 1-8 </font>|<font size="3"><a href="mailto:ng_jia_ling_christine@gss.moe.edu.sg"> Ms. Ng Jia Ling Christine (Math) </a></font>|<font size="3"><a href="mailto:veera@gss.moe.edu.sg"> Mr. Veera ( ) </a></font> | |
 |_ |_ |_ |_ |
 
 |   <font size="5">CLASS</font>|<font size="5">Secondary Two</font>|   |    |
 |:--| :-- |:---|:---|
-|<font size="3"> 2-1  </font>|<font size="3"><a href="mailto:noor_azhar_ahmad @moe.edu.sg"> Mr Noor Azhar Ahmad (D &amp; T)</a></font>|<font size="3"><a href="mailto:tan_li_li_lily@moe.edu.sg"> Ms. Tan Li Li Lily (Math) </a></font>|   | 
-|<font size="3"> 2-2  </font>|<font size="3"><a href="mailto:lim_mei_tju@moe.edu.sg"> Mdm. Lim Mei Tju, Cheryl (ART)  </a></font>|<font size="3"><a href="mailto:haslinda_rasul@moe.edu.sg"> Ms. Haslinda Rasul (FCE) </a></font>|   | 
-|<font size="3"> 2-3  </font>|<font size="3"><a href="mailto:lim_chieh_sern@moe.edu.sg"> Mr Lim Chieh Sern (PE) </a></font>|<font size="3"><a href="mailto:oei_jacqueline_joan@moe.edu.sg"> Ms. Oei Jacqueline Joan (Chemistry) </a></font>|<font size="3"><a href="mailto:teo_sin_en@moe.edu.sg"> Ms.Teo Sin En <br>Ms Siti Aisyah Bte Mohd Nizam</a></font>   | 
-|<font size="3"> 2-4  </font>|<font size="3"><a href="mailto:meenatchi_ramasamy @moe.edu.sg"> Mdm. Meenatchi (EL) </a></font>|<font size="3"><a href="mailto:rajarajeswari_anbazhagan@moe.edu.sg"> Mdm. Rajarajeswari Anbazhagan (TL)</a></font>|   | 
-|<font size="3"> 2-5  </font>|<font size="3"><a href="mailto:natasha_ashikin_nor_sam@moe.edu.sg"> Mdm. Natasha Ashikin Bte Nor S.A (Music)</a></font>|<font size="3"><a href="mailto: viknesh_kumar_somu@moe.edu.sg"> Mr Viknesh Kumar Somu  (EL/SS)</a></font>|  | 
-|<font size="3"> 2-6 </font>|<font size="3"><a href="mailto:koh_kha_chuang@moe.edu.sg"> Mr Koh Kha Chuang (Physics) </a></font>|<font size="3"><a href="mailto:leong_yuan_man_estee@moe.edu.sg"> Ms. Estee Leong (HIS/LIT)</a></font>|   | 
+|<font size="3"> 2-1  </font>|<font size="3"><a href="mailto:teo_chin_ling_grace@gss.moe.edu.sg"> Ms. Teo Chin Ling Grace (Math) </a></font>|<font size="3"><a href="mailto:sazali_rahmat@gss.moe.edu.sg"> Mr Sazali Rahmat (ART) </a></font>|   | 
+|<font size="3"> 2-2  </font>|<font size="3"><a href="mailto:shen_wei@gss.moe.edu.sg"> Mdm. Shen Wei (CL)  </a></font>|<font size="3"><a href="mailto:chua_chang@gss.moe.edu.sg"> Mr Chua Chang (Chemistry) </a></font>|   | 
+|<font size="3"> 2-3  </font>|<font size="3"><a href="mailto:lim_sze_hui_sylvia@gss.moe.edu.sg"> Ms. Sylvia Lim (PE)  </a></font>|<font size="3"><a href="mailto:siti_khatijah_ahmad@gss.moe.edu.sg"> Mdm. Siti Khatijah Binte Ahmad (ML) </a></font>|   | 
+|<font size="3"> 2-4  </font>|<font size="3"><a href="mailto:YUANA_MUHAMAD@gss.moe.edu.sg"> Mdm Yuana Bte Muhamad (ML) </a></font>|<font size="3"><a href="mailto:tan_ai_choo@gss.moe.edu.sg"> Ms Tan Ai Choo (Maths)</a></font>|   | 
+|<font size="3"> 2-5  </font>|<font size="3"><a href="mailto:cheong_xinni_cheryl@gss.moe.edu.sg"> Ms. Cheryl Cheong (Chemistry)   </a></font>|<font size="3"><a href="mailto:sivaprakasam_uthayarani@gss.moe.edu.sg"> Ms. Sivaprakasam Uthayarani (TL) </a></font>| | 
+|<font size="3"> 2-6 </font>|<font size="3"><a href="mailto:chew_cheng_boon@gss.moe.edu.sg"> Mr Chew Cheng Boon (Chemistry) </a></font>|<font size="3"><a href="mailto:poon_sook_keng@gss.moe.edu.sg"> Mdm Poon Sook Keng (CL) </a></font> |   | 
+|<font size="3"> 2-7 </font>|<font size="3"><a href="mailto:hemalatha_a_sivakumar@gss.moe.edu.sg"> Ms. Hemalatha D/O Sivakumar (FCE) </a></font>|<font size="3"><a href="mailto:cynthia_lim_xin_ru@gss.moe.edu.sg"> Ms. Cynthia Lim Xin Ru (EL Lit) </a></font> | |
+|_ |_ |_ |_ |
+
+|   <font size="5">CLASS</font>|<font size="5">Secondary Three </font>|   |    |
+|:--| :-- |:---|:---|
+|<font size="3"> 3-1  </font>|<font size="3"><a href="mailto:noor_azhar_ahmad@gss.moe.edu.sg"> Mr Noor Azhar Ahmad (D &amp; T)</a></font>|<font size="3"><a href="mailto:tan_lily@gss.moe.edu.sg"> Ms. Tan Li Li Lily (Math) </a></font>|   | 
+|<font size="3"> 3-2  </font>|<font size="3"><a href="mailto:lim_mei_tju@gss.moe.edu.sg"> Mdm. Lim Mei Tju, Cheryl (ART)  </a></font>|<font size="3"><a href="mailto:melvin_foo_cheng_loong@gss.moe.edu.sg"> Mr Melvin Foo Cheng Loong (Math) </a></font>|   | 
+|<font size="3"> 3-3  </font>|<font size="3"><a href="mailto:andy_chia_meng_hong@gss.moe.edu.sg"> Mr Andy Chia Meng Hong (D&amp;T) </a></font>|<font size="3"><a href="mailto:seah_yiting@gss.moe.edu.sg"> Ms. Seah Yiting (Geo) </a></font> |   | 
+|<font size="3"> 3-4  </font>|<font size="3"><a href="mailto:sangeetha_chandra@gss.moe.edu.sg"> Mdm. Sangeetha d/o Chandra (CPA/Math) </a></font>|<font size="3"><a href="mailto:lydia_salim@gss.moe.edu.sg"> Ms. Lydia Salim (BIO) </a></font>|   | 
+|<font size="3"> 3-5  </font>|<font size="3"><a href="mailto:radiah_matmin@gss.moe.edu.sg"> Mdm. Radiah Bte Matmin (ML) </a></font>|<font size="3"><a href="mailto:lee_huan_ghee@gss.moe.edu.sg"> Mr Lee Huan Ghee (PE) </a></font>|  | 
+|<font size="3"> 3-6 </font>|<font size="3"><a href="mailto:bhasula_n_bhaskaran@gss.moe.edu.sg"> Mdm. Bhasula d/o N Bhaskaran (Geo) </a></font>|<font size="3"><a href="mailto:junaidah_manap@gss.moe.edu.sg"> Ms. Junaidah Binte Manap (ML) </a></font>|   | 
+|<font size="3"> 3-7 </font>|<font size="3"><a href="mailto:Sabrina_Wirawan@gss.moe.edu.sg"> Ms. Sabrina Wirawan (POA) </a></font>|<font size="3"><a href="mailto:leong_yuan_man_estee@gss.moe.edu.sg"> Ms. Estee Leong (HIS/LIT)</a></font>|   |
 | | | | |
 
 
 	
-|  <font size="5"> CLASS</font>|<font size="5">Secondary Three </font> |   |    |
+|  <font size="5"> CLASS</font>|<font size="5">Secondary Four and Five </font> |   |    |
 |:--| :-- |:---|:---|
-|<font size="3"> 3-1  </font>|<font size="3"><a href="mailto:liaw_poh_geok@moe.edu.sg"> Mdm. Liaw Poh Geok (D &amp; T)</a></font>|<font size="3"><a href="mailto:melvin_foo_cheng_loong@moe.edu.sg"> Mr Melvin Foo Cheng Loong (Math)</a></font>|   | 
-|<font size="3"> 3-2  </font>|<font size="3"><a href="mailto:tan_mei_li_joanne@moe.edu.sg"> Mdm. Tan Mei Li Joanne (EL) </a></font>|<font size="3"><a href="mailto:chee_yuan_jun@moe.edu.sg"> Mr Chee Yuan Jun (SS)</a></font>| <font size="3"><a href="mailto:shawna_teo_lian_choo@moe.edu.sg"> Ms. Shawna Teo (AED) </a></font>  | 
-|<font size="3"> 3-3  </font>|<font size="3"><a href="mailto:maria_cbg@moe.edu.sg"> Ms. Maria Concepcion (EL)</a></font>|<font size="3"><a href="mailto:toh_xin_hui@moe.edu.sg"> Ms. Toh Xin Hui (CL) </a></font>|   | 
-|<font size="3"> 3-4  </font>|<font size="3"><a href="mailto:ong_eng_jye_ugene@moe.edu.sg"> Mr Ugene Ong (Math) </a></font>|<font size="3"><a href="mailto:norsuzana_saini@moe.edu.sg"> Ms. Norsuzana Saini (D &amp; T)</a></font>|   | 
-|<font size="3"> 3-5  </font>|<font size="3"><a href="mailto:tham_yi_hui@moe.edu.sg"> Mdm Tham Yi Hui (Maths)</a></font>|<font size="3"><a href="mailto:chang_jing@moe.edu.sg"> Mr. Chang Jing (Chemistry) </a></font>|  | 
-|<font size="3"> 3-6 </font>|<font size="3"><a href="mailto:balasuntharie_sinnappo_man@moe.edu.sg"> Mdm. Balasuntharie d/o S Maniam (Mrs. Selvan) (EL) </a></font>|<font size="3"><a href="mailto:glenice_au_hui_min@moe.edu.sg"> Ms. Glenice Au Hui Min (Math)</a></font>|   |
-|<font size="3"> 3-7  </font>|<font size="3"><a href="mailto:chin_zhi_hao@moe.edu.sg"> Mr Chin Zhi Hao (Math) </a></font>|<font size="3"><a href="mailto:rengasamy_vasanthadhevi@moe.edu.sg"> Mdm. Rengasamy Vasanthadhevi (TL)</a></font>|   | 
-|<font size="3"> 3-8  </font>|<font size="3"><a href="mailto:lim_yeun_chen@moe.edu.sg"> Mr Mark Lim Yeun Chen (Math) </a></font>|<font size="3"><a href="mailto:dai_yuwen@moe.edu.sg"> Ms Dai Yuwen (CL) </a></font>|   | 
-|<font size="3"> 3-9  </font>|<font size="3"><a href="mailto:tan_pei_lin_esther@moe.edu.sg"> Ms. Tan Pei Lin Esther (SS)</a></font>|<font size="3"><a href="mailto:Sabrina_Wirawan@moe.edu.sg"> Ms. Sabrina Wirawan (POA)</a></font>|  | 
-|<font size="3"> 3-10 </font>|<font size="3"><a href="mailto:nurhayati_rahman@moe.edu.sg"> Ms. Nurhayati Rahman (Geo) </a></font>|<font size="3"><a href="mailto:teo_hong@moe.edu.sg"> Mr Teo Hong (PE)</a></font>|  |
-|<font size="3"> 3-11 </font>|<font size="3"><a href="mailto:chin_zhong_ning@moe.edu.sg"> Mr Chin Zhong Ning (Math) </a></font>|<font size="3"><a href="mailto:asrida_riduan_mahmood@moe.edu.sg"> Mdm. Asrida Binte Riduan Mahmood (ML)</a></font>|  |
+|<font size="3"> 4-1  </font>|<font size="3"><a href="mailto:chiu_guo_vei@gss.moe.edu.sg"> Mr Chiu Guo Vei (Geog) </a></font>|<font size="3"><a href="mailto:liaw_poh_geok@gss.moe.edu.sg"> Mdm. Liaw Poh Geok (D &amp; T)</a></font>|   | 
+|<font size="3"> 4-2  </font>|<font size="3"><a href="mailto:tan_mei_li_joanne@gss.moe.edu.sg"> Mdm. Tan Mei Li Joanne (EL) </a></font>|<font size="3"><a href="mailto:chee_yuan_jun@gss.moe.edu.sg"> Mr Chee Yuan Jun (SS)</a></font>| <font size="3"><a href="mailto:shawna_teo_lian_choo@gss.moe.edu.sg"> Ms. Shawna Teo (AED) </a></font>  | 
+|<font size="3"> 4-3  </font>|<font size="3"><a href="mailto:maria_cbg@gss.moe.edu.sg"> Ms. Maria Concepcion (EL)</a></font>|<font size="3"><a href="mailto:lim_ying_ting_denise@gss.moe.edu.sg"> Mdm. Denise Lim Ying Ting (HIS) </a></font>|   | 
+|<font size="3"> 4-4  </font>|<font size="3"><a href="mailto:ong_eng_jye_ugene@gss.moe.edu.sg"> Mr Ugene Ong (Math) </a></font>|<font size="3"><a href="mailto:norsuzana_saini@gss.moe.edu.sg"> Ms. Norsuzana Saini (D &amp; T)</a></font>|   | 
+|<font size="3"> 4-5  </font>|<font size="3"><a href="mailto:tham_yi_hui@gss.moe.edu.sg"> Mdm Tham Yi Hui (Maths)</a></font>|<font size="3"><a href="mailto:chang_jing@gss.moe.edu.sg"> Mr. Chang Jing (Chemistry) </a></font>|  | 
+|<font size="3"> 4-6 </font>|<font size="3"><a href="mailto:balasuntharie_sinnappo_man@gss.moe.edu.sg"> Mdm. Balasuntharie d/o S Maniam (Mrs. Selvan) (EL) </a></font>|<font size="3"><a href="mailto:glenice_au_hui_min@gss.moe.edu.sg"> Ms. Glenice Au Hui Min (Math)</a></font>|   |
+|<font size="3"> 4-7  </font>|<font size="3"><a href="mailto:chin_zhi_hao@gss.moe.edu.sg"> Mr Chin Zhi Hao (Math) </a></font>|<font size="3"><a href="mailto:rengasamy_vasanthadhevi@gss.moe.edu.sg"> Mdm. Rengasamy Vasanthadhevi (TL)</a></font>|   | 
+|<font size="3"> 4-8  </font>|<font size="3"><a href="mailto:lim_yeun_chen@gss.moe.edu.sg"> Mr Mark Lim Yeun Chen (Math) </a></font>|<font size="3"><a href="mailto:dai_yuwen@gss.moe.edu.sg"> Ms Dai Yuwen (CL) </a></font>|   | 
+|<font size="3"> 4-9  </font>|<font size="3"><a href="mailto:tan_pei_lin_esther@gss.moe.edu.sg"> Ms. Tan Pei Lin Esther (SS)</a></font>|  | 
+|<font size="3"> 4-10 </font>|<font size="3"><a href="mailto:nurhayati_rahman@gss.moe.edu.sg"> Ms. Nurhayati Rahman (Geo) </a></font>|<font size="3"><a href="mailto:siti_nur_hafeezah_azmi@gss.moe.edu.sg"> Mdm. Siti Nur Hafeezah Binte Azmi (Chemistry )</a></font>|  |
+|<font size="3"> 4-11 </font>|<font size="3"><a href="mailto:chin_zhong_ning@gss.moe.edu.sg"> Mr Chin Zhong Ning (Math) </a></font>|<font size="3"><a href="mailto:asrida_riduan_mahmood@gss.moe.edu.sg"> Mdm. Asrida Binte Riduan Mahmood (ML)</a></font>|  |
+|<font size="3"> 5-1 </font>|<font size="3"><a href="mailto:radiah_matmin@gss.moe.edu.sg"> Mdm. Radiah Bte Matmin (ML)</a></font>|<font size="3"><a href="mailto:chua_chang@gss.moe.edu.sg"> Mr Chua Chang (Chemistry)</a></font>|  |
 | | | | |
 
-
-
-|  <font size="5"> CLASS</font>|<font size="5">Secondary Four and Five  </font>|   |    |
-|:--| :-- |:---|:---|
-|<font size="3"> 4-1  </font>|<font size="3"><a href="mailto:sangeetha_chandra@moe.edu.sg"> Mdm. Sangeetha d/o Chandra (CPA/Math)</a></font>|<font size="3"><a href="mailto:tan_jui_chin_bernard@moe.edu.sg">Tan Jui Chin Bernard (CPA/ D &amp; T)</a></font>|   | 
-|<font size="3"> 4-2  </font>|<font size="3"><a href="mailto:lydia_salim@moe.edu.sg"> Ms. Lydia Salim (BIO) </a></font>|<font size="3"><a href="mailto:afiqa_nadia_zainal@moe.edu.sg"> Ms. Afiqa Nadia Bte Zainal (ML)</a></font>|  | 
-|<font size="3"> 4-3  </font>|<font size="3"><a href="mailto:andy_chia_meng_hong@moe.edu.sg"> Mr Andy Chia Meng Hong (D &amp; T)</a></font>|<font size="3"><a href="mailto:lim_ying_ting_denise@moe.edu.sg"> Mdm. Denise Lim Ying Ting (HIS) </a></font>|   | 
-|<font size="3"> 4-4  </font>|<font size="3"><a href="mailto:junaidah_manap@moe.edu.sg"> Ms. Junaidah Binte Manap (ML)</a></font>|<font size="3"><a href="mailto:lee_huan_ghee@moe.edu.sg"> Mr Lee Huan Ghee (PE)</a></font>|   | 
-|<font size="3"> 4-5  </font>|<font size="3"><a href="mailto:foa_chee_zhu@moe.edu.sg"> Ms. Foa Chee Zhu Grace (Math)</a></font>|<font size="3"><a href="mailto:ong_hean_keat_kelvin@moe.edu.sg"> Mr Kelvin Ong Hean Keat (PE)</a></font>|  | 
-|<font size="3"> 4-6 </font>|<font size="3"><a href="mailto:ng_huey_lee@moe.edu.sg"> Ms. Ng Huey Lee (D &amp; T)  </a></font>|<font size="3"><a href="mailto:ng_jia_ling_christine@moe.edu.sg"> Ms. Ng Jia Ling Christine (Math)</a></font>|   |
-|<font size="3"> 4-7  </font>|<font size="3"><a href="mailto:bhasula_n_bhaskaran@moe.edu.sg"> Mdm. Bhasula d/o N Bhaskaran (Geo)</a></font>|<font size="3"><a href="mailto:siti_nur_hafeezah_azmi@moe.edu.sg"> Mdm. Siti Nur Hafeezah Binte Azmi (Chemistry)</a></font>|   | 
-|<font size="3"> 4-8  </font>|<font size="3"><a href="mailto:muhammad_faiz_rosli@moe.edu.sg"> Mr Muhammad Faiz (SS)</a></font>|<font size="3"><a href="mailto:tan_hui_qi_a@moe.edu.sg"> </a></font>|   | 
-|<font size="3"> 4-9  </font>|<font size="3"><a href="mailto:lim_xiangting@moe.edu.sg"> Mdm. Lim Xiangting (Chemistry)</a></font>|<font size="3"><a href="mailto:thanaraj_anbazhagan@moe.edu.sg"> Mr Thanaraj Anbazhagan(TL)</a></font>|  | 
-|<font size="3"> 4-10 </font>|<font size="3"><a href="mailto:lau_yan_wei@moe.edu.sg"> Mr Lau Yan Wei (CL) </a></font>|<font size="3"><a href="mailto:lim_wan_han@moe.edu.sg"> Ms. Lim Wan Han (EL) </a></font>|<font size="3"><a href="mailto:lim_wan_han@moe.edu.sg"></a></font>|  |
-|<font size="3"> 4-11 </font>|<font size="3"><a href="mailto:siti_fasihah_borhan@moe.edu.sg"> Ms. Siti Fasihah Borhan (ML) </a></font>|<font size="3"><a href="mailto:seah_yiting@moe.edu.sg"> Ms. Seah Yiting (Geo)</a></font>|  |
-|<font size="3"> 4-12 </font>|<font size="3"><a href="mailto:yap_xiao_ting@moe.edu.sg"> Ms. Yap Xiao Ting (Phy)</a></font>|<font size="3"><a href="mailto:huang_shufen_a@moe.edu.sg"> Ms. Huang Shufen (POA)</a></font>|  |
-|<font size="3"> 5-1 </font>|<font size="3"><a href="mailto:radiah_matmin@moe.edu.sg"> Mdm. Radiah Bte Matmin (ML)</a></font>|<font size="3"><a href="mailto:chua_chang@moe.edu.sg"> Mr Chua Chang (Chemistry)</a></font>|  |
-| | | | |
 
 	
 #### Counsellors and Allied Educators
@@ -123,7 +119,7 @@ variant: markdown
 | <font size="3">Mdm. Clara Yap Bee Hoon </font> |<font size="3">School Counsellor </font>| <font size="3"><a href="mailto:clara_yap_bee_hoon@gss.moe.edu.sg"> clara_yap_bee_hoon@gss.moe.edu.sg </a></font>  |
 |<font size="3">Mr. Jeffrey Bin Abdul Mugni </font> | <font size="3">Senior Special Education Needs Officer </font> |<font size="3"> <a href="mailto:jeffrey_abdul_mugni@gss.moe.edu.sg"> jeffrey_abdul_mugni@gss.moe.edu.sg  </a></font> |
 | <font size="3">Ms. Gianna Gayatri Francis </font>	|<font size="3"> Special Education Needs Officer </font>| <font size="3"><a href="mailto:gianna_gayatri_mnomokan@gss.moe.edu.sg"> gianna_gayatri_mnomokan@gss.moe.edu.sg  </a></font>  |
-| <font size="3">Ms. Ismawati Bte Amar Mamori </font> | <font size="3">Education Career Guidance Counsellor </font>| <font size="3"><a href="mailto:ismawati_amar_mamori@gss.moe.edu.sg"> ismawati_amar_mamori@gss.moe.edu.sg  </a></font>  |
+| <font size="3">Mr. Dileep Mahbubani</font> | <font size="3">Education Career Guidance Counsellor </font>| <font size="3"><a href="mailto:Dileep_Mahbubani@gss.moe.edu.sg"> Dileep_Mahbubani@gss.moe.edu.sg  </a></font>  |
 | <font size="3">Ms. Koh Hui Yan </font> |<font size="3">Student Welfare Officer </font>| <font size="3"><a href="mailto:koh_hui_yan@gss.moe.edu.sg"> koh_hui_yan@gss.moe.edu.sg   </a></font>  |
 | <font size="3">Ms. Shawna Teo Lian Choo </font>| <font size="3">Allied Educator (T &amp; L)</font>| <font size="3"> <a href="mailto:shawna_teo_lian_choo@gss.moe.edu.sg"> shawna_teo_lian_choo@gss.moe.edu.sg </a></font> |
 
@@ -153,8 +149,7 @@ variant: markdown
 | <font size="3"> Mdm. Ngo Guok Lee (Jenny) </font>	|  <font size="3"> Operations Support Officer </font>|
 | <font size="3"> Mr. Siah Hoya Seng </font>| <font size="3"> Operations Support Officer </font>|
 | <font size="3"> Mdm. Suriaeni Binte Atan </font>	|  <font size="3"> Operations Support Officer </font>|
-|<font size="3"> Mr. Muhammad Luqman Hasif bin Hashim </font>|<font size="3"> Desktop Engineer </font>	|
-| <font size="3"> Mr. Song Jia Hui </font>	| <font size="3">  Desktop Enginee </font>	|
+|<font size="3"> Ms Kohilavan</font>|<font size="3"> Desktop Engineer </font>	|
 | <font size="3"> Ms. Losni</font> |<font size="3">Student Health Advisor </font>	|
 | <font size="3">Mdm. Aisha Bevi Binte V Mohammad Kunhi</font> | <font size="3">School Librarian</font> |
 |    	|    |
