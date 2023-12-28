@@ -20,7 +20,7 @@ variant: markdown
 	
 |   |   |   |
 |:--| :-- |---:|
-|<font size="3"> Mdm. Salina Bte Ismail </font>| <font size="3">School Staff Developer </font>  | <font size="3"><a href="mailto:salina_ismail@gss.gss.moe.edu.sg"> salina_ismail@gss.gss.moe.edu.sg </a></font>  |
+|<font size="3"> Mdm. Salina Bte Ismail </font>| <font size="3">School Staff Developer </font>  | <font size="3"><a href="mailto:salina_ismail@gss.moe.edu.sg"> salina_ismail@gss.moe.edu.sg </a></font>  |
 |<font size="3">Mr. Chiu Guo Vei </font> |<font size="3">HOD – Character &amp; Citizenship Education </font>  |<font size="3"> <a href="mailto:chiu_guo_vei@gss.moe.edu.sg"> chiu_guo_vei@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mdm. Christina D/O Joseph </font>|<font size="3"> HOD – Humanities </font>| <font size="3"><a href="mailto:christina_joseph@gss.moe.edu.sg"> christina_joseph@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mdm. Wang Jieying Clara </font> | <font size="3">HOD – Information - Communications &amp; Technology </font> | <font size="3"><a href="mailto:wang_jieying_clara@gss.moe.edu.sg"> wang_jieying_clara@gss.moe.edu.sg  </a> </font>  |
