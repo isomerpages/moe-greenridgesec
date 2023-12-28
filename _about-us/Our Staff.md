@@ -39,6 +39,7 @@ variant: markdown
 |<font size="3">Ms. Meenatchi D/O Ramasamy</font>|<font size="3">SH – English Language </font>  |<font size="3"><a href="mailto:meenatchi_ramasamy@gss.moe.edu.sg">meenatchi_ramasamy@gss.moe.edu.sg  </a></font>   |
 |<font size="3">Ms. Nurhayati Bte Rahman</font>|<font size="3">SH – Geography </font>  | <font size="3"><a href="mailto:nurhayati_rahman@gss.moe.edu.sg">nurhayati_rahman@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mr. Lim Yeun Chen Mark </font> |<font size="3">SH – Information-Communications &amp; Technology </font>  | <font size="3"><a href="mailto:lim_yeun_chen@gss.moe.edu.sg">lim_yeun_chen@gss.moe.edu.sg </a></font>   |
+|<font size="3">Ms. Lee Yue Zhi</font>|<font size="3">SH – Music </font>| <font size="3"><a href="mailto:lee_yue_zhi@gss.moe.edu.sg">lee_yue_zhi@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mr Chin Zhi Hao</font>|<font size="3">SH – Mathematics </font>| <font size="3"><a href="mailto:chin_zhi_hao@gss.moe.edu.sg">chin_zhi_hao@gss.moe.edu.sg </a></font>   |
 |<font size="3">Ms. Sylvia Lim</font>|<font size="3">SH – Physical Education </font> |<font size="3"> <a href="mailto:lim_sze_hui_sylvia@gss.moe.edu.sg">lim_sze_hui_sylvia@gss.moe.edu.sg </a></font>   |
 |<font size="3">Ms. Lydia Bte Salim</font> |<font size="3">SH – Science &amp; Innovation </font>| <font size="3"><a href="mailto:lydia_salim@gss.moe.edu.sg">lydia_salim@gss.moe.edu.sg </a></font> |   
