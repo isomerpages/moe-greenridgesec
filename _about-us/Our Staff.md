@@ -42,7 +42,7 @@ variant: markdown
 |<font size="3">Mr Chin Zhi Hao</font>|<font size="3">SH – Mathematics </font>| <font size="3"><a href="mailto:chin_zhi_hao@gss.moe.edu.sg">chin_zhi_hao@gss.moe.edu.sg </a></font>   |
 |<font size="3">Ms. Sylvia Lim</font>|<font size="3">SH – Physical Education </font> |<font size="3"> <a href="mailto:lim_sze_hui_sylvia@gss.moe.edu.sg">lim_sze_hui_sylvia@gss.moe.edu.sg </a></font>   |
 |<font size="3">Ms. Lydia Bte Salim</font> |<font size="3">SH – Science &amp; Innovation </font>| <font size="3"><a href="mailto:lydia_salim@gss.moe.edu.sg">lydia_salim@gss.moe.edu.sg </a></font> |   
-|<font size="3">Mr. Shaifrizman Bin Maktar</font>|<font size="3">SH - Student Management </font> |<font size="3"><a href="mailto:shaifrizman_maktar@gss.moe.edu.sg">shaifrizman_maktar@gss.moe.edu.sg  </a></font>   |
+|<font size="3">Ms. Teo Chin Ling Grace</font>|<font size="3">SH - Student Management </font> |<font size="3"><a href="mailto:teo_chin_ling_grace@gss.moe.edu.sg">teo_chin_ling_grace@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mdm. Lim Mei Tju</font>|<font size="3">ST – Art</font>|<font size="3"><a href="mailto:lim_mei_tju@gss.moe.edu.sg">lim_mei_tju@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mdm. Liaw Poh Geok</font>|<font size="3">ST – Design and Technology </font>|<font size="3"><a href="mailto:liaw_poh_geok@gss.moe.edu.sg">liaw_poh_geok@gss.moe.edu.sg </a></font>   |
 |<font size="3">Ms. Maria Concepcion</font>|<font size="3">ST – English Language </font>|<font size="3"> <a href="mailto:maria_cgb@gss.moe.edu.sg">maria_cgb@gss.moe.edu.sg </a></font>   |
