@@ -103,9 +103,10 @@ variant: markdown
 |<font size="3"> 4-7  </font>|<font size="3"><a href="mailto:chin_zhi_hao@gss.moe.edu.sg"> Mr Chin Zhi Hao (Math) </a></font>|<font size="3"><a href="mailto:rengasamy_vasanthadhevi@gss.moe.edu.sg"> Mdm. Rengasamy Vasanthadhevi (TL)</a></font>|   | 
 |<font size="3"> 4-8  </font>|<font size="3"><a href="mailto:lim_yeun_chen@gss.moe.edu.sg"> Mr Mark Lim Yeun Chen (Math) </a></font>|<font size="3"><a href="mailto:dai_yuwen@gss.moe.edu.sg"> Ms Dai Yuwen (CL) </a></font>|   | 
 |<font size="3"> 4-9  </font>|<font size="3"><a href="mailto:tan_pei_lin_esther@gss.moe.edu.sg"> Ms. Tan Pei Lin Esther (SS)</a></font>|  | 
-|<font size="3"> 4-10 </font>|<font size="3"><a href="mailto:nurhayati_rahman@gss.moe.edu.sg"> Ms. Nurhayati Rahman (Geo) </a></font>|<font size="3"><a href="mailto:siti_nur_hafeezah_azmi@gss.moe.edu.sg"> Mdm. Siti Nur Hafeezah Binte Azmi (Chemistry )</a></font>|  |
+|<font size="3"> 4-10 </font>|<font size="3"><a href="mailto:nurhayati_rahman@gss.moe.edu.sg"> Ms. Nurhayati Rahman (Geo) </a></font>|<font size="3"><a href="mailto:siti_nur_hafeezah_azmi@gss.moe.edu.sg"> Mdm. Siti Nur Hafeezah Binte Azmi (Chemistry)</a></font>|<font size="3"><a href="mailto:teo_hong@gss.moe.edu.sg"> Mr. Teo Hong (PE) </a></font>  |
 |<font size="3"> 4-11 </font>|<font size="3"><a href="mailto:chin_zhong_ning@gss.moe.edu.sg"> Mr Chin Zhong Ning (Math) </a></font>|<font size="3"><a href="mailto:asrida_riduan_mahmood@gss.moe.edu.sg"> Mdm. Asrida Binte Riduan Mahmood (ML)</a></font>|  |
-|<font size="3"> 5-1 </font>|<font size="3"><a href="mailto:radiah_matmin@gss.moe.edu.sg"> Mdm. Radiah Bte Matmin (ML)</a></font>|<font size="3"><a href="mailto:chua_chang@gss.moe.edu.sg"> Mr Chua Chang (Chemistry)</a></font>|  |
+|<font size="3"> 5-1 </font>|<font size="3"><a href="mailto:huang_shufen_a@gss.moe.edu.sg"> Ms. Huang Shufen (POA)</a></font>| |  |
+|<font size="3"> 5-2 </font>|<font size="3"><a href="mailto:ong_hean_keat_kelvin@gss.moe.edu.sg"> Mr. Kelvin Ong (PE)</a></font>| |  |
 | | | | |
 
 
