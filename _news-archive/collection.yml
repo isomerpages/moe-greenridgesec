@@ -1,0 +1,24 @@
+collections:
+  news-archive:
+    output: true
+    order:
+      - 2023/.keep
+      - 2023/First Day of School AY 2023.md
+      - 2023/SPF NPCC Badge Award.md
+      - 2023/16th NATIONAL SECONDARY SCHOOLS TRANSLATION COMPETITION 2023.md
+      - 2022/First Day of School AY 2022.md
+      - 2022/Esprit d’Excellence 2022.md
+      - 2022/Raising A Digitally Smart Child.md
+      - 2022/Learning for Life Programme (LLP) – My Greenridge Story.md
+      - 2022/ALP VIA Project 2022.md
+      - 2022/Sports Carnival 2022.md
+      - 2022/Applied Learning Modules (ApLMs) and Advanced Elective Modules
+        (AEM).md
+      - 2022/Sec 3 Outdoor Adventure Learning Camp.md
+      - 2022/Racial Harmony Day.md
+      - 2022/Budding Artistes Programme.md
+      - 2022/National Day Celebration.md
+      - 2022/Release of GCE N Level Results 2022.md
+      - "2022/GCE N Level Results Release: Supporting Your Teen.md"
+      - 2022/Secondary One Registration.md
+      - 2022/.keep

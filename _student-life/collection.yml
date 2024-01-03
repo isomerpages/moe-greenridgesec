@@ -1,0 +1,22 @@
+collections:
+  student-life:
+    output: true
+    order:
+      - Curriculum/English Language & Literature.md
+      - Curriculum/Mathematics, POA and EBS.md
+      - Curriculum/Humanities.md
+      - Curriculum/Mother Tongue.md
+      - Curriculum/Science.md
+      - Curriculum/Design & Technology.md
+      - Curriculum/Aesthetics.md
+      - Curriculum/Physical Education.md
+      - Curriculum/Character and Citizenship Education.md
+      - Curriculum/Infocomm Technology.md
+      - Curriculum/.keep
+      - Co Curriculum/.keep
+      - Co Curriculum/Student Leadership.md
+      - Co Curriculum/Co Curricular Activities (CCA).md
+      - Co Curriculum/Uniformed Groups.md
+      - Co Curriculum/Sports & Games.md
+      - Co Curriculum/Performing Arts.md
+      - Co Curriculum/Clubs & Societies.md
