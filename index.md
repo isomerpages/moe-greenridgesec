@@ -22,6 +22,17 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: "Release of GCE O Level Results "
+          date: 11 January 2024
+          announcement: >-
+            AnnouncementThe GCE O Level Examination Results is out. For Joint
+            Admission Exercise Information,
+
+            Post Secondary Pathways, 
+
+            Joint Intake Exercise (JIE ‘N’, ‘E’, ‘H’) matters, please click the following. content
+          link_text: click  here for Briefing Slides
+          link_url: https://go.gov.sg/gss-gce-o
         - title: Secondary One Registration 2023
           date: 19 December 2023
           announcement: Please click link below for information of Secondary One
