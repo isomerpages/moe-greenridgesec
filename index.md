@@ -22,11 +22,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: "Release of GCE O Level Results "
+        - title: Release of GCE O Level Results
           date: 11 January 2024
           announcement: >-
-            AnnouncementThe GCE O Level Examination Results is out. For Joint
-            Admission Exercise Information,
+            The GCE O Level Examination Results is out. For Joint Admission
+            Exercise Information,
 
             Post Secondary Pathways, 
 
