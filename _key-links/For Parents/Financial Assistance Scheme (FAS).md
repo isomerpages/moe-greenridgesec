@@ -2,6 +2,8 @@
 title: Financial Assistance Scheme (FAS)
 permalink: /parents/fas2024/
 description: ""
+variant: markdown
+third_nav_title: For Parents
 ---
 # Financial Assistance Scheme (FAS)
 The Ministry of Education provides financial assistance to needy Singapore Citizen students in Government or Government-aided schools so that all Singaporeans, regardless of their financial background, can benefit from the best opportunities in education. Eligibility and benefits of MOE Financial Assistance Scheme (MOE FAS) is available at the official MOE website at the following link:

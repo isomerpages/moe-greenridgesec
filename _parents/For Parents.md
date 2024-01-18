@@ -2,7 +2,6 @@
 title: For Parents
 permalink: /key-links/for-parents/
 description: ""
-third_nav_title: For Parents
 variant: markdown
 ---
 # For Parents

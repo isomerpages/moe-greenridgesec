@@ -2,6 +2,7 @@
 title: Cyber Wellness for Parents
 permalink: /parents/cyber-wellness-for-parents/
 description: ""
+third_nav_title: For Parents
 ---
 # **Cyber Wellness for Parents**
 

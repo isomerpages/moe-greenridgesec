@@ -2,6 +2,7 @@
 title: Heart to Heart Talk
 permalink: /parents/heart-to-heart-talk/
 description: ""
+third_nav_title: For Parents
 ---
 # **Heart to Heart Talk**
 
