@@ -21,7 +21,6 @@ variant: markdown
 |   |   |   |
 |:--| :-- |---:|
 |<font size="3"> Mdm. Salina Bte Ismail </font>| <font size="3">School Staff Developer </font>  | <font size="3"><a href="mailto:salina_ismail@gss.moe.edu.sg"> salina_ismail@gss.moe.edu.sg </a></font>  |
-|<font size="3">Mr. Chiu Guo Vei </font> |<font size="3">HOD – Character &amp; Citizenship Education </font>  |<font size="3"> <a href="mailto:chiu_guo_vei@gss.moe.edu.sg"> chiu_guo_vei@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mdm. Christina D/O Joseph </font>|<font size="3"> HOD – Humanities </font>| <font size="3"><a href="mailto:christina_joseph@gss.moe.edu.sg"> christina_joseph@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mdm. Wang Jieying Clara </font> | <font size="3">HOD – Information - Communications &amp; Technology </font> | <font size="3"><a href="mailto:wang_jieying_clara@gss.moe.edu.sg"> wang_jieying_clara@gss.moe.edu.sg  </a> </font>  |
 |<font size="3">Ms. Yong Hsueh Li, Shirley </font> |<font size="3">HOD – Innovation and Design </font>| <font size="3"><a href="mailto:yong_hsueh_li_shirley@gss.moe.edu.sg"> yong_hsueh_li_shirley@gss.moe.edu.sg </a></font> |
@@ -30,6 +29,7 @@ variant: markdown
 |<font size="3">Mdm. Ng Tze Fang </font> | <font size="3">HOD – Mother Tongue Language</font> |<font size="3"><a href="mailto:ng_tze_fang@gss.moe.edu.sg">ng_tze_fang@gss.moe.edu.sg</a> </font> |
 |<font size="3">Ms. Ang Lip Eng Penny </font> |<font size="3"> HOD – Physical Education  CCA    </font>   | <font size="3"><a href="mailto:ang_lip_eng@gss.moe.edu.sg"> ang_lip_eng@gss.moe.edu.sg  </a></font>   |
 |<font size="3">Mr. Ahangama Badalge Terence </font> | <font size="3">HOD – Science </font>   |<font size="3"> <a href="mailto:ahangama_badalge_terence@gss.moe.edu.sg">ahangama_badalge_terence@gss.moe.edu.sg</a></font>   |
+|<font size="3">Mr. Chiu Guo Vei </font> |<font size="3">HOD – Special Educational Needs </font>  |<font size="3"> <a href="mailto:chiu_guo_vei@gss.moe.edu.sg"> chiu_guo_vei@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mr. Yong Woei Shyang  </font>  | <font size="3">HOD – Student Management </font> | <font size="3"><a href="mailto:yong_woei_shyang@gss.moe.edu.sg">yong_woei_shyang@gss.moe.edu.sg  </a> </font>  |
 |<font size="3">Mr. Wong Shan Jing</font>  | <font size="3">HOD and Year Head (Sec 2/3) </font>  |<font size="3"><a href="mailto:wong_shan_jing@gss.moe.edu.sg">wong_shan_jing@gss.moe.edu.sg </a> </font>  |
 |<font size="3">Ms. Yiew Qifang Daphne </font>   |<font size="3">Year Head (Sec 1/4/5)</font>  | <font size="3"><a href="mailto:yiew_qifang_daphne@gss.moe.edu.sg">yiew_qifang_daphne@gss.moe.edu.sg </a> </font>  |
