@@ -60,24 +60,4 @@ sections:
   - resources:
       title: ANNOUNCEMENTS
       id: resources
-  - textcards:
-      title: Latest
-      subtitle: quick announcements
-      id: textcards
-      cards:
-        - title: Booklist Page updated
-          description: Secondary One and Five book lists have been added. Click the link
-            below.
-          linktext: click me
-          url: https://greenridgesec.moe.edu.sg/book-list-and-uniform/
-  - infopic:
-      title: GSS Open House 18 Nov
-      id: infopic
-      description: Wondering about the rich learning experiences that Greenridge
-        Secondary offers to our students? We welcome you to our school's Open
-        House.See you soon!
-      image: /images/LOOKING AHEAD/OH1.jpg
-      alt: Image alt text
-      url: https://greenridgesec.moe.edu.sg/announcements/administrative/openhouse2023/
-      button: Open   House   Information
 ---
