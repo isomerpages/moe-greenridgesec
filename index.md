@@ -18,6 +18,9 @@ sections:
           description: ""
           url: /looking-great/
       background: /images/Heros/Hero 001v4.jpg
+  - resources:
+      title: ANNOUNCEMENTS
+      id: resources
   - announcements:
       title: Announcements
       id: announcements
@@ -57,7 +60,4 @@ sections:
             application form.
           link_text: click here for online application form..
           link_url: https://for.edu.sg/gssadmission
-  - resources:
-      title: ANNOUNCEMENTS
-      id: resources
 ---
