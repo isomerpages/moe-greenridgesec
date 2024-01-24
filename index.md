@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Looking Back
           description: ""
-          url: /looking-back/
+          url: https://sway.cloud.microsoft/yBYBvs78UTstYMqk?ref=Link
         - title: Looking Ahead
           description: ""
           url: /looking-ahead/
@@ -21,43 +21,4 @@ sections:
   - resources:
       title: ANNOUNCEMENTS
       id: resources
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Release of GCE O Level Results
-          date: 11 January 2024
-          announcement: >-
-            The GCE O Level Examination Results is out. For Joint Admission
-            Exercise Information,
-
-            Post Secondary Pathways, 
-
-            Joint Intake Exercise (JIE ‘N’, ‘E’, ‘H’) matters, please click the following. content
-          link_text: click  here for Briefing Slides
-          link_url: https://go.gov.sg/gss-gce-o
-        - title: Secondary One Registration 2023
-          date: 19 December 2023
-          announcement: Please click link below for information of Secondary One
-            Registration at Greenridge Secondary School
-          link_text: click me
-          link_url: https://greenridgesec.moe.edu.sg/sec-one-reg2023/
-        - title: Release of GCE N Level Examination Results
-          date: 18 December 2023
-          announcement: >-
-            The GCE N Level Examination Results is out. For Joint Admission
-            Exercise Information,
-
-            Post Secondary Pathways, 
-
-            Joint Intake Exercise (JIE ‘N’, ‘E’, ‘H’) matters, please click the following.
-          link_text: click here for Briefing Slides
-          link_url: https://go.gov.sg/gss-gce-n
-        - title: Admission or Transfer to Greenridge Secondary School
-          date: 01 December 2023
-          announcement: If you would like to seek admission or transfer to Greenridge
-            Secondary School for your child/ward, please complete the online
-            application form.
-          link_text: click here for online application form..
-          link_url: https://for.edu.sg/gssadmission
 ---
