@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Looking Back
           description: ""
-          url: /looking-back/
+          url: https://sway.cloud.microsoft/yBYBvs78UTstYMqk?ref=Link
         - title: Looking Ahead
           description: ""
           url: /looking-ahead/
