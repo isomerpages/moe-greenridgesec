@@ -1,4 +1,5 @@
 collections:
   looking-ahead:
     output: true
-    order: []
+    order:
+      - Exciting School Programs.md
