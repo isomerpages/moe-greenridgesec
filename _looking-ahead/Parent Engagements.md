@@ -6,7 +6,7 @@ description: ""
 ---
 ##### Looking ahead to…<br> Parent Engagements   <br> <u>TERM 1 AND TERM 2</u>
 
-| Dates | Program | 
+| Dates | Programme | 
 | -------- | -------- | 
 |11 Jan |Sec 1 Parent Orientation (during Sec 1 Orientation Camp) |
 |12 Jan  |Sec 3 Parent Engagement (Outward Bound Singapore) 
