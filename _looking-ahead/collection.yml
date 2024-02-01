@@ -1,0 +1,4 @@
+collections:
+  looking-ahead:
+    output: true
+    order: []
