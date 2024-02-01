@@ -4,7 +4,8 @@ permalink: /la5/
 variant: markdown
 description: ""
 ---
-##### Looking ahead to…<br> School Holidays    <br> <u>TERM 1 AND TERM 2</u><u> <br><br></u>
+##### Looking ahead to…<br> School Holidays    <br> <u>TERM 1 AND TERM 2</u>
+
 | Dates | Holidays | 
 | -------- | -------- | 
 |12 – 13 Feb |Chinese New Year School Holidays |
