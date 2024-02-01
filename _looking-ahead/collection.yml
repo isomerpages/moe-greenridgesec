@@ -2,6 +2,7 @@ collections:
   looking-ahead:
     output: true
     order:
+      - Parent Engagements.md
       - Looking Ahead.md
       - Exciting School Programs.md
       - Home based Learning and MS Trainings.md
