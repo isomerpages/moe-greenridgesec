@@ -4,7 +4,7 @@ permalink: /la1/
 variant: markdown
 description: ""
 ---
-##### Looking ahead to…<br> Exciting School Programs <br> <u>TERM 1 AND TERM 2</u><u> <br><br></u>
+##### Looking ahead to…<br> Exciting School Programmes <br> <u>TERM 1 AND TERM 2</u><u> <br><br></u>
 
 
 | Dates | Program | 
