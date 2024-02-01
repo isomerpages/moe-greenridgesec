@@ -12,8 +12,16 @@ variant: markdown
 ####  <center>4 Parent Engagements&nbsp;&nbsp;<br>
 ####  <center>5 School Holidays</center>
 
+##### Looking ahead to…<br> Exciting School Programs <br> <u>TERM 1 AND TERM 2</u><u> <br><br></u>
+	
 
+	
 
+	
+	
+	
+	
+	
 ### LOOKING AHEAD TO … October
 
 #### <u> GSS Summit </u>
