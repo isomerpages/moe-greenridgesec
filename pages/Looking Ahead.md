@@ -13,11 +13,22 @@ variant: markdown
 ####  <center>5 School Holidays</center>
 
 ##### Looking ahead to…<br> Exciting School Programs <br> <u>TERM 1 AND TERM 2</u><u> <br><br></u>
-	
 
 	
-
 	
+	
+	
+##### Looking ahead to…<br> Home-based Learning and MS Trainings  <br> <u>TERM 1 AND TERM 2</u><u> <br><br></u>
+	
+	
+##### Looking ahead to…<br> Planning for Assessments and Examinations  <br> <u>TERM 1 AND TERM 2</u><u> <br><br></u>
+	
+
+##### Looking ahead to…<br> Parent Engagements   <br> <u>TERM 1 AND TERM 2</u><u> <br><br></u>
+	
+
+
+##### Looking ahead to…<br> School Holidays    <br> <u>TERM 1 AND TERM 2</u><u> <br><br></u>
 	
 	
 	
