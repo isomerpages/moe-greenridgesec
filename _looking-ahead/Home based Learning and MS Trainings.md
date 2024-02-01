@@ -6,7 +6,7 @@ description: ""
 ---
 ##### Looking ahead to…<br> Home-based Learning and MS Trainings  <br> <u>TERM 1 AND TERM 2</u><u> <br><br></u>
 
-| Dates | Program | 
+| Dates | Programme | 
 | -------- | -------- | 
 | 17 Jan |Sec 3 MS Teams Training |
 | 24 Jan |Sec 1-1, 1-2, 1-3, 1-4 Edtech and MS Teams Training |
