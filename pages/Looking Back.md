@@ -6,7 +6,8 @@ variant: markdown
 ---
 
 
-![](/images/LOOKING%20pngs/looking_great.png)## November
+![](/images/LOOKING%20pngs/looking_great.png)
+## November
 
 ### <u>Internationalisation Programme – Thailand Immersion</u>
 Overseas trips enhance our students’ global cultural literacy where they learn to appreciate the cultures of other countries, develop cross-cultural skills and build friendships across borders. on 14 November, 20 of our students, accompanied by 4 teachers, embarked on a 6-day exchange programme to Thailand. 
