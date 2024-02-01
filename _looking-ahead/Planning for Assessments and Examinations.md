@@ -6,7 +6,7 @@ description: ""
 ---
 ##### Looking ahead to…<br> Planning for Assessments and Examinations  <br> <u>TERM 1 AND TERM 2</u>
 
-| Dates | Program | 
+| Dates | Programme | 
 | -------- | -------- | 
 |15 Feb – 1 March (Weeks 8 – 10) |Term 1 Weighted Assignments 1  |
 |13 – 23 May |O Level Mother Tongue Preparation |
