@@ -4,6 +4,7 @@ permalink: /looking-ahead/
 description: ""
 variant: markdown
 ---
+![](/images/LOOKING%20pngs/looking_ahead.png)
 # **2024**
 #### <center>Looking ahead to…&nbsp;
 #### <center>[1 Exciting School Programs  ](https://greenridgesec.moe.edu.sg/la1/)<br>
