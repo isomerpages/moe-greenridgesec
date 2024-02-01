@@ -2,6 +2,6 @@ collections:
   looking-ahead:
     output: true
     order:
-      - Planning for Assessments and Examinations.md
-      - Home based Learning and MS Trainings.md
       - Exciting School Programs.md
+      - Home based Learning and MS Trainings.md
+      - Planning for Assessments and Examinations.md
