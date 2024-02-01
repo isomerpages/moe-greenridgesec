@@ -4,6 +4,9 @@ permalink: /looking-back/
 description: ""
 variant: markdown
 ---
+
+
+![](/images/LOOKING%20pngs/looking_great.png)
 ## November
 
 ### <u>Internationalisation Programme – Thailand Immersion</u>

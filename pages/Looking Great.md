@@ -4,7 +4,9 @@ permalink: /looking-great/
 description: ""
 variant: markdown
 ---
-# LOOKING GREAT! 🦚
+
+
+![](/images/LOOKING%20pngs/looking_great__1_.png)# LOOKING GREAT! 🦚
 
 ### Curriculum Achievements in 2023
 

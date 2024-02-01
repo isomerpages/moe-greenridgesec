@@ -1,9 +1,11 @@
 ---
-title: Looking Ahead
-permalink: /looking-ahead/
-description: ""
+title: LookingAhead Archive2023
+permalink: /archive-2023/
 variant: markdown
+description: ""
 ---
+
+	
 ### LOOKING AHEAD TO … October
 
 #### <u> GSS Summit </u>
