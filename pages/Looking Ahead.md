@@ -4,6 +4,16 @@ permalink: /looking-ahead/
 description: ""
 variant: markdown
 ---
+
+#### <center>Looking ahead to…&nbsp;
+#### <center>1 Exciting School Programs&nbsp;<br>
+####  <center>2 Home-based Learning and MS Trainings&nbsp;&nbsp;<br>
+####  <center>3 Planning for Assessments and Examinations&nbsp;&nbsp;&nbsp;<br>
+####  <center>4 Parent Engagements&nbsp;&nbsp;<br>
+####  <center>5 School Holidays</center>
+
+
+
 ### LOOKING AHEAD TO … October
 
 #### <u> GSS Summit </u>
@@ -92,4 +102,4 @@ Wondering about the rich learning experiences that Greenridge Secondary offers? 
 
 ##### **1 December 2023 – 2 January 2024: <u>Term 4 Vacation</u>**
 
-CCA and Student Leaders may be required to return to school in the last week of December to begin preparation for the new school year.**
+CCA and Student Leaders may be required to return to school in the last week of December to begin preparation for the new school year.**</center></center></center></center></center>
