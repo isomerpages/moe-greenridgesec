@@ -1,13 +1,13 @@
 ---
-title: Exciting School Programs
+title: Exciting School Programmes
 permalink: /la1/
 variant: markdown
 description: ""
 ---
-##### Looking ahead to…<br> Exciting School Programs <br> <u>TERM 1 AND TERM 2</u><u> <br><br></u>
+##### Looking ahead to…<br> Exciting School Programmes <br> <u>TERM 1 AND TERM 2</u><u> <br><br></u>
 
 
-| Dates | Program | 
+| Dates | Programme | 
 | -------- | -------- | 
 | 3 – 5 Jan  |Sec 1 Orientation  |
 | 10 – 12 Jan  | Sec 2 – 5 Level Programme  |
