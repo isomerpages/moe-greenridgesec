@@ -4,7 +4,6 @@ permalink: /la2/
 variant: markdown
 description: ""
 ---
-	
 ##### Looking ahead to…<br> Home-based Learning and MS Trainings  <br> <u>TERM 1 AND TERM 2</u><u> <br><br></u>
 
 | Dates | Program | 
