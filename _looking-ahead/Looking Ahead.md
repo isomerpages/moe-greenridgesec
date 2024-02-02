@@ -8,8 +8,8 @@ variant: markdown
 
 # **2024**
 #### Looking ahead to…&nbsp;
-#### [1 Exciting School Programmes  ](https://greenridgesec.moe.edu.sg/la1/)<br>
-####  [2 Home-based Learning and MS Trainings ](https://greenridgesec.moe.edu.sg/la2/)<br>
-####  [3 Planning for Assessments and Examinations](https://greenridgesec.moe.edu.sg/la3/)<br>
-####  [4 Parent Engagements](   https://greenridgesec.moe.edu.sg/la4/)<br>
-####  [5 School Holidays](https://greenridgesec.moe.edu.sg/la5/)
+####  1   Exciting School Programmes  <br>
+####  2   Home-based Learning and MS Trainings <br>
+####  3  Planning for Assessments and Examinations<br>
+####  4  Parent Engagements]<br>
+####  5  School Holidays]
