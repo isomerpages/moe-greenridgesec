@@ -21,7 +21,7 @@ sections:
   - infopic:
       id: infopic
       image: /images/CNY_MP4_wish_GSS_g.gif
-      title: Season's greetings from GSS
+      alt: Season's greetings from GSS
   - resources:
       title: ANNOUNCEMENTS
       id: resources
