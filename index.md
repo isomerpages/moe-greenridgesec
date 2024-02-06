@@ -22,6 +22,7 @@ sections:
       id: infopic
       image: /images/CNY_MP4_wish_GSS_g.gif
       alt: Season's greetings from GSS
+      title: "新 年 快 乐 "
   - resources:
       title: ANNOUNCEMENTS
       id: resources
