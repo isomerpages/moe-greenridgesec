@@ -18,6 +18,9 @@ sections:
           description: ""
           url: /looking-great/
       background: /images/Heros/Hero 001v4.jpg
+  - infopic:
+      id: infopic
+      image: /images/CNY_MP4_wish_GSS_g.gif
   - resources:
       title: ANNOUNCEMENTS
       id: resources
