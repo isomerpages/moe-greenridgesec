@@ -18,6 +18,12 @@ sections:
           description: ""
           url: /looking-great/
       background: /images/Heros/Hero 001v4.jpg
+  - infopic:
+      id: infopic
+      image: /images/CNY_MP4_wish_GSS_g.gif
+      alt: Season's greetings from GSS
+      title: 新年快乐，万事如意！    龙腾虎跃，龙马精神！    励志学习，进步神速！    龙年快乐，心想事成！
+      description: "\n\ \n"
   - resources:
       title: ANNOUNCEMENTS
       id: resources
