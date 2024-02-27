@@ -20,9 +20,13 @@ sections:
       background: /images/Heros/Hero 001v4.jpg
   - infopic:
       id: infopic
-      image: /images/CNY_gif_wish_GSS_NEW.gif
+      image: /images/60Ann/60th_anniversary_logo.gif
       alt: Season's greetings from GSS
-      title: 新年快乐，万事如意！    龙腾虎跃，龙马精神！    励志学习，进步神速！    龙年快乐，心想事成！
+      title: GSS 60th Anniversary
+      description: Celebrate Greenridge's 60th Anniversary by sharing your
+        well-wishes, memories, and reflections with us!
+      url: https://go.gov.sg/gss60thanniversarywellwishes
+      button: Click *here*
   - resources:
       title: ANNOUNCEMENTS
       id: resources
