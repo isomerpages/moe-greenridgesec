@@ -27,6 +27,11 @@ sections:
         well-wishes, memories, and reflections with us!
       url: https://go.gov.sg/gss60thanniversarywellwishes
       button: Click *here*
+  - infobar:
+      title: GSS 60th Anniversary
+      id: infobar
+      button: View greetings
+      url: https://sway.cloud.microsoft/HZ1s3oB56N7w7vk3?ref=Link
   - resources:
       title: ANNOUNCEMENTS
       id: resources
