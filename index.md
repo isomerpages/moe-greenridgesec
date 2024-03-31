@@ -32,15 +32,15 @@ sections:
       id: infobar
       button: View greetings
       url: https://sway.cloud.microsoft/HZ1s3oB56N7w7vk3?ref=Link
-  - resources:
-      title: ANNOUNCEMENTS
-      id: resources
   - infopic:
       title: ">>>>>"
-      subtitle: "Follow Us. . .Follow Us. . "
+      subtitle: Follow Us. . .Follow Us. .
       id: infopic
       button: Follow Us on InstaGram
       url: https://www.instagram.com/greenridgesecsch?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
       image: /images/60Ann/IG_Follow_us.gif
       alt: Image alt text
+  - resources:
+      title: ANNOUNCEMENTS
+      id: resources
 ---
