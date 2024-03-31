@@ -1,11 +1,9 @@
 ---
-title: Looking Great
-permalink: /looking-great/
+title: Looking Great 2023
+permalink: /looking-great-2023/
 description: ""
 variant: markdown
 ---
-
-
 ![](/images/LOOKING%20pngs/looking_great__1_.png)# LOOKING GREAT! 🦚
 
 ### Curriculum Achievements in 2023
