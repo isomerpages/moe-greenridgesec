@@ -43,4 +43,13 @@ sections:
   - resources:
       title: ANNOUNCEMENTS
       id: resources
+  - infopic:
+      title: Selamat Hari Raya Aidilfitri
+      id: infopic
+      description: Wishing you and your family a joyous Hari Raya! May this festive
+        season bring you closer to your loved ones and fill your home with peace
+        and happiness.
+      button: Button Text
+      image: /images/AESTHETICS2023/HariRaya_GSS_2024.gif
+      alt: Image alt text
 ---
