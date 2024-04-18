@@ -12,7 +12,7 @@ Dear P6 students
 
 We invite you to apply for Direct School Admission (DSA) to Sec 1 (2024). DSA allows students to seek admission to a secondary school based on a diverse range of interests and talents.
 
-For our 2024 Sec 1s, we offer the following talent areas:
+For our 2025 Sec 1s, we offer the following talent areas:
 * [Debating and Public Speaking](/signature-programmes/applied-learning-programme/debatenpublicspeaking/)
 * [Media and Journalism](/signature-programmes/applied-learning-programme/medianjournalism/)
 * [Bilingualism](/signature-programmes/applied-learning-programme/bilingualism/)
