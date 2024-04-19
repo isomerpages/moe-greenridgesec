@@ -56,7 +56,8 @@ sections:
       title: Direct School Admission
       id: infopic
       description: 2024 DIRECT SCHOOL ADMISSION-SECONDARY EXERCISE (DSA-SEC)
-      button: Button Text
+      button: click me
       image: /images/2024 DSA/v4_DSA_GSS_2024.gif
       alt: Image alt text
+      url: https://www.greenridgesec.moe.edu.sg/admission/dsa/
 ---
