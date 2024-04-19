@@ -52,4 +52,11 @@ sections:
   - resources:
       title: ANNOUNCEMENTS
       id: resources
+  - infopic:
+      title: Direct School Admission
+      id: infopic
+      description: 2024 DIRECT SCHOOL ADMISSION-SECONDARY EXERCISE (DSA-SEC)
+      button: Button Text
+      image: /images/2024 DSA/v4_DSA_GSS_2024.gif
+      alt: Image alt text
 ---
