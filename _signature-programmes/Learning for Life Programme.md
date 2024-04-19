@@ -2,6 +2,7 @@
 title: Learning for Life Programme
 permalink: /signature-programmes/learning-for-life-programme-llp/
 description: ""
+variant: markdown
 ---
 # Learning for Life Programme (LLP)
 ### Community Youth Leadership (CYL)
@@ -9,11 +10,13 @@ In Greenridge Secondary School, we aim to develop every Greenridgean into a Comm
 #### Approach
 The design of the LLP curriculum is guided by the 3Es (Educate, Encourage and Empower) framework via a two-tiered developmental approach, anchored on three leadership dimensions (self, team and thought leadership).
 #### 3Es Framework
-**Educate **
+**Educate** 
 - student population via Leadership Modules and CCE lessons for all Sec 1s to 3, and develop their awareness of community and leadership knowledge, competencies and attitudes to better serve the community (Tier 1).
 - Student Leaders through targeted leadership development via leadership seminars, camps and community projects at cluster and national levels (Tier 2).<br>
+
 **Encourage**
 - leadership development and applications through personal mastery of leadership skills, and recognition structures within and beyond the school<br>
+
 **Empower leadership amongst students through:**
 - provisions of platforms for values-in-action initiatives within and beyond the school;
 - opportunities for students’ self-initiated improvement projects and student-led events and programmes within and outside the school; and
