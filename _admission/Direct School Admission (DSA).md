@@ -10,14 +10,14 @@ variant: markdown
 
 Dear P6 students
 
-We invite you to apply for Direct School Admission (DSA) to Sec 1 (2024). DSA allows students to seek admission to a secondary school based on a diverse range of interests and talents.
+We invite you to apply for Direct School Admission (DSA) to Sec 1 (2025). DSA allows students to seek admission to a secondary school based on a diverse range of interests and talents.
 
 For our 2025 Sec 1s, we offer the following talent areas:
 * [Debating and Public Speaking](/signature-programmes/applied-learning-programme/debatenpublicspeaking/)
 * [Media and Journalism](/signature-programmes/applied-learning-programme/medianjournalism/)
 * [Bilingualism](/signature-programmes/applied-learning-programme/bilingualism/)
-* [Community Youth Leadership](/distinctive-programmes/learning-for-life-programme-llp/)
-* [Rugby](/school-experience/co-curriculum/cca/sports-and-games/rugby/)
+* [Community Youth Leadership](https://www.greenridgesec.moe.edu.sg/signature-programmes/learning-for-life-programme-llp/)
+* [Rugby](https://www.greenridgesec.moe.edu.sg/cca/sports-and-games/rugby/)
 
 
 Successful applicants will enjoy a range of developmental opportunities to nurture their interests and develop their skills in the talent area offered to them. These students can look forward to opportunities to:
@@ -42,11 +42,12 @@ Please note that meeting all the criteria does not guarantee the student will be
 
 **Application Process**
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec). An applicant may indicate up to 2 talent areas for the same school.&nbsp;
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open soon. For more details, please refer to MOE website – [http://www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec). An applicant may indicate up to 2 talent areas for the same school. 
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent area that they are selected for from Year 1 to Year 4.
+
 
 **Key Dates for 2024 DSA-Sec**
 
