@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 # **Direct School Admission**
-
+![](/images/2024%20DSA/v4_DSA_GSS_2024.gif)
 **2024 DIRECT SCHOOL ADMISSION-SECONDARY EXERCISE (DSA-SEC)**
 
 Dear P6 students
