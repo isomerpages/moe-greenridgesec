@@ -19,7 +19,7 @@ Fuelled by passion, driven by reason, Greenridge Debate Team storms into the fin
 
 ![](/images/2024%20DSA/debatechamps.jpg)
 Greenridge Secondary School's Debate Team faced Assumption English School on 26th April 2024 in the Grand Finals of the Singapore Secondary Schools Debating Championships 2024 (Division III). 
-The GSS Debate Team emerged victorious, clinching the coveted title of Grand Champion for 2024.
+The GSS Debate Team emerged victorious, clinching the coveted title of **Grand Champion for 2024**.
 
 ![](/images/2024%20DSA/debaters3.jpg)
 2nd place in the Singapore Secondary Schools Debating Championships 2023 (Division 3)
