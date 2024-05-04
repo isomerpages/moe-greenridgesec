@@ -2,6 +2,7 @@
 title: Humanities
 permalink: /curriculum/humanities/
 description: ""
+variant: markdown
 ---
 # Humanities
 
@@ -54,9 +55,13 @@ Students participate in conferences and&nbsp; competitions such as the Model ASE
 
 ### Photo Highlights
 
-1.	In history lessons, students explore many authentic historical sources to enhance their learning experience as well as deepen their understanding of the subject. ![](/images/HUMANITIES2023/1%20exploring%20sources%20in%20history.jpeg)
-2.	Students get an opportunity to taste spices as well as smell them. This gives them an authentic experience of how spice traders in the early years would have honed their trade. ![](/images/HUMANITIES2023/2%20tasting%20spices%20in%20history.jpeg)
-3.	In history we use gamification extensively. This is often in the form of game boards (some created in house) to enable students to understand historical decisions and even war strategies. ![](/images/HUMANITIES2023/3%20gamification%20in%20history%20upper%20secondary.jpeg)<br> ![](/images/HUMANITIES2023/5%20gamification%20in%20history%20lower%20secondary.jpeg)
+![](/images/2024%20DSA/humanities_a.jpg)
+1.  Sec One students engaged in their Geographical Investigation task which included testing of water quality using tap water and pond water. They tested for turbidity, Dissolved oxygen and pH levels.
+![](/images/2024%20DSA/humanities_b.jpg)
+
+2.	In history lessons, students explore many authentic historical sources to enhance their learning experience as well as deepen their understanding of the subject. ![](/images/HUMANITIES2023/1%20exploring%20sources%20in%20history.jpeg)
+3.	Students get an opportunity to taste spices as well as smell them. This gives them an authentic experience of how spice traders in the early years would have honed their trade. ![](/images/HUMANITIES2023/2%20tasting%20spices%20in%20history.jpeg)
+4.	In history we use gamification extensively. This is often in the form of game boards (some created in house) to enable students to understand historical decisions and even war strategies. ![](/images/HUMANITIES2023/3%20gamification%20in%20history%20upper%20secondary.jpeg)<br> ![](/images/HUMANITIES2023/5%20gamification%20in%20history%20lower%20secondary.jpeg)
 5.	While our students may be too young to vote, we give them an authentic voting experience in Secondary 2 when they study about Singapore’s road to independence. Students evaluate the different political parties in existence during this period and cast their vote for the party which would best solve the problems of early Singapore. 
 ![](/images/HUMANITIES2023/4%20authentic%20experiences%20in%20historyvoting.jpeg)
 6. We encourage student self-directedness in our Humanities classrooms. Students showcase their knowledge, big picture connections as well as artistic skills in note-taking in History. ![](/images/HUMANITIES2023/6%20student%20self-directedness%20in%20note%20taking.jpeg)
