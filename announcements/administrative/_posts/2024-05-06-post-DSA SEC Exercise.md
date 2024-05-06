@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3>DSA-SEC Exercise </h3>
+<h3>DSA-SEC Exercise</h3>
 <p>7 May 2024</p>
 <p>The Direct School Admission (DSA) Exercise for admission to secondary
 schools in 2025 will open for applications from 7 May 2024. DSA provides
