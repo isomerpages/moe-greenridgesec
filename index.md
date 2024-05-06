@@ -19,15 +19,6 @@ sections:
           url: /looking-great/
       background: /images/Heros/Hero 001v4.jpg
   - infopic:
-      title: Selamat Hari Raya Aidilfitri
-      id: infopic
-      description: Wishing you and your family a joyous Hari Raya! May this festive
-        season bring you closer to your loved ones and fill your home with peace
-        and happiness.
-      button: Button Text
-      image: /images/AESTHETICS2023/HariRaya_GSS_2024.gif
-      alt: Image alt text
-  - infopic:
       title: Direct School Admission
       id: infopic
       description: 2024 DIRECT SCHOOL ADMISSION-SECONDARY EXERCISE (DSA-SEC)
@@ -57,7 +48,4 @@ sections:
       url: https://www.instagram.com/greenridgesecsch?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
       image: /images/60Ann/IG_Follow_us.gif
       alt: Image alt text
-  - resources:
-      title: ANNOUNCEMENTS
-      id: resources
 ---
