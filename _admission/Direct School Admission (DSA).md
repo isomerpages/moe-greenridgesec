@@ -42,11 +42,13 @@ Please note that meeting all the criteria does not guarantee the student will be
 
 **Application Process**
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open soon. For more details, please refer to MOE website – [http://www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec). An applicant may indicate up to 2 talent areas for the same school. 
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and requires one parent’s Singpass to login for authentication purposes. Application will be open from **7 May 2024, 11am to 3 June 2024, 3pm.** 
+
+An applicant may indicate up to 2 talent areas for the same school. For more details, please refer to the MOE website - [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent area that they are selected for from Year 1 to Year 4.
+Students will be informed of the outcome of their DSA application by the respective schools. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent area that they are selected for from Year 1 to Year 4.
 
 
 For further enquiries, please feel free to:
