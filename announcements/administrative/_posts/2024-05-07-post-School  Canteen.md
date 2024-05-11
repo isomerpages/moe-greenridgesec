@@ -42,7 +42,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Noodles:</u></strong> 
-<br>Mee Soto, Mee Goreng, Mee Rebus, Mee Siam, Fried Bee Hoon, Mee Hokkien</p>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
