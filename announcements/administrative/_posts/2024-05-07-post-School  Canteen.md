@@ -41,7 +41,7 @@ variant: tiptap
 <p>1 July 2024 (preferably)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Noodles:</u></strong>
+<p><strong><u>Noodles:</u></strong> 
 <br>Mee Soto, Mee Goreng, Mee Rebus, Mee Siam, Fried Bee Hoon, Mee Hokkien</p>
 </td>
 </tr>
