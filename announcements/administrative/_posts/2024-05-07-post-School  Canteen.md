@@ -35,7 +35,7 @@ variant: tiptap
 <p>Malay Noodles Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 May 2024, Wednesday, 12:00 pm</p>
+<p>17 May 2024, Wednesday, 5:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 July 2024 (preferably)</p>
@@ -70,17 +70,20 @@ cleanliness that meet Singapore Food Agency (SFA) requirements.</p>
 Certificate.</p>
 </li>
 <li>
-<p>Successful applicant will need to apply for a food stall licence from
+<p>Successful applicant will need to apply for a food stall license from
 Singapore Food Agency (SFA).</p>
 </li>
 <li>
 <p>Able to comply with the latest Healthy Meals in Schools Programme (HMSP)
-guidelines. For more details please refer HPB’s website @ <a href="https://www.anglicanhigh.moe.edu.sg/files/Useful%20Links/School%20Canteen/hmsp_guidelines.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>HMSP Guidelines</u></a>
+guidelines. For more details, please refer HPB’s website @ <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">HMSP</a>
 </p>
 </li>
 <li>
-<p>Must be able to operate till 5pm on days whenever there are lessons and
-CCAs as required by school.</p>
+<p>Must be able to operate till 6:30 am to 4:00 during school terms</p>
+</li>
+<li>
+<p>Stallholder may be required to operate on other days / time as required
+by the School.</p>
 </li>
 <li>
 <p>Applicant must be in personal attendance at the stall during operating
@@ -99,7 +102,7 @@ environment are preferred.</p>
 </li>
 <li>
 <p>The above proposed menu list is negotiable and is subject to change by
-the Anglican High School Canteen Committee.</p>
+Greenridge Secondary School.</p>
 </li>
 </ul>
 <p><strong>Application and Submission</strong>
@@ -110,13 +113,10 @@ the Anglican High School Canteen Committee.</p>
 hardcopy from the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.anglicanhigh.moe.edu.sg/files/Useful%20Links/School%20Canteen/formbf7_application_for_canteen_stall.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Application Form</u></a>
+<p><a href="/files/school_canteen_application_form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 </li>
 </ul>
-</li>
-<li>
-<p>Attached the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>One recent passport-sized coloured photograph</p>
@@ -146,7 +146,7 @@ to the school General Office by closing date either by hand or post.</p>
 <p>Contact No: 6241 4866</p>
 </li>
 <li>
-<p>Contact Person: Mr. L Thanabalan</p>
+<p>Contact Person: Mr. L Thanabalan (Operations Manager)</p>
 </li>
 </ul>
 <ol data-tight="true" class="tight">
