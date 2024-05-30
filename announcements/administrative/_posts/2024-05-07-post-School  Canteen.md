@@ -35,7 +35,7 @@ variant: tiptap
 <p>Malay Noodles Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 May 2024, Friday, 12:00 pm</p>
+<p>7 June 2024, Friday, 12:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 July 2024 (preferably)</p>
@@ -144,7 +144,8 @@ to the school General Office by closing date either by hand or post.</p>
 <p>Address: 31 Gangsa Road</p>
 </li>
 <li>
-<p>Contact No: 6241 4866</p>
+<p>Contact No: <a href="tel:6241 4866" rel="noopener noreferrer nofollow" target="_blank">6241 4866</a>
+</p>
 </li>
 <li>
 <p>Contact Person: Mr. L Thanabalan (Operations Manager)</p>
