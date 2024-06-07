@@ -2,7 +2,6 @@
 title: GSS Parent Connect
 permalink: /parents/gss-parents-connect/
 description: ""
-third_nav_title: For Parents
 variant: markdown
 ---
 # **GSS Parent Connect**
