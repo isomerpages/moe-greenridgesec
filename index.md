@@ -26,10 +26,6 @@ sections:
       image: /images/2024 DSA/v4_DSA_GSS_2024.gif
       alt: Image alt text
       url: https://www.greenridgesec.moe.edu.sg/admission/dsa/
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
   - infopic:
       id: infopic
       image: /images/60Ann/60th_anniversary_logo.gif
@@ -52,4 +48,8 @@ sections:
       url: https://www.instagram.com/greenridgesecsch?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
       image: /images/60Ann/IG_Follow_us.gif
       alt: Image alt text
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
