@@ -46,6 +46,7 @@ sections:
       url: https://www.instagram.com/greenridgesecsch?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
       image: /images/60Ann/IG_Follow_us.gif
       alt: Image alt text
+      title: GSS Instagram
   - resources:
       title: Resources
       id: resources
