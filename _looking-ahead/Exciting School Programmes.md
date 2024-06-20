@@ -44,7 +44,7 @@ description: ""
 | 21 Jul  | Racial Harmony Day) |
 | 8 Aug  |National Day Celebration |
 |29 Aug  | Teachers’ Day Celebration) |
-|27 Sep (TBC)  |Sec 4&amp;5 Graduation Ceremony  |
+|27 Sep (TBC)  |Sec 4 and 5 Graduation Ceremony  |
 | 16 Oct  | Sec 1 Student Council Training  |
 | 21 – 25 Oct  |GSS Summit: Our Future, Voices, Vitality, Imagination  |
 |1 – 17 Nov  | Sec 3 Overseas Immersion (selected students)  |
