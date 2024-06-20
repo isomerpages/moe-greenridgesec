@@ -64,7 +64,7 @@ Our students are engaged to
 
 ![](/images/ICT2023/ict-8b.jpg)
 
-Subtitle: Advocates sharing key skills on how to evaluate online news
+Advocates sharing key skills on how to evaluate online news
 
 ![](/images/ICT2023/ict-09.jpg) Advocates interacting with audience to deepen understanding of information literacy
 
