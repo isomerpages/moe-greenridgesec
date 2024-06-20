@@ -22,7 +22,7 @@ In our journey to get our students to Imagine, Discover, Express, Accomplish and
 Students collaborating and sharing ideas.
 ![](/images/ICT2023/ict-02.jpg)
 
-Students creating video explanations to demonstrate their understanding.
+Students creating video explanations to demonstrate their learning.
 ![](/images/ICT2023/ict-03.jpg)
 
 Our students are engaged to 
