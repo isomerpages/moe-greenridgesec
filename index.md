@@ -31,15 +31,8 @@ sections:
       image: /images/60Ann/60th_anniversary_logo.gif
       alt: Season's greetings from GSS
       title: GSS 60th Anniversary
-      description: Celebrate Greenridge's 60th Anniversary by sharing your
-        well-wishes, memories, and reflections with us!
-      url: https://go.gov.sg/gss60thanniversarywellwishes
-      button: Click *here*
-  - infobar:
-      title: GSS 60th Anniversary
-      id: infobar
-      button: View greetings
       url: https://sway.cloud.microsoft/HZ1s3oB56N7w7vk3?ref=Link
+      button: Click *here*
   - infopic:
       id: infopic
       button: Follow Us on InstaGram
