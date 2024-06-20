@@ -17,7 +17,8 @@ through active and integrated use of technology in our students’ learning expe
 
 In our journey to get our students to Imagine, Discover, Express, Accomplish and Serve, technology 
 - deepens our teachers' design of student-centric learning experiences
-- enhances our teachers’ assessment of students' understanding and provision of formative feedback for students to - actively engages our students through a variety of platforms and ICT tools. 
+- enhances our teachers’ assessment of students' understanding and provision of formative feedback for students  
+-  actively engages our students through a variety of platforms and ICT tools. 
 
 Students collaborating and sharing ideas.
 ![](/images/ICT2023/ict-02.jpg)
