@@ -31,7 +31,7 @@ sections:
       image: /images/60Ann/60th_anniversary_logo.gif
       alt: Season's greetings from GSS
       title: GSS 60th Anniversary
-      url: https://go.gov.sg/gss60thanniversarywellwishes
+      url: https://sway.cloud.microsoft/HZ1s3oB56N7w7vk3?ref=Link
       button: Click *here*
   - infobar:
       title: GSS 60th Anniversary
