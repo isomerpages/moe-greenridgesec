@@ -32,3 +32,21 @@ description: ""
 | 28 May  | Student Council Training Camp  |
 | 18 – 20 Jun  | Sec 3E&amp;NA Applied Learning Module @ Poly  |
 |  |  |
+
+##### Looking ahead to…<br> Exciting School Programmes <br> <u>TERM 3 AND TERM 4</u><u> <br><br></u>
+
+
+| Dates | Programme | 
+| -------- | -------- | 
+|28 Jun  |Youth Day Celebration  |
+|8 – 12 Jul  |Sec 3 MOE-OBS Challenge  |
+| 17 Jul  | Peer Support Leaders Training  |
+| 21 Jul  | Racial Harmony Day) |
+| 8 Aug  |National Day Celebration |
+|29 Aug  | Teachers’ Day Celebration) |
+|27 Sep (TBC)  |Sec 4&amp;5 Graduation Ceremony  |
+| 16 Oct  | Sec 1 Student Council Training  |
+| 21 – 25 Oct  |GSS Summit: Our Future, Voices, Vitality, Imagination  |
+|1 – 17 Nov  | Sec 3 Overseas Immersion (selected students)  |
+| 7 – 8 Nov (TBC)  | Student Council Training Camp  |
+|  |  |
