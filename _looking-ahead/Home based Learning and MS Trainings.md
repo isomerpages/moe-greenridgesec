@@ -20,3 +20,11 @@ description: ""
 | 12 Apr, 26 Apr |Sec 4 &amp; 5 Home-based Learning |
 | 10 May |Sec 1 Home-based Learning |
 | | |
+
+##### Looking ahead to…<br> Home-based Learning and MS Trainings  <br> <u>TERM 3   AND TERM 4</u><u> <br><br></u>
+
+| Dates | Programme | 
+| -------- | -------- | 
+|5 Jul, 23 – 25 Jul, 16 Aug| Sec 3 Home-based Learning |
+|12 Jul, 23 – 25 Jul, 23 Aug | Sec 1 and 2 Home-based Learning |
+| 13 Sep |Sec 1 and 2 Home-based Learning |
