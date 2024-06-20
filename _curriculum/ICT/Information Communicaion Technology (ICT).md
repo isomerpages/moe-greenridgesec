@@ -3,6 +3,7 @@ title: Information Communicaion Technology (ICT)
 permalink: /curriculum/ict/
 description: ""
 third_nav_title: ICT
+variant: markdown
 ---
 ### ICT
 ![](/images/ICT2023/ict-01.jpg)
@@ -10,7 +11,8 @@ third_nav_title: ICT
 We nurture our Greenridgeans to 
 - deepen their digital literacy skills and
 -	be responsible users of information technology 
-through active and integrated use of technology in our students’ learning experience.
+through active and integrated use of technology in our students’ learning experience.<br>
+
 #### HOW WE ENGAGE OUR STUDENTS
 
 In our journey to get our students to Imagine, Discover, Express, Accomplish and Serve, technology 
@@ -32,9 +34,9 @@ Our students are engaged to
 
   
 
-#### OUR STUDENTS & TEACHERS @ WORK
+#### OUR STUDENTS &amp; TEACHERS @ WORK
 
-**Secondary One Foundation Digital Skills & HBL Preparation**
+**Secondary One Foundation Digital Skills &amp; HBL Preparation**
 
  
 ![](/images/ICT2023/ict-04.jpg) Exposure to various digital productivity tools and platforms 
