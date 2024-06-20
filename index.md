@@ -33,11 +33,6 @@ sections:
       title: GSS 60th Anniversary
       url: https://sway.cloud.microsoft/HZ1s3oB56N7w7vk3?ref=Link
       button: Click *here*
-  - infobar:
-      title: GSS 60th Anniversary
-      id: infobar
-      button: View greetings
-      url: https://sway.cloud.microsoft/HZ1s3oB56N7w7vk3?ref=Link
   - infopic:
       id: infopic
       button: Follow Us on InstaGram
