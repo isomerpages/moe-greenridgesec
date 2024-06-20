@@ -1,7 +1,7 @@
 ---
 title: Planning for Assessments and Examinations
 permalink: /la3/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h5>Looking ahead to…<br>Planning for Assessments and Examinations <br><u>TERM 1 AND TERM 2</u></h5>
@@ -54,12 +54,24 @@ description: ""
 </tbody>
 </table>
 <h5>Looking ahead to…<br>Planning for Assessments and Examinations <br><u>TERM 3 AND TERM 4</u></h5>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dates</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>30 Sep &nbsp;&nbsp;</p>
