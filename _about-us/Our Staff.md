@@ -65,7 +65,7 @@ variant: markdown
 |<font size="3"> 1-5  </font>|<font size="3"><a href="mailto:koh_kha_chuang@gss.moe.edu.sg"> Mr Koh Kha Chuang (Physics)   </a></font>|<font size="3"><a href="mailto:haslinda_rasul@gss.moe.edu.sg"> Ms. Haslinda Rasul (FCE) </a></font>| | 
 |<font size="3"> 1-6 </font>|<font size="3"><a href="mailto:lee_yue_zhi@gss.moe. edu.sg"> Ms. Lee Yue Zhi (Music) </a></font>|<font size="3"><a href="mailto:lee_wei_song@gss.moe.edu.sg"> Mr Lee Wei Song (SS/EL) </a></font> |   | 
 |<font size="3"> 1-7 </font>|<font size="3"><a href="mailto:tan_jui_chin_bernard@gss.moe.edu.sg">Tan Jui Chin Bernard (CPA/ D’&amp;’T) </a></font>|<font size="3"><a href="mailto:lim_wan_han@gss.moe.edu.sg"> Ms. Lim Wan Han (EL) </a></font> | <font size="3"><a href="mailto:md_nur_aniqq@gss.moe.edu.sg"> Mr. Md. Nur Aniqq (EL/LIT) </a></font>|
-|<font size="3"> 1-8 </font>|<font size="3"><a href="mailto:ng_jia_ling_christine@gss.moe.edu.sg"> Ms. Ng Jia Ling Christine (Math) </a></font>|<font size="3"><a href="mailto:veera@gss.moe.edu.sg"> Mr. Veera ( ) </a></font> | |
+|<font size="3"> 1-8 </font>|<font size="3"><a href="mailto:ng_jia_ling_christine@gss.moe.edu.sg"> Ms. Ng Jia Ling Christine (Math) </a></font>|<font size="3"><a href="mailto:veera@gss.moe.edu.sg"> Mr. Veera ( TL ) </a></font> | |
 |_ |_ |_ |_ |
 
 |   <font size="5">CLASS</font>|<font size="5">Secondary Two</font>|   |    |
