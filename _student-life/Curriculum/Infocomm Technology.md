@@ -47,12 +47,6 @@ Our students are engaged to
 ![](/images/ICT2023/ict-05.jpg) Deepening digital literacy skills with certification
 
 
-
-
-
-
-
-
 **Secondary Two Coding Programme**
  
 ![](/images/ICT2023/ict-06.jpg)Solving a problem with coding
