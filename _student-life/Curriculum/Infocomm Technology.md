@@ -3,6 +3,7 @@ title: Infocomm Technology
 permalink: /student-life/curriculum/ict/
 third_nav_title: Curriculum
 description: ""
+variant: markdown
 ---
 # ICT
 ![](/images/ICT2023/ict-01.jpg)
@@ -10,17 +11,19 @@ description: ""
 We nurture our Greenridgeans to 
 - deepen their digital literacy skills and
 -	be responsible users of information technology 
-through active and integrated use of technology in our students’ learning experience.
+through active and integrated use of technology in our students’ learning experience.<br>
+
 ### HOW WE ENGAGE OUR STUDENTS
 
 In our journey to get our students to Imagine, Discover, Express, Accomplish and Serve, technology 
 - deepens our teachers' design of student-centric learning experiences
-- enhances our teachers’ assessment of students' understanding and provision of formative feedback for students to - actively engages our students through a variety of platforms and ICT tools. 
+- enhances our teachers’ assessment of students' understanding and provision of formative feedback for students 
+- actively engages our students through a variety of platforms and ICT tools. 
 
 Students collaborating and sharing ideas.
 ![](/images/ICT2023/ict-02.jpg)
 
-Teacher guiding student in online assignment.
+Students creatin a video to demonstrate their learning.
 ![](/images/ICT2023/ict-03.jpg)
 
 Our students are engaged to 
@@ -32,9 +35,9 @@ Our students are engaged to
 
   
 
-### OUR STUDENTS & TEACHERS @ WORK
+### OUR STUDENTS &amp; TEACHERS @ WORK
 
-**Secondary One Foundation Digital Skills & HBL Preparation**
+**Secondary One Foundation Digital Skills &amp; HBL Preparation**
 
  
 ![](/images/ICT2023/ict-04.jpg) Exposure to various digital productivity tools and platforms 
