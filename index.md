@@ -19,6 +19,11 @@ sections:
           url: /looking-great/
       background: /images/Heros/Hero 001v4.jpg
   - infopic:
+      title: Great to have you back!
+      id: infopic
+      description: Let's continue our journey of learning and growth. Together onward!
+      image: /images/Welcome_back_to_school_sem_2.png
+  - infopic:
       title: Direct School Admission
       id: infopic
       description: 2024 DIRECT SCHOOL ADMISSION-SECONDARY EXERCISE (DSA-SEC)
