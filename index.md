@@ -43,4 +43,10 @@ sections:
   - resources:
       title: Resources
       id: resources
+  - infopic:
+      title: Great to have you back!
+      id: infopic
+      description: Let's continue our journey of learning and growth. Together onward!
+      image: /images/Welcome_back_to_school_sem_2.png
+      alt: Image alt text
 ---
