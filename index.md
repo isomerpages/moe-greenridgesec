@@ -23,6 +23,7 @@ sections:
       id: infopic
       description: Let's continue our journey of learning and growth. Together onward!
       image: /images/Welcome_back_to_school_sem_2.png
+      alt: a
   - infopic:
       title: Direct School Admission
       id: infopic
