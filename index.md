@@ -9,13 +9,13 @@ sections:
   - hero:
       key_highlights:
         - title: Looking Back
-          description: ""
+          description: The GSS experience
           url: https://sway.cloud.microsoft/yBYBvs78UTstYMqk?ref=Link
         - title: Looking Ahead
-          description: ""
+          description: Important dates
           url: /looking-ahead/
         - title: Looking Great!
-          description: ""
+          description: Our achievements
           url: /looking-great/
       background: /images/Heros/Hero 001v4.jpg
   - infopic:
