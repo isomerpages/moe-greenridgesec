@@ -21,6 +21,7 @@ variant: markdown
 |   |   |   |
 |:--| :-- |---:|
 |<font size="3"> Mdm. Salina Bte Ismail </font>| <font size="3">School Staff Developer </font>  | <font size="3"><a href="mailto:salina_ismail@gss.moe.edu.sg"> salina_ismail@gss.moe.edu.sg </a></font>  |
+|<font size="3">Ms. Foa Chee Zhu, </font>|<font size="3"> HOD – Character and Citizenship Education</font>| <font size="3"><a href="mailto:foa_chee_zhu@gss.moe.edu.sg"> foa_chee_zhu@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mdm. Christina D/O Joseph </font>|<font size="3"> HOD – Humanities </font>| <font size="3"><a href="mailto:christina_joseph@gss.moe.edu.sg"> christina_joseph@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mdm. Wang Jieying Clara </font> | <font size="3">HOD – Information - Communications &amp; Technology </font> | <font size="3"><a href="mailto:wang_jieying_clara@gss.moe.edu.sg"> wang_jieying_clara@gss.moe.edu.sg  </a> </font>  |
 |<font size="3">Ms. Yong Hsueh Li, Shirley </font> |<font size="3">HOD – Innovation and Design </font>| <font size="3"><a href="mailto:yong_hsueh_li_shirley@gss.moe.edu.sg"> yong_hsueh_li_shirley@gss.moe.edu.sg </a></font> |
