@@ -21,6 +21,7 @@ variant: markdown
 |   |   |   |
 |:--| :-- |---:|
 |<font size="3"> Mdm. Salina Bte Ismail </font>| <font size="3">School Staff Developer </font>  | <font size="3"><a href="mailto:salina_ismail@gss.moe.edu.sg"> salina_ismail@gss.moe.edu.sg </a></font>  |
+|<font size="3">Ms. Foa Chee Zhu, </font>|<font size="3"> HOD – Character and Citizenship Education</font>| <font size="3"><a href="mailto:foa_chee_zhu@gss.moe.edu.sg"> foa_chee_zhu@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mdm. Christina D/O Joseph </font>|<font size="3"> HOD – Humanities </font>| <font size="3"><a href="mailto:christina_joseph@gss.moe.edu.sg"> christina_joseph@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mdm. Wang Jieying Clara </font> | <font size="3">HOD – Information - Communications &amp; Technology </font> | <font size="3"><a href="mailto:wang_jieying_clara@gss.moe.edu.sg"> wang_jieying_clara@gss.moe.edu.sg  </a> </font>  |
 |<font size="3">Ms. Yong Hsueh Li, Shirley </font> |<font size="3">HOD – Innovation and Design </font>| <font size="3"><a href="mailto:yong_hsueh_li_shirley@gss.moe.edu.sg"> yong_hsueh_li_shirley@gss.moe.edu.sg </a></font> |
@@ -33,6 +34,8 @@ variant: markdown
 |<font size="3">Mr. Yong Woei Shyang  </font>  | <font size="3">HOD – Student Management </font> | <font size="3"><a href="mailto:yong_woei_shyang@gss.moe.edu.sg">yong_woei_shyang@gss.moe.edu.sg  </a> </font>  |
 |<font size="3">Mr. Wong Shan Jing</font>  | <font size="3">HOD and Year Head (Sec 2/3) </font>  |<font size="3"><a href="mailto:wong_shan_jing@gss.moe.edu.sg">wong_shan_jing@gss.moe.edu.sg </a> </font>  |
 |<font size="3">Ms. Yiew Qifang Daphne </font>   |<font size="3">Year Head (Sec 1/4/5)</font>  | <font size="3"><a href="mailto:yiew_qifang_daphne@gss.moe.edu.sg">yiew_qifang_daphne@gss.moe.edu.sg </a> </font>  |
+|<font size="3">Ms. Tan Mei Ying</font> |<font size="3">Assistant Year Head </font>| <font size="3"><a href="mailto:tan_mei_ying@gss.moe.edu.sg">tan_mei_ying@gss.moe.edu.sg </a></font> |   
+|<font size="3">Mr. Zhong Rongdian, Kelvin</font> |<font size="3">Assistant Year Head </font>| <font size="3"><a href="mailto:zhong_rongdian_kelvin@gss.moe.edu.sg">zhong_rongdian_kelvin@gss.moe.edu.sg </a></font> |   
 |<font size="3">Ms. Lee Yue Zhi</font>|<font size="3">SH – Aesthetics </font>| <font size="3"><a href="mailto:lee_yue_zhi@gss.moe.edu.sg">lee_yue_zhi@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mdm. Grace Foa Chee Zhu</font>  |<font size="3">SH – Character &amp; Citizenship Education </font> | <font size="3"><a href="mailto:foa_chee_zhu@gss.moe.edu.sg">foa_chee_zhu@gss.moe.edu.sg </a> </font>  |
 |<font size="3">Ms. Cheong Xinni Cheryl </font>  |<font size="3">SH – Chemistry </font>  |<font size="3"><a href="mailto:cheong_xinni_cheryl@gss.moe.edu.sg">cheong_xinni_cheryl@gss.moe.edu.sg </a></font>  |
@@ -42,7 +45,6 @@ variant: markdown
 |<font size="3">Mr. Lim Yeun Chen Mark </font> |<font size="3">SH – Information-Communications &amp; Technology </font>  | <font size="3"><a href="mailto:lim_yeun_chen@gss.moe.edu.sg">lim_yeun_chen@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mr. Chin Zhi Hao</font>|<font size="3">SH – Mathematics </font>| <font size="3"><a href="mailto:chin_zhi_hao@gss.moe.edu.sg">chin_zhi_hao@gss.moe.edu.sg </a></font>   |
 |<font size="3">Ms. Sylvia Lim</font>|<font size="3">SH – Physical Education </font> |<font size="3"> <a href="mailto:lim_sze_hui_sylvia@gss.moe.edu.sg">lim_sze_hui_sylvia@gss.moe.edu.sg </a></font>   |
-|<font size="3">Ms. Lydia Bte Salim</font> |<font size="3">SH – Science &amp; Innovation </font>| <font size="3"><a href="mailto:lydia_salim@gss.moe.edu.sg">lydia_salim@gss.moe.edu.sg </a></font> |   
 |<font size="3">Ms. Teo Chin Ling Grace</font>|<font size="3">SH - Student Management </font> |<font size="3"><a href="mailto:teo_chin_ling_grace@gss.moe.edu.sg">teo_chin_ling_grace@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mdm. Lim Mei Tju</font>|<font size="3">ST – Art</font>|<font size="3"><a href="mailto:lim_mei_tju@gss.moe.edu.sg">lim_mei_tju@gss.moe.edu.sg </a></font>   |
 |<font size="3">Mdm. Liaw Poh Geok</font>|<font size="3">ST – Design and Technology </font>|<font size="3"><a href="mailto:liaw_poh_geok@gss.moe.edu.sg">liaw_poh_geok@gss.moe.edu.sg </a></font>   |
@@ -64,7 +66,7 @@ variant: markdown
 |<font size="3"> 1-4  </font>|<font size="3"><a href="mailto:yap_xiao_ting@gss.moe.edu.sg"> Ms. Yap Xiao Ting (Phy)  </a></font>|<font size="3"><a href="mailto:viknesh_kumar_somu@gss.moe.edu.sg"> Mr Viknesh Kumar Somu  (EL/SS) </a></font>|   | 
 |<font size="3"> 1-5  </font>|<font size="3"><a href="mailto:koh_kha_chuang@gss.moe.edu.sg"> Mr Koh Kha Chuang (Physics)   </a></font>|<font size="3"><a href="mailto:haslinda_rasul@gss.moe.edu.sg"> Ms. Haslinda Rasul (FCE) </a></font>| | 
 |<font size="3"> 1-6 </font>|<font size="3"><a href="mailto:lee_yue_zhi@gss.moe. edu.sg"> Ms. Lee Yue Zhi (Music) </a></font>|<font size="3"><a href="mailto:lee_wei_song@gss.moe.edu.sg"> Mr Lee Wei Song (SS/EL) </a></font> |   | 
-|<font size="3"> 1-7 </font>|<font size="3"><a href="mailto:tan_jui_chin_bernard@gss.moe.edu.sg">Tan Jui Chin Bernard (CPA/ D’&amp;’T) </a></font>|<font size="3"><a href="mailto:md_nur_aniqq@gss.moe.edu.sg"> Mr. Md. Nur Aniqq (EL/LIT) </a></font>|    |
+|<font size="3"> 1-7 </font>|<font size="3"><a href="mailto:tan_jui_chin_bernard@gss.moe.edu.sg">Tan Jui Chin Bernard (CPA/ D’&amp;’T) </a></font>|<font size="3"><a href="mailto:aniqq@gss.moe.edu.sg"> Mr. Md. Nur Aniqq (EL/LIT) </a></font>|    |
 |<font size="3"> 1-8 </font>|<font size="3"><a href="mailto:ng_jia_ling_christine@gss.moe.edu.sg"> Ms. Ng Jia Ling Christine (Math) </a></font>|<font size="3"><a href="mailto:veera@gss.moe.edu.sg"> Mr. Veera ( TL ) </a></font> | |
 |_ |_ |_ |_ |
 
