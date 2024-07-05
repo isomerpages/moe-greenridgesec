@@ -15,14 +15,14 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Looking Great 2024/db01.png">
 </div>
-<p>Congratulations to our talented students who clinched the Grand Final
-Championship (Div III) at the Singapore Secondary Schools Debating Championships
-(SSSDC) 2024! Their dedication, eloquence, and teamwork shone through as
-they navigated complex topics with confidence and poise. This remarkable
-achievement is a testament to their hard work, critical thinking skills,
-and passion for debate. We are immensely proud of their success and look
-forward to seeing their continued excellence in future competitions. Well
-done, champions!</p>
+<p><strong>Congratulations </strong>to our talented students who clinched
+the Grand Final Championship (Div III) at the Singapore Secondary Schools
+Debating Championships (SSSDC) 2024! Their dedication, eloquence, and teamwork
+shone through as they navigated complex topics with confidence and poise.
+This remarkable achievement is a testament to their hard work, critical
+thinking skills, and passion for debate. We are immensely proud of their
+success and look forward to seeing their continued excellence in future
+competitions. Well done, champions!</p>
 <p></p>
 <p></p>
 <p></p>
