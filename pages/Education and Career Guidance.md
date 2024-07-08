@@ -38,7 +38,12 @@ or by scanning the QR code.</p>
 <p>Information on Post-secondary Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary<br><br><br></a>
+<p><a href="https://www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary</a>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>
+<br>
+<br>
+</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +59,12 @@ after your secondary school
 <p>Course Finder</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/coursefinder<br><br><br></a>
+<p><a href="https://go.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/coursefinder</a>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>
+<br>
+<br>
+</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -71,7 +81,12 @@ details about the course (modules and career prospects), etc.
 <p>Admissions Exercises and Programmes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions<br><br><br></a>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions</a>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>
+<br>
+<br>
+</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,7 +104,7 @@ or ITE.
 <br>(ITE, JC/MI, Polytechnic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae/explore-pathways-and-understand-posting-process<br><br></a>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae/explore-pathways-and-understand-posting-process" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae/explore-pathways-and-understand-posting-process</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -101,7 +116,10 @@ or ITE.
 <p>A-Level curriculum and subject syllabuses (JC/MI)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses<br><br></a>
+<p><a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses</a>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>
+</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,7 +135,12 @@ or ITE.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses<br><br><br></a>
+<p><a href="https://www.ite.edu.sg/admissions/full-time-courses" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/admissions/full-time-courses</a>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>
+<br>
+<br>
+</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,8 +153,14 @@ or ITE.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pfp</a>&nbsp;&nbsp;&nbsp;
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html<br><br></a>
+<p><a href="https://go.gov.sg/pfp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pfp</a>
+</p>
+<p></p>
+<p><a href="https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/pfp_faqs.html</a>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>
+<br>
+</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,7 +173,7 @@ or ITE.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/applynafafp</a>
+<p><a href="https://go.gov.sg/applynafafp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/applynafafp</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -158,7 +187,7 @@ or ITE.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.nafa.edu.sg/courses/diploma</a>
+<p><a href="https://www.nafa.edu.sg/courses/diploma" rel="noopener noreferrer nofollow" target="_blank">https://www.nafa.edu.sg/courses/diploma</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,7 +200,7 @@ or ITE.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.lasalle.edu.sg/admissions/diploma-admissions</a>
+<p><a href="https://www.lasalle.edu.sg/admissions/diploma-admissions" rel="noopener noreferrer nofollow" target="_blank">https://www.lasalle.edu.sg/admissions/diploma-admissions</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -210,7 +239,7 @@ or ITE.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2024.pdf<br><br></a>
+<p><a href="https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2024.pdf</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -222,9 +251,7 @@ or ITE.
 <p>My-Skills-Future Portal (Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec<br>https://go.gov.sg/industrylandscape-sec<br><br></a>
-</p>
-<p><strong>&nbsp;</strong>
+<p><a href="https://go.gov.sg/industrylandscape-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/industrylandscape-sec</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -237,7 +264,8 @@ or ITE.
 <p>Calendar of Events</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecgcalendar</a>&nbsp;&nbsp;</p>
+<p><a href="https://go.gov.sg/ecgcalendar" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecgcalendar</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Stay up to date with upcoming Education and Career Guidance Events</p>
@@ -250,7 +278,7 @@ or ITE.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.nyc.gov.sg/omw/home</a>
+<p><a href="https://www.nyc.gov.sg/omw/home" rel="noopener noreferrer nofollow" target="_blank">https://www.nyc.gov.sg/omw/home</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -266,7 +294,8 @@ your interest</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit<br>https://go.gov.sg/parent-guide</a>&nbsp;&nbsp;</p>
+<p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit</a>
+</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,7 +308,7 @@ your interest</p>
 <p>Scholarships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/admissions-scholarships</a>
+<p><a href="https://go.gov.sg/admissions-scholarships" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/admissions-scholarships</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -292,11 +321,9 @@ your interest</p>
 <p>Stories of Hope &amp; Inspiration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.go.gov.sg/next-step-forward</a>&nbsp;&nbsp;&nbsp;
+<p><a href="https://www.go.gov.sg/next-step-forward" rel="noopener noreferrer nofollow" target="_blank">https://www.go.gov.sg/next-step-forward</a> 
 <br>
-<br>
-</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/life-at-ite/ITE-success-stories</a>
+<br><a href="https://www.ite.edu.sg/life-at-ite/ITE-success-stories" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/life-at-ite/ITE-success-stories</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -310,9 +337,20 @@ your interest</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a>
+<p>Email: <a href="MOE_ECG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_ECG@moe.gov.sg</a>
 </p>
-<p>E-appointment system:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre<br><br>https://go.gov.sg/whats-next</a>&nbsp;&nbsp;</p>
+<p></p>
+<p></p>
+<p>E-appointment system:&nbsp;<a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>
+</a>
+</p>
+<p><a href="https://go.gov.sg/whats-next" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next</a>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>
+</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The ECG Centre provides ECG counselling services for students during periods
@@ -326,8 +364,11 @@ results.</p>
 <p>Private Education Institution &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/3rs<br><br>https://go.gov.sg/pei</a>&nbsp;</p>
-<p>&nbsp;</p>
+<p><a href="https://go.gov.sg/3rs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/3rs</a>
+</p>
+<p></p>
+<p><a href="https://go.gov.sg/pei" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Information for students who are planning to pursue a course with a Private
@@ -340,7 +381,10 @@ Education Institution (PEI)</p>
 <p>Community-based Helplines</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.mindline.sg/<br><br>https://carey.carecorner.org.sg/</a>
+<p><a href="https://www.mindline.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.mindline.sg/</a>
+</p>
+<p></p>
+<p><a href="https://carey.carecorner.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://carey.carecorner.org.sg/</a>
 </p>
 <p>&nbsp;</p>
 </td>
