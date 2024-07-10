@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Consent for Photographs and Videos of Students for School Purposes.md
       - Our Compass.md
       - Our Staff.md
       - Code Of Conduct.md
+      - Consent for Photographs and Videos of Students for School Purposes.md
       - Our Heritage.md
       - Our Students.md
