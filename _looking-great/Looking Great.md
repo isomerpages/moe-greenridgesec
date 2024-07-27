@@ -508,4 +508,65 @@ of&nbsp; Accounts</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>Compassionate Leader Award</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Zawawi Bin Zainol</p>
+<p>Aniya Fatini Binte Azrulhisam</p>
+<p>Dayna Reshitha De Laure</p>
+<p>Brendan Lee Zhan Quan</p>
+<p>Luqman Nur Hakim Bin Imran</p>
+<p>Yeap Jun Ming Nigel (Ye Junming)</p>
+<p>Wong Ji Yarn, Venus</p>
+<p>Danish Ilman Bin Ibrahim</p>
+<p>Muhammad Nur Iqhsan Bin Muhammad Faizal</p>
+<p>Su Rui Jie</p>
+<p>Wong Xin Hui</p>
+<p>Annisaa Ika Amwirya Bte Ambiah</p>
+<p>Syakirah Binti Arpabe</p>
+<p>Wong Yi Zhen, Karis</p>
+<p>Tsui Kiu Hay Shawna</p>
+<p>Gao Haiqian</p>
+<p>Park Soobin</p>
+<p>Reyes Julian Samuel Mancia</p>
+<p>Soe Thiha</p>
+<p>Tan Yu Hang</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60dc.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
