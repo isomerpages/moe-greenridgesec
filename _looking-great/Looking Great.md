@@ -147,14 +147,24 @@ of our community.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60b.jpg">
 </div>
 <hr>
-<p><strong><u>Secondary 3 (2023) : Excellence in Subject: Express</u></strong>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Secondary 3 (2023) : Excellence in Subject: Express</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>English Language, Combined Science (Physics/Chemistry), Literature, Principles
@@ -246,14 +256,24 @@ of&nbsp; Accounts</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Secondary 3 (2023) : Excellence in Subject: Normal (Academic)</u></strong>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Secondary 3 (2023) : Excellence in Subject: Normal (Academic)</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>English Language</p>
@@ -337,14 +357,27 @@ of&nbsp; Accounts</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Secondary 3 (2023) : Excellence in Subject: Normal (Technical)</u></strong>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Secondary 3 (2023) : Excellence in Subject: Normal (Technical)</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>English Language</p>
