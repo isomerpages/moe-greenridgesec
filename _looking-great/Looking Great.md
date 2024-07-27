@@ -146,7 +146,8 @@ of our community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60b.jpg">
 </div>
-<p><strong><u>Secondary 3 (2023)  : Excellence in Subject: Express</u></strong>
+<hr>
+<p><strong><u>Secondary 3 (2023) : Excellence in Subject: Express</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -245,8 +246,7 @@ of&nbsp; Accounts</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>Secondary 3 (2023) : Excellence in Subject: Normal (Academic)</strong>
+<p><strong><u>Secondary 3 (2023) : Excellence in Subject: Normal (Academic)</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -333,6 +333,64 @@ of&nbsp; Accounts</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Hui Xin Mary</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Secondary 3 (2023) : Excellence in Subject: Normal (Technical)</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seet Jia Fu, Deon&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basic Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nufa'el Afeeq Bin Muhammad Noor Ashyik</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basic Tamil Language&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shanmugam Aswin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chay Yit Xuan&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics, Science and Elements of Business Skills</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lwee Jia Jun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Computer Applications and Design and Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Darryl Tan</p>
 </td>
 </tr>
 </tbody>
