@@ -603,4 +603,130 @@ of&nbsp; Accounts</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Model Student Award: Secondary 3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Han Jiseong</p>
+<p>Cheng Shin Yang</p>
+<p>Chay Yit Xuan</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Secondary 4/5 (2023) : Confident Learner Award </strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Express</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Normal (Academic) </strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Normal (Technical) </strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhang Qingyue</p>
+<p>Feng Siwei</p>
+<p>Liang Yihang</p>
+<p>Li Zeyuan</p>
+<p>Zhang Jiahe</p>
+<p>Ning Xiner</p>
+<p>Lim Jia Cheng</p>
+<p>Ge Ruite</p>
+<p>Wei Meifan</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tong Kai Fu</p>
+<p>Neo You Sheng Xavier</p>
+<p>Cheng Shin Ren</p>
+<p>Eran Hakeem Bin Mohd Hudzir</p>
+<p>Erica Choo Li Jia</p>
+<p>Muhammad Wafiq Bin Zainol</p>
+<p>Ng Jia Xin</p>
+<p>Brandon Phang Wee Chuan (Feng Weiquan)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>William John Fulwood</p>
+<p>Goh Joyi</p>
+<p>Lee Xiang Rong</p>
+<p>Lim Zi Ann</p>
+<p>Nur Marsyah Erienna Binte Abdullah</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
