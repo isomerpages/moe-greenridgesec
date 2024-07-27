@@ -404,6 +404,20 @@ of&nbsp; Accounts</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Secondary 3 (2023) : Excellence in Subject</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60c.jpg">
 </div>
@@ -425,9 +439,19 @@ of&nbsp; Accounts</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="3">
 <p>Secondary 3 (2023) : Confident Learner Award</p>
-<p></p>
 </th>
 </tr>
 <tr>
@@ -437,7 +461,7 @@ of&nbsp; Accounts</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60e.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60e.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -468,7 +492,6 @@ of&nbsp; Accounts</p>
 <p>Shen Zhuyan</p>
 <p>Yong Xu Biao</p>
 <p>Lin Yexin</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cheng Shin Yang</p>
@@ -480,17 +503,6 @@ of&nbsp; Accounts</p>
 <td rowspan="1" colspan="1">
 <p>Chay Yit Xuan</p>
 <p>Tan Howe Jie, Nicholas</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
