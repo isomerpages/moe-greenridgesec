@@ -395,4 +395,105 @@ of&nbsp; Accounts</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60c.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60d.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Secondary 3 (2023) : Confident Learner Award</p>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60e.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Express</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Normal (Academic)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Normal (Technical)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Han Jiseong</p>
+<p>Li Guo</p>
+<p>Ma Xiaoxiao</p>
+<p>Youn Chae-Eun</p>
+<p>Zhu Yiran</p>
+<p>Shen Zhuyan</p>
+<p>Yong Xu Biao</p>
+<p>Lin Yexin</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheng Shin Yang</p>
+<p>Park Soobin</p>
+<p>Villamor Glen Andrei Cimafranca</p>
+<p>Senthil Murugan Selvakumar</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chay Yit Xuan</p>
+<p>Tan Howe Jie, Nicholas</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
