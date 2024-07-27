@@ -26,9 +26,6 @@ competitions. Well done, champions!</p>
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Looking Great 2024/db02.png">
-</div>
 <p><strong>Our Debaters</strong>
 </p>
 <table style="minWidth: 50px">
@@ -38,30 +35,33 @@ competitions. Well done, champions!</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Baek Siyeon 3/6</p>
+</td>
+<td rowspan="5" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/db02.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Nur Qadriyyah Binte Mohammad Nasir 3/6</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Tee Zong En Wayne 4/10</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Adriana Juzailah Binte Jumari 4/9</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Li Guo 4/9</p>
 </td>
 </tr>
