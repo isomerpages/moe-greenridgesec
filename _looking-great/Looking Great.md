@@ -130,3 +130,211 @@ questions.</p>
 </tbody>
 </table>
 <p></p>
+<h4>GSS 60th Anniversary &amp; Honours Day 2024</h4>
+<p>Greenridge Secondary School proudly celebrates its 60th Anniversary in
+conjunction with Honours Day 2024, recognising the remarkable achievements
+of our outstanding students. This milestone event highlights our dedication,
+resilience, excellence and commitment to nurturing the future leaders of
+Singapore. Together, we honor their success and the unwavering support
+of our community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60a.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60b.jpg">
+</div>
+<p><strong><u>Secondary 3 (2023)  : Excellence in Subject: Express</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language, Combined Science (Physics/Chemistry), Literature, Principles
+of&nbsp; Accounts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Li Guo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chai Min Si</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tong Jun Fu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Annisaa Ika Amwirya Bte Ambiah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Elementary Mathematics and Additional&nbsp; Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yong Xu Biao</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhu Yiran</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physics and Humanities (Social Studies / History)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Han Jiseong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Combined Science (Biology / Chemistry)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vernette Tan&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Humanities (Social Studies / Geography)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shen Zhuyan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Geography&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leong Weng Kue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese, Combined Science (Physics/Chemistry), Principles of Accounts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ma Xiaoxiao</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Secondary 3 (2023) : Excellence in Subject: Normal (Academic)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Daiyan Arfan Bin Muhammad Ali</p>
+<p>Umar Bin Muhammad Zahid</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loo Zhao Xian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Paxton Hii Shang Jing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Additional Mathematics&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheng Shin Yang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Additional Mathematics and Combined Science (Chemistry / Biology)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Park Soobin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Humanities (Social Studies / Geography)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Villamor Glen Andrei Cimafranca</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Humanities (Social Studies / History)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohammed Izzul Raimy Bin Hairol</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Principles of Accounts Michelle Tan Yan En&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(Chen Yan'en)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Design and Technology&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dakshayani Tamil Selvam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Hui Xin Mary</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
