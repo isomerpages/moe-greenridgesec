@@ -663,7 +663,7 @@ of&nbsp; Accounts</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Secondary 4/5 (2023) : Confident Learner Award </strong>
+<p><strong>Secondary 4/5 (2023) : Confident Learner Award</strong>
 </p>
 </td>
 </tr>
@@ -673,12 +673,12 @@ of&nbsp; Accounts</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Normal (Academic) </strong>
+<p><strong>Normal (Academic)</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Normal (Technical) </strong>
+<p><strong>Normal (Technical)</strong>
 </p>
 <p></p>
 </td>
@@ -720,6 +720,92 @@ of&nbsp; Accounts</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Compassionate Leader Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kenji Lee Kian Yang</p>
+<p>Durrani Ashraf Putra Mohamed Iskandariah</p>
+<p>Oh Kai Wunn Clayden</p>
+<p>Fitri Adrian Bin Hirwan</p>
+<p>Muhammad Firdaus Bin Amir Hamzah</p>
+<p>Ng Jia Xin</p>
+<p>Tay Sheng Qi Ignatius</p>
+<p>Mohamad Faeez Bin Mohamad Hafis</p>
+<p>Nurin Natrisya Binte Sheik Fadhir</p>
+<p>Chew Jun Lik</p>
+<p>Glendys Chia</p>
+<p>Keith Oh Xin Wei</p>
+<p>Nurul Sherina Putri Binte Alias</p>
+<p>Rifqi Zayyan Bin Jumaat</p>
+<p>Tum Jun Wen, Max</p>
+<p>Chen Leyi</p>
+<p>Edison Lee Khe Jin</p>
+<p>Pang Ai Jie Jennie</p>
+<p>Wei Meifan</p>
+<p>Bong Jing Min, Rachel</p>
+<p>Gan Bei Ting</p>
+<p>Jess Ho Yi Hui</p>
+<p>Neeshan S/O Suresh</p>
+<p>Ngoi Wan Qing</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Xin Yu, Jalyn</p>
+<p>Prishha Ragupathy</p>
+<p>Saharnaa D/O Mahendran</p>
+<p>Sarah Lee Zi Ying</p>
+<p>Trilia Wong Shin Ru</p>
+<p>Wang Hui Min</p>
+<p>Chloe Goh Qian En</p>
+<p>Lim Ru Yi</p>
+<p>Toh Wen Jing Seline</p>
+<p>Zenner Gaw Shan Rong</p>
+<p>Kenneth Poh Lee</p>
+<p>Cheng Xun</p>
+<p>Vanishri D/O Muthu</p>
+<p>Clara Lee Jia Xuan</p>
+<p>Iris Tan Yan Ting</p>
+<p>Jodie Tan</p>
+<p>Lee Jun Yi</p>
+<p>Len Wen Jie Timothy</p>
+<p>Max Lim Zhi Yu</p>
+<p>Muhamad Amran Bin Mazli</p>
+<p>Muhammad 'Aryq Bin Mas Hendra Sham</p>
+<p>Ting Yi Jing, Sherlyn</p>
+<p>Pangyarihan Kean Angelo De Guzman</p>
+<p>Xavier Toh You Jun</p>
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
