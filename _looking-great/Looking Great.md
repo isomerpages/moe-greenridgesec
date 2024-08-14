@@ -77,7 +77,7 @@ on the Online Gallery 2024 and SYF 2024 Art Exhibition e-Catalogue on SYF
 website.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/SYF_2024a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024  SYF ART/Singapore_Youth_Festival_2024_Art_Exhibition_3.jpg">
 </div>
 <p>We're thrilled to announce that our school is among the 10 chosen for
 a special guided tour of the exhibition by the Guest of Honor (GOH), Mr.
@@ -139,13 +139,13 @@ Singapore. Together, we honor their success and the unwavering support
 of our community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Honours Day/GSS_60th_Anniversary___Honours_Day_2024___1__Slide_8.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Honours Day/GSS_60th_Anniversary___Honours_Day_2024___2__Slide_8.jpg">
 </div>
+<p></p>
 <hr>
 <p></p>
 <table style="minWidth: 50px">
@@ -452,13 +452,13 @@ of&nbsp; Accounts</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Honours Day/GSS_60th_Anniversary___Honours_Day_2024___4__Slide_12_Ex_in_Subj.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60d.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Honours Day/GSS_60th_Anniversary___Honours_Day_2024___3__Slide_12_Ex_in_Subj.jpg">
 </div>
 </td>
 </tr>
@@ -494,7 +494,7 @@ of&nbsp; Accounts</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60e.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Honours Day/GSS_60th_Anniversary___Honours_Day_2024___5__Slide_13_Conf_Learner.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -589,7 +589,7 @@ of&nbsp; Accounts</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60dc.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Honours Day/GSS_60th_Anniversary___Honours_Day_2024___6__Slide_14_Comp_Leader.jpg">
 </div>
 </td>
 </tr>
@@ -809,7 +809,7 @@ of&nbsp; Accounts</p>
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60f.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Honours Day/GSS_60th_Anniversary___Honours_Day_2024___7__Slide_17_Comp_Leader.jpg">
 </div>
 </td>
 </tr>
@@ -846,8 +846,7 @@ of&nbsp; Accounts</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Graduate of the Year 2023</strong>
-</p>
+<h4><strong>Graduate of the Year 2023</strong></h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -859,8 +858,9 @@ of&nbsp; Accounts</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wei Mei Fan</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60k.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Honours Day/GSS_60th_Anniversary___Honours_Day_2024___8__Slide_18_Std_of_the_Yr.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
