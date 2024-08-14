@@ -77,7 +77,7 @@ on the Online Gallery 2024 and SYF 2024 Art Exhibition e-Catalogue on SYF
 website.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/SYF_2024a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024  SYF ART/Singapore_Youth_Festival_2024_Art_Exhibition_3.jpg">
 </div>
 <p>We're thrilled to announce that our school is among the 10 chosen for
 a special guided tour of the exhibition by the Guest of Honor (GOH), Mr.
