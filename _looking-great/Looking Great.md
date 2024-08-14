@@ -139,9 +139,15 @@ Singapore. Together, we honor their success and the unwavering support
 of our community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Honours Day/GSS_60th_Anniversary___Honours_Day_2024___1__Slide_8.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60a.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Honours Day/GSS_60th_Anniversary___Honours_Day_2024___2__Slide_8.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Looking Great 2024/GSS_60b.jpg">
