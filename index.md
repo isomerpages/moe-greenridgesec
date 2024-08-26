@@ -19,10 +19,9 @@ sections:
           url: /looking-great/
       background: /images/Heros/Hero 001v4.jpg
   - infopic:
-      title: Great to have you back!
+      title: Happy Teachers's Day !
       id: infopic
-      description: Let's continue our journey of learning and growth. Together onward!
-      image: /images/Welcome_back_to_school_sem_2.png
+      image: /images/2024 Miscellanous/HTD.gif
       alt: a
   - infopic:
       title: Direct School Admission
