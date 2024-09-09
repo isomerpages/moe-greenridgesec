@@ -19,9 +19,9 @@ sections:
           url: /looking-great/
       background: /images/Heros/Hero 001v4.jpg
   - infopic:
-      title: Happy Teachers's Day !
+      title: ALL THE BEST !
       id: infopic
-      image: /images/2024 Miscellanous/HTD.gif
+      image: /images/2024 Miscellanous/Nationals_Best_Wishes.gif
       alt: a
   - infopic:
       title: Direct School Admission
