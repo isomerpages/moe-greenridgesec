@@ -3,6 +3,7 @@ title: Cyberwellness
 permalink: /curriculum/ict/cyber-wellness/
 description: ""
 third_nav_title: ICT
+variant: markdown
 ---
 # **Cyber Wellness**
 
@@ -40,7 +41,7 @@ Students need to:
 *   advocate positive online behaviour (e.g. stand up for their peers online, report cases of cyber bullying to a trusted adult/authority, post encouraging remarks on social media)
 
 
-The school plans and implements a holistic CW education which comprises a) the CW lessons in&nbsp;[MOE’s formal curriculum](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101)&nbsp;and b) the school-wide programmes (e.g. CW assembly talks, CW Week, CW Roadshow and other CW activities) to reinforce the importance of CW and its messages. For more information on MOE’s formal curriculum, click&nbsp;[here](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101).
+The school plans and implements a holistic CW education which comprises a) the CW lessons in&nbsp;[MOE’s formal curriculum](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101)&nbsp;and b) the school-wide programmes (e.g. CW assembly talks, CW Week, CW Roadshow and other CW activities) to reinforce the importance of CW and its messages. For more information on MOE’s formal curriculum, click&nbsp;
 
 **Highlights from School-Wide Programmes**
 
