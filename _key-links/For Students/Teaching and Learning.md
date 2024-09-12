@@ -3,6 +3,7 @@ title: Teaching and Learning
 permalink: /key-links/for-students/teach-learn/
 description: ""
 third_nav_title: For Students
+variant: markdown
 ---
 # Resources
 
