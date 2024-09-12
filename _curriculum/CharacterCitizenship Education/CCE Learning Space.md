@@ -32,7 +32,7 @@ These individuals will also act as role models for the values that we want every
 		<ol><li>What achievements did he earn as a member of the National Cadet Corp?</li><li> Which magazine did Yusof Ishak first work for when he started his career as a journalist?</li><li>What happened to the Utusan Melayu during the Japanese Occupation?</li><li>Why did Yusof bin Ishak resigned from the newspaper in 1959?</li><li>He became the chancellor of which University in 1965?</li></ol>
 		<p>Answers can be found later in the page</p>
 		<p><b>Links to more info</b></p>
-		<ul><li><a href="http://www.a2o.com.sg/a2o/public/html/etc/09\_PuanNoorAishah.htm">http://www.a2o.com.sg/a2o/public/html/etc/09\_PuanNoorAishah.htm</a></li><li></li><li><a href="http://www.polymernotes.org/biographies/SGP\_bio\_binishak.htm">http://www.polymernotes.org/biographies/SGP\_bio\_binishak.htm</a></li><li><a href="http://picas.nhb.gov.sg/picas/public/internetSearch/advancedSearch.jsp?thesaurusFlag=Y&amp;simpleSearch=yusof+bin+ishak&amp;photographOption=1&amp;Submit=Submit&amp;pageNumber=50&amp;total=864">http://picas.nhb.gov.sg/picas/public/internetSearch/advancedSearch.jsp?thesaurusFlag=Y&amp;simpleSearch=yusof+bin+ishak&amp;photographOption=1&amp;Submit=Submit&amp;pageNumber=50&amp;total=864</a></li></ul>
+		
 		<p><b>More interesting facts<br><br>Yusof Ishak excelled in both the academic and extra-curricular fields.</b></p>
 		<ul><li>He scored distinctions in both the 1927 Cambridge School Certificate and in the Senior Cambridge Examinations.</li>
 			<li>He was admitted into the prestigious Queen’s Scholarship Class at RI, a group of only 13 and he was the only Malay.</li></ul>
