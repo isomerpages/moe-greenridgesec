@@ -6,7 +6,7 @@ variant: markdown
 ---
 <font size="5">Greenridge Secondary School (GSS) believes that every child is unique and can grow to advocate a worthy cause for a brighter future. It is our mission to shape character and inspire learning.
 <br>
-<iframe width="640" height="390" src="https://www.youtube.com/embed/wN82nU1JFf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="640" height="390" src="https://www.youtube.com/embed/wN82nU1JFf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 	
 <iframe width="640" height="390" src="https://www.youtube.com/embed/wN82nU1JFf0" title="" allow="accelerometer; autoplay=1 frameborder=" allowfullscreen=""></iframe>
