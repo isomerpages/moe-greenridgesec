@@ -1208,6 +1208,17 @@ Internet!</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="3">
 <h4><strong>NPCC</strong></h4>
 </th>
@@ -1270,5 +1281,223 @@ aptitude as NPCC cadets.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>NCC</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Unit Recognition Award 2023: Distinction</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Outstanding Cadet Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aviknash</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-10</p>
+</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zawawi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4></h4>
+</th>
+<th rowspan="1" colspan="1">
+<h4></h4>
+</th>
+<th rowspan="1" colspan="1">
+<h4></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<h4><strong>NCDCC</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Unit Overall Proficiency Award (Distinction</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>SCDF NCDCC Badge </strong>attained by</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Soe Thiha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-7</p>
+</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>SCOUTS</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Frank Cooper Sands Award</strong>
+</p>
+<p>Created in 1995 in honour of the father of Scouting in Singapore, the
+Frank Cooper Sands Award is awarded annually to sectional Scout units for
+unit excellence.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>Girls Brigade</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Company Award 2023</strong>: Silver</p>
+<p><strong>Drill Competition</strong>: Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
