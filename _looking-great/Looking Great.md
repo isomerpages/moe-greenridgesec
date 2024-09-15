@@ -1061,7 +1061,6 @@ win of 24-15 against Boon Lay Secondary School in the recent Netball NSG.</p>
 <th rowspan="1" colspan="3">
 <h4><strong>ART</strong></h4>
 <h4>Live On Festival (LOF) Design Competition</h4>
-<h4></h4>
 </th>
 </tr>
 <tr>
@@ -1198,4 +1197,89 @@ Internet!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h3><strong>2023 CCA</strong></h3>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>NPCC</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Unit Overall Proficiency Award (Distinction)</strong>
+</p>
+<p>GSS NPCC has attained the Unit Overall Proficiency Award (Distinction)
+for the year 2023!</p>
+<p>The UOPA is awarded to school units each year to promote excellence and
+proficiency at all levels, and the Distinction award is the highest possible
+honour a unit may attain. Kudos to our cadets, teacher officers and volunteer
+officers!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>SPF NPCC Badge</strong>
+</p>
+<p>Outstanding cadets from the unit have also attained the SPF NPCC Badge.
+This award testifies to their learning, right attitude as well as stellar
+aptitude as NPCC cadets.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Veera</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-9</p>
+</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anisaa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4-11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
