@@ -992,13 +992,10 @@ xxx from our school emerged Champion with his/her stellar performance!</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <h4>FOOTBALL</h4>
 <p>GSS C Division Football team clinched a thrilling 2-1 win against Temasek
 JC.</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Miscellanous/Great/Football_Slide_23.jpg">
@@ -1006,13 +1003,11 @@ JC.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <h4>RUGBY</h4>
 <p>GSS C Division Rugby boys celebrated their hard-fought 17-15 win against
 Monfort Secondary School.</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Miscellanous/Great/Rugby_Slide_23.jpg">
@@ -1020,13 +1015,11 @@ Monfort Secondary School.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <h4>NETBALL</h4>
 <p>GSS Netball girls celebrated their stellar performance in their recent
 win of 24-15 against Boon Lay Secondary School in the recent Netball NSG.</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Miscellanous/Great/Netball_Slide_23.jpg">
