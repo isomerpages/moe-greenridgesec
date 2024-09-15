@@ -1099,8 +1099,8 @@ your talent for a good social cause.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>INFOCOMM CLUB</strong> </h4>
-<h4>Better Internet Video Challenge 2024  : 1st Runner-up </h4>
+<h4><strong>INFOCOMM CLUB</strong></h4>
+<h4>Better Internet Video Challenge 2024 : 1st Runner-up</h4>
 </th>
 </tr>
 <tr>
@@ -1109,20 +1109,48 @@ your talent for a good social cause.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Miscellanous/Great/Better_Internet_Video_Challenge_2024_Slide_25__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p>GSS Infocomm and Media Production Club is proud to share that one of our
+teams have clinched First Runner-up in the Better Internet Video Challenge
+2024 organised by the Centre of Excellence for Digital Literacies, Media
+Literacy Council and Yishun Innova Junior College. The Better Internet
+Video Challenge 2024 is part of a nationwide effort to encourage students
+to advocate for a positive online space.</p>
+<p>Congratulations to our talented graphic designers for their great work
+- Word Wielded Weapons, Wounds Hidden in Screen:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Chay Yit Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>S3-3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Karen Khine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>S3-7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Alicia Ong Hui Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4-2</p>
 </td>
 </tr>
 </tbody>
