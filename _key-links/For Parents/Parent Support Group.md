@@ -19,8 +19,7 @@ Join us in making a positive impact on our children's education and well-being.<
 involvement. Your commitment and collaboration truly make a difference
 in the lives of our students."</p>
 <p></p>
-<p>Thank you to the GSS Parents Support Group for their wonderful gifts for
-Teachers Day.</p>
+<h4><strong>Thank you to the GSS Parents Support Group for their wonderful gifts for Teachers Day.</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Miscellanous/Great/Teacher_s_Day_PSG_2_Slide_20.png">
 </div>
