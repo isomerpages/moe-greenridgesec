@@ -1500,4 +1500,43 @@ unit excellence.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>SPORTS</strong></h4>
+<p><strong>RUGBY</strong>
+</p>
+<p>NSG ‘B’ Division 2023: 4th</p>
 <p></p>
+<p><strong>FOOTBALL</strong>
+</p>
+<p>NSG ‘B’ Division 2024: 3rd, League 5</p>
+<p></p>
+<p><strong>VOLLEYBALL</strong>
+</p>
+<p>Participated in NSG ‘B’ Division</p>
+<p>Participated in NSG ‘C’ Division</p>
+<p></p>
+<p><strong>TCHOUKBALL</strong>
+</p>
+<p>1st Merahan Tchoukball Invitationals</p>
+<p>Team A Boys - 1st runner up</p>
+<p>Team A Girls - 1st runner up</p>
+<p>Team B Boys - 2nd runner up</p>
+<p>Team B Boys - 1st runner up</p>
+<p></p>
+<p><strong>NETBALL</strong>
+</p>
+<p>Participated in NSG ‘B’ Division</p>
+<p>Participated in NSG ‘C’ Division</p>
+<h4><strong>PERFORMING ARTS</strong></h4>
+<p><strong>DANCE</strong>
+</p>
+<p>SYF 2023: Certificate of Accomplishment</p>
+<p></p>
+<p><strong>DRAMA</strong>
+</p>
+<p>SYF 2023: Certificate of Accomplishment</p>
+<p>International Science Drama Competition 2023: 2nd Place</p>
+<p></p>
+<p><strong>CONCERT BAND</strong>
+</p>
+<p>SYF 2023: Certificate of Accomplishment (Percussion Ensemble)</p>
+<p>SYF 2023: Certificate of Commendation (Brass Ensemble)</p>
