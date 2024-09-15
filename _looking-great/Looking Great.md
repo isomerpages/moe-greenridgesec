@@ -668,20 +668,26 @@ of&nbsp; Accounts</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Express</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Express</p>
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Normal (Academic)</strong>
 </p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Normal (Technical)</strong>
 </p>
-<p></p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -694,7 +700,6 @@ of&nbsp; Accounts</p>
 <p>Lim Jia Cheng</p>
 <p>Ge Ruite</p>
 <p>Wei Meifan</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tong Kai Fu</p>
@@ -704,27 +709,18 @@ of&nbsp; Accounts</p>
 <p>Erica Choo Li Jia</p>
 <p>Muhammad Wafiq Bin Zainol</p>
 <p>Ng Jia Xin</p>
-<p>Brandon Phang Wee Chuan (Feng Weiquan)</p>
-<p></p>
+<p>Brandon Phang Wee Chuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>William John Fulwood</p>
 <p>Goh Joyi</p>
 <p>Lee Xiang Rong</p>
 <p>Lim Zi Ann</p>
-<p>Nur Marsyah Erienna Binte Abdullah</p>
-<p></p>
+<p>Nur Marsyah Erienna Bte Abdullah</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+</tbody>
+</table>
 </td>
 </tr>
 </tbody>
