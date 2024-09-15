@@ -1199,7 +1199,7 @@ Internet!</p>
 </table>
 <p></p>
 <h3><strong>2023 CCA</strong></h3>
-<p></p>
+<h4><strong>Uniformed Group</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1539,4 +1539,5 @@ unit excellence.</p>
 <p><strong>CONCERT BAND</strong>
 </p>
 <p>SYF 2023: Certificate of Accomplishment (Percussion Ensemble)</p>
-<p>SYF 2023: Certificate of Commendation (Brass Ensemble)</p>
+<h3>SYF 2023: Certificate of Commendation (Brass Ensemble)</h3>
+<p></p>
