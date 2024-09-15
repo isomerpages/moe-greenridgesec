@@ -927,9 +927,6 @@ of&nbsp; Accounts</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Miscellanous/Great/2024_POA_Quest___1__Slide_22.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -939,8 +936,100 @@ of&nbsp; Accounts</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Miscellanous/Great/2024_POA_Quest___1__Slide_22.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Miscellanous/Great/2024_POA_Quest___3__Slide_22.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>At the Principles of Accounts (POA) Quest 2024, students from 20 secondary
+schools islandwide gathered at Deyi Secondary School. They engaged in challenges
+such as the Jewel Heist, Wheels of Assets, POAkemon, Online Escape Rooms,
+POA Pinballs, and Debate to apply their accounting theories and capabilities
+in real-life scenarios. Amongst the 80 accounting student enthusiasts,
+xxx from our school emerged Champion with his/her stellar performance!</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>SPORTS</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>FOOTBALL</h4>
+<p>GSS C Division Football team clinched a thrilling 2-1 win against Temasek
+JC.</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Miscellanous/Great/Football_Slide_23.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>RUGBY</h4>
+<p>GSS C Division Rugby boys celebrated their hard-fought 17-15 win against
+Monfort Secondary School.</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Miscellanous/Great/Rugby_Slide_23.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>NETBALL</h4>
+<p>GSS Netball girls celebrated their stellar performance in their recent
+win of 24-15 against Boon Lay Secondary School in the recent Netball NSG.</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Miscellanous/Great/Netball_Slide_23.jpg">
 </div>
 </td>
 </tr>
