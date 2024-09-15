@@ -1539,5 +1539,5 @@ unit excellence.</p>
 <p><strong>CONCERT BAND</strong>
 </p>
 <p>SYF 2023: Certificate of Accomplishment (Percussion Ensemble)</p>
-<h3>SYF 2023: Certificate of Commendation (Brass Ensemble)</h3>
+<p>SYF 2023: Certificate of Commendation (Brass Ensemble)</p>
 <p></p>
