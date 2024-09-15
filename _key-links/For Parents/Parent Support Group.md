@@ -29,7 +29,7 @@ Teachers Day.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Miscellanous/Great/Teacher_s_Day_PSG_1_Slide_20.png">
 </div>
 <p></p>
-<h3><strong>Our GSS Family at the Annual Cross-Country</strong></h3>
+<h3><strong>Our GSS PSG Family at the Annual Cross-Country</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG2024/psg001.jpg">
 </div>
