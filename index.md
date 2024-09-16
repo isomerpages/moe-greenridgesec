@@ -23,6 +23,8 @@ sections:
       id: infopic
       image: /images/2024 Miscellanous/Nationals_Best_Wishes.gif
       alt: a
+      url: https://sway.cloud.microsoft/rwhvy80tFBRQCFAD
+      button: click me
   - infopic:
       title: Direct School Admission
       id: infopic
