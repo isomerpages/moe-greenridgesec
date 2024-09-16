@@ -43,8 +43,9 @@ and nurture a Growth Mindset in our students.
 Synthesising, Creating, Respectful and Ethical minds); We shape them to
 be Compassionate Leaders, and inspire them to become Confident Learners
 and Ethical Innovators.</p>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Greenridge%20Secondary%20School%20Name%20%20Logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Miscellanous/GREENRIDGE_SECONDARY_SCHOOL_TOGETHER_ONWARD.jpg">
 </div>
 <h3>VISION:</h3>
 <p>Confident Learners, Compassionate Leaders, Ethical Innovators</p>
