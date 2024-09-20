@@ -82,58 +82,6 @@ win of 24-15 against Boon Lay Secondary School in the recent Netball NSG.</p>
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<h4><strong>ART</strong></h4>
-<h4>Live On Festival (LOF) Design Competition</h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Miscellanous/Great/Live_On_Festival__LOF__Design_Competition_Slide_24__1_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Miscellanous/Great/Live_On_Festival__LOF__Design_Competition_Slide_24__3_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Chay Yit Xuan from class 3-3 has made us all proud with her award winning
-artwork. Live On Festival (LOF) is an initiative started by National Organ
-Transplant Unit (NOTU), Ministry of Health (MOH) to encourage organ donation
-and transplantation amongst Singaporeans. Thank you Yit Xuan for channeling
-your talent for a good social cause.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
