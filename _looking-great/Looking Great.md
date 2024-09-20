@@ -18,6 +18,13 @@ description: ""
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1cMAvhQFdrUxbFONp1x962ULVoiuD9_B1rhCAsWFy8-I/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1WHGLRQ37l4gLPqyZnr3mM4pJNuq9g00YsVRHoPB4gi4/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1DPy-XGcjd19epESYMZxsQ5Tx7zJCgR6Hi791mZtRYGs/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h4>GSS 60th Anniversary &amp; Honours Day 2024</h4>
 <p>Greenridge Secondary School proudly celebrates its 60th Anniversary in
 conjunction with Honours Day 2024, recognising the remarkable achievements
@@ -1428,5 +1435,6 @@ unit excellence.</p>
 </p>
 <p>SYF 2023: Certificate of Accomplishment (Percussion Ensemble)</p>
 <p>SYF 2023: Certificate of Commendation (Brass Ensemble)</p>
+<p></p>
 <p></p>
 <p></p>
