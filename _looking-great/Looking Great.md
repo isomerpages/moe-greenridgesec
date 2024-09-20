@@ -27,7 +27,7 @@ description: ""
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="auto" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1LR-Ttfuz-M79g6e7zCMHCSmgMTb9gqBNct2Bpix-8l8/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="auto" width="100%" allowfullscreen="true" frameborder="1" src="https://docs.google.com/presentation/d/1LR-Ttfuz-M79g6e7zCMHCSmgMTb9gqBNct2Bpix-8l8/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>
