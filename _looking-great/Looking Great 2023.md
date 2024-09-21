@@ -254,8 +254,7 @@ achievements and character. Congratulations, Shahiq!</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
+<hr>
 <h3><strong>Uniformed Group</strong></h3>
 <h4>NPCC</h4>
 <p><strong>Unit Overall Proficiency Award (Distinction)</strong>
@@ -291,9 +290,7 @@ aptitude as NPCC cadets.</p>
 <p>SSGT (NPCC) Qu’ratul Umaira Binte Sharifudin from class 4-12</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <h4><strong>NCC</strong></h4>
 <p><strong>Unit Recognition Award 2023: Distinction</strong>
 </p>
@@ -322,9 +319,7 @@ aptitude as NCDCC cadets.</p>
 <p>Soe Thiha 4-7</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <h4><strong>SCOUTS</strong></h4>
 <p><strong>Frank Cooper Sands Award</strong>
 </p>
@@ -342,9 +337,7 @@ Brigade values and contributing to the community.</p>
 <p>The Girls Brigade Company Award and Drill Competition Silver Awards recognize
 the outstanding efforts of our Girls Brigade in demonstrating discipline,
 precision, and commitment.&nbsp;</p>
-<p>
-<br>
-</p>
+<p></p>
 <h4><strong>GIRL GUIDES</strong></h4>
 <p><strong>Puan Noor Aishah Award</strong>
 </p>
