@@ -331,10 +331,7 @@ aptitude as NCDCC cadets.</p>
 <p>Created in 1995 in honor of the father of Scouting in Singapore, the Frank
 Cooper Sands Award is presented annually to sectional Scout units for their
 excellence and dedication to Scouting principles.&nbsp;</p>
-<p>
-<br>
-</p>
-<h2><strong>GIRLS BRIGADE</strong></h2>
+<h4><br><strong>GIRLS BRIGADE</strong></h4>
 <p><strong>Company Award 2023: Silver</strong>
 </p>
 <p>The Company Award (Silver) recognizes the Girls Brigade’s dedication to
