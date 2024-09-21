@@ -116,7 +116,7 @@ results and clinched the Individual Award. Congratulations, XiaoXiao!</p>
 </tbody>
 </table>
 <p></p>
-<h3>Co-Curriculum Achievements in 2023</h3>
+<h3><strong>Co-Curriculum Achievements in 2023</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -192,8 +192,7 @@ Proficiency Award</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Awards for Sports</u>
-</p>
+<h4><u>Awards for Sports</u></h4>
 <p><strong>Rugby</strong>
 </p>
 <ul>
@@ -236,8 +235,7 @@ Proficiency Award</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Individual Awards</u>
-</p>
+<h4><u>Individual Awards</u></h4>
 <p><strong>Singapore Olympic Foundation (SOF) Peter Lim Scholarship</strong>
 </p>
 <p>The Singapore Olympic Foundation Peter Lim Scholarship is awarded annually
@@ -258,8 +256,8 @@ achievements and character. Congratulations, Shahiq!</p>
 <p></p>
 <p></p>
 <p></p>
-<h1><strong>Uniformed Group</strong></h1>
-<h2><strong>NPCC</strong></h2>
+<h3><strong>Uniformed Group</strong></h3>
+<h4><strong>NPCC</strong></h4>
 <p><strong>Unit Overall Proficiency Award (Distinction)</strong>
 </p>
 <p>GSS NPCC has attained the Unit Overall Proficiency Award (Distinction)
