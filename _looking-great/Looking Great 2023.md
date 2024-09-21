@@ -251,9 +251,6 @@ achievements and character. Congratulations, Shahiq!</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
 <hr>
 <h3><strong>Uniformed Group</strong></h3>
 <h4>NPCC</h4>
