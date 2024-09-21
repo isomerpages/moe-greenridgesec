@@ -257,7 +257,7 @@ achievements and character. Congratulations, Shahiq!</p>
 <p></p>
 <p></p>
 <h3><strong>Uniformed Group</strong></h3>
-<h4><strong>NPCC</strong></h4>
+<h4>NPCC</h4>
 <p><strong>Unit Overall Proficiency Award (Distinction)</strong>
 </p>
 <p>GSS NPCC has attained the Unit Overall Proficiency Award (Distinction)
@@ -294,7 +294,7 @@ aptitude as NPCC cadets.</p>
 <p>
 <br>
 </p>
-<h2><strong>NCC</strong></h2>
+<h4><strong>NCC</strong></h4>
 <p><strong>Unit Recognition Award 2023: Distinction</strong>
 </p>
 <p>GSS NCC has attained the Unit Recognition Award (Distinction) for the
@@ -310,7 +310,7 @@ year 2023!</p>
 </li>
 </ul>
 <p></p>
-<h2><strong>NCDCC</strong></h2>
+<h4><strong>NCDCC</strong></h4>
 <p><strong>Unit Overall Proficiency Award (Distinction)</strong>
 </p>
 <p><strong>SCDF NCDCC Badge</strong>&nbsp;</p>
@@ -325,7 +325,7 @@ aptitude as NCDCC cadets.</p>
 <p>
 <br>
 </p>
-<h2><strong>SCOUTS</strong></h2>
+<h4><strong>SCOUTS</strong></h4>
 <p><strong>Frank Cooper Sands Award</strong>
 </p>
 <p>Created in 1995 in honor of the father of Scouting in Singapore, the Frank
