@@ -345,26 +345,21 @@ precision, and commitment.&nbsp;</p>
 <p>
 <br>
 </p>
-<h2><strong>GIRL GUIDES</strong></h2>
+<h4><strong>GIRL GUIDES</strong></h4>
 <p><strong>Puan Noor Aishah Award</strong>
 </p>
 <p>The Puan Noor Aishah Award is the highest honor a Girl Guide unit can
 achieve, named after the first Asian President of the Singapore Girl Guides
 Association. This award recognizes the exceptional performance, service,
 and leadership of our Girl Guides.</p>
-<p>
-<br>
-<br>
-<br>
-</p>
-<h1><strong>Performing Arts</strong></h1>
-<h2><strong>DANCE</strong></h2>
+<p></p>
+<hr>
+<h3><strong>Performing Arts</strong></h3>
+<h4><strong>DANCE</strong></h4>
 <p><strong>SYF 2023: Certificate of Accomplishment</strong>
 </p>
-<p>
-<br>
-</p>
-<h2><strong>DRAMA</strong></h2>
+<p></p>
+<h4><strong>DRAMA</strong></h4>
 <p><strong>SYF 2023: Certificate of Accomplishment</strong>
 </p>
 <p><strong>International Science Drama Competition 2023: 2nd Place</strong>
@@ -375,29 +370,23 @@ sustainability and consuming clean food. Congratulations to our thespians!</p>
 <p><strong>Outstanding Performer Award: </strong>At the same competition,
 Haritha d/o Jeyaram Pandian from Sec 4-10 received the Outstanding Performer
 Award for her role as Chef Haritha. Great job, Haritha!</p>
-<p>
-<br>
-</p>
-<h2><strong>CONCERT BAND</strong></h2>
+<p></p>
+<h4><strong>CONCERT BAND</strong></h4>
 <p><strong>SYF 2023: Certificate of Accomplishment (Percussion Ensemble)</strong>
 </p>
 <p><strong>SYF 2023: Certificate of Commendation (Brass Ensemble)</strong>
 </p>
-<p>
-<br>
-</p>
-<h2><strong>CHINESE ORCHESTRA</strong></h2>
-<p><strong>SYF 2023: Certificate of Accomplishment</strong>
-</p>
-<p>
-<br>
-</p>
-<h2><strong>DANCE</strong></h2>
+<p></p>
+<h4><strong>CHINESE ORCHESTRA</strong></h4>
 <p><strong>SYF 2023: Certificate of Accomplishment</strong>
 </p>
 <p></p>
-<h1><strong>Sports</strong></h1>
-<h2><strong>RUGBY</strong></h2>
+<h4><strong>DANCE</strong></h4>
+<p><strong>SYF 2023: Certificate of Accomplishment</strong>
+</p>
+<hr>
+<h3><strong>Sports</strong></h3>
+<h4><strong>RUGBY</strong></h4>
 <p><strong>NSG ‘B’ Division 2023: 4th Place</strong>
 </p>
 <p><strong>Singapore Schools Sports Council National ‘B’ Division Boys Rugby Championship 2023 - 4th Place</strong>
@@ -408,10 +397,8 @@ It was a most exhilarating and nail-biting game which saw our boys continuously
 pushing themselves to overcome their challengers. We are very, very proud
 that our Rugby boys showed great sportsmanship, dedication and resilience
 throughout the game. Well done, boys!</p>
-<p>
-<br>
-</p>
-<h2><strong>FOOTBALL</strong></h2>
+<p></p>
+<h4><strong>FOOTBALL</strong></h4>
 <p><strong>NSG ‘B’ Division 2024: 3rd, League 5</strong>
 </p>
 <p>Our footballers secured a place in the Quarter-finals of the National
@@ -419,18 +406,14 @@ School Games in the National ‘B’ Division Boys Championship. The team faced
 fierce competition which saw them make a lot of adjustments, try a lot
 of strategies and learnt from the experience. We look forward to seeing
 you grow! Let’s do better in 2024!</p>
-<p>
-<br>
-</p>
-<h2><strong>VOLLEYBALL</strong></h2>
+<p></p>
+<h4><strong>VOLLEYBALL</strong></h4>
 <p><strong>Participated in NSG ‘B’ Division</strong>
 </p>
 <p><strong>Participated in NSG ‘C’ Division</strong>
 </p>
-<p>
-<br>
-</p>
-<h2><strong>TCHOUKBALL</strong></h2>
+<p></p>
+<h4><strong>TCHOUKBALL</strong></h4>
 <p><strong>1st Merahan Tchoukball Invitationals</strong>
 </p>
 <p><strong>Team A Boys - 1st runner up</strong>
@@ -441,10 +424,8 @@ you grow! Let’s do better in 2024!</p>
 </p>
 <p><strong>Team B Boys - 1st runner up</strong>
 </p>
-<p>
-<br>
-</p>
-<h2><strong>NETBALL</strong></h2>
+<p></p>
+<h4><strong>NETBALL</strong></h4>
 <p><strong>Participated in NSG ‘B’ Division</strong>
 </p>
 <p><strong>Participated in NSG ‘C’ Division</strong>
