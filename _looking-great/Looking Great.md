@@ -29,6 +29,10 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LOOKING pngs/looking_great__1_.png">
 </div>
 <h2>Curriculum Achievements in 2024</h2>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1H7r_dcrZIklR63-V5SWG8DEZoLfmKTTIMgCiZBi3yho/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <div class="iframe-wrapper">
 <iframe style="width:960px; height:569px;border: none; background: transparent;" height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1H7r_dcrZIklR63-V5SWG8DEZoLfmKTTIMgCiZBi3yho/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
