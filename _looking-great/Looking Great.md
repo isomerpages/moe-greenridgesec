@@ -33,28 +33,22 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="449" width="720" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1H7r_dcrZIklR63-V5SWG8DEZoLfmKTTIMgCiZBi3yho/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
+<p></p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe style="width:960px; height:569px;border: none; background: transparent;" height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1H7r_dcrZIklR63-V5SWG8DEZoLfmKTTIMgCiZBi3yho/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="422" width="720" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1cMAvhQFdrUxbFONp1x962ULVoiuD9_B1rhCAsWFy8-I/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1H7r_dcrZIklR63-V5SWG8DEZoLfmKTTIMgCiZBi3yho/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="422" width="720" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1WHGLRQ37l4gLPqyZnr3mM4pJNuq9g00YsVRHoPB4gi4/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1cMAvhQFdrUxbFONp1x962ULVoiuD9_B1rhCAsWFy8-I/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="422" width="720" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1DPy-XGcjd19epESYMZxsQ5Tx7zJCgR6Hi791mZtRYGs/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1WHGLRQ37l4gLPqyZnr3mM4pJNuq9g00YsVRHoPB4gi4/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1DPy-XGcjd19epESYMZxsQ5Tx7zJCgR6Hi791mZtRYGs/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="569" width="100%" allowfullscreen="true" frameborder="1" src="https://docs.google.com/presentation/d/1LR-Ttfuz-M79g6e7zCMHCSmgMTb9gqBNct2Bpix-8l8/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="422" width="720" allowfullscreen="true" frameborder="1" src="https://docs.google.com/presentation/d/1LR-Ttfuz-M79g6e7zCMHCSmgMTb9gqBNct2Bpix-8l8/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <h2>Co-Curriculum Achievements in 2024</h2>
