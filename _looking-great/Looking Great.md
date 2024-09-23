@@ -30,7 +30,7 @@ description: ""
 </div>
 <h2>Curriculum Achievements in 2024</h2>
 <div class="iframe-wrapper">
-<iframe style="border: none; background: transparent;" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1H7r_dcrZIklR63-V5SWG8DEZoLfmKTTIMgCiZBi3yho/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe style="border: none; background: transparent;" height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1H7r_dcrZIklR63-V5SWG8DEZoLfmKTTIMgCiZBi3yho/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
