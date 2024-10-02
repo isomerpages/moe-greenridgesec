@@ -16,4 +16,4 @@ variant: markdown
 ### Others
 
 - [Education and Career Guidance](/education-and-career-guidance/)
-- [Library(OPAC)](https://schoolibrary.moe.edu.sg/eresourcessec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+- [Library(Online E Resource)](https://schoolibrary.moe.edu.sg/eresourcessec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
