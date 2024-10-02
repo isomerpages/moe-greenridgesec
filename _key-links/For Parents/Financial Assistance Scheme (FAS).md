@@ -21,4 +21,4 @@ Please take note that, for families with the below mentioned conditions, you are
 ##### <u>Application Form</u>
 e-FAS Application Form::[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) (also available on Parents Gateway (under Services tab – Financial Assistance) via Singpass login)
 
-[MOE FAS Application Form](/files/MOE_FAS_Application_Form_2025.pdf)[MOE FAS 
+[MOE FAS Application Form](/files/MOE_FAS_Application_Form_2025.pdf)
