@@ -19,6 +19,12 @@ sections:
           url: /looking-great/
       background: /images/Heros/Hero 001v4.jpg
   - infopic:
+      title: Deepavali Greetings!
+      subtitle: Add an image and text
+      id: infopic
+      alt: Image alt text
+      image: /images/2024 Miscellanous/Deepavali2024_ezgif_com_resize.gif
+  - infopic:
       title: ALL THE BEST !
       id: infopic
       image: /images/2024 Miscellanous/Nationals_Best_Wishes.gif
@@ -33,12 +39,6 @@ sections:
       image: /images/2024 DSA/v4_DSA_GSS_2024.gif
       alt: Image alt text
       url: https://www.greenridgesec.moe.edu.sg/admission/dsa/
-  - infopic:
-      title: Deepavali Greetings!
-      subtitle: Add an image and text
-      id: infopic
-      alt: Image alt text
-      image: /images/2024 Miscellanous/Deepavali2024_ezgif_com_resize.gif
   - infopic:
       id: infopic
       image: /images/60Ann/60th_anniversary_logo.gif
