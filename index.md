@@ -24,6 +24,8 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/2024 Miscellanous/Deepavali2024_ezgif_com_resize.gif
+      description: May the Festival of Lights bring happiness, peace, and success into
+        your lives. Happy Deepavali!
   - infopic:
       title: ALL THE BEST !
       id: infopic
