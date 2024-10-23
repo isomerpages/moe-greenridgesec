@@ -34,6 +34,11 @@ sections:
       alt: Image alt text
       url: https://www.greenridgesec.moe.edu.sg/admission/dsa/
   - infopic:
+      title: Deepavali Greetings!
+      subtitle: Add an image and text
+      id: infopic
+      alt: Image alt text
+  - infopic:
       id: infopic
       image: /images/60Ann/60th_anniversary_logo.gif
       alt: Season's greetings from GSS
