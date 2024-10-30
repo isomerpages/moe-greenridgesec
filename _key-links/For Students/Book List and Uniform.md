@@ -11,7 +11,7 @@ variant: tiptap
 School (31 Gangsa Road, Singapore 678972)</p>
 <h3>Book List 2025</h3>
 <p>Please click on your Class to view your booklists for 2024.
-<br><strong>Secondary One, Secondary Two  and Secondary Five is same booklist for all streams.</strong>
+<br><strong>Secondary One, Secondary Two and Secondary Five is same booklist for all streams.</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -276,6 +276,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>98666192 (Miranda)</p>
+<p>[<em>from 13 Nov 2024 to 9 Jan 2024</em>]</p>
 </td>
 </tr>
 <tr>
@@ -293,17 +294,6 @@ School (31 Gangsa Road, Singapore 678972)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Contact Person</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ching Ling or Amy Seah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shirley or Lian Thai</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Website for Online Order</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -317,50 +307,61 @@ School (31 Gangsa Road, Singapore 678972)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 Opening Hours</p>
+<p>Sales/Collection Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Daily from Monday to Friday
-<br>7:00 am to 3:00 pm</p>
+<p>Classroom G2-01</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 ~ 5 Jan 2024 and
-<br>8 ~ 12 Jan 2024
-<br>9:00 am to 3:00 pm</p>
+<p>Ingenium Room D2-01/02</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue of Sales / Collection in School (till end of 2023)</p>
+<p>Collection/ Delivery Lead Time for Online Order</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Bookshop (next to Canteen)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gym (next to canteen)</p>
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
+<p>Collection in School will be ready within 3-5 working days</p>
+</li>
+<li>
+<p>Home delivery will take up to 2 weeks</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Remarks</p>
+<p>Online Payment Mode</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>You may also wish to purchase books during the first week of school as
-lessons will start only in Week 2 (i.e. from 8 Jan 2024) from the bookshop.</p>
+<p>Credit Card(Visa, Master), PayNow, GrabPay, ShopeePay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sales of school uniform, PE attire and bowtie/tie thereafter will be available
-through the bookshop after 12 Jan 2024.
-<br>The recommended school attire to purchase:
-<br>• 2 sets of school uniform (shorts for Sec 1 boys),
-<br>• 1 PE t-shirt
-<br>• 1 collar polo t-shirt
-<br>• 2 PE shorts
-<br>• 1 bowtie (girl) or tie (boy)*
-<br>
-<br>^The bowtie/tie purchased will be kept by the uniform supplier and passed
-to your child's Form Teacher. It will be given to your child during the
-first week of school.</p>
+<p>Credit or Debit Card</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Home Delivery Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$13.50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$12.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Walk-in payment mode</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cash, PayNow and NTUC Care Fund (e-vouchers) only</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cash or PayNow only</p>
 </td>
 </tr>
 <tr>
