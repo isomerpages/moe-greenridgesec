@@ -276,7 +276,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>98666192 (Miranda)</p>
-<p>[<em>from 13 Nov 2024 to 9 Jan 2024</em>]</p>
+<p>[<em>from 13 Nov 2024 to 9 Jan 2025 only</em>]</p>
 </td>
 </tr>
 <tr>
@@ -378,5 +378,5 @@ School (31 Gangsa Road, Singapore 678972)</p>
 </tbody>
 </table>
 <p>Dear parents and students, please refer to the <a href="/files/Book Lists 2025/2024_Year_End_Textbook_and_Uniform_Sale_30Oct24.pdf" rel="noopener nofollow" target="_blank">attached letter dated 30th October 2024 </a>;for
-details on the purchase of books and uniforms during the 2023 year-end
+details on the purchase of books and uniforms during the 2024 year-end
 school holidays.</p>
