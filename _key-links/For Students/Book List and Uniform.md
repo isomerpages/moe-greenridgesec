@@ -11,7 +11,7 @@ variant: tiptap
 School (31 Gangsa Road, Singapore 678972)</p>
 <h3>Book List 2025</h3>
 <p>Please click on your Class to view your booklists for 2024.
-<br><strong>Secondary One and Secondary Five is same booklist for all streams.</strong>
+<br><strong>Secondary One, Secondary Two  and Secondary Five is same booklist for all streams.</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -166,7 +166,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Date Of Sales</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 Dec 2023 to 29 Dec 2023</p>
+<p>13 Nov 2024 to 18 Dec 2024</p>
 </td>
 </tr>
 <tr>
@@ -376,6 +376,6 @@ first week of school.</p>
 </tr>
 </tbody>
 </table>
-<p>Dear parents and students, please refer to the <a href="/files/Book%20Lists%202024/2023%20year-end%20textbook%20and%20uniform%20sale_8nov23.pdf" rel="noopener noreferrer nofollow" target="_blank">attached letter dated 8 November 2023</a>;for
+<p>Dear parents and students, please refer to the <a href="/files/Book Lists 2025/2024_Year_End_Textbook_and_Uniform_Sale_30Oct24.pdf" rel="noopener nofollow" target="_blank">attached letter dated 30th October 2024 </a>;for
 details on the purchase of books and uniforms during the 2023 year-end
 school holidays.</p>
