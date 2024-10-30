@@ -29,9 +29,6 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LOOKING pngs/looking_great__1_.png">
 </div>
 <h2>Curriculum Achievements in 2024</h2>
-<div class="iframe-wrapper">
-<iframe height="449" width="720" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQhthVb1H1h7a4NKPiCSN7ryLQ3x4G6EGhOHYw1Bb2vCaSPvEQLwxFAVRGJKx1Q0tKW_JJnKLZRAR9o/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
 <p></p>
 <div class="iframe-wrapper">
@@ -59,6 +56,11 @@ description: ""
 <iframe height="449" width="720" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1kZJA7DD8d5fJoCXHpxl34jVRyD9IJ-cknXkDh9UKxAI/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h2>Co-Curriculum Achievements in 2024</h2>
+<div class="iframe-wrapper">
+<iframe height="449" width="720" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQhthVb1H1h7a4NKPiCSN7ryLQ3x4G6EGhOHYw1Bb2vCaSPvEQLwxFAVRGJKx1Q0tKW_JJnKLZRAR9o/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
