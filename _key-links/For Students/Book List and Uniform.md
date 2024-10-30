@@ -10,8 +10,8 @@ variant: tiptap
 <p>All textbooks and uniform may be purchased on-site at Greenridge Secondary
 School (31 Gangsa Road, Singapore 678972)</p>
 <h3>Book List 2025</h3>
-<p>Please click on your Class to view your booklists for 2024.
-<br><strong>Secondary One, Secondary Two and Secondary Five is same booklist for all streams.</strong>
+<p>Please click on your Class to view your booklists for 2025.
+<br><strong>Secondary One, Secondary Two and Secondary Five is the same booklist for all streams.</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -40,8 +40,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Secondary One</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Book%20Lists%202024/2024_Sec_1_Booklist_final_20Dec23.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec One (2024)</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
