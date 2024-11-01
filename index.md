@@ -22,7 +22,7 @@ sections:
       title: "Calling All Primary 6 Students: Discover Yourself at GSS!"
       id: infopic
       description: Click to explore and see all that awaits you at Greenridge
-        Secondary School!"
+        Secondary School!
       button: Click
       url: https://sites.google.com/view/discover-gss
       image: /images/2024 Miscellanous/discoveryourselfgss.png
