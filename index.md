@@ -28,20 +28,6 @@ sections:
       image: /images/2024 Miscellanous/discoveryourselfgss.png
       alt: Image alt text
   - infopic:
-      title: Deepavali Greetings!
-      id: infopic
-      alt: Image alt text
-      image: /images/2024 Miscellanous/Deepavali2024_ezgif_com_resize.gif
-      description: May the Festival of Lights bring happiness, peace, and success into
-        your lives. Happy Deepavali!
-  - infopic:
-      title: ALL THE BEST !
-      id: infopic
-      image: /images/2024 Miscellanous/Nationals_Best_Wishes.gif
-      alt: a
-      url: https://sway.cloud.microsoft/rwhvy80tFBRQCFAD
-      button: click me
-  - infopic:
       title: Direct School Admission
       id: infopic
       description: 2024 DIRECT SCHOOL ADMISSION-SECONDARY EXERCISE (DSA-SEC)
