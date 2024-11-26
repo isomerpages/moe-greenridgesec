@@ -144,7 +144,7 @@ to the school General Office by closing date either by hand or post.</p>
 <p>Address: 31 Gangsa Road</p>
 </li>
 <li>
-<p>Contact No: <a href="tel:6241 4866" rel="noopener noreferrer nofollow" target="_blank">6241 4866</a>
+<p>Contact No: <a href="tel:6241 4866" rel="noopener noreferrer nofollow" target="_blank">67691491</a>
 </p>
 </li>
 <li>
