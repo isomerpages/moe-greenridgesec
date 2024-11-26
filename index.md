@@ -52,13 +52,4 @@ sections:
   - resources:
       title: Resources
       id: resources
-  - announcements:
-      title: Announcements 2024
-      id: announcements
-      announcement_items:
-        - title: School Canteen
-          date: 26 November 2024
-          announcement: For 2025, the school have canteen space for rent for Halal Noodles.
-          link_text: click here for more details and application form
-          link_url: https://greenridgesec.moe.edu.sg/school-canteen-advertisemet/
 ---
