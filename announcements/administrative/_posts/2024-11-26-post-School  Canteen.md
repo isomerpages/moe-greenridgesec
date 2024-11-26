@@ -35,13 +35,13 @@ variant: tiptap
 <p>Malay Noodles Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 June 2024, Friday, 12:00 pm</p>
+<p>16 December2024, Monday, 12:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 July 2024 (preferably)</p>
+<p>2 January 2025 (preferably)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Noodles:</u></strong> 
+<p><strong><u>Halal Noodles:</u></strong> 
 <br>
 </p>
 </td>
