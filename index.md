@@ -52,4 +52,13 @@ sections:
   - resources:
       title: Resources
       id: resources
+  - announcements:
+      title: Announcements 2024
+      id: announcements
+      announcement_items:
+        - title: School Canteen
+          date: 26 November 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
