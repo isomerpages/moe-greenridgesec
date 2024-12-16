@@ -21,13 +21,14 @@ on 19 December 2024.</p>
 Secondary School due to serious medical conditions and severe physical
 disabilities will need to submit the transfer form to Greenridge Secondary
 School by <strong>19 December 2024, 12.00 pm</strong>. Please contact the
-school by email at <a rel="noopener noreferrer nofollow" target="_blank">gss@moe.edu.sg</a> or
+school by email at <a href="gss@moe.edu.sg" rel="noopener nofollow" target="_blank">gss@moe.edu.sg</a> or
 phone at 67691491 for further enquiry.</p>
 </li>
 <li>
 <p>Parents/Guardians who wish to transfer your child/ward into Greenridge
 Secondary School due to non-medical conditions, please click on the following
-link to complete the Appeal Form: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gsssec1appeal </a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+link to complete the Appeal Form: <a href="https://go.gov.sg/gsssec1appeal" rel="noopener nofollow" target="_blank">https://go.gov.sg/gsssec1appeal</a>
+<a rel="noopener noreferrer nofollow" target="_blank"></a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
 <p>The school will be utilising Parents Gateway as the main means of communication
@@ -35,7 +36,7 @@ with parents.</p>
 </li>
 <li>
 <p>Parents who have not downloaded the app can refer to the link below for
-more information: <a rel="noopener noreferrer nofollow" target="_blank">pg.moe.edu.sg </a>
+more information: <a href="pg.moe.edu.sg" rel="noopener nofollow" target="_blank">pg.moe.edu.sg</a>
 </p>
 </li>
 <li>
