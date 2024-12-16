@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-**Announcement: Secondary 1 Transfer Appeal**
+# **Secondary 1 Transfer Appeal**
 
 The Secondary 1 transfer appeal is now open from 18-24 December 2024 for students who wish to join Greenridge Secondary School.
 
