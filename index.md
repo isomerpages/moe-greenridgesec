@@ -52,4 +52,9 @@ sections:
   - resources:
       title: Resources
       id: resources
+  - infobar:
+      title: Secondary One Registration 2024
+      id: infobar
+      button: Click here
+      url: https://cms.isomer.gov.sg/sites/moe-greenridgesec/homepage
 ---
