@@ -7,6 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-Dear parents and students, please refer to the [attached letter dated 8 November 2023](/files/Book%20Lists%202024/2023%20year-end%20textbook%20and%20uniform%20sale_8nov23.pdf);for details on the purchase of books and uniforms during the 2023 year-end school holidays, according to the schedule as follows:
+Dear parents and students, please refer to the[ letter to parents dated 30th October 2024 ](/files/Book%20Lists%202025/2024_Year_End_Textbook_and_Uniform_Sale_30Oct24.pdf) ;for details on the purchase of books and uniforms during the 2024 year-end school holidays.
 
 and click [HERE](https://greenridgesec.moe.edu.sg/book-list-and-uniform/) to view the Book List page
