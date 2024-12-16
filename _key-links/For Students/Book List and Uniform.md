@@ -40,7 +40,8 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Secondary One</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S1.pdf" rel="noopener nofollow" target="_blank">Sec One (2025)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
