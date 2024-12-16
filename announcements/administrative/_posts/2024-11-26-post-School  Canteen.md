@@ -35,7 +35,7 @@ variant: tiptap
 <p>Malay Noodles Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 December2024, Monday, 12:00 pm</p>
+<p>23 December2024, Monday, 12:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 January 2025 (preferably)</p>
