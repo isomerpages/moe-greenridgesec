@@ -21,7 +21,7 @@ on 19 December 2024.</p>
 Secondary School due to serious medical conditions and severe physical
 disabilities will need to submit the transfer form to Greenridge Secondary
 School by <strong>19 December 2024, 12.00 pm</strong>. Please contact the
-school by email at <a href="gss@moe.edu.sg" rel="noopener nofollow" target="_blank">gss@moe.edu.sg</a> or
+school by email at <a href="mailto:gss@moe.edu.sg" rel="noopener nofollow" target="_blank">gss@moe.edu.sg</a> or
 phone at 67691491 for further enquiry.</p>
 </li>
 <li>
@@ -44,4 +44,5 @@ more information: <a href="https://pg.moe.edu.sg/" rel="noopener nofollow" targe
 </ul>
 <p><a href="https://go.gov.sg/gss-sec1" rel="noopener nofollow" target="_blank">Click here for more information about Secondary One Registration matters.</a>
 </p>
-<p></p>
+<p><a href="mailto:gss@moe.edu.sg" rel="noopener nofollow" target="_blank">gss@moe.edu.sg</a>
+</p>
