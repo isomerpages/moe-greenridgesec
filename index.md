@@ -18,6 +18,11 @@ sections:
           description: Our achievements
           url: /looking-great/
       background: /images/Heros/Hero 001v4.jpg
+  - infobar:
+      title: Secondary One Registration 2024
+      id: infobar
+      button: Click here
+      url: https://greenridgesec.moe.edu.sg/sec-one-reg2024/
   - infopic:
       title: "Calling All Primary 6 Students: Discover Yourself at GSS!"
       id: infopic
@@ -52,9 +57,4 @@ sections:
   - resources:
       title: Resources
       id: resources
-  - infobar:
-      title: Secondary One Registration 2024
-      id: infobar
-      button: Click here
-      url: https://greenridgesec.moe.edu.sg/sec-one-reg2024/
 ---
