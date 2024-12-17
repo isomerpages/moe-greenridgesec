@@ -23,6 +23,13 @@ sections:
       id: infobar
       button: Click here
       url: https://greenridgesec.moe.edu.sg/sec-one-reg2024/
+  - infobar:
+      title: Appeal
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Click here
+      url: https://greenridgesec.moe.edu.sg/announcements/administrative/xfer-to-gss/
   - infopic:
       title: "Calling All Primary 6 Students: Discover Yourself at GSS!"
       id: infopic
