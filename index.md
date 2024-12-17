@@ -24,10 +24,8 @@ sections:
       button: Click here
       url: https://greenridgesec.moe.edu.sg/sec-one-reg2024/
   - infobar:
-      title: Appeal
-      subtitle: Add informational text
+      title: Secondary One Transfer Appeal to Greenridge Secondary School
       id: infobar
-      description: Infobar description
       button: Click here
       url: https://greenridgesec.moe.edu.sg/announcements/administrative/xfer-to-gss/
   - infopic:
