@@ -37,7 +37,7 @@ third_nav_title: Our Staff
 </tr>
 </tbody>
 </table>
-<h3>2025 Class Mentors</h3>
+<h2>2025 Class Mentors</h2>
 <p></p>
 <p></p>
 <table style="minWidth: 75px">
