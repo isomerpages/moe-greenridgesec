@@ -564,10 +564,12 @@ third_nav_title: Our Staff
 <p>3-Confucius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tham_yi_hui@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tham Yi Hui (Maths)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:siti_nur_hafeezah_azmi@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Siti Nur Hafeezah Binte Azmi (Chemistry)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -575,10 +577,12 @@ third_nav_title: Our Staff
 <p>3-Galileo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nurhayati_rahman@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Nurhayati Rahman (Geo)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chua_chang@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Chang (Chemistry)</a>
+</p>
 </td>
 </tr>
 <tr>
