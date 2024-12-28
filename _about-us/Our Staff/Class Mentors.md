@@ -590,10 +590,12 @@ third_nav_title: Our Staff
 <p>3-Leonardo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chee_yuan_jun@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chee Yuan Jun (SS)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sivaprakasam_uthayarani@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Sivaprakasam Uthayarani (TL)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -601,10 +603,11 @@ third_nav_title: Our Staff
 <p>3-Nightingale</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:liaw_poh_geok@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Liaw Poh Geok (D &amp; T)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lee Chee Leong</p>
 </td>
 </tr>
 <tr>
@@ -612,10 +615,11 @@ third_nav_title: Our Staff
 <p>3-Teresa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:maria_cbg@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Maria Concepcion (EL)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr. Tan Zheng Ching, Aiden</p>
 </td>
 </tr>
 <tr>
@@ -623,10 +627,12 @@ third_nav_title: Our Staff
 <p>3-Zaha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chang_jing@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Chang Jing (Chemistry)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:norsuzana_saini@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Norsuzana Saini (D &amp; T)</a>
+</p>
 </td>
 </tr>
 <tr>
