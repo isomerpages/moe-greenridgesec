@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff/Executive and Administrative Team.md
       - Our Staff/Counsellors and Allied Educators.md
       - Our Staff/.keep
       - Our Staff/Leadership Team.md
