@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Our Staff
 ---
-<h3><strong>Our Staff</strong></h3>
+<h3><strong>Our Staff 2025</strong></h3>
 <h3>Leadership Team</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -15,13 +15,7 @@ third_nav_title: Our Staff
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="3">
 <p></p>
 </th>
 </tr>
@@ -33,8 +27,7 @@ third_nav_title: Our Staff
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gss@moe.edu.sg</a>
-</p>
+<p>gss@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -45,8 +38,7 @@ third_nav_title: Our Staff
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gss@moe.edu.sg</a>
-</p>
+<p>gss@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -57,8 +49,7 @@ third_nav_title: Our Staff
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gss@moe.edu.sg</a>
-</p>
+<p>gss@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -477,13 +468,7 @@ third_nav_title: Our Staff
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p><strong><em>HOD : Head of Department<br>SH : Subject Head<br>ST : Senior Teacher</em></strong>
 </p>
 </td>
