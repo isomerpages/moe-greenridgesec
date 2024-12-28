@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff/Class Mentors.md
       - Our Staff/Our Staff.md
       - Our Staff/.keep
       - Our Compass.md
