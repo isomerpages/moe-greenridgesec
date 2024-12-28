@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Mentors/Our Staff.md
-      - Mentors/.keep
+      - Our Staff/Our Staff.md
+      - Our Staff/.keep
       - Our Compass.md
       - Code Of Conduct.md
       - Consent for Photographs and Videos of Students for School Purposes.md
