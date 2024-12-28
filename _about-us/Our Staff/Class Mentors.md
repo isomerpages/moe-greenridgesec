@@ -551,10 +551,12 @@ third_nav_title: Our Staff
 <p>3-Beethoven</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chin_zhi_hao@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chin Zhi Hao (Math)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:siti_khatijah_ahmad@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Siti Khatijah Binte Ahmad (ML)</a>
+</p>
 </td>
 </tr>
 <tr>
