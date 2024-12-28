@@ -297,11 +297,8 @@ third_nav_title: Our Staff
 <th rowspan="1" colspan="1">
 <p>CLASS</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Secondary Two</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -521,9 +518,8 @@ third_nav_title: Our Staff
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -533,15 +529,110 @@ third_nav_title: Our Staff
 <th rowspan="1" colspan="1">
 <p>CLASS</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Secondary Three</p>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-Agatha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_chin_ling_grace@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Teo Chin Ling Grace (Math)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sazali_rahmat@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sazali Rahmat (ART)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-Beethoven</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-Confucius</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-Galileo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-Leonardo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-Nightingale</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-Teresa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-Zaha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -554,9 +645,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_lily@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Tan Li Li Lily (Math)</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -571,9 +659,6 @@ third_nav_title: Our Staff
 <p><a href="mailto:melvin_foo_cheng_loong@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Melvin Foo Cheng Loong (Math)</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -586,9 +671,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seah_yiting@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Seah Yiting (Geo)</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -603,9 +685,6 @@ third_nav_title: Our Staff
 <p><a href="mailto:afiqa_nadia_zainal@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Afiqa Nadia Bte Zainal (ML)</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -618,9 +697,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_huan_ghee@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Huan Ghee (PE)</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -635,9 +711,6 @@ third_nav_title: Our Staff
 <p><a href="mailto:ng_kah_mun@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Ng Kah Mun (CL)</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -651,14 +724,8 @@ third_nav_title: Our Staff
 <p><a href="mailto:leong_yuan_man_estee@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Estee Leong (HIS/LIT)</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -683,14 +750,8 @@ third_nav_title: Our Staff
 <th rowspan="1" colspan="1">
 <p>CLASS</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="3">
 <p>Secondary Four and Five</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
