@@ -301,13 +301,13 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Grace Foa Chee Zhu</p>
+<p>Mdm. Tan Jui Chin Bernard</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH – Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foa_chee_zhu@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foa_chee_zhu@gss.moe.edu.sg</a>
+<p><a href="mailto:tan_jui_chin_bernard@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jui_chin_bernard@gss.moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -380,18 +380,6 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chin_zhi_hao@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_zhi_hao@gss.moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Sylvia Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH – Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_sze_hui_sylvia@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_sze_hui_sylvia@gss.moe.edu.sg</a>
 </p>
 </td>
 </tr>
