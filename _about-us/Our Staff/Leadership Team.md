@@ -21,35 +21,41 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Ng Boon Kiat</p>
+<p><strong>Mr. Ng Boon Kiat</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gss@moe.edu.sg</p>
+<p><a href="mailto:gss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gss@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs. Dalina Abdullah - Firdouse</p>
+<p><strong>Mrs. Dalina Abdullah - Firdouse</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gss@moe.edu.sg</p>
+<p><a href="mailto:gss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gss@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Arthur Ngoh</p>
+<p><strong>Mr. Arthur Ngoh</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gss@moe.edu.sg</p>
+<p><a href="mailto:gss@moe.edu.sg" rel="noopener nofollow" target="_blank">gss@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -73,13 +79,7 @@ third_nav_title: Our Staff
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="3">
 <p></p>
 </th>
 </tr>
@@ -104,6 +104,18 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foa_chee_zhu@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foa_chee_zhu@gss.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Premela d/o Prabakaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD – English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:premela_prabakaran@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">premela_prabakaran@gss.moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -169,13 +181,13 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Ng Tze Fang</p>
+<p>Mdm. Saadiah Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD – Mother Tongue Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_tze_fang@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_tze_fang@gss.moe.edu.sg</a>
+<p><a href="mailto:saadiah.aziz@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saadiah.aziz@gss.moe.edu.sg</a>
 </p>
 </td>
 </tr>
