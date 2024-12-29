@@ -138,11 +138,11 @@ third_nav_title: Our Staff
 <p>1-Teresa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_zhong_ning@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chin Zhong Ning (Math)</a>
+<p><a href="mailto:chin_zhong_ning@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Chin Zhong Ning (Math)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fazilah_abdul_latiff@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fazilah Abdul Latiff</a>
+<p><a href="mailto:fazilah_abdul_latiff@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Fazilah Abdul Latiff</a>
 </p>
 </td>
 </tr>
