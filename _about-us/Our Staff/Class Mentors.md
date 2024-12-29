@@ -129,7 +129,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:lee_yi_heng@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Ian Lee yi Heng</a></strong>
+<p><a href="mailto:lee_yi_heng@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Ian Lee yi Heng</a>
 </p>
 </td>
 </tr>
@@ -142,7 +142,8 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:fazilah_abdul_latiff@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fazilah Abdul Latiff</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -260,24 +261,26 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wendell</p>
+<p><a href="mailto:wendell_wong@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Wendell Wong</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Teresa</p>
+<p>2-Teresa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_jui_chin_bernard@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan Jui Chin Bernard (CPA/ D’&amp;’T)</a>
+<p><a href="mailto:tan_jui_chin_bernard@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Tan Jui Chin Bernard (CPA/ D’&amp;’T)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Norsarah</p>
+<p><a href="mailto:norsarah_rosli@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Norsarah Rosli</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Zaha</p>
+<p>2-Zaha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_jia_ling_christine@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Ng Jia Ling Christine (Math)</a>
