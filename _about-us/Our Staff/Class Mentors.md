@@ -112,7 +112,7 @@ third_nav_title: Our Staff
 <p>1-Leonardo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:shawna_teo_lian_choo@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Shawna Teo (AED) Rheverie</a></strong>
+<p><a href="mailto:Rheverie_CHEN@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Rheverie Chen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +129,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:asrida_riduan_mahmood@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Ian Losrida Binte Riduan Mahmood (ML)</a></strong>
+<p><strong><a href="mailto:lee_yi_heng@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Ian Lee yi Heng</a></strong>
 </p>
 </td>
 </tr>
