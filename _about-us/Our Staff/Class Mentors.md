@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Our Staff
 ---
-<h2>2025 Class Mentors</h2>
+<h3><strong>Our Staff 2025</strong></h3>
+<h3>Class Mentors</h3>
 <p></p>
 <p></p>
 <table style="minWidth: 75px">
