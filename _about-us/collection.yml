@@ -2,8 +2,12 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff/.keep
+      - Our Staff/Leadership Team.md
+      - Our Staff/Class Mentors.md
+      - Our Staff/Counsellors and Allied Educators.md
+      - Our Staff/Executive and Administrative Team.md
       - Our Compass.md
-      - Our Staff.md
       - Code Of Conduct.md
       - Consent for Photographs and Videos of Students for School Purposes.md
       - Our Heritage.md
