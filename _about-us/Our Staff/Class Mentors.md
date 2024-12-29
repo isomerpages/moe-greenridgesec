@@ -393,7 +393,8 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Chee Leong</p>
+<p><a href="mailto:lee_chee_leong@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Lee Chee Leong</a>
+</p>
 </td>
 </tr>
 <tr>
