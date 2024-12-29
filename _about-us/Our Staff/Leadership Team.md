@@ -385,6 +385,18 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms. Rheverie Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - Student Leadership &amp; Curriculum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Rheverie_CHEN@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Rheverie_CHEN@gss.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms. Teo Chin Ling Grace</p>
 </td>
 <td rowspan="1" colspan="1">
