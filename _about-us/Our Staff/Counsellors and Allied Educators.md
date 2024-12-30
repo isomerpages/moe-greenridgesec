@@ -102,7 +102,7 @@ third_nav_title: Our Staff
 <p>Ms. Shawna Teo Lian Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Allied Educator (T &amp; L)</p>
+<p>Allied Educator (T&amp;L)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shawna_teo_lian_choo@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shawna_teo_lian_choo@gss.moe.edu.sg</a>
