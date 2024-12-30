@@ -90,7 +90,7 @@ third_nav_title: Our Staff
 <p>Mr. Halim Bin Kamil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM INstructor</p>
+<p>STEM INstructor (Workshop)</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ third_nav_title: Our Staff
 <p>Mr. Sutrisno Bin Rahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM INstructor</p>
+<p>STEM INstructor (Workshop)</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ third_nav_title: Our Staff
 <p>Mr Sallehuddin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM INstructor</p>
+<p>STEM INstructor (Workshop)</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +114,7 @@ third_nav_title: Our Staff
 <p>Mdm. Ong Siew Khim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM INstructor</p>
+<p>STEM INstructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@ third_nav_title: Our Staff
 <p>Ms. Suriati Bte Kardi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM INstructor</p>
+<p>STEM INstructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +183,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kohilavan</p>
+<p>Ms Kohilavani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -207,7 +207,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Aisha Bevi Binte V Mohammad Kunhi</p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Librarian</p>
