@@ -81,7 +81,7 @@ third_nav_title: Our Staff
 <p>1-Leonardo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Rheverie_CHEN@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Rheverie Chen</a>
+<p><a href="mailto:Rheverie_CHEN@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Rheverie Chen (EL Lit)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,7 +98,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yi_heng@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Ian Lee Yi Heng</a>
+<p><a href="mailto:lee_yi_heng@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Ian Lee Yi Heng (EL)</a>
 </p>
 </td>
 </tr>
@@ -273,9 +273,8 @@ third_nav_title: Our Staff
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -287,9 +286,6 @@ third_nav_title: Our Staff
 </th>
 <th rowspan="1" colspan="2">
 <h4>Secondary Three</h4>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -304,9 +300,6 @@ third_nav_title: Our Staff
 <p><a href="mailto:sazali_rahmat@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sazali Rahmat (ART)</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -319,9 +312,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_khatijah_ahmad@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Siti Khatijah Binte Ahmad (ML)</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -336,9 +326,6 @@ third_nav_title: Our Staff
 <p><a href="mailto:siti_nur_hafeezah_azmi@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Siti Nur Hafeezah Binte Azmi (Chemistry)</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -351,9 +338,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_chang@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Chang (Chemistry)</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -368,9 +352,6 @@ third_nav_title: Our Staff
 <p><a href="mailto:sivaprakasam_uthayarani@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Sivaprakasam Uthayarani (TL)</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -383,9 +364,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_chee_leong@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Lee Chee Leong</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -400,9 +378,6 @@ third_nav_title: Our Staff
 <p><a href="mailto:tan_zheng_ching_alden@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Tan Zheng Ching, Aiden</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -416,14 +391,8 @@ third_nav_title: Our Staff
 <p><a href="mailto:norsuzana_saini@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Norsuzana Saini (D &amp; T)</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
