@@ -337,18 +337,6 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Meenatchi D/O Ramasamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH – English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:meenatchi_ramasamy@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">meenatchi_ramasamy@gss.moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms. Nurhayati Bte Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
