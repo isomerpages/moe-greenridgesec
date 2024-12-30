@@ -208,7 +208,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sallehuddin</p>
+<p>Mr. Sallehuddin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM INstructor</p>
@@ -248,7 +248,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Poh Heok (Sandy)</p>
+<p>Ms. Ng Poh Heok (Sandy)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -296,7 +296,15 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kohilavan</p>
+<p>Ms. Kohilavani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Afiq Anuwar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
