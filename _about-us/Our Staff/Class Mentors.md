@@ -230,7 +230,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wendell_wong@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Wendell Wong</a>
+<p><a href="mailto:wendell_wong@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Wendell Wong (Physics)</a>
 </p>
 </td>
 </tr>
@@ -243,7 +243,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norsarah_rosli@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Norsarah Rosli</a>
+<p><a href="mailto:norsarah_rosli@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Norsarah Rosli (Art)</a>
 </p>
 </td>
 </tr>
