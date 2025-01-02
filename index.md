@@ -17,7 +17,7 @@ sections:
         - title: Looking Great!
           description: Our achievements
           url: /looking-great/
-      background: /images/Heros/Hero 001v4.jpg
+      background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
   - infobar:
       title: Secondary One Registration 2024
       id: infobar
