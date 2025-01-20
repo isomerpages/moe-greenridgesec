@@ -375,7 +375,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_zheng_ching_alden@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Tan Zheng Ching, Aiden</a>
+<p><a href="mailto:tan_zheng_ching_alden@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Tan Zheng Ching, Alden</a>
 </p>
 </td>
 </tr>
