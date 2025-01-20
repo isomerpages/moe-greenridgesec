@@ -111,7 +111,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fazilah_abdul_latiff@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Fazilah Abdul Latiff (EL)</a>
+<p><a href="mailto:fazliah_abdul_latiff@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Fazliah Abdul Latiff (EL)</a>
 </p>
 </td>
 </tr>
