@@ -18,16 +18,13 @@ sections:
           description: Our achievements
           url: /looking-great/
       background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
-  - infobar:
-      title: Secondary One Registration 2024
-      id: infobar
-      button: Click here
-      url: https://greenridgesec.moe.edu.sg/sec-one-reg2024/
-  - infobar:
-      title: Secondary One Transfer Appeal to Greenridge Secondary School
-      id: infobar
-      button: Click here
-      url: https://greenridgesec.moe.edu.sg/announcements/administrative/xfer-to-gss/
+  - infopic:
+      title: Happy Chinese New Year
+      subtitle: Add an image and text
+      id: infopic
+      description: Wishing Everyone  Happiness and Health
+      image: /images/CNY2025_GIF__3_.gif
+      alt: Image alt text
   - infopic:
       title: "Calling All Primary 6 Students: Discover Yourself at GSS!"
       id: infopic
@@ -37,28 +34,6 @@ sections:
       url: https://sites.google.com/view/discover-gss
       image: /images/2024 Miscellanous/discoveryourselfgss.png
       alt: Image alt text
-  - infopic:
-      title: Direct School Admission
-      id: infopic
-      description: 2024 DIRECT SCHOOL ADMISSION-SECONDARY EXERCISE (DSA-SEC)
-      button: click me
-      image: /images/2024 DSA/v4_DSA_GSS_2024.gif
-      alt: Image alt text
-      url: https://www.greenridgesec.moe.edu.sg/admission/dsa/
-  - infopic:
-      id: infopic
-      image: /images/60Ann/60th_anniversary_logo.gif
-      alt: Season's greetings from GSS
-      title: GSS 60th Anniversary
-      url: https://sway.cloud.microsoft/HZ1s3oB56N7w7vk3?ref=Link
-      button: Click *here*
-  - infopic:
-      id: infopic
-      button: Follow Us on InstaGram
-      url: https://www.instagram.com/greenridgesecsch?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-      image: /images/60Ann/IG_Follow_us.gif
-      alt: Image alt text
-      title: GSS Instagram
   - resources:
       title: Resources
       id: resources
