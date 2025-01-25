@@ -180,12 +180,10 @@ Abstinence and upholding family values are the key messages.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Raise awareness and provide knowledge on:</p>
-<p>a)</p>
-<p>Infectious diseases (STIs and HIV): what it is, how it spreads, how to
-prevent infection mainly through ABC (abstinence, being faithful, correct,
+<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
+to prevent infection mainly through ABC (abstinence, being faithful, correct,
 and consistent condom use).</p>
-<p>b)</p>
-<p>Managing relationships and risky situations in a healthy way.</p>
+<p>b) Managing relationships and risky situations in a healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 6</p>
@@ -208,9 +206,11 @@ of assertiveness and responsible decision-making</p>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <p><strong>10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.</strong>
 </p>
-<p><strong>11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex A and insert a hyperlink for parents to download the form). The completed form is to be submitted by 28/02/2025.</strong>
+<p><strong>11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex A   </strong>
+<a href="/files/CCE/SED2925/opyout.pdf" rel="noopener nofollow" target="_blank">Annex A</a><strong>. The completed form is to be submitted by 28/02/2025.</strong>
 </p>
-<p><strong>12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex B and insert a hyperlink for parents to download the form). The completed form is to be submitted by 28/02/2025.</strong>
+<p><strong>12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex B   </strong>
+<a href="/files/CCE/SED2925/eteens.pdf" rel="noopener nofollow" target="_blank">Annex B</a><strong>. The completed form is to be submitted by 28/02/2025.</strong>
 </p>
 <p><strong>13. Parents can contact the school at <a href="mailto:gss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gss@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.nformation for Parents</strong>
 </p>
