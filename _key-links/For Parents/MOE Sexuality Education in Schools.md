@@ -131,15 +131,22 @@ issues related to sexuality, which are of prime concern at this age</p>
 </p>
 <p></p>
 <p></p>
-<h4><u>eTeens Programme:</u></h4>
+<h4><strong><u>eTeens Programme:</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary  students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</strong>
-</p>
+<p>eTeens is a programme developed by Health Promotion Board, in collaboration
+with the Ministry of Education, to provide Secondary students with accurate
+information on STIs, HIV and protection from a health perspective. eTeens
+is conducted in two segments – a mass talk segment and a classroom-based
+programme. The desired outcome of the eTeens programme is that students
+are empowered to make wise, informed and sensible decisions.</p>
 </li>
 <li>
-<p><strong>Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</strong>
-</p>
+<p>Students are taught skills such as decision-making, assertiveness and
+negotiation to say “no” to sex and negative peer pressure. They also learn
+that the impact of STIs/HIV extends beyond themselves and involves their
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.</p>
 <p></p>
 </li>
 </ol>
@@ -169,38 +176,31 @@ issues related to sexuality, which are of prime concern at this age</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mass Talk delivered through a pre-recorded video</strong>
-</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Raise awareness and provide knowledge on:</strong>
-</p>
-<p><strong>a)</strong>
-</p>
-<p><strong>Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).</strong>
-</p>
-<p><strong>b)</strong>
-</p>
-<p><strong>Managing relationships and risky situations in a healthy way.</strong>
-</p>
+<p>Raise awareness and provide knowledge on:</p>
+<p>a)</p>
+<p>Infectious diseases (STIs and HIV): what it is, how it spreads, how to
+prevent infection mainly through ABC (abstinence, being faithful, correct,
+and consistent condom use).</p>
+<p>b)</p>
+<p>Managing relationships and risky situations in a healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Term 3 Week 6</strong>
-</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Classroom-based Lesson</strong>
-</p>
+<p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</strong>
-</p>
+<p>Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Term 3 Week 9</strong>
-</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
