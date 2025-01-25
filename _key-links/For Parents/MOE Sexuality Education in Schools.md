@@ -85,7 +85,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 </ol>
 <p><strong><u>Sexuality Education Lessons:</u></strong>
 </p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>6. The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
@@ -108,9 +108,27 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age</p>
 <p></p>
+<p></p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/CCE/SED2925/SecOnes.pdf" rel="noopener nofollow" target="_blank">Secondary One</a>
+</p>
+</li>
+<li>
+<p><a href="/files/CCE/SED2925/SecTwos.pdf" rel="noopener nofollow" target="_blank">Secondary Two</a>
+</p>
+</li>
+<li>
+<p><a href="/files/CCE/SED2925/SecThrees.pdf" rel="noopener nofollow" target="_blank">Secondary Three</a>
+</p>
+</li>
+<li>
+<p><a href="/files/CCE/SED2925/SecFours.pdf" rel="noopener nofollow" target="_blank">Secondary Four</a>
+</p>
+</li>
+<li>
+<p><a href="/files/CCE/SED2925/SecFives.pdf" rel="noopener nofollow" target="_blank">Secondary Five</a>
+</p>
 <p></p>
 <h4><strong>Information for Parents</strong></h4>
 </li>
@@ -139,6 +157,6 @@ is to be submitted by <strong><u>29/01/2024</u></strong>.</p>
 <p>Parents can contact the school at (6761491 or <a href="mailto:gss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gss@moe.edu.sg</a>) for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
 </li>
-</ol>
+</ul>
 <p></p>
 <p></p>
