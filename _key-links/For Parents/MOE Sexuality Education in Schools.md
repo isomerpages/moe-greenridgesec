@@ -126,9 +126,11 @@ issues related to sexuality, which are of prime concern at this age</p>
 <p><a href="/files/CCE/SED2925/SecFours.pdf" rel="noopener nofollow" target="_blank">Secondary Four</a>
 </p>
 </li>
-</ol>
+<li>
 <p><a href="/files/CCE/SED2925/SecFives.pdf" rel="noopener nofollow" target="_blank">Secondary Five</a>
 </p>
+</li>
+</ol>
 <p></p>
 <p></p>
 <h4><strong><u>eTeens Programme:</u></strong></h4>
