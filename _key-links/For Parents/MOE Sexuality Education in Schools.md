@@ -107,7 +107,7 @@ consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age</p>
-<p></p>
+<p>Please click link below to view the ;essond for respective level</p>
 <p></p>
 </li>
 <li>
@@ -129,8 +129,13 @@ issues related to sexuality, which are of prime concern at this age</p>
 <li>
 <p><a href="/files/CCE/SED2925/SecFives.pdf" rel="noopener nofollow" target="_blank">Secondary Five</a>
 </p>
+</li>
+<li>
 <p></p>
-<h4><strong>Information for Parents</strong></h4>
+<p></p>
+<p></p>
+<h4><strong>I</strong></h4>
+<h4><strong>nformation for Parents</strong></h4>
 </li>
 <li>
 <p>Parents may opt their children out of the Sexuality Education lessons,
