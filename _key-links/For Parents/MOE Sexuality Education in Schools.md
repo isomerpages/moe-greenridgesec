@@ -85,9 +85,9 @@ more information on the scope of Sexuality Education in the school curriculum.</
 </ol>
 <p><strong><u>Sexuality Education Lessons:</u></strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
-<p>6. The values and attitudes of our youth towards sexuality are increasingly
+<p>6.he values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
 his or her own identity and often struggles with new social relationships.
@@ -103,7 +103,7 @@ sense of self-worth, personal conviction and an understanding of the possible
 consequences of sexual behaviour.</p>
 </li>
 <li>
-<p>7. Through the Sexuality Education lessons, secondary students will have
+<p>Through the Sexuality Education lessons, secondary students will have
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age</p>
@@ -126,27 +126,53 @@ issues related to sexuality, which are of prime concern at this age</p>
 <p><a href="/files/CCE/SED2925/SecFours.pdf" rel="noopener nofollow" target="_blank">Secondary Four</a>
 </p>
 </li>
-<li>
+</ol>
 <p><a href="/files/CCE/SED2925/SecFives.pdf" rel="noopener nofollow" target="_blank">Secondary Five</a>
+</p>
+<p></p>
+<p></p>
+<h4><u>eTeens Programme:</u></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary  students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</strong>
 </p>
 </li>
 <li>
-<p></p>
-<p></p>
-<p></p>
-<h4><strong>eTeens Programme:</strong></h4>
-<p><strong>8. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</strong>
+<p><strong>Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</strong>
 </p>
-<p><strong>9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</strong>
-</p>
+<p></p>
+</li>
+</ol>
 <p><strong>At Greenridge Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
 </p>
-<p><strong>Topics/Lessons Programme Learning Objectives Time Period (e.g. Term 3 Week 9)</strong>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Topics/Lessons</strong>
 </p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Programme Learning Objectives</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Time Period (e.g. Term 3 Week 9)</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mass Talk delivered through a pre-recorded video</strong>
 </p>
-<p><strong>•</strong>
-</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Raise awareness and provide knowledge on:</strong>
 </p>
 <p><strong>a)</strong>
@@ -157,22 +183,28 @@ issues related to sexuality, which are of prime concern at this age</p>
 </p>
 <p><strong>Managing relationships and risky situations in a healthy way.</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Term 3 Week 6</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Classroom-based Lesson</strong>
 </p>
-<p><strong>•</strong>
-</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Term 3 Week 9</strong>
 </p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <p><strong>10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.</strong>
 </p>
@@ -182,10 +214,10 @@ issues related to sexuality, which are of prime concern at this age</p>
 </p>
 <p><strong>13. Parents can contact the school at <a href="mailto:gss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gss@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.nformation for Parents</strong>
 </p>
-</li>
+<ol data-tight="true" class="tight">
 <li>
 <p></p>
 </li>
-</ul>
+</ol>
 <p></p>
 <p></p>
