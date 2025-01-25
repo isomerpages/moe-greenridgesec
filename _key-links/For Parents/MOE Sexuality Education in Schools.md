@@ -134,33 +134,57 @@ issues related to sexuality, which are of prime concern at this age</p>
 <p></p>
 <p></p>
 <p></p>
-<h4><strong>I</strong></h4>
-<h4><strong>nformation for Parents</strong></h4>
-</li>
-<li>
-<p>Parents may opt their children out of the Sexuality Education lessons,
-eTeens and/or supplementary sexuality education programmes by MOE-approved
-external providers.</p>
-<p></p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable <a href="/files/CCE/SED 2024/parents_opt_out_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by <strong><u>29/01/2024.</u></strong>
+<h4><strong>eTeens Programme:</strong></h4>
+<p><strong>8. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</strong>
 </p>
+<p><strong>9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</strong>
+</p>
+<p><strong>At Greenridge Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
+</p>
+<p><strong>Topics/Lessons Programme Learning Objectives Time Period (e.g. Term 3 Week 9)</strong>
+</p>
+<p><strong>Mass Talk delivered through a pre-recorded video</strong>
+</p>
+<p><strong>•</strong>
+</p>
+<p><strong>Raise awareness and provide knowledge on:</strong>
+</p>
+<p><strong>a)</strong>
+</p>
+<p><strong>Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).</strong>
+</p>
+<p><strong>b)</strong>
+</p>
+<p><strong>Managing relationships and risky situations in a healthy way.</strong>
+</p>
+<p><strong>Term 3 Week 6</strong>
+</p>
+<p><strong>Classroom-based Lesson</strong>
+</p>
+<p><strong>•</strong>
+</p>
+<p><strong>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</strong>
+</p>
+<p><strong>Term 3 Week 9</strong>
+</p>
+</li>
+<li>
 <p></p>
 </li>
 <li>
-<p>Parents who wish to opt their children out of the eTeens programme need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/CCE/SED 2024/eteens2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form
-is to be submitted by <strong><u>29/01/2024</u></strong>.</p>
 <p></p>
+<h4><strong>INFORMATION FOR PARENTS</strong></h4>
+<p><strong>10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.</strong>
+</p>
+<p><strong>11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex A and insert a hyperlink for parents to download the form). The completed form is to be submitted by 28/02/2025.</strong>
+</p>
+<p><strong>12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex B and insert a hyperlink for parents to download the form). The completed form is to be submitted by 28/02/2025.</strong>
+</p>
+<p><strong>13. Parents can contact the school at <a href="mailto:gss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gss@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.nformation for Parents</strong>
+</p>
 </li>
 <li>
-<p>Parents can contact the school at (6761491 or <a href="mailto:gss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gss@moe.edu.sg</a>) for discussion or to seek
-clarification about the school’s Sexuality Education programme.</p>
+<p></p>
 </li>
 </ul>
 <p></p>
