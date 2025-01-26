@@ -209,20 +209,28 @@ of assertiveness and responsible decision-making</p>
 </tbody>
 </table>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
-<p>10. Parents may opt their children out of the Sexuality Education lessons,
+<ol data-tight="true" class="tight">
+<li>
+<p>Parents may opt their children out of the Sexuality Education lessons,
 eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.</p>
-<p>11. Parents who wish to opt their children out of the Sexuality Education
+</li>
+<li>
+<p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also downloadable here (please
 upload parents opt-out form found in Annex A <a href="/files/CCE/SED2925/opyout.pdf" rel="noopener nofollow" target="_blank">Annex A</a>. The completed form is
 to be submitted by 28/02/2025.</p>
-<p>12. Parents who wish to opt their children out of the eTeens programme
-need to complete an opt-out form. This form will be communicated to parents
+</li>
+<li>
+<p>Parents who wish to opt their children out of the eTeens programme need
+to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable here (please upload parents
 opt-out form found in Annex B <a href="/files/CCE/SED2925/eteens.pdf" rel="noopener nofollow" target="_blank">Annex B</a>. The completed form is
 to be submitted by 28/02/2025.</p>
-<p>13. Parents can contact the school at <a href="mailto:gss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gss@moe.edu.sg</a> for discussion or to seek
+</li>
+</ol>
+<p>Parents can contact the school at <a href="mailto:gss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gss@moe.edu.sg</a> for discussion or to seek
 clarification about the school’s Sexuality Education programme.nformation
 for Parents</p>
 <p></p>
