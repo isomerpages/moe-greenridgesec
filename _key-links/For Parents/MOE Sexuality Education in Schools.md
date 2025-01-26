@@ -235,4 +235,5 @@ clarification about the school’s Sexuality Education programme.nformation
 for Parents</p>
 <p></p>
 <p></p>
-<p></p>
+<p><a href="/files/CCE/SED2925/P_letter.pdf" rel="noopener nofollow" target="_blank">Principal's Letter to Parents</a>
+</p>
