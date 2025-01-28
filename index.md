@@ -21,7 +21,8 @@ sections:
   - infopic:
       title: Happy Chinese New Year
       id: infopic
-      description: Wishing Everyone  Happiness and Health
+      description: Wishing Everyone good health, good luck and much happiness
+        throughout the year.
       image: /images/CNY2025_GIF__3_.gif
       alt: Image alt text
   - infopic:
