@@ -20,9 +20,9 @@ sections:
       background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
   - infopic:
       title: Happy Chinese New Year
-      subtitle: Add an image and text
       id: infopic
-      description: Wishing Everyone  Happiness and Health
+      description: Wishing Everyone good health, good luck and much happiness
+        throughout the year.
       image: /images/CNY2025_GIF__3_.gif
       alt: Image alt text
   - infopic:
