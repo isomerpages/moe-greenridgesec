@@ -16,9 +16,29 @@ description: ""
 <p>In our school as inspired learners</p>
 <p>Staying strong and aspiring youth</p>
 <p>We champion for good causes</p>
-<p>Together Onward, forging friendships forever</p>
-<p>Together Onward, as one family</p>
-<p>Together Onward, striving for the future</p>
+<p><em>Together Onward, forging friendships forever</em>
+</p>
+<p><em>Together Onward, as one family</em>
+</p>
+<p><em>Together Onward, striving for the future</em>
+</p>
+<p><em>Together Onward, Greenridge be our pride</em>
+</p>
+<p>Trials and challenges</p>
+<p>We will overcome</p>
+<p>Reaching the top of the RIDGE</p>
+<p>We will shine as one</p>
+<p><em>Together Onward, forging friendships forever</em>
+</p>
+<p><em>Together Onward, as one family</em>
+</p>
+<p><em>Together Onward, striving for the future</em>
+</p>
+<p><em>Together Onward, Greenridge be our pride</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
