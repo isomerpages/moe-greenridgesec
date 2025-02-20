@@ -1,5 +1,5 @@
 collections:
-  key-links:
+  key-info:
     output: true
     order:
       - Consent for Photographs and Videos of Students for School Purposes.md
