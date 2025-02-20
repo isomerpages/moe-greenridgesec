@@ -1,7 +1,8 @@
 collections:
-  key-links:
+  key-info:
     output: true
     order:
+      - Consent for Photographs and Videos of Students for School Purposes.md
       - For Students/.keep
       - For Students/Teaching and Learning.md
       - For Students/eGIRO.md
