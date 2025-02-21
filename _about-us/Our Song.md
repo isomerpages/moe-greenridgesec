@@ -6,7 +6,7 @@ description: ""
 ---
 <h4>Greenridge Secondary School Song.</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DXrUnwdMXTM?si=bXTWBc_9j0fkZnQK"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Q2Dz2Yi6wxc?si=j_wlAByEOTNhx9mB"></iframe>
 </div>
 <p><strong><u>LYRICS.</u></strong>
 </p>
