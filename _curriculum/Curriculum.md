@@ -12,7 +12,6 @@ description: ""
 <p>At Greenridge Secondary School, our curriculum is designed to empower
 students to become <strong>Champions of Good Causes</strong>. By embracing
 our core values of Respect, Integrity, Diligence, Grit, and Empathy, we
-nurture students to embody our vision of becoming Confident Learners, Ethical
-Innovators, and Compassionate Leaders. With opportunities to imagine, discover,
-express, accomplish, and serve (IDEAs), our students are inspired to make
-a positive impact on the world.</p>
+nurture students to embody our vision of becoming <strong>Confident Learners, Ethical Innovators, and Compassionate Leaders</strong>.
+With opportunities to Imagine, Discover, Express, Accomplish, and Serve
+(IDEAs), our students are inspired to make a positive impact on the world.</p>
