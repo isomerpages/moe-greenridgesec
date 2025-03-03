@@ -16,7 +16,7 @@ sections:
           url: /looking-ahead/
         - title: Looking Great!
           description: Our achievements
-          url: /looking-great/
+          url: /looking-great-2025
       background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
   - resources:
       title: Resources
