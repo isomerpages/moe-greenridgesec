@@ -86,7 +86,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_1_Class_Timetable_Sec1_5.pdf" rel="noopener nofollow" target="_blank">Sec 1 Leonardo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -100,7 +101,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_1_Class_Timetable_Sec1_6.pdf" rel="noopener nofollow" target="_blank">Sec 1 Nightingale</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
