@@ -32,7 +32,8 @@ description: ""
 <h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_1_Class_Timetable_Sec1_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Agatha</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_2_Class_Timetable_Sec2_1.pdf" rel="noopener nofollow" target="_blank">Sec 2 Agatha</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -88,7 +89,8 @@ description: ""
 <h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_1_Class_Timetable_Sec1_5.pdf" rel="noopener nofollow" target="_blank">Sec 1 Leonardo</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_2_Class_Timetable_Sec2_5.pdf" rel="noopener nofollow" target="_blank">Sec 2 Leonardo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -102,7 +104,8 @@ description: ""
 <h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_1_Class_Timetable_Sec1_6.pdf" rel="noopener nofollow" target="_blank">Sec 1 Nightingale</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_2_Class_Timetable_Sec2_6.pdf" rel="noopener nofollow" target="_blank">Sec 2 Nightingale</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -116,7 +119,8 @@ description: ""
 <h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_1_Class_Timetable_Sec1_7.pdf" rel="noopener nofollow" target="_blank">Sec 1 Teresa</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_2_Class_Timetable_Sec2_7.pdf" rel="noopener nofollow" target="_blank">Sec 2 Teresa</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -130,7 +134,8 @@ description: ""
 <h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_1_Class_Timetable_Sec1_8.pdf" rel="noopener nofollow" target="_blank">Sec 1 Zaha</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_2_Class_Timetable_Sec2_8.pdf" rel="noopener nofollow" target="_blank">Sec 2 Zaha</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
