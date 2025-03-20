@@ -35,7 +35,7 @@ description: ""
 <h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_2_Class_Timetable_Sec2_1.pdf" rel="noopener nofollow" target="_blank">Sec 2 Agatha</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_3_Class_Timetable_Sec3_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Agatha</a></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -49,8 +49,7 @@ description: ""
 <h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_2_Class_Timetable_Sec2_2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Beethoven</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_3_Class_Timetable_Sec3_2.pdf" rel="noopener nofollow" target="_blank">Sec 3 Beethoven</a>
-</p>
+<h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_3_Class_Timetable_Sec3_2.pdf" rel="noopener nofollow" target="_blank">Sec 3 Beethoven</a></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -64,7 +63,7 @@ description: ""
 <h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_2_Class_Timetable_Sec2_3.pdf" rel="noopener nofollow" target="_blank">Sec 2 Confucius</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_3_Class_Timetable_Sec3_3.pdf" rel="noopener nofollow" target="_blank">Sec 3 Confucius</a></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -78,8 +77,7 @@ description: ""
 <h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_2_Class_Timetable_Sec2_4.pdf" rel="noopener nofollow" target="_blank">Sec 2 Galileo</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_3_Class_Timetable_Sec3_4.pdf" rel="noopener nofollow" target="_blank">Sec 3 Galileo</a>
-</p>
+<h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_3_Class_Timetable_Sec3_4.pdf" rel="noopener nofollow" target="_blank">Sec 3 Galileo</a></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -93,8 +91,7 @@ description: ""
 <h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_2_Class_Timetable_Sec2_5.pdf" rel="noopener nofollow" target="_blank">Sec 2 Leonardo</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_3_Class_Timetable_Sec3_5.pdf" rel="noopener nofollow" target="_blank">Sec 3 Leonardo</a>
-</p>
+<h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_3_Class_Timetable_Sec3_5.pdf" rel="noopener nofollow" target="_blank">Sec 3 Leonardo</a></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -108,8 +105,7 @@ description: ""
 <h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_2_Class_Timetable_Sec2_6.pdf" rel="noopener nofollow" target="_blank">Sec 2 Nightingale</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_3_Class_Timetable_Sec3_6.pdf" rel="noopener nofollow" target="_blank">Sec 3 Nightingale</a>
-</p>
+<h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_3_Class_Timetable_Sec3_6.pdf" rel="noopener nofollow" target="_blank">Sec 3 Nightingale</a></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -123,7 +119,7 @@ description: ""
 <h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_2_Class_Timetable_Sec2_7.pdf" rel="noopener nofollow" target="_blank">Sec 2 Teresa</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_3_Class_Timetable_Sec3_7.pdf" rel="noopener nofollow" target="_blank">Sec 3 Teresa</a></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -137,7 +133,7 @@ description: ""
 <h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_2_Class_Timetable_Sec2_8.pdf" rel="noopener nofollow" target="_blank">Sec 2 Zaha</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_3_Class_Timetable_Sec3_8.pdf" rel="noopener nofollow" target="_blank">Sec 3 Zaha</a></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
