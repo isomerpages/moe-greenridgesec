@@ -35,7 +35,7 @@ description: ""
 <h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_2_Class_Timetable_Sec2_1.pdf" rel="noopener nofollow" target="_blank">Sec 2 Agatha</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_3_Class_Timetable_Sec3_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Agatha</a></h4>
+<h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_3_Class_Timetable_Sec3_1.pdf" rel="noopener nofollow" target="_blank">Sec 3 Agatha</a></h4>
 </td>
 <td rowspan="1" colspan="1">
 <h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_4_5_Class_Timetable_Sec4_1.pdf" rel="noopener nofollow" target="_blank">Sec 4 Agatha</a></h4>
