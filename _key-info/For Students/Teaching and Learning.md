@@ -11,6 +11,7 @@ variant: markdown
 - [Student Learning Space](https://learning.moe.edu.sg/)
 - [Design and Technology Applications](http://www.focuselearning.co.uk/u/31300/uiqnwEemEaCForvwxBhhAfvehobonymca)
 - [GSS HBL Site](https://sites.google.com/moe.edu.sg/greenridge-sec-sch/home)
+- [2025 Term 2 Timetable](https://greenridgesec.moe.edu.sg/2025-term-2-timetable/)
 
 
 ### Others
