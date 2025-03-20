@@ -4,7 +4,7 @@ permalink: /2025-term-2-timetable/
 variant: tiptap
 description: ""
 ---
-<p>Please click your class timetable</p>
+<h3>Dear students, Please click your class timetable</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
