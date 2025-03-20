@@ -49,7 +49,8 @@ description: ""
 <h4><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_2_Class_Timetable_Sec2_2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Beethoven</a></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025 Timetable Term 2/2025_Term_2_Sec_3_Class_Timetable_Sec3_2.pdf" rel="noopener nofollow" target="_blank">Sec 3 Beethoven</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
