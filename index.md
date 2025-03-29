@@ -22,8 +22,15 @@ sections:
       title: Selamat Hari Raya Aidilfitri!
       id: infopic
       description: Wishing you a blessed Hari Raya filled with peace and happiness!
-      button: Button Text
       image: /images/2024 Miscellanous/Hari_Raya_GSS.gif
+  - infopic:
+      title: Follow us on Instagram!
+      id: infopic
+      description: See what’s happening! For the latest news and events, follow us on
+        Instagram.
+      button: "@greenridgesecsch"
+      url: www.instagram.com/greenridgesecsch/
+      image: /images/2024 Miscellanous/Follow_Us_Instagram_Post.gif
   - resources:
       title: Resources
       id: resources
