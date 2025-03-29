@@ -18,6 +18,23 @@ sections:
           description: Our achievements
           url: /looking-great-2025/
       background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
+  - infopic:
+      title: Selamat Hari Raya Aidilfitri!
+      id: infopic
+      description: Wishing you a blessed Hari Raya filled with peace and happiness!
+      image: /images/2024 Miscellanous/Hari_Raya_GSS.gif
+      alt: Gif of Hari Raya wish
+      subtitle: Greeting
+  - infopic:
+      title: Follow us on Instagram!
+      id: infopic
+      description: See what’s happening! For the latest news and events, follow us on
+        Instagram.
+      button: "@greenridgesecsch"
+      url: www.instagram.com/greenridgesecsch/
+      image: /images/2024 Miscellanous/Follow_Us_Instagram_Post.gif
+      alt: Gif of follow us on Instagram
+      subtitle: announcement
   - resources:
       title: Resources
       id: resources
