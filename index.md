@@ -31,6 +31,8 @@ sections:
         Instagram.
       image: /images/2024 Miscellanous/Follow_Us_Instagram_Post.gif
       alt: Gif of follow us on Instagram
+      button: "@greenridgesecsch"
+      url: https://www.instagram.com/greenridgesecsch/
   - resources:
       title: Resources
       id: resources
