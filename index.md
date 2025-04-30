@@ -25,7 +25,7 @@ sections:
       alt: Direct School Admission Poster
       description: Calling all P6 Students! We want YOU! Calling all P6 students! If
         you’ve got the passion, we’ve got the place. Apply for DSA now!
-      button: Find our more
+      button: Find out more
       url: https://www.greenridgesec.moe.edu.sg/admission/dsa/
   - infopic:
       title: Follow us on Instagram!
