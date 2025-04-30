@@ -210,7 +210,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Apr,</p>
+<p>4 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4&amp;5 Home-based Learning</p>
