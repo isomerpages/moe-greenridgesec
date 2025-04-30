@@ -19,10 +19,9 @@ sections:
           url: /looking-great-2025/
       background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
   - infopic:
-      title: Selamat Hari Raya Aidilfitri!
+      title: Direct School Admission (DSA)
       id: infopic
-      description: Wishing you a blessed Hari Raya filled with peace and happiness!
-      image: /images/2024 Miscellanous/Hari_Raya_GSS.gif
+      image: /images/2025 DSA/WhatsApp_Image_2025_04_30_at_3_52_20_PM.jpg
       alt: Gif of Hari Raya wish
   - infopic:
       title: Follow us on Instagram!
