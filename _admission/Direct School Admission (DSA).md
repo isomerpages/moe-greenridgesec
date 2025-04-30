@@ -2,55 +2,306 @@
 title: Direct School Admission (DSA)
 permalink: /admission/dsa/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **Direct School Admission**
-![](/images/2024%20DSA/v4_DSA_GSS_2024.gif)
-**2024 DIRECT SCHOOL ADMISSION-SECONDARY EXERCISE (DSA-SEC)**
-
-Dear P6 students
-
-We invite you to apply for Direct School Admission (DSA) to Sec 1 (2025). DSA allows students to seek admission to a secondary school based on a diverse range of interests and talents.
-
-For our 2025 Sec 1s, we offer the following talent areas:
-* [Debating and Public Speaking](/signature-programmes/applied-learning-programme/debatenpublicspeaking/)
-* [Media and Journalism](/signature-programmes/applied-learning-programme/medianjournalism/)
-* [Bilingualism](/signature-programmes/applied-learning-programme/bilingualism/)
-* [Community Youth Leadership](https://www.greenridgesec.moe.edu.sg/signature-programmes/learning-for-life-programme-llp/)
-* [Rugby](https://www.greenridgesec.moe.edu.sg/cca/sports-and-games/rugby/)
-
-
-Successful applicants will enjoy a range of developmental opportunities to nurture their interests and develop their skills in the talent area offered to them. These students can look forward to opportunities to:
-
-*  participate in enrichment programmes / activities
-*  showcase their skills and knowledge at the school and community level
-*  represent the school in national-level competitions
-*  receive mentorship
-*  initiate and lead in projects (including VIA projects) related to the talent area
-*  receive guidance on potential higher education and career options in the talent area
-
-
-**Selection Process and Criteria**
-
-  
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="109"><col width="237"><col width="243"></colgroup><tbody><tr style="height:25.5pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;background-color:#d9d9d9;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Talent Area</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;background-color:#d9d9d9;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Selection Criteria</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;background-color:#d9d9d9;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Selection Process</span></p></td></tr><tr style="height:25pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;background-color:#ffffff;margin-top:6pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:14pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><b>Debating and Public Speaking</b></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;background-color:#ffffff;margin-top:12pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Applicants should demonstrate:</span></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">competency in the English Language&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">interest, motivation and experience (if any)</span><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> in public speaking</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">positive personal dispositions and learning attitudes</span></p></li></ul></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:12pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Shortlisted applicants:</span></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">will be invited for an in-person interview to share their relevant achievements and experiences (if any)</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">will sit for a performance task: plan and deliver a speech on a topic that will be given to the applicant during the session</span></p></li></ul></td></tr><tr style="height:25pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;background-color:#ffffff;margin-top:6pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:14pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><b>Media / Journalism</b></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:12pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Applicants should have:</span></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">competency in the English Language</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">interest, motivation and experience (if any)</span><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> in communicating through different types of media&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">positive personal dispositions and learning attitudes</span></p></li></ul></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:12pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Shortlisted applicants:</span></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">will be invited for an in-person interview to share their relevant achievements and experiences (if any)</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">will sit for a performance task: craft a photo story with a title and photo captions, based on information and photographs provided during the session.&nbsp;</span></p></li></ul></td></tr><tr style="height:25pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;background-color:#ffffff;margin-top:6pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:14pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><b>Bilingualism</b></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:12pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Applicants should have:</span></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">competency in Mother Tongue Language (MTL) &amp; English Language (EL)</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">interest, motivation and experience (if any) in bilingualism and biculturalism</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">positive personal dispositions and learning attitudes</span></p></li></ul></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:12pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Shortlisted applicants:</span></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">will be invited for an in-person interview to share their relevant achievements and experiences (if any)</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">will sit for a performance task: simple translation and word splash involving EL and MTL during the session.</span></p></li></ul></td></tr><tr style="height:25pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;background-color:#ffffff;margin-top:6pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:14pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><b>Community Youth Leadership</b></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:12pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Applicants should have:</span></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">the will to serve the school and the community</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">experience in leading others</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">interest in deepening leadership skills</span></p></li></ul></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:12pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Shortlisted applicants:</span></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">will be invited for an in-person interview to share their relevant achievements and experiences </span><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">(if any)</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">will sit for a performance task: situational task related to leadership.</span></p></li></ul></td></tr><tr style="height:25pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;background-color:#ffffff;margin-top:6pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:14pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><b>Rugby</b></span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:12pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Applicants should have:</span></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:14pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">skills in ball passing, tackling, and evasive running during a game play</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">motivation, experience and achievements (if any) in playing rugby&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">positive personal dispositions and learning attitudes</span></p></li></ul></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.38;text-align: justify;background-color:#ffffff;margin-top:12pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Shortlisted applicants:</span></p><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:12pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">will be invited for an in-person interview to share their interest and motivation in playing rugby</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#484848;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">will take part in a </span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">physical skill demonstration test</span></p></li></ul><p style="line-height:1.38;margin-left: 36pt;background-color:#ffffff;margin-top:12pt;margin-bottom:12pt;" dir="ltr"><br></p></td></tr></tbody></table>
-
-  
-
-Please note that meeting all the criteria does not guarantee the student will be shortlisted or given an offer.&nbsp;
-
-**Application Process**
-
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and requires one parent’s Singpass to login for authentication purposes. Application will be open from **7 May 2024, 11am to 3 June 2024, 3pm.** 
-
-An applicant may indicate up to 2 talent areas for the same school. For more details, please refer to the MOE website - [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
-
-Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
-
-Students will be informed of the outcome of their DSA application by the respective schools. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent area that they are selected for from Year 1 to Year 4.
-
-
-For further enquiries, please feel free to:
-* Email gss@moe.edu.sg
-* Call &nbsp;[6769 1491](tel:+6567691491)
+<h1><strong>Direct School Admission</strong></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20DSA/v4_DSA_GSS_2024.gif">
+</div>
+<p><strong>2025 DIRECT SCHOOL ADMISSION-SECONDARY EXERCISE (DSA-SEC)</strong>
+</p>
+<p>Dear P6 students</p>
+<p>We invite you to apply for Direct School Admission (DSA) to Sec 1 (2026).
+DSA allows students to seek admission to a secondary school based on a
+diverse range of interests and talents.</p>
+<p>For our 2026 Sec 1s, we offer the following talent areas:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/signature-programmes/applied-learning-programme/debatenpublicspeaking/" rel="noopener noreferrer nofollow" target="_blank">Debating and Public Speaking</a>
+</p>
+</li>
+<li>
+<p><a href="/signature-programmes/applied-learning-programme/medianjournalism/" rel="noopener noreferrer nofollow" target="_blank">Media and Journalism</a>
+</p>
+</li>
+<li>
+<p><a href="/signature-programmes/applied-learning-programme/bilingualism/" rel="noopener noreferrer nofollow" target="_blank">Bilingualism</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.greenridgesec.moe.edu.sg/signature-programmes/learning-for-life-programme-llp/" rel="noopener noreferrer nofollow" target="_blank">Community Youth Leadership</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.greenridgesec.moe.edu.sg/cca/sports-and-games/rugby/" rel="noopener noreferrer nofollow" target="_blank">Rugby</a>
+</p>
+</li>
+</ul>
+<p>Successful applicants will enjoy a range of developmental opportunities
+to nurture their interests and develop their skills in the talent area
+offered to them. These students can look forward to opportunities to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>participate in enrichment programmes / activities</p>
+</li>
+<li>
+<p>showcase their skills and knowledge at the school and community level</p>
+</li>
+<li>
+<p>represent the school in national-level competitions</p>
+</li>
+<li>
+<p>receive mentorship</p>
+</li>
+<li>
+<p>initiate and lead in projects (including VIA projects) related to the
+talent area</p>
+</li>
+<li>
+<p>receive guidance on potential higher education and career options in the
+talent area</p>
+<p></p>
+<p>Please note that meeting all the criteria does not guarantee the student
+will be shortlisted or given an offer.</p>
+<p></p>
+<p><strong>Selection Process and Criteria</strong>
+</p>
+</li>
+</ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Talent Area</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selection Criteria</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selection Process</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Debating and Public Speaking</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Applicants should demonstrate:</strong>
+</p>
+<ul>
+<li>
+<p><strong>competency in the English Language&nbsp;</strong>
+</p>
+</li>
+<li>
+<p><strong>interest, motivation and experience (if any) in public speaking</strong>
+</p>
+</li>
+<li>
+<p><strong>positive personal dispositions and learning attitudes</strong>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Shortlisted applicants:</strong>
+</p>
+<ul>
+<li>
+<p>will be invited for an in-person interview to share their relevant achievements
+and experiences (if any)</p>
+</li>
+<li>
+<p>will sit for a performance task: plan and deliver a speech on a topic
+that will be given to the applicant during the session</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Media / Journalism</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Applicants should have:</strong>
+</p>
+<ul>
+<li>
+<p><strong>competency in the English Language</strong>
+</p>
+</li>
+<li>
+<p><strong>interest, motivation and experience (if any) in communicating through different types of media&nbsp;</strong>
+</p>
+</li>
+<li>
+<p>positive personal dispositions and learning attitudes</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Shortlisted applicants:</strong>
+</p>
+<ul>
+<li>
+<p>will be invited for an in-person interview to share their relevant achievements
+and experiences (if any)</p>
+</li>
+<li>
+<p>will sit for a performance task: craft a photo story with a title and
+photo captions, based on information and photographs provided during the
+session.&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Bilingualism</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Applicants should have:</strong>
+</p>
+<ul>
+<li>
+<p><strong>competency in Mother Tongue Language (MTL) &amp; English Language (EL)</strong>
+</p>
+</li>
+<li>
+<p>interest, motivation and experience (if any) in bilingualism and biculturalism</p>
+</li>
+<li>
+<p>positive personal dispositions and learning attitudes</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Shortlisted applicants:</strong>
+</p>
+<ul>
+<li>
+<p>will be invited for an in-person interview to share their relevant achievements
+and experiences (if any)</p>
+</li>
+<li>
+<p>will sit for a performance task: simple translation and word splash involving
+EL and MTL during the session.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Community Youth Leadership</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Applicants should have:</strong>
+</p>
+<ul>
+<li>
+<p>the will to serve the school and the community</p>
+</li>
+<li>
+<p>experience in leading others</p>
+</li>
+<li>
+<p>interest in deepening leadership skills</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Shortlisted applicants:</strong>
+</p>
+<ul>
+<li>
+<p>will be invited for an in-person interview to share their relevant achievements
+and experiences (if any)</p>
+</li>
+<li>
+<p>will sit for a performance task: situational task related to leadership.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Rugby</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Applicants should have:</strong>
+</p>
+<ul>
+<li>
+<p>skills in ball passing, tackling, and evasive running during a game play</p>
+</li>
+<li>
+<p>motivation, experience and achievements (if any) in playing rugby&nbsp;</p>
+</li>
+<li>
+<p>positive personal dispositions and learning attitudes</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Shortlisted applicants:</strong>
+</p>
+<ul>
+<li>
+<p>will be invited for an in-person interview to share their interest and
+motivation in playing rugby</p>
+</li>
+<li>
+<p>will take part in a physical skill demonstration test</p>
+</li>
+</ul>
+<p>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Please note that meeting all the criteria does not guarantee the student
+will be shortlisted or given an offer.&nbsp;</p>
+<p><strong>Application Process</strong>
+</p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and requires one parent’s Singpass to
+login for authentication purposes. Application will be open from <strong>7 May 2025, 11am to 3 June 2024, 3pm.</strong>
+</p>
+<p>An applicant may indicate up to 2 talent areas for the same school. For
+more details, please refer to the MOE website - <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+</p>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
+<p>Students will be informed of the outcome of their DSA application by the
+respective schools. Students who are successfully admitted to the school
+via DSA are expected to honour their commitment to the school and participate
+in the activities related to the talent area that they are selected for
+from Year 1 to Year 4.</p>
+<p>For further enquiries, please feel free to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email gss@moe.edu.sg</p>
+</li>
+<li>
+<p>Call &nbsp;<a href="tel:+6567691491" rel="noopener noreferrer nofollow" target="_blank">6769 1491</a>
+</p>
+</li>
+</ul>
+<p></p>
