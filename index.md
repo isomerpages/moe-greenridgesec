@@ -23,8 +23,7 @@ sections:
       id: infopic
       image: /images/2025 DSA/WhatsApp_Image_2025_04_30_at_3_52_20_PM.jpg
       alt: Direct School Admission Poster
-      description: Calling all P6 Students! We want YOU! If you’ve got the passion,
-        we’ve got the place. Apply for DSA now!
+      description: Calling all P6 Students! We want YOU! Apply for DSA now!
       button: Find out more
       url: https://www.greenridgesec.moe.edu.sg/admission/dsa/
   - infopic:
