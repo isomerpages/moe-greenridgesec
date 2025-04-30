@@ -19,11 +19,14 @@ sections:
           url: /looking-great-2025/
       background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
   - infopic:
-      title: Selamat Hari Raya Aidilfitri!
+      title: Direct School Admission (DSA)
       id: infopic
-      description: Wishing you a blessed Hari Raya filled with peace and happiness!
-      image: /images/2024 Miscellanous/Hari_Raya_GSS.gif
-      alt: Gif of Hari Raya wish
+      image: /images/2025 DSA/WhatsApp_Image_2025_04_30_at_3_52_20_PM.jpg
+      alt: Direct School Admission Poster
+      description: Calling all P6 Students! We welcome you to pursue any of our talent
+        areas. Apply for DSA now!
+      button: Find out more
+      url: https://www.greenridgesec.moe.edu.sg/admission/dsa/
   - infopic:
       title: Follow us on Instagram!
       id: infopic

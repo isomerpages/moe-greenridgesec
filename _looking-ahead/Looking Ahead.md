@@ -202,7 +202,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Apr, 2 May, 16 May</p>
+<p>4 Apr, 16 May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 3 Home-based Learning</p>
@@ -210,7 +210,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Apr,</p>
+<p>4 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4&amp;5 Home-based Learning</p>
@@ -254,14 +254,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Labour Day Public Holiday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 Home-based Learning</p>
 </td>
 </tr>
 <tr>
