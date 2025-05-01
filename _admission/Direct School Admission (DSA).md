@@ -5,33 +5,38 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Direct School Admission</strong></h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20DSA/v4_DSA_GSS_2024.gif">
-</div>
 <p><strong>2025 DIRECT SCHOOL ADMISSION-SECONDARY EXERCISE (DSA-SEC)</strong>
 </p>
 <p>Dear P6 students</p>
 <p>We invite you to apply for Direct School Admission (DSA) to Sec 1 (2026).
 DSA allows students to seek admission to a secondary school based on a
 diverse range of interests and talents.</p>
-<p>For our 2026 Sec 1s, we offer the following talent areas:</p>
+<p>For our 2026 Sec 1s, we offer the following talent areas:</p><a class="isomer-image-wrapper" href="https://www.greenridgesec.moe.edu.sg/signature-programmes/applied-learning-programme/debatenpublicspeaking/"><img style="width: 100%;" height="auto" width="100%" alt="DEBATE" src="/images/2025 DSA/WhatsApp_Image_2025_04_30_at_11_30_03_PM__1_.jpg"></a>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/signature-programmes/applied-learning-programme/debatenpublicspeaking/" rel="noopener noreferrer nofollow" target="_blank">Debating and Public Speaking</a>
 </p>
 </li>
+</ul><a class="isomer-image-wrapper" href="https://www.greenridgesec.moe.edu.sg/signature-programmes/applied-learning-programme/medianjournalism/"><img style="width: 100%;" height="auto" width="100%" alt="MEDIA AND JOURNALISM" src="/images/WhatsApp_Image_2025_04_30_at_11_30_04_PM.jpg"></a>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="/signature-programmes/applied-learning-programme/medianjournalism/" rel="noopener noreferrer nofollow" target="_blank">Media and Journalism</a>
 </p>
 </li>
+</ul><a class="isomer-image-wrapper" href="https://www.greenridgesec.moe.edu.sg/signature-programmes/applied-learning-programme/bilingualism/"><img style="width: 100%;" height="auto" width="100%" alt="BILINGUALISM" src="/images/WhatsApp_Image_2025_04_30_at_11_30_04_PM__1_.jpg"></a>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="/signature-programmes/applied-learning-programme/bilingualism/" rel="noopener noreferrer nofollow" target="_blank">Bilingualism</a>
 </p>
 </li>
+</ul><a class="isomer-image-wrapper" href="https://www.greenridgesec.moe.edu.sg/signature-programmes/learning-for-life-programme-llp/"><img style="width: 100%;" height="auto" width="100%" alt="COMMUNITYYOUTHLEADERSHIP" src="/images/6.jpg"></a>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.greenridgesec.moe.edu.sg/signature-programmes/learning-for-life-programme-llp/" rel="noopener noreferrer nofollow" target="_blank">Community Youth Leadership</a>
 </p>
 </li>
+</ul><a class="isomer-image-wrapper" href="https://www.greenridgesec.moe.edu.sg/cca/sports-and-games/rugby/"><img style="width: 100%;" height="auto" width="100%" alt="RUGBY" src="/images/WhatsApp_Image_2025_04_30_at_11_30_03_PM.jpg"></a>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.greenridgesec.moe.edu.sg/cca/sports-and-games/rugby/" rel="noopener noreferrer nofollow" target="_blank">Rugby</a>
 </p>
@@ -99,16 +104,13 @@ will be shortlisted or given an offer.</p>
 </p>
 <ul>
 <li>
-<p><strong>competency in the English Language&nbsp;</strong>
-</p>
+<p>competency in the English Language&nbsp;</p>
 </li>
 <li>
-<p><strong>interest, motivation and experience (if any) in public speaking</strong>
-</p>
+<p>interest, motivation and experience (if any) in public speaking</p>
 </li>
 <li>
-<p><strong>positive personal dispositions and learning attitudes</strong>
-</p>
+<p>positive personal dispositions and learning attitudes</p>
 </li>
 </ul>
 </td>
@@ -137,12 +139,11 @@ that will be given to the applicant during the session</p>
 </p>
 <ul>
 <li>
-<p><strong>competency in the English Language</strong>
-</p>
+<p>competency in the English Language</p>
 </li>
 <li>
-<p><strong>interest, motivation and experience (if any) in communicating through different types of media&nbsp;</strong>
-</p>
+<p>interest, motivation and experience (if any) in communicating through
+different types of media&nbsp;</p>
 </li>
 <li>
 <p>positive personal dispositions and learning attitudes</p>
@@ -175,8 +176,7 @@ session.&nbsp;</p>
 </p>
 <ul>
 <li>
-<p><strong>competency in Mother Tongue Language (MTL) &amp; English Language (EL)</strong>
-</p>
+<p>competency in Mother Tongue Language (MTL) &amp; English Language (EL)</p>
 </li>
 <li>
 <p>interest, motivation and experience (if any) in bilingualism and biculturalism</p>
