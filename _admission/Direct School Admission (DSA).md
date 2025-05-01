@@ -5,9 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Direct School Admission</strong></h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20DSA/v4_DSA_GSS_2024.gif">
-</div>
 <p><strong>2025 DIRECT SCHOOL ADMISSION-SECONDARY EXERCISE (DSA-SEC)</strong>
 </p>
 <p>Dear P6 students</p>
