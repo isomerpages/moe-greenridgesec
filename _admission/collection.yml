@@ -2,7 +2,6 @@ collections:
   admission:
     output: true
     order:
-      - "Primary 6 Students: Discover yourself at GSS.md"
       - Admission or Transfer to Greenridge Secondary School.md
       - Direct School Admission (DSA).md
       - Returning Singaporeans.md
