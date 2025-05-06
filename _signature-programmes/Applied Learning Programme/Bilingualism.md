@@ -21,24 +21,24 @@ persuasive communicators who not only excel in both languages but also
 develop a deep appreciation for the richness of both cultures.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 DSA/WhatsApp_Image_2025_05_06_at_11_15_39_AM.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025 DSA/blingualism-1.jpg">
 </div>
 <p>Award winners and participants in the National Secondary Schools Translation
 Competition 2025</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 DSA/WhatsApp_Image_2025_05_06_at_11_15_39_AM_edit.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025 DSA/bilingualism-2.jpg">
 </div>
 <p>Award winners and participants in Natramizh Uraikkalam Public Speaking
 Competition 2025</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 DSA/WhatsApp_Image_2025_05_06_at_11_15_39_AM__2_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025 DSA/bilingualism-3.jpg">
 </div>
 <p>Award winner in National Secondary Schools Translation Competition 2024</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 DSA/WhatsApp_Image_2025_05_06_at_11_15_40_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 DSA/bilingualism-4.jpg">
 </div>
 <p>Award winners in Inter-Secondary Schools Malay Translation Competition
 3T 2024</p>
