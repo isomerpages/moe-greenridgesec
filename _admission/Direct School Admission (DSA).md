@@ -11,31 +11,51 @@ variant: tiptap
 <p>We invite you to apply for Direct School Admission (DSA) to Sec 1 (2026).
 DSA allows students to seek admission to a secondary school based on a
 diverse range of interests and talents.</p>
-<p>For our 2026 Sec 1s, we offer the following talent areas:</p><a class="isomer-image-wrapper" href="https://www.greenridgesec.moe.edu.sg/signature-programmes/applied-learning-programme/debatenpublicspeaking/"><img style="width: 40%;" height="auto" width="100%" alt="DEBATE" src="/images/2025 DSA/WhatsApp_Image_2025_04_30_at_11_30_03_PM__1_.jpg"></a>
+<p>For our 2026 Sec 1s, we offer the following talent areas:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025 DSA/debatedsa.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/signature-programmes/applied-learning-programme/debatenpublicspeaking/" rel="noopener noreferrer nofollow" target="_blank">Debating and Public Speaking</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/mediajournalismdsa.jpg">
+</div>
 </li>
-</ul><a class="isomer-image-wrapper" href="https://www.greenridgesec.moe.edu.sg/signature-programmes/applied-learning-programme/medianjournalism/"><img style="width: 40%;" height="auto" width="100%" alt="MEDIA AND JOURNALISM" src="/images/WhatsApp_Image_2025_04_30_at_11_30_04_PM.jpg"></a>
+</ul>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/signature-programmes/applied-learning-programme/medianjournalism/" rel="noopener noreferrer nofollow" target="_blank">Media and Journalism</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/bilingualismdsa.jpg">
+</div>
 </li>
-</ul><a class="isomer-image-wrapper" href="https://www.greenridgesec.moe.edu.sg/signature-programmes/applied-learning-programme/bilingualism/"><img style="width: 40%;" height="auto" width="100%" alt="BILINGUALISM" src="/images/WhatsApp_Image_2025_04_30_at_11_30_04_PM__1_.jpg"></a>
+</ul>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/signature-programmes/applied-learning-programme/bilingualism/" rel="noopener noreferrer nofollow" target="_blank">Bilingualism</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/communityyouthdsa.jpg">
+</div>
 </li>
-</ul><a class="isomer-image-wrapper" href="https://www.greenridgesec.moe.edu.sg/signature-programmes/learning-for-life-programme-llp/"><img style="width: 40%;" height="auto" width="100%" alt="COMMUNITYYOUTHLEADERSHIP" src="/images/6.jpg"></a>
+</ul>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.greenridgesec.moe.edu.sg/signature-programmes/learning-for-life-programme-llp/" rel="noopener noreferrer nofollow" target="_blank">Community Youth Leadership</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/rugbydsa.jpg">
+</div>
 </li>
-</ul><a class="isomer-image-wrapper" href="https://www.greenridgesec.moe.edu.sg/cca/sports-and-games/rugby/"><img style="width: 40%;" height="auto" width="100%" alt="RUGBY" src="/images/WhatsApp_Image_2025_04_30_at_11_30_03_PM.jpg"></a>
+</ul>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.greenridgesec.moe.edu.sg/cca/sports-and-games/rugby/" rel="noopener noreferrer nofollow" target="_blank">Rugby</a>
