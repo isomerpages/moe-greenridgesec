@@ -29,8 +29,8 @@ themes, one mic at a time</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 media and journalism/Finding_their_voice___Equipped_with_microphones_and_ideas_students_learn_to_inform_and_inspire_1.jpg">
 </div>
-<p>Find their voice - Equipped with microphone and ideas, student learn to
-inform and inspire</p>
+<p>Find their voice - Equipped with microphone and ideas, students learn
+to inform and inspire</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 media and journalism/Focus_edit_amplify___Honing_their_editing_skills_with_precision_1.jpg">
 </div>
