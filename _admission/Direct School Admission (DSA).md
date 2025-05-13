@@ -297,6 +297,9 @@ will be shortlisted or given an offer.&nbsp;</p>
 The application is free-of-charge and requires one parent’s Singpass to
 login for authentication purposes. Application will be open from <strong>7 May 2025, 11am to 3 June 2025, 3pm.</strong>
 </p>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
 <p>An applicant may indicate up to 2 talent areas for the same school. For
 more details, please refer to the MOE website - <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
@@ -304,9 +307,9 @@ more details, please refer to the MOE website - <a href="https://www.moe.gov.sg/
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<p>Students will be informed of the outcome of their DSA application by the
-respective schools. Students who are successfully admitted to the school
-via DSA are expected to honour their commitment to the school and participate
+<p>All applicants will receive their application outcomes between 25 Aug
+and 4 Sep 2025. Students who are successfully admitted to the school via
+DSA are expected to honour their commitment to the school and participate
 in the activities related to the talent area that they are selected for
 from Year 1 to Year 4.</p>
 <p>For further enquiries, please feel free to:</p>
