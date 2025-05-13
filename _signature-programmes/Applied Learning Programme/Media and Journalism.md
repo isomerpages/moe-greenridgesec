@@ -20,3 +20,33 @@ software.</p>
 students grow as confident communicators – ready to publish their work
 on social media and take part in national-level competitions such as Our
 Schools, Our Stories.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 media and journalism/Conversations_that_connect___Students_explore_youth_perspectives_and_social_themes__one_mic_at_a_time.jpg">
+</div>
+<p>Conversations that connect - Students explore youth perspectives and social
+themes, one mic at a time</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 media and journalism/Focus_edit_amplify___Honing_their_editing_skills_with_precision_1.jpg">
+</div>
+<p>Focus, edit, amplify - Honing their editing skills with precision</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 media and journalism/Inside_the_newsroom_an_eye_opening_visit_to_Mediacorp_inspires_the_next_generation_of_journalists_1.jpg">
+</div>
+<p>Inside the newsroom - An eye-opening visit to Mediacorp inspires the next
+generation of journalists</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 media and journalism/On_air_with_Behind_the_Ridge___Greenridge_podcasters_in_action__bringing_real_voices_to_real_issues.jpg">
+</div>
+<p>On air with Behind the Ridge - Greenridge podcasters in action, bringing
+real voices to real issues</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 media and journalism/Tuning_in_speaking_out___Champions_collaborate_and_create_in_a_vibrant_setting_1.jpg">
+</div>
+<p>Tuning in, speaking out - Champions collaborate and create in a vibrant
+setting</p>
+<p></p>
