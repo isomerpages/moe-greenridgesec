@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: Direct School Admission (DSA)
       id: infopic
-      image: /images/2025 DSA/dsawelcome2025.jpg
+      image: /images/2025 DSA/DSAEdited111.gif
       alt: Direct School Admission Poster
       description: Calling all P6 Students! We welcome you to pursue any of our talent
         areas. Apply for DSA now!
