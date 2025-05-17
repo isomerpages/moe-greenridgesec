@@ -14,28 +14,24 @@ diverse range of interests and talents.</p>
 <p>For our 2026 Sec 1s, we offer the following talent areas:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 DSA/3.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 DSA/3.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/signature-programmes/applied-learning-programme/debatenpublicspeaking/" rel="noopener noreferrer nofollow" target="_blank">Debating and Public Speaking</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/mediajournalismdsa.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 DSA/4.jpg">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/2025 DSA/4.jpg">
 </div>
 </li>
 <li>
 <p><a href="/signature-programmes/applied-learning-programme/medianjournalism/" rel="noopener noreferrer nofollow" target="_blank">Media and Journalism</a>
 </p>
-<p></p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 DSA/5.jpg">
+<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/2025 DSA/5.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -43,7 +39,7 @@ diverse range of interests and talents.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 DSA/6__2_.jpg">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/2025 DSA/6__2_.jpg">
 </div>
 </li>
 <li>
@@ -51,7 +47,7 @@ diverse range of interests and talents.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 DSA/2.jpg">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/2025 DSA/2.jpg">
 </div>
 </li>
 <li>
