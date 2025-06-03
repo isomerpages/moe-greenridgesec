@@ -364,10 +364,10 @@ third_nav_title: Our Staff
 <p>Mr. Tan Sei Hiong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH – Physical Eduaction and CCA</p>
+<p>SH – Physical Education and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_zhi_hao@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_zhi_hao@gss.moe.edu.sg</a>
+<p><a href="mailto:chin_zhi_hao@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sei_hiong@gss.moe.edu.sg</a>
 </p>
 </td>
 </tr>
