@@ -121,6 +121,18 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr. Ahangama Badalge Terence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD – Educational and Digital Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ahangama_badalge_terence@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahangama_badalge_terence@gss.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm. Christina D/O Joseph</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,18 +140,6 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:christina_joseph@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christina_joseph@gss.moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm. Wang Jieying Clara</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD – Information - Communications &amp; Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wang_jieying_clara@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_jieying_clara@gss.moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -196,22 +196,10 @@ third_nav_title: Our Staff
 <p>Ms. Ang Lip Eng Penny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD – Physical Education CCA</p>
+<p>HOD – Physical Education and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_lip_eng@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lip_eng@gss.moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr. Ahangama Badalge Terence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD – Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ahangama_badalge_terence@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahangama_badalge_terence@gss.moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -244,7 +232,7 @@ third_nav_title: Our Staff
 <p>Mr. Wong Shan Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD and Year Head (Sec 2/3)</p>
+<p>Year Head (Sec 2/3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_shan_jing@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_shan_jing@gss.moe.edu.sg</a>
@@ -337,6 +325,18 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr. Lim Yeun Chen Mark</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH -Educational Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_yeun_chen@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yeun_chen@gss.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms. Nurhayati Bte Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -349,22 +349,22 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Lim Yeun Chen Mark</p>
+<p>Mr. Chin Zhi Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH – Information-Communications &amp; Technology</p>
+<p>SH – Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_yeun_chen@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yeun_chen@gss.moe.edu.sg</a>
+<p><a href="mailto:chin_zhi_hao@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_zhi_hao@gss.moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Chin Zhi Hao</p>
+<p>Mr. Tan Sei Hiong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH – Mathematics</p>
+<p>SH – Physical Eduaction and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chin_zhi_hao@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_zhi_hao@gss.moe.edu.sg</a>
