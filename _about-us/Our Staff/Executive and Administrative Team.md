@@ -23,7 +23,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kristie Chen</p>
+<p>Ms Jenny Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
@@ -127,14 +127,6 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Tan Ah Ngee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ng Poh Heok (Sandy)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,14 +136,6 @@ third_nav_title: Our Staff
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm.Chia Siew Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm. Toh Ah Bee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -199,15 +183,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Losni</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Health Advisor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Mdm. Hamizah bte A. Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Librarian</p>
