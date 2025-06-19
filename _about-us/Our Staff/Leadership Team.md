@@ -220,7 +220,7 @@ third_nav_title: Our Staff
 <p>Mr. Yong Woei Shyang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD – Student Management</p>
+<p>HOD – Student Management and Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yong_woei_shyang@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_woei_shyang@gss.moe.edu.sg</a>
