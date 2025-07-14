@@ -8,6 +8,7 @@ variant: markdown
 # Resources
 
 ### Teaching & Learning Resources
+- [MIMS](https://idp.mims.moe.gov.sg/nidp/portal)
 - [Student Learning Space](https://www.learning.moe.edu.sg/)
 - [Design and Technology Applications](http://www.focuselearning.co.uk/u/31300/uiqnwEemEaCForvwxBhhAfvehobonymca)
 - [GSS HBL Site](https://sites.google.com/moe.edu.sg/greenridge-sec-sch/home)
