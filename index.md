@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Looking Back
           description: The GSS experience
-          url: https://sway.cloud.microsoft/yBYBvs78UTstYMqk?ref=Link
+          url: /looking-back/
         - title: Looking Ahead
           description: Important dates
           url: /looking-ahead/
