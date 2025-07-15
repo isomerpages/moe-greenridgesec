@@ -445,6 +445,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>24 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Oral Exam</p>
+<p>Sec 1 &amp; Sec 2 Exam Study Break</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>29 Sep (TBC)</p>
 </td>
 <td rowspan="1" colspan="1">
