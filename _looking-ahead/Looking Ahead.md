@@ -411,14 +411,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4&amp;5 Home-based Learning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -453,18 +445,18 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 Sep (TBC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4&amp;5 Graduation Ceremony (tentative)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>29 Sep (TBC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4E&amp;5N Study Leave</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4&amp;5 Graduation Ceremony</p>
 </td>
 </tr>
 <tr>
@@ -607,14 +599,6 @@ on Overall results)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Level English &amp; Mother Tongue Oral Examinations</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>20 Aug – 3 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -627,6 +611,14 @@ on Overall results)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4 N Level Examinations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Oral Exam</p>
 </td>
 </tr>
 <tr>
