@@ -184,7 +184,7 @@ third_nav_title: Our Staff
 <p>Ms. Saadiah Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD – Mother Tongue Language</p>
+<p>HOD – Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:saadiah.aziz@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saadiah.aziz@gss.moe.edu.sg</a>
