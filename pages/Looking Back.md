@@ -4,8 +4,9 @@ permalink: /looking-back/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LOOKING%20pngs/looking_great.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LOOKING BACK/looking back header.jpg">
 </div>
 <p><strong>2025</strong>
 </p>
