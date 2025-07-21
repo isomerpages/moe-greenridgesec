@@ -2,4 +2,4 @@ collections:
   leaders-champions:
     output: true
     order:
-      - Champions Academy.md
+      - Student Leadership.md
