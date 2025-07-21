@@ -1,4 +1,5 @@
 collections:
   leaders-champions:
     output: true
-    order: []
+    order:
+      - Student Leaders Championing for Good Causes.md
