@@ -1,0 +1,4 @@
+collections:
+  leaders-champions:
+    output: true
+    order: []
