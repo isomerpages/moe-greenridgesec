@@ -21,7 +21,7 @@ third_nav_title: Our Staff
 <p>CLASS</p>
 </th>
 <th rowspan="1" colspan="2">
-<h4>SECONDARY ONE</h4>
+<h4>Secondary One</h4>
 </th>
 </tr>
 <tr>
@@ -29,7 +29,7 @@ third_nav_title: Our Staff
 <p>1-Agatha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chiu_guo_vei@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chiu Guo Vei (Geog)</a>
+<p><a href="mailto:chiu_guo_vei@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chiu Guo Vei (SS/His)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -297,7 +297,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sazali_rahmat@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sazali Rahmat (ART)</a>
+<p><a href="mailto:sazali_rahmat@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sazali Rahmat (Art)</a>
 </p>
 </td>
 </tr>
@@ -358,7 +358,7 @@ third_nav_title: Our Staff
 <p>3-Nightingale</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liaw_poh_geok@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Liaw Poh Geok (D &amp; T)</a>
+<p><a href="mailto:liaw_poh_geok@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Liaw Poh Geok (D&amp;T)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -388,7 +388,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norsuzana_saini@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Norsuzana Saini (D &amp; T)</a>
+<p><a href="mailto:norsuzana_saini@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Norsuzana Saini (D&amp;T)</a>
 </p>
 </td>
 </tr>
@@ -425,7 +425,7 @@ third_nav_title: Our Staff
 <p>4-Teresa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noor_azhar_ahmad@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Noor Azhar Ahmad (D &amp; T)</a>
+<p><a href="mailto:noor_azhar_ahmad@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Noor Azhar Ahmad (D&amp;T)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -438,7 +438,7 @@ third_nav_title: Our Staff
 <p>4-Nightingale</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_mei_tju@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Lim Mei Tju, Cheryl (ART)</a>
+<p><a href="mailto:lim_mei_tju@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Lim Mei Tju, Cheryl (Art)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -525,7 +525,7 @@ third_nav_title: Our Staff
 <p>5-Zaha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_ying_ting_denise@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Denise Lim Ying Ting (HIS)</a>
+<p><a href="mailto:lim_ying_ting_denise@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Denise Lim Ying Ting (His)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
