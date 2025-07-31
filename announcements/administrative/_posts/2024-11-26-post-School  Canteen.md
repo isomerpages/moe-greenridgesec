@@ -35,10 +35,11 @@ variant: tiptap
 <p>Malay Noodles Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 December2024, Monday, 12:00 pm</p>
+<p>29 Auguust 2025, 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 January 2025 (preferably)</p>
+<p>Operational Date: 15 Sept 2025</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Halal Noodles:</u></strong> 
@@ -57,7 +58,7 @@ Permanent Residents, aged 21 years old and above.</p>
 </li>
 <li>
 <p>Able to provide good service and quality food at reasonable prices in
-consultation with the School.</p>
+consultation with the school.</p>
 </li>
 <li>
 <p>Food must be served hot.</p>
@@ -145,6 +146,10 @@ to the school General Office by closing date either by hand or post.</p>
 </li>
 <li>
 <p>Contact No: <a href="tel:6241 4866" rel="noopener noreferrer nofollow" target="_blank">67691491</a>
+</p>
+</li>
+<li>
+<p>Email: <a href="mailto:l_thanabalan@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">l_thanabalan@gss.moe.edu.sg</a>
 </p>
 </li>
 <li>
