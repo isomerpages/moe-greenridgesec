@@ -58,52 +58,18 @@ parenthood together. This will in turn bring about growth and success to
 the school as well as to the students.</p>
 <p></p>
 <p><strong>Meet the executive committee members:</strong>
-</p>
-<p>Chairperson: Mdm Najma
+<br>Chairperson: Mdm Najma
 <br>Vice chairperson: Mdm Daphnie
 <br>Secretary: Mdm Carol
 <br>Treasurer: Mdm Hui Min</p>
-<p>Level Heads:</p>
-<p>Secondary 1: Mdm Dagi, Mdm Siti Hajar, Mdm Carol
+<p>Level Heads:
+<br>Secondary 1: Mdm Dagi, Mdm Siti Hajar, Mdm Carol
 <br>Secondary 2: Mdm Rohana, Mdm Hui Min
 <br>Secondary 3: Mdm Kayo, Mdm Najma
 <br>Secondary 4/5: Mdm Daphnie</p>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="01" src="/images/2025 PSG/05.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Racial</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="02" src="/images/2025 PSG/04.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Harmony</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="03" src="/images/2025 PSG/02.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Day</div>
-</div>
-</div>
-</div>
 <p><strong>Past (and upcoming) activities:</strong>
-</p>
-<p>Honours Day – 7 March
+<br>Honours Day – 7 March
 <br>Umbrella Making – 9 March
 <br>Fei Yue Parenting Workshop – March
 <br>Racial Harmony Day – 21 July
@@ -114,7 +80,39 @@ the school as well as to the students.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="01" src="/images/2025 PSG/08.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/2025 PSG/05.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Racial</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2" src="/images/2025 PSG/04.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Harmony</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="3" src="/images/2025 PSG/02.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Day</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/2025 PSG/08.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -124,7 +122,7 @@ the school as well as to the students.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="02" src="/images/2025 PSG/07.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2" src="/images/2025 PSG/07.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -134,7 +132,7 @@ the school as well as to the students.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="03" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="3" src="/images/2025 PSG/10.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
