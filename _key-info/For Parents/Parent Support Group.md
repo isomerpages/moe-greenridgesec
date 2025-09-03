@@ -76,15 +76,36 @@ the school as well as to the students.</p>
 <br>National Day - 8 Aug
 <br>Teachers’ Day Celebration – 5 Sep
 <br>GSS Summit – 21-24 Oct</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="01" src="/images/2025 PSG/honoursday1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">  </div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/2025 PSG/05.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="02" src="/images/2025 PSG/honoursday2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Racial</div>
+<div class="isomer-card-title"></div>
+<div class="isomer-card-link"></div>
+</div>
+</a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="03" src="/images/2025 PSG/honoursday3.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="4" src="/images/2025 PSG/05.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -94,7 +115,7 @@ the school as well as to the students.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Harmony</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
@@ -104,39 +125,50 @@ the school as well as to the students.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Day</div>
+<div class="isomer-card-title"></div>
 </div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
+</div><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="4" src="/images/2025 PSG/01.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description"> </div><div class="isomer-card-link"> </div></div></a>
+<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/2025 PSG/08.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="5" src="/images/2025 PSG/03.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">National</div>
+<div class="isomer-card-title"></div>
+<div class="isomer-card-description"></div>
+<div class="isomer-card-link"></div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="6" src="/images/2025 PSG/06.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">  </div><div class="isomer-card-description"> </div><div class="isomer-card-link"> </div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="7" src="/images/2025 PSG/08.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+<div class="isomer-card-description"></div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2" src="/images/2025 PSG/07.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="8" src="/images/2025 PSG/07.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Day</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="3" src="/images/2025 PSG/10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="9" src="/images/2025 PSG/09.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Celebrations</div>
+<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
