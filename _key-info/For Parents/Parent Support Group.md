@@ -7,7 +7,7 @@ third_nav_title: For Parents
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 PSG/psg_logo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 PSG/psg_logo.png">
 </div>
 <p><strong>Representation of the logo:</strong>
 </p>
@@ -69,13 +69,14 @@ the school as well as to the students.</p>
 <br>Secondary 3: Mdm Kayo, Mdm Najma
 <br>Secondary 4/5: Mdm Daphnie</p>
 <p></p>
-<p><strong>Past activities:</strong>
+<p><strong>Past (and upcoming) activities:</strong>
 </p>
-<p>Honours Day - 7 March</p>
+<p>Honours Day – 7 March</p>
 <p>Umbrella Making – 9 March</p>
-<p>Fei Yue Parenting Workshop - March</p>
+<p>Fei Yue Parenting Workshop – March</p>
 <p>Racial Harmony Day – 21 July</p>
 <p>National Day - 8 Aug</p>
 <p>Teachers’ Day Celebration – 5 Sep</p>
+<p>GSS Summit – 21-24 Oct</p>
 <p>GSS summit – 21 &amp; 23 Oct<strong>ly at the Annual Cross-Country</strong>
 </p>
