@@ -69,6 +69,8 @@ the school as well as to the students.</p>
 <br>Secondary 3: Mdm Kayo, Mdm Najma
 <br>Secondary 4/5: Mdm Daphnie</p>
 <p></p>
+<p></p>
+<p></p>
 <p><strong>Past (and upcoming) activities:</strong>
 </p>
 <p>Honours Day – 7 March
@@ -77,5 +79,4 @@ the school as well as to the students.</p>
 <br>Racial Harmony Day – 21 July
 <br>National Day - 8 Aug
 <br>Teachers’ Day Celebration – 5 Sep
-<br>GSS Summit – 21-24 Oct<strong> </strong>
-</p>
+<br>GSS Summit – 21-24 Oct</p>
