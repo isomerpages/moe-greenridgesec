@@ -12,9 +12,6 @@ Through regular meetings, workshops, and volunteer opportunities, we aim
 to strengthen the connection between home and school, ensuring our students
 receive the best possible support for their academic and personal growth.
 Join us in making a positive impact on our children's education and well-being.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20Miscellanous/Great/PSG_LOGO.jpg">
-</div>
 <p>GSS sincerely thanks all parents for their unwavering support and active
 involvement. Your commitment and collaboration truly make a difference
 in the lives of our students."</p>
