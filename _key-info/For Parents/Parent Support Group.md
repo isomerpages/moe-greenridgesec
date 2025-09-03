@@ -71,12 +71,11 @@ the school as well as to the students.</p>
 <p></p>
 <p><strong>Past (and upcoming) activities:</strong>
 </p>
-<p>Honours Day – 7 March</p>
-<p>Umbrella Making – 9 March</p>
-<p>Fei Yue Parenting Workshop – March</p>
-<p>Racial Harmony Day – 21 July</p>
-<p>National Day - 8 Aug</p>
-<p>Teachers’ Day Celebration – 5 Sep</p>
-<p>GSS Summit – 21-24 Oct</p>
-<p>GSS summit – 21 &amp; 23 Oct<strong>ly at the Annual Cross-Country</strong>
+<p>Honours Day – 7 March
+<br>Umbrella Making – 9 March
+<br>Fei Yue Parenting Workshop – March
+<br>Racial Harmony Day – 21 July
+<br>National Day - 8 Aug
+<br>Teachers’ Day Celebration – 5 Sep
+<br>GSS Summit – 21-24 Oct<strong> </strong>
 </p>
