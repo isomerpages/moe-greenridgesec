@@ -50,7 +50,7 @@ for the benefit of every child in school.</p>
 <p>6. To identify needs and develop programme ideas for the growth of our
 children.</p>
 <p>7. Celebrate achievements: Acknowledge and celebrate the success and milestones
-of parents in the support group,as well as our children thereby fostering
+of parents in the support group, as well as our children thereby fostering
 a positive and uplifting community culture within the school. By focusing
 on these vision, mission, and goals, the parent support group can create
 a meaningful and impactful space for parents to navigate the journey of
@@ -59,24 +59,23 @@ the school as well as to the students.</p>
 <p></p>
 <p><strong>Meet the executive committee members:</strong>
 </p>
-<p>Chairperson : Mdm Najma
-<br>Vice chairperson : Mdm Daphnie
+<p>Chairperson: Mdm Najma
+<br>Vice chairperson: Mdm Daphnie
 <br>Secretary: Mdm Carol
 <br>Treasurer: Mdm Hui Min</p>
 <p>Level Heads:</p>
 <p>Secondary 1: Mdm Dagi, Mdm Siti Hajar, Mdm Carol
-<br>Secondary 2 : Mdm Rohana, Mdm Hui Min
-<br>Secondary 3 : Mdm Kayo, Mdm Najma
-<br>Secondary 4/5 : Mdm Daphnie</p>
+<br>Secondary 2: Mdm Rohana, Mdm Hui Min
+<br>Secondary 3: Mdm Kayo, Mdm Najma
+<br>Secondary 4/5: Mdm Daphnie</p>
 <p></p>
 <p><strong>Past activities:</strong>
 </p>
-<p>Umbrella making – 9 March</p>
-<p>Fei Yue parenting workshop (March)</p>
-<p>Other activities will be updated soon.</p>
-<p>Upcoming activities: look out for the space below for more updates soon👍</p>
-<p>Annual cross-country run – 17 May</p>
-<p>Racial harmony day –</p>
-<p>Teachers’ day celebration – 5 Sep</p>
+<p>Honours Day - 7 March</p>
+<p>Umbrella Making – 9 March</p>
+<p>Fei Yue Parenting Workshop - March</p>
+<p>Racial Harmony Day – 21 July</p>
+<p>National Day - 8 Aug</p>
+<p>Teachers’ Day Celebration – 5 Sep</p>
 <p>GSS summit – 21 &amp; 23 Oct<strong>ly at the Annual Cross-Country</strong>
 </p>
