@@ -5,46 +5,78 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<p>The Parent Support Group is a vibrant community dedicated to fostering
-collaboration between parents and the school. We provide a platform for
-parents to share experiences, offer support, and engage in meaningful activities.
-Through regular meetings, workshops, and volunteer opportunities, we aim
-to strengthen the connection between home and school, ensuring our students
-receive the best possible support for their academic and personal growth.
-Join us in making a positive impact on our children's education and well-being.</p>
-<p>GSS sincerely thanks all parents for their unwavering support and active
-involvement. Your commitment and collaboration truly make a difference
-in the lives of our students."</p>
-<p></p>
-<h4><strong>Thank you to the GSS Parents Support Group for their wonderful gifts for Teachers Day.</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Miscellanous/Great/Teacher_s_Day_PSG_2_Slide_20.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Miscellanous/Great/Teacher_s_Day_PSG_1_Slide_20.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 PSG/psg_logo.png">
 </div>
+<p><strong>Representation of the logo:</strong>
+</p>
+<p>The two embraced hands represent the inter relation between the parents
+and the school. This in turn supports and nurtures our children, represented
+by the dark blue ‘flowers’, to grow intellectually as well as build a good
+character. The five ‘flowers’ represent the school values – RIDGE (respect,
+integrity, diligence, grit and empathy). This inter relationship between
+the parents, school and students form the basis of the school motto, Together
+Onward, as we strive to grow together with each other’s support.</p>
+<p><strong>Vision:</strong>
+</p>
+<p>To create a supportive community where parents can share experiences,
+resources, and encouragement, fostering a positive and empowering environment
+for our children’s growth.</p>
+<p><strong>Mission:</strong>
+</p>
+<p>To provide a safe and non-judgmental space for parents and children to
+connect, learn, and thrive together. We aim to offer valuable resources,
+expert insights, and emotional support, empowering parents to navigate
+the challenges of parenthood and schooling with confidence and resilience.</p>
+<p>To work together as a team with GSS as well as the students, supporting
+the school’s Motto: Together Onward, for all to excel individually and
+as a community.</p>
+<p><strong>Goals:</strong>
+</p>
+<p>1. Foster a sense of community: Cultivate strong connections among parents,
+school teachers and students by supporting the school’s effort in creating
+a conducive environment through fostering close relationships.</p>
+<p>2. Provide education and resources: Equip parents with knowledge and tools
+through workshops, seminars, and online resources to enhance their parenting
+skills which will bring a positive outcome for our children.</p>
+<p>3. Promote well-being: Prioritize the mental, emotional, and physical
+well-being of parents by offering support groups, wellness activities,
+and access to mental health resources in order to better manage and support
+our children in their challenges.</p>
+<p>4. To promote greater parental involvement in the school’s programmes.</p>
+<p>5. To coordinate, support, and network with other parents as well as school
+for the benefit of every child in school.</p>
+<p>6. To identify needs and develop programme ideas for the growth of our
+children.</p>
+<p>7. Celebrate achievements: Acknowledge and celebrate the success and milestones
+of parents in the support group,as well as our children thereby fostering
+a positive and uplifting community culture within the school. By focusing
+on these vision, mission, and goals, the parent support group can create
+a meaningful and impactful space for parents to navigate the journey of
+parenthood together. This will in turn bring about growth and success to
+the school as well as to the students.</p>
 <p></p>
-<h3><strong>Our GSS PSG Family at the Annual Cross-Country</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG2024/psg001.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG2024/psg002.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG2024/psg003.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG2024/psg004.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG2024/psg005.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG2024/psg006.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG2024/psg007.jpg">
-</div>
+<p><strong>Meet the executive committee members:</strong>
+</p>
+<p>Chairperson : Mdm Najma
+<br>Vice chairperson : Mdm Daphnie
+<br>Secretary: Mdm Carol
+<br>Treasurer: Mdm Hui Min</p>
+<p>Level Heads:</p>
+<p>Secondary 1: Mdm Dagi, Mdm Siti Hajar, Mdm Carol
+<br>Secondary 2 : Mdm Rohana, Mdm Hui Min
+<br>Secondary 3 : Mdm Kayo, Mdm Najma
+<br>Secondary 4/5 : Mdm Daphnie</p>
 <p></p>
+<p><strong>Past activities:</strong>
+</p>
+<p>Umbrella making – 9 March</p>
+<p>Fei Yue parenting workshop (March)</p>
+<p>Other activities will be updated soon.</p>
+<p>Upcoming activities: look out for the space below for more updates soon👍</p>
+<p>Annual cross-country run – 17 May</p>
+<p>Racial harmony day –</p>
+<p>Teachers’ day celebration – 5 Sep</p>
+<p>GSS summit – 21 &amp; 23 Oct<strong>ly at the Annual Cross-Country</strong>
+</p>
