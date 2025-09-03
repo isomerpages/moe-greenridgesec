@@ -1,5 +1,5 @@
 collections:
-  parents:
+  unused-parents:
     output: true
     order:
       - For Parents.md
