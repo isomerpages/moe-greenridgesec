@@ -38,7 +38,7 @@ variant: tiptap
 <p>29 Auguust 2025, 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operational Date: 15 Sept 2025</p>
+<p>15 Sept 2025</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
