@@ -69,8 +69,38 @@ the school as well as to the students.</p>
 <br>Secondary 3: Mdm Kayo, Mdm Najma
 <br>Secondary 4/5: Mdm Daphnie</p>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="01" src="/images/2025 PSG/05.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Racial</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="02" src="/images/2025 PSG/04.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Harmony</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="03" src="/images/2025 PSG/02.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Day</div>
+</div>
+</div>
+</div>
 <p><strong>Past (and upcoming) activities:</strong>
 </p>
 <p>Honours Day – 7 March
@@ -80,3 +110,37 @@ the school as well as to the students.</p>
 <br>National Day - 8 Aug
 <br>Teachers’ Day Celebration – 5 Sep
 <br>GSS Summit – 21-24 Oct</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="01" src="/images/2025 PSG/08.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">National</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="02" src="/images/2025 PSG/07.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Day</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="03" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Celebrations</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
