@@ -21,7 +21,7 @@ variant: tiptap
 <div class="isomer-card-title">GSS Newsletter Term 2</div>
 <div class="isomer-card-link">Click here to the newsletter.</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1GdyltrU-uWAExwruG5CGFS2_Y1mo2BrA/view?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Newsletter Term 3" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GSS Newsletter Term 3</div><div class="isomer-card-link">Click here to the newsletter.</div></div></a>
 </div>
 <p></p>
 <hr>
