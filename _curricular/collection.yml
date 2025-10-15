@@ -1,5 +1,5 @@
 collections:
-  curriculum:
+  curricular:
     output: true
     order:
       - English Language & Literature.md
