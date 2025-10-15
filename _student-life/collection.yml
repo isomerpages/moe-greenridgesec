@@ -2,22 +2,22 @@ collections:
   student-life:
     output: true
     order:
-      - Curricular/Curriculum.md
-      - Curricular/English Language & Literature.md
-      - Curricular/Mathematics, POA and EBS.md
-      - Curricular/Humanities.md
-      - Curricular/Mother Tongue.md
-      - Curricular/Science.md
-      - Curricular/Design & Technology.md
-      - Curricular/Aesthetics.md
-      - Curricular/Physical Education.md
-      - Curricular/Character and Citizenship Education.md
-      - Curricular/Infocomm Technology.md
-      - Curricular/.keep
-      - Curricular/.keep
-      - Curricular/Student Leadership.md
-      - Curricular/Co Curricular Activities (CCA).md
-      - Curricular/Uniformed Groups.md
-      - Curricular/Sports & Games.md
-      - Curricular/Performing Arts.md
-      - Curricular/Clubs & Societies.md
+      - Curriculum/Curriculum.md
+      - Curriculum/English Language & Literature.md
+      - Curriculum/Mathematics, POA and EBS.md
+      - Curriculum/Humanities.md
+      - Curriculum/Mother Tongue.md
+      - Curriculum/Science.md
+      - Curriculum/Design & Technology.md
+      - Curriculum/Aesthetics.md
+      - Curriculum/Physical Education.md
+      - Curriculum/Character and Citizenship Education.md
+      - Curriculum/Infocomm Technology.md
+      - Curriculum/.keep
+      - Curriculum/.keep
+      - Curriculum/Student Leadership.md
+      - Curriculum/Co Curricular Activities (CCA).md
+      - Curriculum/Uniformed Groups.md
+      - Curriculum/Sports & Games.md
+      - Curriculum/Performing Arts.md
+      - Curriculum/Clubs & Societies.md
