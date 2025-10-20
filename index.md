@@ -19,6 +19,14 @@ sections:
           url: /looking-great-2025/
       background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
   - infopic:
+      title: Happy Deepavali!
+      id: infopic
+      description: May this Festival of Lights bring joy, peace, and prosperity to
+        all. Wishing everyone a bright and meaningful Deepavali.
+      button: Button Text
+      image: /images/2024 Miscellanous/deepavali.gif
+      alt: Image alt text
+  - infopic:
       title: Direct School Admission (DSA)
       id: infopic
       image: /images/2025 DSA/dsawelcome2025_min.gif
