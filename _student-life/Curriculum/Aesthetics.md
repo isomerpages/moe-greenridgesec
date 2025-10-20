@@ -31,4 +31,3 @@ Music lessons provide students with authentic hands-on learning experiences and 
 ![](/images/AESTHETICS2023/img_0948.JPG)
 
 ![](/images/AESTHETICS2023/img_e3224.JPG)
-

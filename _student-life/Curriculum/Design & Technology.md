@@ -77,4 +77,3 @@ Mini Compost Bin by Suhairah and Visswajit
 - Spreading the love for D&T 
 ![](/images/Design&Techology2023/pix010.png)
 Our D&T students sharing their passion with parents and children during Open House 2022
-
