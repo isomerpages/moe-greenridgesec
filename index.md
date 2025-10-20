@@ -21,8 +21,8 @@ sections:
   - infopic:
       title: Happy Deepavali!
       id: infopic
-      description: May this Festival of Lights bring joy, peace, and prosperity to
-        all. Wishing everyone a bright and meaningful Deepavali.
+      description: GSS wishes everyone a very Happy Deepavali! May this Festival of
+        Lights bring joy, peace, and prosperity to all.
       button: Button Text
       image: /images/2024 Miscellanous/deepavali.gif
       alt: Image alt text
