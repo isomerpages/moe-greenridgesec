@@ -4,13 +4,6 @@ permalink: /champion-academy/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Champion Academy</strong></h3>
-<p>At Greenridge Secondary School, every student is a <strong>Champion</strong> —
-a confident learner, compassionate leader, and ethical innovator. Through
-our <em>Champion Academy</em>, students grow as individuals and as a community,
-discovering their strengths, leading with purpose, and championing good
-causes that make a difference.</p>
-<p></p>
 <h3><strong>Champion Houses</strong></h3>
 <p>Each Greenridgean belongs to one of our eight <strong>Champion Houses</strong> — <strong>Agatha</strong>, <strong>Beethoven</strong>, <strong>Confucius</strong>, <strong>Galileo</strong>, <strong>Leonardo</strong>, <strong>Nightingale</strong>, <strong>Teresa</strong>,
 and <strong>Zaha</strong> — each inspired by a historical figure who embodied
