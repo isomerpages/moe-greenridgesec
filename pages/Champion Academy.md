@@ -9,7 +9,7 @@ description: ""
 and <strong>Zaha</strong> — each inspired by a historical figure who embodied
 courage, creativity, and excellence.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VM37yJKoi8I?si=l7cCiWmlMxkJT4Rr"></iframe>
+<iframe height="600" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VM37yJKoi8I?si=l7cCiWmlMxkJT4Rr"></iframe>
 </div>
 <p>The Champion Houses nurture a sense of pride and belonging, where students
 forge friendships, celebrate teamwork, and grow through friendly competition.
