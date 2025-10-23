@@ -24,7 +24,7 @@ sections:
       description: GSS wishes everyone a very Happy Deepavali! May this Festival of
         Lights bring joy, peace, and prosperity to all.
       button: Button Text
-      image: /images/2024 Miscellanous/deepavali.gif
+      image: /images/Celebrations greetings/deepavali_gss.jpg
       alt: Image alt text
   - infopic:
       title: Direct School Admission (DSA)
