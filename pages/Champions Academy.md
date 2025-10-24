@@ -25,9 +25,15 @@ reflects your champion spirit!</p>
 <p></p>
 <hr>
 <h3><strong>Champion Leaders</strong></h3>
-<p>Leadership at Greenridge goes beyond titles — it’s about taking initiative,
+<p>Leadership at Greenridge goes beyond titles. It is about taking initiative,
 inspiring others, and making a positive impact.</p>
-<p>Through our <strong>Ministries</strong>, students step up to lead in.</p>
+<p>Through our Ministries in the Student Council, Greenridgeans step up to
+lead and champion change, improving the quality of student life in school
+and contributing to meaningful programmes beyond it.</p>
+<p>Our student leaders plan and execute projects and events that champion
+good causes for the school community and beyond. Through these authentic
+experiences, they learn to lead with empathy, teamwork, and purpose, making
+a lasting difference wherever they go.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Champions academy/ministries.png">
@@ -92,6 +98,6 @@ steps to champion change in society.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title"></div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image" src="/images/Champions academy/IMG_9172.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> </div><div class="isomer-card-description"> </div><div class="isomer-card-link"> </div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image" src="/images/Champions academy/IMG_9172.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description"></div><div class="isomer-card-link"></div></div></a>
 </div>
 <p></p>
