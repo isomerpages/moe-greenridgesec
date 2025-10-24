@@ -4,6 +4,13 @@ permalink: /champions-academy/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Champions Academy</strong></h3>
+<p></p>
+<p>The Champions Academy develops Greenridgeans into confident learners,
+compassionate leaders, and ethical innovators. Here, every student has
+the opportunity to explore their talents, work with others, and champion
+meaningful causes that make school life vibrant and purposeful.</p>
+<hr>
 <h3><strong>Champion Houses</strong></h3>
 <p>Each Greenridgean belongs to one of our eight <strong>Champion Houses</strong> — <strong>Agatha</strong>, <strong>Beethoven</strong>, <strong>Confucius</strong>, <strong>Galileo</strong>, <strong>Leonardo</strong>, <strong>Nightingale</strong>, <strong>Teresa</strong>,
 and <strong>Zaha</strong> — each inspired by a historical figure who embodied
