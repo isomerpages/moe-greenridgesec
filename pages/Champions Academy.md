@@ -6,6 +6,9 @@ description: ""
 ---
 <h3><strong>Champions Academy</strong></h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Champions academy/championsacademy.png">
+</div>
 <p>The Champions Academy develops Greenridgeans into confident learners,
 compassionate leaders, and ethical innovators. Here, every student has
 the opportunity to explore their talents, work with others, and champion
