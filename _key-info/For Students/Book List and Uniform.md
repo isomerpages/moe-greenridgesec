@@ -11,7 +11,7 @@ variant: tiptap
 School (31 Gangsa Road, Singapore 678972)</p>
 <h3>Book List 2025</h3>
 <p>Please click on your Class to view your booklists for 2025.
-<br><strong>Secondary One, Secondary Two and Secondary Five is the same booklist for all streams.</strong>
+<br><strong>Secondary One, Two, Three and Five students use the same booklist across all streams.</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -39,14 +39,8 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <td rowspan="1" colspan="1">
 <p>Secondary One</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p>to be confirmed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
