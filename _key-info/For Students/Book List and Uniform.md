@@ -357,6 +357,6 @@ be applied for orders exceeding SGD 180</p>
 </tr>
 </tbody>
 </table>
-<p>Dear parents and students, please refer to the <a href="/files/Book Lists 2025/2024_Year_End_Textbook_and_Uniform_Sale_30Oct24.pdf" rel="noopener nofollow" target="_blank">attached letter dated 30th October 2024 </a>;for
-details on the purchase of books and uniforms during the 2024 year-end
-school holidays.</p>
+<p>Dear parents and students, please refer to the attached <a href="/files/Booklists 2026/2026_Year_End_Textbook_and_Uniform_Sale.pdf" rel="noopener noreferrer nofollow" target="_blank">letter</a> dated
+27 October 2025. For details on the purchase of books and uniforms during
+the 2025 year-end school holidays.</p>
