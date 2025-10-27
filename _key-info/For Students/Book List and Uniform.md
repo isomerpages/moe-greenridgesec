@@ -251,7 +251,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="info@hktatkee.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@hktatkee.com.sg</a>
+<p><a href="myuniformshopasia@gmail.com" rel="noopener nofollow" target="_blank">myuniformshopasia@gmail.com</a>
 </p>
 </td>
 </tr>
@@ -275,7 +275,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Sales/Collection Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classroom G2-01</p>
+<p>Classroom G2-01 and G2-02</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ingenium Room D2-01/02</p>
