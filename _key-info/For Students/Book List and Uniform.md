@@ -251,7 +251,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="myuniformshopasia@gmail.com" rel="noopener nofollow" target="_blank">myuniformshopasia@gmail.com  </a>
+<p><a href="myuniformshopasia@gmail.com" rel="noopener nofollow" target="_blank">myuniformshopasia@gmail.com</a>
 </p>
 </td>
 </tr>
