@@ -6,7 +6,7 @@ third_nav_title: For Students
 variant: tiptap
 ---
 <h1><strong>Book List and Uniform</strong></h1>
-<h4>Information for 2025 Textbook and Uniform Sale in GSS</h4>
+<h4>Information for 2026 Textbook and Uniform Sale in GSS</h4>
 <p>All textbooks and uniform may be purchased on-site at Greenridge Secondary
 School (31 Gangsa Road, Singapore 678972)</p>
 <h3>Book List 2025</h3>
@@ -40,8 +40,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Secondary One</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S1.pdf" rel="noopener nofollow" target="_blank">Sec One (2025)</a>
-</p>
+<p>to be confirmed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -54,31 +53,17 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <td rowspan="1" colspan="1">
 <p>Secondary Two</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec Two (2025)</a>
+<td rowspan="1" colspan="3">
+<p><a href="/files/Booklists 2026/GRSS_Booklist_2026_S2.pdf" rel="noopener nofollow" target="_blank">Sec 2 (2026)</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Secondary Three</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S3NT.pdf" rel="noopener nofollow" target="_blank">3 NT (2025)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S3NA.pdf" rel="noopener nofollow" target="_blank">3 NA (2025)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S3E.pdf" rel="noopener nofollow" target="_blank">3 Exp (2025)</a>
+<td rowspan="1" colspan="3">
+<p><a href="/files/Booklists 2026/GRSS_Booklist_2026_S3.pdf" rel="noopener nofollow" target="_blank">Sec 3 (2026)</a>
 </p>
 </td>
 </tr>
@@ -87,15 +72,15 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Secondary Four</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S4NT.pdf" rel="noopener nofollow" target="_blank">4 NT (2025)</a>
+<p><a href="/files/Booklists 2026/GRSS_Booklist_2026_S4NT.pdf" rel="noopener nofollow" target="_blank">Sec 4NT (2026)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S4NA.pdf" rel="noopener noreferrer nofollow" target="_blank">4 NA (2025)</a>
+<p><a href="/files/Booklists 2026/GRSS_Booklist_2026_S4NA.pdf" rel="noopener nofollow" target="_blank">Sec 4NA (2026)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S4E.pdf" rel="noopener nofollow" target="_blank">4 Exp (2025)</a>
+<p><a href="/files/Booklists 2026/GRSS_Booklist_2026_S4E.pdf" rel="noopener nofollow" target="_blank">Sec 4EX (2026)</a>
 </p>
 </td>
 </tr>
@@ -103,15 +88,9 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <td rowspan="1" colspan="1">
 <p>Secondary Five</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S5NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 (2025)</a>
+<td rowspan="1" colspan="3">
+<p><a href="/files/Booklists 2026/GRSS_Booklist_2026_S5NA.pdf" rel="noopener nofollow" target="_blank">Sec 5NA (2026)</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
