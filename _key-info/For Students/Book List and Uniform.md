@@ -139,7 +139,9 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Date Of Sales</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 Nov 2024 to 18 Dec 2024</p>
+<p>10 Nov 2025 to 12 Dec 2025, 29 to 30 Dec 2025</p>
+<p><strong><em>(Sales of Sec 1 Textbooks will be announced later in December)</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +157,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Levels</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Secondary 1 to 5</p>
+<p>Secondary 2 to 5</p>
 </td>
 </tr>
 <tr>
@@ -225,7 +227,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Casco Educational Supply Pte Ltd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hong Kong Tat Kee Tailor</p>
+<p>My Uniform Shop (Asia) Pte Ltd</p>
 </td>
 </tr>
 <tr>
@@ -237,7 +239,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <br>Casco Office: 65474204 (9am to 5pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>62411933 (Shirley or Lian Thai)</p>
+<p>6276 6689 (Please call during operating hours only)</p>
 </td>
 </tr>
 <tr>
@@ -248,8 +250,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>98666192 (Miranda)</p>
-<p>[<em>from 13 Nov 2024 to 9 Jan 2025 only</em>]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -272,10 +273,12 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://cascoedusupply.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
 </p>
+<p>(last day of online sale: 14 Dec 2025 11.59pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://hongkongtatkee.com/" rel="noopener noreferrer nofollow" target="_blank">https://hongkongtatkee.com/</a>
+<p><a href="https://www.myuniformshop.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/</a>
 </p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -296,10 +299,13 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
 <li>
-<p>Collection in School will be ready within 3-5 working days</p>
+<p>Collection in School will be ready within 3-5 working days (Uniform does
+not have collection in school option for online order. Parents can proceed
+straight to the school for the purchase)</p>
 </li>
 <li>
 <p>Home delivery will take up to 2 weeks</p>
+<p></p>
 </li>
 </ul>
 </td>
@@ -312,7 +318,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Credit Card(Visa, Master), PayNow, GrabPay, ShopeePay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Credit or Debit Card</p>
+<p>PayNow</p>
 </td>
 </tr>
 <tr>
@@ -320,10 +326,11 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Home Delivery Charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$13.50</p>
+<p>$14.20 per address or self-collection at school bookshop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$12.00</p>
+<p>$6 per online order for orders below SGD 180. Additional charges will
+be applied for orders exceeding SGD 180</p>
 </td>
 </tr>
 <tr>
