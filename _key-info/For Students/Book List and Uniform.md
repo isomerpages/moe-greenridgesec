@@ -275,7 +275,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Sales/Collection Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classroom G2-01</p>
+<p>Classroom G2-01 and G2-02</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ingenium Room D2-01/02</p>
