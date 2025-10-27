@@ -6,12 +6,12 @@ third_nav_title: For Students
 variant: tiptap
 ---
 <h1><strong>Book List and Uniform</strong></h1>
-<h4>Information for 2025 Textbook and Uniform Sale in GSS</h4>
+<h4>Information for 2026 Textbook and Uniform Sale in GSS</h4>
 <p>All textbooks and uniform may be purchased on-site at Greenridge Secondary
 School (31 Gangsa Road, Singapore 678972)</p>
 <h3>Book List 2025</h3>
 <p>Please click on your Class to view your booklists for 2025.
-<br><strong>Secondary One, Secondary Two and Secondary Five is the same booklist for all streams.</strong>
+<br><strong>Secondary One, Two, Three and Five students use the same booklist across all streams.</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -39,46 +39,25 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <td rowspan="1" colspan="1">
 <p>Secondary One</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S1.pdf" rel="noopener nofollow" target="_blank">Sec One (2025)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p>to be confirmed</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Secondary Two</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec Two (2025)</a>
+<td rowspan="1" colspan="3">
+<p><a href="/files/Booklists 2026/GRSS_Booklist_2026_S2.pdf" rel="noopener nofollow" target="_blank">Sec 2 (2026)</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Secondary Three</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S3NT.pdf" rel="noopener nofollow" target="_blank">3 NT (2025)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S3NA.pdf" rel="noopener nofollow" target="_blank">3 NA (2025)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S3E.pdf" rel="noopener nofollow" target="_blank">3 Exp (2025)</a>
+<td rowspan="1" colspan="3">
+<p><a href="/files/Booklists 2026/GRSS_Booklist_2026_S3.pdf" rel="noopener nofollow" target="_blank">Sec 3 (2026)</a>
 </p>
 </td>
 </tr>
@@ -87,15 +66,15 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Secondary Four</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S4NT.pdf" rel="noopener nofollow" target="_blank">4 NT (2025)</a>
+<p><a href="/files/Booklists 2026/GRSS_Booklist_2026_S4NT.pdf" rel="noopener nofollow" target="_blank">Sec 4NT (2026)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S4NA.pdf" rel="noopener noreferrer nofollow" target="_blank">4 NA (2025)</a>
+<p><a href="/files/Booklists 2026/GRSS_Booklist_2026_S4NA.pdf" rel="noopener nofollow" target="_blank">Sec 4NA (2026)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S4E.pdf" rel="noopener nofollow" target="_blank">4 Exp (2025)</a>
+<p><a href="/files/Booklists 2026/GRSS_Booklist_2026_S4E.pdf" rel="noopener nofollow" target="_blank">Sec 4EX (2026)</a>
 </p>
 </td>
 </tr>
@@ -103,15 +82,9 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <td rowspan="1" colspan="1">
 <p>Secondary Five</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Book Lists 2025/GSS_Booklist_2025___S5NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 (2025)</a>
+<td rowspan="1" colspan="3">
+<p><a href="/files/Booklists 2026/GRSS_Booklist_2026_S5NA.pdf" rel="noopener nofollow" target="_blank">Sec 5NA (2026)</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -166,7 +139,9 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Date Of Sales</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 Nov 2024 to 18 Dec 2024</p>
+<p>10 Nov 2025 to 12 Dec 2025, 29 to 30 Dec 2025</p>
+<p><strong><em>(Sales of Sec 1 Textbooks will be announced later in December)</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -182,7 +157,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Levels</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Secondary 1 to 5</p>
+<p>Secondary 2 to 5</p>
 </td>
 </tr>
 <tr>
@@ -202,17 +177,6 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -252,7 +216,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Casco Educational Supply Pte Ltd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hong Kong Tat Kee Tailor</p>
+<p>My Uniform Shop (Asia) Pte Ltd</p>
 </td>
 </tr>
 <tr>
@@ -264,7 +228,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <br>Casco Office: 65474204 (9am to 5pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>62411933 (Shirley or Lian Thai)</p>
+<p>6276 6689 (Please call during operating hours only)</p>
 </td>
 </tr>
 <tr>
@@ -275,8 +239,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>98666192 (Miranda)</p>
-<p>[<em>from 13 Nov 2024 to 9 Jan 2025 only</em>]</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -299,10 +262,12 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://cascoedusupply.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
 </p>
+<p>(last day of online sale: 14 Dec 2025 11.59pm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://hongkongtatkee.com/" rel="noopener noreferrer nofollow" target="_blank">https://hongkongtatkee.com/</a>
+<p><a href="https://www.myuniformshop.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/</a>
 </p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -323,10 +288,13 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
 <li>
-<p>Collection in School will be ready within 3-5 working days</p>
+<p>Collection in School will be ready within 3-5 working days (Uniform does
+not have collection in school option for online order. Parents can proceed
+straight to the school for the purchase)</p>
 </li>
 <li>
 <p>Home delivery will take up to 2 weeks</p>
+<p></p>
 </li>
 </ul>
 </td>
@@ -339,7 +307,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Credit Card(Visa, Master), PayNow, GrabPay, ShopeePay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Credit or Debit Card</p>
+<p>PayNow</p>
 </td>
 </tr>
 <tr>
@@ -347,10 +315,11 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Home Delivery Charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$13.50</p>
+<p>$14.20 per address or self-collection at school bookshop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$12.00</p>
+<p>$6 per online order for orders below SGD 180. Additional charges will
+be applied for orders exceeding SGD 180</p>
 </td>
 </tr>
 <tr>
@@ -377,6 +346,6 @@ School (31 Gangsa Road, Singapore 678972)</p>
 </tr>
 </tbody>
 </table>
-<p>Dear parents and students, please refer to the <a href="/files/Book Lists 2025/2024_Year_End_Textbook_and_Uniform_Sale_30Oct24.pdf" rel="noopener nofollow" target="_blank">attached letter dated 30th October 2024 </a>;for
-details on the purchase of books and uniforms during the 2024 year-end
+<p>Dear parents and students, please refer to <a href="/files/Booklists 2026/2026_Year_End_Textbook_and_Uniform_Sale.pdf" rel="noopener nofollow" target="_blank">attached letter dated 27 October 2025. </a>.
+For details on the purchase of books and uniforms during the 2025 year-end
 school holidays.</p>
