@@ -19,14 +19,6 @@ sections:
           url: /looking-great-2025/
       background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
   - infopic:
-      title: Happy Deepavali!
-      id: infopic
-      description: GSS wishes everyone a very Happy Deepavali! May this Festival of
-        Lights bring joy, peace, and prosperity to all.
-      button: Button Text
-      image: /images/Celebrations greetings/deepavali_gss.jpg
-      alt: Image alt text
-  - infopic:
       title: Direct School Admission (DSA)
       id: infopic
       image: /images/2025 DSA/dsawelcome2025_min.gif
