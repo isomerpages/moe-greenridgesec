@@ -2,9 +2,9 @@ collections:
   student-life:
     output: true
     order:
-      - Curriculum/English and English Literature.md
-      - Curriculum/Curriculum.md
       - Curriculum/.keep
+      - Curriculum/Curriculum.md
+      - Curriculum/English and English Literature.md
       - CCA/CCA INTRO.md
       - CCA/NCDCC.md
       - CCA/GB.md
