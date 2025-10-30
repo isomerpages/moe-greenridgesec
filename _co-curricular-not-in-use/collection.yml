@@ -1,5 +1,5 @@
 collections:
-  co-curricular-activities:
+  co-curricular-not-in-use:
     output: true
     order:
       - Uniformed Groups/.keep
