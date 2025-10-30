@@ -2,6 +2,7 @@ collections:
   student-life:
     output: true
     order:
+      - CCA.md
       - Curriculum/Curriculum.md
       - Curriculum/English Language & Literature.md
       - Curriculum/Mathematics, POA and EBS.md
