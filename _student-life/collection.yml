@@ -3,24 +3,6 @@ collections:
     output: true
     order:
       - Test/.keep
-      - Curriculum/.keep
-      - Curriculum/Curriculum.md
-      - Curriculum/English Language & Literature.md
-      - Curriculum/Mathematics, POA and EBS.md
-      - Curriculum/Humanities.md
-      - Curriculum/Mother Tongue.md
-      - Curriculum/Science.md
-      - Curriculum/Design & Technology.md
-      - Curriculum/Aesthetics.md
-      - Curriculum/Physical Education.md
-      - Curriculum/Character and Citizenship Education.md
-      - Curriculum/Infocomm Technology.md
-      - Curriculum/Student Leadership.md
-      - Curriculum/Co Curricular Activities (CCA).md
-      - Curriculum/Uniformed Groups.md
-      - Curriculum/Sports & Games.md
-      - Curriculum/Performing Arts.md
-      - Curriculum/Clubs & Societies.md
       - CCA/.keep
       - CCA/NPCC.md
       - CCA/NCC.md
