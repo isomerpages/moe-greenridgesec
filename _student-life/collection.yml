@@ -2,7 +2,7 @@ collections:
   student-life:
     output: true
     order:
-      - Test/.keep
+      - Curriculum/.keep
       - CCA/.keep
       - CCA/NPCC.md
       - CCA/NCC.md
