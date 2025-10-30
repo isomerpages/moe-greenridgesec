@@ -1,5 +1,5 @@
 collections:
-  curriculum:
+  curriculum-not-in-use:
     output: true
     order:
       - English Language & Literature.md
