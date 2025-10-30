@@ -5,9 +5,9 @@ collections:
       - Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/English and English Literature.md
-      - CCA/Scouts.md
-      - CCA/NCDCC.md
-      - CCA/GB.md
       - CCA/.keep
-      - CCA/NPCC.md
+      - CCA/GB.md
       - CCA/NCC.md
+      - CCA/NCDCC.md
+      - CCA/NPCC.md
+      - CCA/Scouts.md
