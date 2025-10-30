@@ -2,7 +2,7 @@ collections:
   student-life:
     output: true
     order:
-      - CCA.md
+      - Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/English Language & Literature.md
       - Curriculum/Mathematics, POA and EBS.md
@@ -14,11 +14,10 @@ collections:
       - Curriculum/Physical Education.md
       - Curriculum/Character and Citizenship Education.md
       - Curriculum/Infocomm Technology.md
-      - Curriculum/.keep
-      - Curriculum/.keep
       - Curriculum/Student Leadership.md
       - Curriculum/Co Curricular Activities (CCA).md
       - Curriculum/Uniformed Groups.md
       - Curriculum/Sports & Games.md
       - Curriculum/Performing Arts.md
       - Curriculum/Clubs & Societies.md
+      - CCA.md
