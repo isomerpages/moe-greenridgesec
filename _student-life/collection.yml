@@ -5,12 +5,12 @@ collections:
       - Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/English and English Literature.md
-      - CCA/Drama.md
-      - CCA/Dance.md
-      - CCA/BAND.md
-      - CCA/Robotics.md
-      - CCA/INFOCOMM.md
       - CCA/.keep
+      - CCA/BAND.md
+      - CCA/Dance.md
+      - CCA/Drama.md
+      - CCA/INFOCOMM.md
+      - CCA/Robotics.md
       - CCA/GB.md
       - CCA/NCC.md
       - CCA/NCDCC.md
