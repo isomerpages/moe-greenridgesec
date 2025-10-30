@@ -2,7 +2,6 @@ collections:
   student-life:
     output: true
     order:
-      - CCA/.keep
       - Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/English Language & Literature.md
@@ -21,3 +20,4 @@ collections:
       - Curriculum/Sports & Games.md
       - Curriculum/Performing Arts.md
       - Curriculum/Clubs & Societies.md
+      - CCA/.keep
