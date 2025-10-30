@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Curriculum/.keep
+      - CCA/GB.md
       - CCA/.keep
       - CCA/NPCC.md
       - CCA/NCC.md
