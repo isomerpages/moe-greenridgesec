@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<p><strong>VOLLEYBALL</strong>&nbsp;</p>
-<p><strong>Our Beliefs&nbsp;&nbsp;</strong>&nbsp;</p>
+<h3><strong>VOLLEYBALL</strong>&nbsp;</h3>
+<h4><strong>Our Beliefs&nbsp;&nbsp;</strong>&nbsp;</h4>
 <p>In Greenridge Secondary School’s Volleyball team, we believe that:&nbsp;&nbsp;</p>
 <ul>
 <li>
@@ -40,7 +40,7 @@ a common goal.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <p><em>&nbsp;</em>
 </p>
-<p><strong>Quotes from Our Volleyball Girls&nbsp;&nbsp;&nbsp;</strong>&nbsp;</p>
+<h4><strong>Quotes from Our Volleyball Girls&nbsp;&nbsp;&nbsp;</strong>&nbsp;</h4>
 <p>“I really enjoyed my time in volleyball as it gave me many opportunities
 to grow as a person and become more confident. Though training can be tough,
 the memories that I have created are unforgettable. My passion for volleyball
