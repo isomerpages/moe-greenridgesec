@@ -33,7 +33,6 @@ community spirit and volunteerism through a range of activities.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOOTBALL2023 2026/football picture 3b.jpg">
 </div>
-<p></p>
 <p>Motivating each other</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOOTBALL2023 2026/Motivating_each_other.jpg">
