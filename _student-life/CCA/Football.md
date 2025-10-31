@@ -16,7 +16,7 @@ great teamwork, we establish mutual understanding and the determination
 to work as a team and support each other.&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>Programmes and Experiences</strong>&nbsp;</p>
+<h4><strong>Programmes and Experiences</strong>&nbsp;</h4>
 <p>Our programme aims to equip our members with the skills and knowledge
 necessary to pursue excellence in their future endeavours. We begin with
 the goal of achieving success in the annual National School Games. Our
@@ -42,7 +42,7 @@ community spirit and volunteerism through a range of activities.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOOTBALL2023 2026/VIA_assisting_in_prize_presentation.jpg">
 </div>
-<p><strong>Achievements and Accolades</strong>&nbsp;</p>
+<h4><strong>Achievements and Accolades</strong>&nbsp;</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
