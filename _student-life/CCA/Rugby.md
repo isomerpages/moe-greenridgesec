@@ -5,10 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<p>RUGBY&nbsp;</p>
+<h3>RUGBY&nbsp;</h3>
 <p>&nbsp;</p>
-<p><em>OUR BELIEFS&nbsp;</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RUGBY/rugby-1.jpeg">
+</div>
+<h4><em>OUR BELIEFS&nbsp;</em></h4>
 <p>In Greenridge Secondary School’s Rugby team, we believe that:&nbsp;</p>
 <ul>
 <li>
@@ -42,8 +44,19 @@ team’s unique character. Rugby has taught me self-discipline, adaptability,
 and perseverance. With the support from the teachers, coaches and the rest
 of the team, we strive to give our best for every game.”&nbsp;</p>
 <p>Muhamad Amran Bin Mazli, Sec 4 (2023)&nbsp;</p>
-<p><em>PHOTO HIGHLIGHTS&nbsp;<br>&nbsp;<br>&nbsp;</em>
-</p>
+<h4><em>PHOTO HIGHLIGHTS&nbsp;<br>&nbsp;</em></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RUGBY/rugby-2p.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RUGBY/rugby-3p.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RUGBY/rugby-4p.png">
+</div>
 <p><em>COMPETITIONS &amp; ACCOLADES&nbsp;</em>
 </p>
 <table style="minWidth: 75px">
