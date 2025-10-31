@@ -15,17 +15,16 @@ Educational, Character Development and Service. &nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB2026/My_favourite_part_of_GB_Day___this_group_.jpg">
 </div>
-<p></p>
-<p></p>
+<p>My favourite part of GB Day - this group!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB2026/GB_Awards_Ceremony___your_hard_work_have_truly_paid_off.jpg">
 </div>
-<p></p>
+<p>GB Awards Ceremony - your hard work have truly paid off</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB2026/Our_company_flag_proudly_leads_the_way_at_E_D_ceremony.jpg">
 </div>
-<p></p>
+<p>Our company flag proudly leads the way at E&amp;D ceremony</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB2026/Our_enthusiastic_Sec_2s_bringing_the_energy_to_Sec_1_CCA_tryouts.jpg">
 </div>
