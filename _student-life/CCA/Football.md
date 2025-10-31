@@ -5,8 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<p><strong>FOOTBALL</strong>&nbsp;</p>
-<p><strong>About the CCA</strong>&nbsp;</p>
+<h3><strong>FOOTBALL</strong>&nbsp;</h3>
+<h4><strong>About the CCA</strong>&nbsp;</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOOTBALL2023 2026/football picture 1.jpg">
+</div>
 <p>In the GSS Football Team, we emphasise commitment, resilience and discipline
 in everything we do. All players are interdependent on each other. To achieve
 great teamwork, we establish mutual understanding and the determination
@@ -22,8 +25,23 @@ building games that allow us to strengthen our awareness of each other’s
 abilities and enhance our communication skills. Working in partnership
 with our dedicated football coach, we also help our students develop their
 community spirit and volunteerism through a range of activities.&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>&nbsp;Warming up prior to the competitive match</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOOTBALL2023 2026/football picture 2.jpg">
+</div>
+<p>Our ‘B’ Division team posing for the cameras</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOOTBALL2023 2026/football picture 3b.jpg">
+</div>
+<p></p>
+<p>Motivating each other</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOOTBALL2023 2026/Motivating_each_other.jpg">
+</div>
+<p>&nbsp;VIA assiting in pize presentation</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOOTBALL2023 2026/VIA_assisting_in_prize_presentation.jpg">
+</div>
 <p><strong>Achievements and Accolades</strong>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
