@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<p><strong>National Cadet Corps – Land (NCC)</strong>&nbsp;</p>
-<p>&nbsp;</p>
+<h3><strong>National Cadet Corps – Land (NCC)</strong>&nbsp;</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC2026/NCC_1.jpg">
+</div>
 <p>The Greenridge National Cadet Corps (NCC) aims to nurture all-rounded
 leaders of exemplary character, high physical fitness and enduring mental
 strength. With a strong affiliation with the Singapore Armed Forces, NCC
@@ -15,7 +17,9 @@ activities, survival courses, overseas expeditions, water sports, as well
 as exclusive opportunities to handle advanced weapons such as the SAR-21
 assault rifle. Cadets who go through the Greenridge NCC programme emerge
 as mature, confident and compassionate leaders.&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC2026/NCC_2.jpg">
+</div>
 <p>CCA PROGRAMME FOR SKILLS, LEADERSHIP AND CHARACTER DEVELOPMENT&nbsp;</p>
 <p><strong>Year 1: Junior Cadets</strong>&nbsp;
 <br>Cadets are familiarised with the history of NCC and the Singapore Armed
@@ -151,11 +155,27 @@ annual Combined Uniformed Groups Camp held in March. After their tenure
 as leaders in NCC, Senior Cadet Leaders are also given the option to attend
 the Cadet Officer Course (COC), so they can continue to lead and serve
 NCC in the capacity of Cadet Officers (Cadet 2nd Lieutenant) after graduation.&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;
-<br>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC2026/NCC_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC2026/NCC_6.jpg">
+</div>
 <p><strong>Photo Highlights</strong>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC2026/Our_Battlecry___To_Serve_with_Pride_and_Dedication__2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC2026/All_cheers_and_joy_at_the_Passing_Out_Parade.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC2026/Strengthening_ties_of_brotherhood_through_cohesion.jpg">
+</div>
+<p>&nbsp;</p>
+<p></p>
 <p>&nbsp;
 <br>&nbsp;</p>
 <p><strong>Achievements and Accolades</strong>&nbsp;</p>
