@@ -28,8 +28,7 @@ Educational, Character Development and Service. &nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB2026/Our_enthusiastic_Sec_2s_bringing_the_energy_to_Sec_1_CCA_tryouts.jpg">
 </div>
-<p></p>
-<p></p>
+<p>Our enthusiastic Sec 2s bringing the energy to Sec 1 CCA tryouts</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB2026/Delivering_wishes_and_bringing_smiles_to_the_beneficiaries_of_the_GB_Friend_in_Deed_project.jpg">
 </div>
