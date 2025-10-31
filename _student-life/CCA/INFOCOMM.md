@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<p><strong>INFOCOMM TECHNOLOGY CLUB (MEDIA PRODUCTIONS)</strong>&nbsp;</p>
-<p><strong>About the CCA</strong>&nbsp;</p>
+<h3><strong>INFOCOMM TECHNOLOGY CLUB (MEDIA PRODUCTIONS)</strong>&nbsp;</h3>
+<h4><strong>About the CCA</strong>&nbsp;</h4>
 <p>The Infocomm Technology Club (Media Productions) is a vibrant CCA where
 creativity meets technology. The Club plays a key role in capturing the
 heartbeat of Greenridge Secondary School. Members are the behind-the-scenes
@@ -15,8 +15,8 @@ sound systems and spotlight controls, preparing microphones, and ensuring
 smooth audio-visual support for major events. From festive celebrations
 and sports carnivals to Racial Harmony Day and the National Day Parade,
 every snapshot and video helps preserve the school’s treasured memories.&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Programmes and Experiences</strong>&nbsp;</p>
+<h4>&nbsp;</h4>
+<h4><strong>Programmes and Experiences</strong>&nbsp;</h4>
 <p>Members sharpen their photography and videography skills through hands-on
 practice with DSLR cameras and mobile devices, guided by teachers, instructors,
 and experienced peers. They explore creative genres such as toy photography,
@@ -29,7 +29,7 @@ such as <em>Our Schools, Our Stories</em>, <em>Better Internet Video Challenge</
 helping them refine their craft while providing a platform for them to
 shine.&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>Achievements and Accolades</strong>&nbsp;</p>
+<h4><strong>Achievements and Accolades</strong>&nbsp;</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
