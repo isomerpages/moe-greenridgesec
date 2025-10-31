@@ -15,7 +15,25 @@ skills, including first aid, rescue techniques, and fire safety.&nbsp;</p>
 <p>As young ambassadors of Civil Defence, cadets are given meaningful opportunities
 to promote emergency preparedness and share their knowledge and skills
 with the wider community through various outreach initiatives.&nbsp;</p>
-<p>&nbsp;
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC2026/Commemorating_NCDCC_Day.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC2026/Handing_over_of_command_to_the_new_generation_of_leaders.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC2026/Teaching_junior_members_how_to_unroll_a_hose_reel.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC2026/Learning_to_use_a_fire_hose_at_Chung_Cheng_High_School_publicity_event.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC2026/Participating_in_a_mass_physical_training_session.jpg">
+</div>
+<p>
 <br>&nbsp;
 <br>&nbsp;</p>
 <p><strong>Achievements and Accolades</strong>&nbsp;</p>
