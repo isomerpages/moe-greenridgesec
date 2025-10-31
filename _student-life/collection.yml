@@ -2,6 +2,7 @@ collections:
   student-life:
     output: true
     order:
+      - Curriculum/Science.md
       - Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/English and English Literature.md
