@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<p>The Girls’ Brigade (38th Company)&nbsp;</p>
+<h3>The Girls’ Brigade (38th Company)&nbsp;</h3>
 <p>The Girls’ Brigade aims to develop each Girl and Officer to her fullest
 potential by Equipping, Empowering and Enabling every Girl to be a leader,
 and every Officer a servant leader. Our badgework programme enables students
@@ -40,7 +40,7 @@ in Deed project</p>
 <p>Congratulations to our incredible National Drill Competition Gold Award
 winners!</p>
 <p></p>
-<p><strong>Achievements and Accolades</strong>&nbsp;</p>
+<h4><strong>Achievements and Accolades</strong>&nbsp;</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
