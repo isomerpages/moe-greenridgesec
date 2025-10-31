@@ -5,13 +5,17 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<p>Modern Dance<strong>&nbsp;</strong>&nbsp;</p>
-<p>OUR BELIEFS&nbsp;</p>
+<h3>Modern Dance<strong>&nbsp;</strong>&nbsp;</h3>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance2026/modern_dance_pic_1.jpg">
+</div>
+<h4>OUR BELIEFS&nbsp;</h4>
 <p>In the GSS Modern Dance, we aim to develop confident dancers with strong
 appreciation for dance, beyond its aesthetic value. This is done through
 inculcating values such as tenacity and resilience as the dancers work
 together towards attaining excellence in their performance.&nbsp;</p>
-<p>QUOTE(S) FROM OUR DANCERS&nbsp;</p>
+<h4>QUOTE(S) FROM OUR DANCERS&nbsp;</h4>
 <p>“Joining Modern Dance has given me many opportunities to express myself
 and have fun as dancing has been a big part of my life. Not only am I having
 fun but I have also learned many things. I have learned how to persevere
@@ -25,14 +29,30 @@ and dance sessions which helps build their strength and flexibility. Dancers
 also build camaraderie through team building games and overcoming challenges
 they faced as a team. They are also given opportunities to showcase their
 talents in school and in public through competitions.&nbsp;&nbsp;</p>
-<p>PHOTO HIGHLIGHTS&nbsp;</p>
+<h4>PHOTO HIGHLIGHTS&nbsp;</h4>
 <p>Performance during SYF 2023&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance2026/modern_dance_pic_2_.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance2026/modern_dance_pic_5.jpg">
+</div>
 <p>Prep talk by the instructor before the SYF performance 2023&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance2026/modern_dance_pic_3_.jpg">
+</div>
 <p>Team-building games&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance2026/modern_dance_pic_4_.jpg">
+</div>
 <p>Dance Practice during WSB SG Dance Competition 2023&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;
-<br><strong>Achievements and Accolades</strong>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance2026/modern_dance_pic_6.jpg">
+</div>
+<h4>&nbsp; <br><strong>Achievements and Accolades</strong>&nbsp;</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
