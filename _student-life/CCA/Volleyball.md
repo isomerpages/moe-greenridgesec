@@ -80,11 +80,6 @@ had a lot of fun. &nbsp;
 </div>
 <p></p>
 <p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Volleyball2023/volleyball_5.jpeg">
-</div>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <h4><strong>Achievements and Accolades</strong>&nbsp;</h4>
 <table style="minWidth: 75px">
 <colgroup>
