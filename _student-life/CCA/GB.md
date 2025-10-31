@@ -32,7 +32,8 @@ Educational, Character Development and Service. &nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB2026/Delivering_wishes_and_bringing_smiles_to_the_beneficiaries_of_the_GB_Friend_in_Deed_project.jpg">
 </div>
-<p></p>
+<p>Delivering wishes and bringing smiles to the beneficiaries of the GB Friend
+in Deed project</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB2026/Congratulations_to_our_incredible_National_Drill_Competition_Gold_Award_winners_.jpg">
 </div>
