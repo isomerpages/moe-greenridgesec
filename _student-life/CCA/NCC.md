@@ -175,7 +175,13 @@ NCC in the capacity of Cadet Officers (Cadet 2nd Lieutenant) after graduation.&n
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC2026/Strengthening_ties_of_brotherhood_through_cohesion.jpg">
 </div>
 <p>&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC2026/Handing_over_the_baton_of_leadership__2_.jpg">
+</div>
+<p>Handing over the baton of leadership (2)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC2026/Presenting_arms_as_part_of_the_Guard_of_Honour_contingent.jpg">
+</div>
 <p>&nbsp;
 <br>&nbsp;</p>
 <p><strong>Achievements and Accolades</strong>&nbsp;</p>
