@@ -38,8 +38,14 @@ we strive unwaveringly to present our very best.” <strong>- Jodie Tan Sec 4 
 </div>
 <p>&nbsp;</p>
 <p>● Confident Thespian&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama2026/drama_pic_5.jpg">
+</div>
 <p>&nbsp;</p>
 <p>● Values in Action Performance&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama2026/drama_pic_6.jpg">
+</div>
 <p><strong>Achievements and Accolades</strong>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
