@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<p><strong>National Civil Defence Cadet Corps&nbsp;</strong>&nbsp;</p>
+<h3><strong>National Civil Defence Cadet Corps&nbsp;</strong>&nbsp;</h3>
 <p>The National Civil Defence Cadet Corps (NCDCC) is a National Uniformed
 Group under the Ministry of Education and the Ministry of Home Affairs,
 working closely with the Singapore Civil Defence Force (SCDF). NCDCC is
@@ -36,7 +36,7 @@ with the wider community through various outreach initiatives.&nbsp;</p>
 <p>
 <br>&nbsp;
 <br>&nbsp;</p>
-<p><strong>Achievements and Accolades</strong>&nbsp;</p>
+<h4><strong>Achievements and Accolades</strong>&nbsp;</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
