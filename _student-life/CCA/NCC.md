@@ -170,7 +170,7 @@ NCC in the capacity of Cadet Officers (Cadet 2nd Lieutenant) after graduation.&n
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC2026/All_cheers_and_joy_at_the_Passing_Out_Parade.jpg">
 </div>
-<p></p>
+<p>All cheers and joy at the Passing Out Parade</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC2026/Strengthening_ties_of_brotherhood_through_cohesion.jpg">
 </div>
