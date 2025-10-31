@@ -2,6 +2,7 @@ collections:
   student-life:
     output: true
     order:
+      - Curriculum/Aesthetics.md
       - Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/Character and Citizenship Education.md
