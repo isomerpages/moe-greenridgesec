@@ -24,7 +24,6 @@ which spark creativity and deepen empathy. They also reimagine their Literature
 texts in innovative ways, for example, by <strong>producing an original book trailer</strong> for
 Don’t Know, Don’t Care as part of the National Schools’ Literature Festival.
 These experiences allow our Greenridge Champions to <strong>step into different worlds, experiment with storytelling forms, and imagine new ways of expressing human experiences</strong>.&nbsp;</p>
-<p></p>
 <p><strong>Discover</strong>&nbsp;</p>
 <p>Through the <strong>Extensive Reading Programme</strong> and exposure to
 a wide range of texts and media, our Greenridge Champions encounter diverse
@@ -32,11 +31,7 @@ ideas, themes, and viewpoints that broaden their understanding of the world.
 They also <strong>learn beyond the classroom, attending theatre productions of their Literature texts, engaging in post-show discussions with directors and actors</strong>,
 and experiencing how the written word comes alive on stage. These authentic
 encounters deepen their appreciation of language, culture, and human experience.&nbsp;</p>
-<p><strong>Express</strong>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;
+<p><strong>Express</strong>&nbsp;
 <br>Our Greenridge Champions build confidence through <strong>class debates, public speaking platforms, persuasive writing tasks, and oracy-focused programmes</strong>.
 The <strong>Applied Learning Programme (ALP) in English Language</strong> further
 develops persuasive communication and presentation skills, preparing them
@@ -50,8 +45,6 @@ themselves with clarity and conviction.&nbsp;</p>
 <p><strong>Accomplish</strong>&nbsp;
 <br>Our Greenridge Champions have brought pride to GSS through their accomplishments
 at national level.&nbsp;</p>
-<p>INCLUDE PICTURES OF RECENT WINS&nbsp;</p>
-<p>&nbsp;</p>
 <ul>
 <li>
 <p>At the <strong>Singapore Secondary Schools Debating Championships</strong>,
