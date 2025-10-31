@@ -2,7 +2,6 @@ collections:
   student-life:
     output: true
     order:
-      - Curriculum/Physical Education.md
       - Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/English and English Literature.md
@@ -10,6 +9,7 @@ collections:
       - Curriculum/Science.md
       - Curriculum/Mathematics.md
       - Curriculum/Mother Tongue Languages.md
+      - Curriculum/Physical Education.md
       - CCA/Football.md
       - CCA/Netball.md
       - CCA/Rugby.md
