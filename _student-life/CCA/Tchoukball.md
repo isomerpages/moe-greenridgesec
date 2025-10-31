@@ -37,7 +37,6 @@ who play with heart and purpose.&nbsp;&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tchoukball/DSCF2551b.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tchoukball/DSCF2572b.jpg">
 </div>
