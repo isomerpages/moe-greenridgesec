@@ -2,13 +2,13 @@ collections:
   student-life:
     output: true
     order:
-      - Curriculum/Mother Tongue Languages.md
       - Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/English and English Literature.md
       - Curriculum/Humanities.md
       - Curriculum/Science.md
       - Curriculum/Mathematics.md
+      - Curriculum/Mother Tongue Languages.md
       - CCA/Football.md
       - CCA/Netball.md
       - CCA/Rugby.md
