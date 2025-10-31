@@ -182,7 +182,7 @@ NCC in the capacity of Cadet Officers (Cadet 2nd Lieutenant) after graduation.&n
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC2026/Presenting_arms_as_part_of_the_Guard_of_Honour_contingent.jpg">
 </div>
-<p>&nbsp;
+<p>&nbsp; Presenting arms as part of the Guard of Honour contingent
 <br>&nbsp;</p>
 <p><strong>Achievements and Accolades</strong>&nbsp;</p>
 <table style="minWidth: 50px">
