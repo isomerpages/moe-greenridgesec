@@ -5,8 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<p>Concert Band&nbsp;</p>
+<h3>Concert Band&nbsp;</h3>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band2026/band_01b.jpg">
+</div>
 <p>Greenridge Concert Band cultivates passion and love for music through
 the exploration of diverse musical influences and a wide repertoire of
 music. Although newly merged, under the baton of its instructor Mr Darence
@@ -29,11 +32,35 @@ the highest of achievements.”&nbsp;
 <br><strong>- Muhammad ‘Aryq Bin Mas Hendra Sham, Drum Major, 2022-2023</strong>&nbsp;</p>
 <p>PHOTO HIGHLIGHTS&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band2026/Every_note_played_with_focus_and_heart.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band2026/French_Horn_sectionals_in_progress.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band2026/More_than_music___a_harmony_of_teamwork_and_talent.jpg">
+</div>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band2026/band_02b.jpg">
+</div>
 <p>● Band Fiesta 2023&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band2026/band_03.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band2026/band_04.jpg">
+</div>
 <p>● United States Air Force (USAF) Band of the Pacific Asia Masterclass&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band2026/band_05.jpg">
+</div>
 <p>● Singapore Youth Festival Arts Presentation 2023&nbsp;</p>
 <p><em>&nbsp;</em>
 </p>
