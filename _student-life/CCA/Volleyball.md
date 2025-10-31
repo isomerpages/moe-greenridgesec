@@ -6,6 +6,10 @@ description: ""
 third_nav_title: CCA
 ---
 <h3><strong>VOLLEYBALL</strong>&nbsp;</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Volleyball2023/volleyball_1.jpeg">
+</div>
 <h4><strong>Our Beliefs&nbsp;&nbsp;</strong>&nbsp;</h4>
 <p>In Greenridge Secondary School’s Volleyball team, we believe that:&nbsp;&nbsp;</p>
 <ul>
@@ -37,16 +41,15 @@ and unity, creating a harmonious environment where everyone works towards
 a common goal.&nbsp;&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><em>&nbsp;</em>
-</p>
+<p></p>
 <h4><strong>Quotes from Our Volleyball Girls&nbsp;&nbsp;&nbsp;</strong>&nbsp;</h4>
 <p>“I really enjoyed my time in volleyball as it gave me many opportunities
 to grow as a person and become more confident. Though training can be tough,
 the memories that I have created are unforgettable. My passion for volleyball
 grew stronger after joining the CCA.”&nbsp;
 <br>&nbsp;</p>
-<p>Trilia Wong (Captain)&nbsp;</p>
+<p><em>Trilia Wong (Captain)&nbsp;</em>
+</p>
 <p>&nbsp;</p>
 <p>The school volleyball team is where my passion for the sport started to
 bloom. Even though the training is tough, the experience is exceptional.
@@ -57,13 +60,29 @@ Helping everyone in the team and making sure that no one is left out are
 lessons I will not forget. All in all, I enjoyed my time during CCA and
 had a lot of fun. &nbsp;
 <br>&nbsp;</p>
-<p>Ngoi Wan Qing (Vice-Captain) &nbsp;
+<p><em>Ngoi Wan Qing (Vice-Captain) </em>&nbsp;
 <br>&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VOLLEYBALL2023/volleyball_5.jpeg">
+</div>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VOLLEYBALL2023/volleyball_4.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Volleyball2023/volleyball_2.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Volleyball2023/volleyball_3.jpeg">
+</div>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Volleyball2023/volleyball_5.jpeg">
+</div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Achievements and Accolades</strong>&nbsp;</p>
+<h4><strong>Achievements and Accolades</strong>&nbsp;</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
