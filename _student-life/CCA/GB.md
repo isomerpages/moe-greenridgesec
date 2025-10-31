@@ -37,7 +37,8 @@ in Deed project</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB2026/Congratulations_to_our_incredible_National_Drill_Competition_Gold_Award_winners_.jpg">
 </div>
-<p></p>
+<p>Congratulations to our incredible National Drill Competition Gold Award
+winners!</p>
 <p></p>
 <p><strong>Achievements and Accolades</strong>&nbsp;</p>
 <table style="minWidth: 50px">
