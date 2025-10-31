@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<p><strong>National Police Cadet Corps (NPCC)</strong>&nbsp;</p>
+<h3><strong>National Police Cadet Corps (NPCC)</strong>&nbsp;</h3>
 <p>The National Police Cadet Corps (NPCC) is one of the longest standing
 uniformed organisations offered to youths in Secondary Schools in Singapore.
 The organisation is supported by both the Ministry of Education and the
@@ -21,8 +21,7 @@ police knowledge related courses, and marksmanship training. Through these
 activities, cadets can strengthen their self-discipline and teamwork, gaining
 insight of the operations of work in the Singapore Police Force and also
 adopt some crime prevention strategies to prevent and detect crimes.&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Journey of Personal and Leadership Development in Youths at GSS NPCC</strong>&nbsp;</p>
+<h4><strong>Journey of Personal and Leadership Development in Youths at GSS NPCC</strong>&nbsp;</h4>
 <p>At <strong>Secondary 1</strong>, cadets are familiarised with the history
 of NPCC and the Singapore Police Force (SPF) through the visitation to
 the Police Heritage Center. They are also exposed to trainings that develop
@@ -30,6 +29,9 @@ their basic campcraft and foot drill skills. Cadets will also take part
 in the Area Swearing-in and Area Games Day to reaffirm their acceptance
 into NPCC and have the opportunity to meet like-minded peers from other
 schools&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC2026/NPCC_1.jpg">
+</div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>At <strong>Secondary 2,</strong> cadets get their first opportunity to
@@ -42,7 +44,9 @@ the Community Safety &amp; Security Programme(CSSP), which aims to get
 cadets to be socially conscious, to assist in enforcing those values and
 beliefs through actions and take ownership of educating the school community
 on safety and security.&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC2026/NPCC_2.jpg">
+</div>
 <p>&nbsp;</p>
 <p>At <strong>Secondary 3</strong>, Cadets are given opportunities to develop
 their leadership and mentoring skills as they will be taking over the role
@@ -55,19 +59,34 @@ Cadets will also participate in the Police Youth Ambassador Programme,
 which helps them understand the importance of taking ownership in enhancing
 the safety and security of the community beyond the school. This fosters
 social consciousness and a commitment to serving the common good.&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC2026/npcc_3.jpg">
+</div>
 <p>At <strong>Secondary 4 or 5</strong>, cadets continue to sharpen their
 leadership and mentoring skills through the planning of trainings and unit
 camp(s) for the unit, together with the teacher officers and cadet inspectors.
 They will also readily hand over the unit leadership responsibilities to
 their Secondary 3 juniors when they step down for National Examinations.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC2026/npcc_4.jpg">
+</div>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC2026/npcc_5.jpg">
+</div>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Photo Highlights&nbsp;
-<br>&nbsp;</p>
-<p>&nbsp;
-<br>&nbsp;</p>
+<h4>Photo Highlights&nbsp; </h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC2026/Last_Parade_for_Graduating_NPCC_Cadets.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC2026/SPF_NPCC_Badge_Presentation_Ceremony.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC2026/NPCC_Annual_Parade_to_receive_Distinction_Award__1_.jpg">
+</div>
 <p>&nbsp;</p>
 <p><strong>Achievements and Accolades</strong>&nbsp;</p>
 <table style="minWidth: 50px">
