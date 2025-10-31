@@ -5,14 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Curriculum
 ---
-<h1><strong>The English Language and Literature</strong>&nbsp;</h1>
+<h1><strong>English Language and Literature</strong>&nbsp;</h1>
 <h4><strong>Our Belief: Cultivating Champions of Voice and Imagination</strong>&nbsp;</h4>
 <p>The English Language and Literature Department at Greenridge Secondary
 School nurtures our Greenridge Champions to be <strong>empathetic and confident communicators,</strong>  <strong>discerning and critical readers</strong>,
 and <strong>creative inquirers</strong>. Through language and literature,
 they <strong>grow into global thinkers who appreciate diverse perspectives and express themselves with clarity and conviction</strong>.&nbsp;</p>
 <p></p>
-<h4><strong>English and Literature through IDEAS</strong>&nbsp;</h4>
+<h4><strong>English Language and Literature through IDEAS</strong>&nbsp;</h4>
 <p><strong>Imagine</strong>&nbsp;</p>
 <p><a href="https://www.youtube.com/watch?v=BFIazst9rjc" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=BFIazst9rjc</u></a>&nbsp;&nbsp;</p>
 <div class="iframe-wrapper">
