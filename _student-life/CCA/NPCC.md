@@ -75,7 +75,7 @@ their Secondary 3 juniors when they step down for National Examinations.&nbsp;</
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC2026/npcc_5.jpg">
 </div>
 <p>&nbsp;</p>
-<h4>Photo Highlights&nbsp; </h4>
+<h4>Photo Highlights&nbsp;</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC2026/Last_Parade_for_Graduating_NPCC_Cadets.jpg">
 </div>
@@ -88,7 +88,7 @@ their Secondary 3 juniors when they step down for National Examinations.&nbsp;</
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC2026/NPCC_Annual_Parade_to_receive_Distinction_Award__1_.jpg">
 </div>
 <p>&nbsp;</p>
-<p><strong>Achievements and Accolades</strong>&nbsp;</p>
+<h4><strong>Achievements and Accolades</strong>&nbsp;</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
