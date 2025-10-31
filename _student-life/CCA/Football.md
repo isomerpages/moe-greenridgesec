@@ -14,8 +14,6 @@ third_nav_title: CCA
 in everything we do. All players are interdependent on each other. To achieve
 great teamwork, we establish mutual understanding and the determination
 to work as a team and support each other.&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <h4><strong>Programmes and Experiences</strong>&nbsp;</h4>
 <p>Our programme aims to equip our members with the skills and knowledge
 necessary to pursue excellence in their future endeavours. We begin with
