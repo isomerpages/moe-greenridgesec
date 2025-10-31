@@ -116,7 +116,7 @@ community spirit and volunteerism through a range of activities.&nbsp;</p>
 <p>&nbsp;</p>
 <p>Watch a fantastic goal scored from the free kick by one of our talented
 ‘C’ Division players!&nbsp;</p>
-<p>-keep original video-&nbsp;</p>
+<p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
