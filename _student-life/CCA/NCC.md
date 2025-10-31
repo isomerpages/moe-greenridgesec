@@ -20,7 +20,7 @@ as mature, confident and compassionate leaders.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC2026/NCC_2.jpg">
 </div>
-<p>CCA PROGRAMME FOR SKILLS, LEADERSHIP AND CHARACTER DEVELOPMENT&nbsp;</p>
+<h4>CCA PROGRAMME FOR SKILLS, LEADERSHIP AND CHARACTER DEVELOPMENT&nbsp;</h4>
 <p><strong>Year 1: Junior Cadets</strong>&nbsp;
 <br>Cadets are familiarised with the history of NCC and the Singapore Armed
 Forces (SAF). They are also exposed to programmes to develop their campcraft
@@ -184,7 +184,7 @@ NCC in the capacity of Cadet Officers (Cadet 2nd Lieutenant) after graduation.&n
 </div>
 <p>&nbsp; Presenting arms as part of the Guard of Honour contingent
 <br>&nbsp;</p>
-<p><strong>Achievements and Accolades</strong>&nbsp;</p>
+<h4><strong>Achievements and Accolades</strong>&nbsp;</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
