@@ -10,7 +10,7 @@ third_nav_title: CCA
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tchoukball/Our_pride___1st_Runner_Up_in_the_3rd_ActiveSG_Tchoukball_Inter_Schools_Tournament__C_Div_Girls__2025.jpg">
 </div>
-<p><strong>About the CCA&nbsp;&nbsp;</strong>&nbsp;</p>
+<h4><strong>About the CCA&nbsp;&nbsp;</strong>&nbsp;</h4>
 <p>The Greenridge Tchoukball (pronounced chook-ball) team is a testament
 to grit, passion, and perseverance. What began in 2014 as a humble interest
 group founded by a small group of enthusiastic players has since grown
@@ -19,7 +19,7 @@ has achieved multiple accolades and built a strong reputation within the
 school and beyond.&nbsp;</p>
 <p><em>&nbsp;</em>
 </p>
-<p><strong>Our Goal</strong>&nbsp;</p>
+<h4><strong>Our Goal</strong>&nbsp;</h4>
 <p>At Greenridge Tchoukball, we are committed to nurturing every player in
 alignment with our school values — Respect, Integrity, Diligence, Grit,
 and Empathy. We strive to develop self-directed learners and disciplined
@@ -53,7 +53,7 @@ who play with heart and purpose.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tchoukball/Interval_for_reinstating_final_battle_plan.jpg">
 </div>
-<p><strong>Achievements and Accolades</strong>&nbsp;</p>
+<h4><strong>Achievements and Accolades</strong>&nbsp;</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
