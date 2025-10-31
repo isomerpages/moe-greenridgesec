@@ -50,6 +50,13 @@ spatial awareness, and precision.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics2026/Confident_Learners_take_the_lead___sharing_workshop_expectations_with_clarity_and_care__1_.jpg">
 </div>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ROBOTICS2023/robotics4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ROBOTICS2023/robotics3.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
