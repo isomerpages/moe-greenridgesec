@@ -2,12 +2,12 @@ collections:
   student-life:
     output: true
     order:
-      - Curriculum/Mathematics.md
       - Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/English and English Literature.md
       - Curriculum/Humanities.md
       - Curriculum/Science.md
+      - Curriculum/Mathematics.md
       - CCA/Football.md
       - CCA/Netball.md
       - CCA/Rugby.md
