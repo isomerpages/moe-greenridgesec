@@ -5,14 +5,17 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<p><strong>Robotics</strong>&nbsp;</p>
-<p><strong>About the CCA</strong>&nbsp;</p>
+<h3><strong>Robotics</strong>&nbsp;</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics2026/photo_2025_10_26_21_43_49.jpg">
+</div>
+<h4><strong>About the CCA</strong>&nbsp;</h4>
 <p>At Greenridge Secondary School, our Robotics CCA offers students an exciting
 and hands-on opportunity to explore the world of technology and innovation.
 Through engaging national competitions and a progressive learning journey,
 our students develop essential 21st-century skills such as critical thinking,
 creativity, and collaboration.&nbsp;</p>
-<p><strong>Achievements and Accolades</strong>&nbsp;</p>
+<h4><strong>Achievements and Accolades</strong>&nbsp;</h4>
 <p>Our CCA actively participates in two major national-level competitions:&nbsp;</p>
 <ul>
 <li>
@@ -29,7 +32,25 @@ students to <em>drone technology</em>, where they learn to pilot and programme
 drones to complete a series of challenges. It encourages problem-solving,
 spatial awareness, and precision.&nbsp;</p>
 </li>
+<li>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics2026/Top_8_in_the_National_Robotics_Competition__Our_students_showed_not_just_skill__but_resilience_and_respect_under_pressure__1_.jpg">
+</div>
+</li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics2026/Greenridge_Champions_ready_to_make_their_mark_at_the_National_Robotics_Competition__Fueled_by_grit__diligence__and_the_spirit_of_innovation_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics2026/Grit_is_in_the_details___every_Stick_Em__every_level__every_measurement_counts_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics2026/Confident_Learners_take_the_lead___sharing_workshop_expectations_with_clarity_and_care__1_.jpg">
+</div>
 <p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
