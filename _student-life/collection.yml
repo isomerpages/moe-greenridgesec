@@ -2,6 +2,7 @@ collections:
   student-life:
     output: true
     order:
+      - Curriculum/Character and Citizenship Education.md
       - Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/English and English Literature.md
