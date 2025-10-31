@@ -6,7 +6,7 @@ description: ""
 third_nav_title: CCA
 ---
 <p><strong>TCHOUKBALL</strong>&nbsp;</p>
-<p><strong>Aout the CCA&nbsp;&nbsp;</strong>&nbsp;</p>
+<p><strong>About the CCA&nbsp;&nbsp;</strong>&nbsp;</p>
 <p>The Greenridge Tchoukball (pronounced chook-ball) team is a testament
 to grit, passion, and perseverance. What began in 2014 as a humble interest
 group founded by a small group of enthusiastic players has since grown
