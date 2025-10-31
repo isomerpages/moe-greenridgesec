@@ -31,7 +31,16 @@ Teachers also provide guidance as students take part in national competitions
 such as <em>Our Schools, Our Stories</em>, <em>Better Internet Video Challenge</em> and <em>National Cyber Wellness Challenge</em>,
 helping them refine their craft while providing a platform for them to
 shine.&nbsp;</p>
-<p>&nbsp;</p>
+<h4><strong>Leadership and Character Development</strong>&nbsp;</h4>
+<p>Beyond technical mastery, the Club nurtures teamwork, leadership, and
+resilience. Members support daily school operations by troubleshooting
+equipment and coordinating live event coverage, developing problem-solving
+skills and a strong sense of responsibility. Team-bonding activities, including
+friendly sports and collaborative projects, strengthen ties across levels,
+ensuring that every production team works seamlessly together.&nbsp;</p>
+<p>Through every click, cue, and composition, the Infocomm Club empowers
+students to capture memories, tell stories, and bring Greenridge events
+to life—one frame at a time.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm2026/Through_lenses__we_turn_fleeting_moments_into_lasting_memories.jpg">
 </div>
@@ -101,14 +110,5 @@ shine.&nbsp;</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong>Leadership and Character Development</strong>&nbsp;</p>
-<p>Beyond technical mastery, the Club nurtures teamwork, leadership, and
-resilience. Members support daily school operations by troubleshooting
-equipment and coordinating live event coverage, developing problem-solving
-skills and a strong sense of responsibility. Team-bonding activities, including
-friendly sports and collaborative projects, strengthen ties across levels,
-ensuring that every production team works seamlessly together.&nbsp;</p>
-<p>Through every click, cue, and composition, the Infocomm Club empowers
-students to capture memories, tell stories, and bring Greenridge events
-to life—one frame at a time.&nbsp;</p>
+<h4></h4>
 <p>&nbsp;</p>
