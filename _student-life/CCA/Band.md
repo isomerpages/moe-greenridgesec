@@ -60,8 +60,7 @@ the highest of achievements.”&nbsp;
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band2026/band_04.jpg">
 </div>
-<p>● United States Air Force (USAF) Band of the Pacific Asia Masterclass&nbsp;</p>
-<p>&nbsp;</p>
+<p>● United States Air Force (USAF) Band of the Pacific Asia Masterclass&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band2026/band_05.jpg">
 </div>
