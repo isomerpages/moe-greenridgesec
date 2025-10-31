@@ -45,6 +45,10 @@ the highest of achievements.”&nbsp;
 </div>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band2026/SYF_2025___A_journey_of_discipline__teamwork__and_music.jpg">
+</div>
+<p>SYF 2025</p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band2026/band_02b.jpg">
 </div>
 <p>● Band Fiesta 2023&nbsp;</p>
