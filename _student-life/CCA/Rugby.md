@@ -10,7 +10,7 @@ third_nav_title: CCA
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RUGBY/rugby-1.jpeg">
 </div>
-<h4><em>OUR BELIEFS&nbsp;</em></h4>
+<h4>OUR BELIEFS&nbsp;</h4>
 <p>In Greenridge Secondary School’s Rugby team, we believe that:&nbsp;</p>
 <ul>
 <li>
@@ -57,8 +57,7 @@ of the team, we strive to give our best for every game.”&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RUGBY/rugby-4p.png">
 </div>
-<p><em>COMPETITIONS &amp; ACCOLADES&nbsp;</em>
-</p>
+<h4><em>COMPETITIONS &amp; ACCOLADES&nbsp;</em></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
