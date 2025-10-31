@@ -74,7 +74,7 @@ for meaningful causes. Through community storytelling projects, presentation
 opportunities at school and public platforms, and CCE-linked advocacy writing,
 they learn to champion empathy, values, and civic responsibility.&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>Key Features of English Language &amp; Literature at Greenridge</strong>&nbsp;</p>
+<h4><strong>Key Features of English Language &amp; Literature at Greenridge</strong>&nbsp;</h4>
 <ul>
 <li>
 <p><strong>Applied Learning Programme (ALP):</strong> Builds persuasive communication
