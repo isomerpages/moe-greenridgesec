@@ -114,7 +114,7 @@ Law.&nbsp;</p>
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>Achievements and Accolades</strong>&nbsp;</p>
+<h4><strong>Achievements and Accolades</strong>&nbsp;</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
