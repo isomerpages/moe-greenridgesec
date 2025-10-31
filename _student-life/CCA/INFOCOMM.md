@@ -6,6 +6,9 @@ description: ""
 third_nav_title: CCA
 ---
 <h3><strong>INFOCOMM TECHNOLOGY CLUB (MEDIA PRODUCTIONS)</strong>&nbsp;</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm2026/Creating_wallpapers_through_cyberpunk_photography.jpg">
+</div>
 <h4><strong>About the CCA</strong>&nbsp;</h4>
 <p>The Infocomm Technology Club (Media Productions) is a vibrant CCA where
 creativity meets technology. The Club plays a key role in capturing the
@@ -29,6 +32,21 @@ such as <em>Our Schools, Our Stories</em>, <em>Better Internet Video Challenge</
 helping them refine their craft while providing a platform for them to
 shine.&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm2026/Through_lenses__we_turn_fleeting_moments_into_lasting_memories.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm2026/C__the_walkie_talkies_crackle_withe_cues.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm2026/Dabbling_into_light_photography.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm2026/A__The_spotlight_shines.jpg">
+</div>
 <h4><strong>Achievements and Accolades</strong>&nbsp;</h4>
 <table style="minWidth: 50px">
 <colgroup>
