@@ -166,7 +166,7 @@ NCC in the capacity of Cadet Officers (Cadet 2nd Lieutenant) after graduation.&n
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC2026/Our_Battlecry___To_Serve_with_Pride_and_Dedication__2_.jpg">
 </div>
-<p></p>
+<p>Our Battlecry - To Serve with Pride and Dedication (2)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC2026/All_cheers_and_joy_at_the_Passing_Out_Parade.jpg">
 </div>
