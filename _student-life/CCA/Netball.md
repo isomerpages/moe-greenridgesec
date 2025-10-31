@@ -5,15 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-<p><strong>NETBALL</strong>&nbsp;</p>
-<p><strong>Our Goal&nbsp;&nbsp;</strong>&nbsp;</p>
+<h3><strong>NETBALL</strong>&nbsp;</h3>
+<h4><strong>Our Goal&nbsp;&nbsp;</strong>&nbsp;</h4>
 <p>Greenridge Netball continuously strives for excellence by participating
 in various inter-school competitions as well as netball carnivals. We aim
 to develop and instill the importance of our RIDGE values: Respect, Integrity,
 Diligence, Grit, and Empathy in our players.&nbsp;</p>
 <p><em>&nbsp;</em>
 </p>
-<p><strong>The Netball Experience&nbsp;&nbsp;</strong>&nbsp;</p>
+<h4><strong>The Netball Experience&nbsp;&nbsp;</strong>&nbsp;</h4>
 <ul>
 <li>
 <p>Work on ball handling and footwork through ball drills.&nbsp;</p>
@@ -44,8 +44,7 @@ Diligence, Grit, and Empathy in our players.&nbsp;</p>
 <p>Participate in friendly matches and carnivals with other schools.&nbsp;</p>
 </li>
 </ul>
-<p><strong><em>COMPETITIONS &amp; CARNIVALS</em></strong><em>&nbsp;</em>
-</p>
+<h4><strong><em>COMPETITIONS &amp; CARNIVALS</em></strong><em>&nbsp;</em></h4>
 <ul>
 <li>
 <p>B and C Division National School Games&nbsp;</p>
@@ -96,7 +95,7 @@ Diligence, Grit, and Empathy in our players.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Netball2026/DSCF2640.jpg">
 </div>
-<p><strong>Achievements and Accolades</strong>&nbsp;</p>
+<h4><strong>Achievements and Accolades</strong>&nbsp;</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
