@@ -31,8 +31,6 @@ prototype, and present their ideas using robotics and programming skills.&nbsp;<
 students to <em>drone technology</em>, where they learn to pilot and programme
 drones to complete a series of challenges. It encourages problem-solving,
 spatial awareness, and precision.&nbsp;</p>
-</li>
-<li>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics2026/Top_8_in_the_National_Robotics_Competition__Our_students_showed_not_just_skill__but_resilience_and_respect_under_pressure__1_.jpg">
