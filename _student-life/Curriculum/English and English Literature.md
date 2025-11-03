@@ -68,6 +68,9 @@ themselves with clarity and conviction.&nbsp;</p>
 <p><strong>Accomplish</strong>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENGLISH LIT2023/el_win.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NUR SYAIDINA DANIYA BINTE SAID (4-10’2023) was awarded the “Engaging Diplomat Award&quot; in the National Schools’ Literature Festival 2023" src="/images/ENGLISH LIT2023/el 008.jpg">
 </div>
 <p>
