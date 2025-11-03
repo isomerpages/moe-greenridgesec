@@ -22,6 +22,21 @@ Through these experiences, they grow into <strong>Confident Learners, Compassion
 equipped to make responsible decisions and meaningful contributions to
 the community.&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE2023/MakingdumplingstogetherduringRacialHarmonyDay_Learningaboutculturaltraditionsthroughhandsonexperience.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE2023/WritingChinesecalligraphyduringRacialHarmonyDayy_Appreciatingthebeautyofcultureandlanguagethroughart.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE2023/CelebratingunityandprideattheNationalDayConcert_HonouringSingaporesjourneythroughmusicandperformance.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE2023/UniformedGroupsleadingtheNationalDayParadesegmentt_Showcasingdisciplineteamworkandnationalpride.jpg">
+</div>
 <h4><strong>Our Approach to CCE</strong>&nbsp;</h4>
 <p>CCE at Greenridge goes beyond knowledge — it is about developing character,
 resilience, and empathy through reflection and real-world application.
