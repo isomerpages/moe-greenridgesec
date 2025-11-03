@@ -85,8 +85,9 @@ to contribute to a strong, united Singapore.&nbsp;</p>
 <p><strong>Discover</strong>&nbsp;</p>
 <p>Through the diverse domains of CCE — from National Education to Cyberwellness
 and ECG — Champions discover values, life skills, and their personal strengths.
-LLP experiences help them uncover resilience, teamwork, and leadership
-through authentic, hands-on learning.&nbsp;</p>
+LLP experiences and <strong>Applied Learning Modules (ApLM)</strong> further
+help them uncover resilience, teamwork, and leadership through authentic,
+hands-on learning that connects classroom knowledge with real-world applications.</p>
 <p><strong>Express</strong>&nbsp;</p>
 <p>Champions express their voices through reflection, dialogue, and creative
 sharing. They engage in class discussions, digital reflections, and project
@@ -115,9 +116,9 @@ nurtures character, empathy, and resilience for the future.&nbsp;</p>
 </ul>
 <ul>
 <li>
-<p><strong>Authentic Experiences in NE, VIA, and LLP</strong>&nbsp;
-<br>Learning extends beyond classrooms through commemorations, community engagement,
-and innovation projects that bring values to life.&nbsp;</p>
+<p><strong>Authentic Experiences in NE, VIA, ApLM and LLP</strong>&nbsp;
+<br>Learning extends beyond classrooms through commemorations, learning modules,
+community engagement, and innovation projects that bring values to life.&nbsp;</p>
 </li>
 </ul>
 <ul>
