@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h1><strong>Aesthetics (Art, Music &amp; Design &amp; Technology)</strong>&nbsp;</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AESTHETICS2023/DSCF4079.jpg">
+</div>
 <h4><strong>Our Belief: Cultivating Champions of Creativity and Innovation</strong>&nbsp;</h4>
 <p>The Aesthetics curriculum at Greenridge Secondary empowers our Greenridge
 Champions to express themselves creatively and think inventively. Through
@@ -17,35 +21,58 @@ while D&amp;T develops practical problem-solving skills and inventive thinking.
 Together, these disciplines encourage our Champions to engage with real-world
 issues, collaborate with peers, and design purposeful solutions for a rapidly
 changing world.&nbsp;</p>
-<p>&nbsp;</p>
 <h4><strong>Aesthetics through IDEAS</strong>&nbsp;</h4>
 <p><strong>Imagine</strong>&nbsp;</p>
+<p>Our Greenridge Champions harness creativity to dream, design, and innovate
+through authentic art projects, music-making, and design prototypes.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AESTHETICS2023/art installation_turning plastic waste into art.jpeg">
+</div>
+<p>In <strong>Art</strong>, they imagine new possibilities through drawing,
+painting, and digital art. Exploring identity, culture, and imagination,
+they transform ideas into visuals that inspire and reimagine the world
+around them.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AESTHETICS2023/img_e3224.JPG">
+</div>
+<p>In <strong>Music,</strong> they explore sound and rhythm to create original
+compositions and fresh interpretations. Whether experimenting with digital
+tools or preparing for 15 Minutes of Fame, they turn ideas into melodies
+that move and connect people.</p>
+<p>In <strong>D&amp;T</strong>, they engage in Design Thinking, doodling,
+sketching, and 3D modelling to design purposeful solutions for real-world
+challenges.&nbsp;Their imagination comes alive in projects such as an Egg
+Holder, a Drinking Can Dispenser, and a Mini Compost Bin. Larger-scale
+challenges like the Powered Toy Car, the Eco Pedal Boat Challenge, and
+Eco Glow Up – Innovating through Upcycling further showcase how creativity
+and invention reign in our programmes.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Design&amp;Techology2023/pix006.png">
+</div>
 <p>Egg Holder by Azfar and Wei Feng&nbsp;</p>
-<p>Drinking Can Dispenser by Danis and Guang Jun&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Design&amp;Techology2023/pix008.png">
+</div>
 <p>Mini Compost Bin by Suhairah and Visswajit&nbsp;</p>
-<p>Powered Toy Car! Eco Pedal Boat Challenge! Eco Glow up - Innovating through
-upcycling! Creativity reigns in our programme.&nbsp;</p>
-<p>&nbsp;
-<br>Our <strong>Greenridge Champions</strong> harness creativity to express
-themselves through authentic art projects, music-making, and design prototypes.
-In Art, they reimagine ideas visually through drawing, painting, and digital
-art. In Music, they compose and perform across genres, experimenting with
-rhythm and technology. In D&amp;T, they engage in <strong>Design Thinking, doodling, sketching, and 3D modelling</strong> to
-design purposeful solutions for real-world challenges.&nbsp;</p>
-<p>Their imagination comes alive in projects such as an <strong>Egg Holder</strong>,
-a <strong>Drinking Can Dispenser</strong>, and a <strong>Mini Compost Bin</strong>.
-Larger-scale challenges like the <strong>Powered Toy Car</strong>, the <strong>Eco Pedal Boat Challenge</strong>,
-and <strong>Eco Glow Up – Innovating through Upcycling</strong> further showcase
-how creativity and invention reign in our programmes.&nbsp;</p>
 <p></p>
-<p><strong>Discover</strong>&nbsp;
+<p><strong>Discover</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AESTHETICS2023/img_0948.JPG">
+</div>
+<p>
 <br>Learning is grounded in <strong>inquiry, exploration, and experimentation</strong>.
 In Art, Champions explore concepts, symbols, and contexts to understand
 how art reflects society. In Music, they discover diverse genres and cultures
 while using technology to enhance learning. In D&amp;T, they deepen their
 knowledge of mechanisms, electronics, and materials, discovering how science
 and creativity merge to create practical solutions.&nbsp;</p>
-<p><strong>Express</strong>&nbsp;
+<p><strong>Express</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AESTHETICS2023/DSCF4284.jpg">
+</div>
+<p>
 <br>Champions <strong>articulate their creativity through hands-on, collaborative projects</strong>.
 In Art, they create works that convey meaning and emotion. In Music, they
 perform, improvise, and use music technology to express their ideas. In
@@ -60,7 +87,16 @@ as the <strong>Eco Pedal Boat Challenge</strong>, the <strong>Student Maker Chal
 and the <strong>National Design Project</strong>, where they design sustainable
 and wellness-focused solutions. These accomplishments affirm their creativity,
 innovation, and resilience.&nbsp;</p>
-<p><strong>Serve</strong>&nbsp;
+<p><strong>Serve</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AESTHETICS2023/img_6356.JPG">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AESTHETICS2023/img_0889.JPG">
+</div>
+<p>
 <br>Aesthetics education develops socially responsible innovators. Through <strong>upcycling projects, food sustainability challenges, and community showcases</strong> (such
 as Open House exhibitions and performances), our Greenridge Champions use
 their creativity to serve the community, promote sustainability, and inspire
