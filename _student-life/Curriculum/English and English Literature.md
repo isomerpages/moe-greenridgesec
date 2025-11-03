@@ -100,8 +100,11 @@ critical insight and collaborative spirit.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENGLISH LIT2023/copy of vwg_5476.jpg">
 </div>
-<p>
-<br>English and Literature empower our Greenridge Champions to use their voices
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENGLISH LIT2023/copy of img_8682.JPG">
+</div>
+<p>English and Literature empower our Greenridge Champions to use their voices
 for meaningful causes. Through community storytelling projects, presentation
 opportunities at school and public platforms, and CCE-linked advocacy writing,
 they learn to champion empathy, values, and civic responsibility.&nbsp;</p>
@@ -135,5 +138,4 @@ to the National Schools’ Literature Festival, Greenridge Champions showcase
 their voice and creativity at national platforms.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
