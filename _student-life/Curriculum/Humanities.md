@@ -74,6 +74,14 @@ our world.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/8 empowering students to lead discussions and evaluate peer work in social studies classrooms.jpeg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/146.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/20250328_095951700_iOS.jpg">
+</div>
 <p>Our Greenridge Champions communicate their insights with clarity, empathy,
 and confidence. In the classroom, they present findings, engage in debates,
 and share perspectives on contemporary issues through discussions, role-plays,
@@ -84,6 +92,9 @@ self and peer evaluation, they reflect on their learning and strengthen
 their voice as expressive, independent learners.</p>
 <p><strong>Accomplish</strong>&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/Screenshot_2025_11_03_214428.png">
+</div>
 <p>Greenridge Champions demonstrate their skills at national-level platforms
 such as the NUS Geography Challenge, History Challenge, and the Model ASEAN
 Summit, where they discuss meaningful societal issues with peers from across
