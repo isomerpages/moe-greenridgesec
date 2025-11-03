@@ -26,6 +26,9 @@ changemakers who use their knowledge to contribute meaningfully to society.&nbsp
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/150.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/124.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/4 authentic experiences in historyvoting.jpeg">
@@ -90,6 +93,10 @@ to apply classroom learning in competitive and collaborative arenas.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/142.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/Screenshot_2025_11_03_214452.png">
 </div>
 <p>Humanities education empowers our Greenridge Champions to act on what
 they learn. Guided by inquiry and empathy, they apply their understanding
