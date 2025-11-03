@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h1><strong>Character and Citizenship Education (CCE)</strong>&nbsp;</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE2023/Creating_an_automated_food_dispenser_prototype_during_Learn_to_Champion_for_a_Cause_Applying_design_thinking_to_solve_real_world_issues.jpg">
+</div>
 <h4><strong><em>Our Belief: Cultivating Champions of Character and Citizenship</em></strong>&nbsp;</h4>
 <p>At Greenridge Secondary, <strong>Character and Citizenship Education (CCE)</strong> lies
 at the heart of our mission to nurture values-driven, future-ready learners.
@@ -72,6 +76,8 @@ reflections on growth and impact&nbsp;</p>
 <p>The LLP embodies our belief that every Greenridge Champion can be a <strong>Champion for a Cause</strong> —
 one who leads with compassion, creativity, and conviction.&nbsp;</p>
 <p>&nbsp;</p>
+<p></p>
+<p></p>
 <h4><strong>Character and Citizenship Education through IDEAS</strong>&nbsp;</h4>
 <p>CCE at Greenridge is guided by the <strong>IDEAS</strong> framework — <em>Imagine, Discover, Express, Accomplish,</em> and <em>Serve</em> —
 which captures the developmental journey of our students as they translate
