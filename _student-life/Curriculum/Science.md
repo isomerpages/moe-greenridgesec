@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h2><strong>Science (Physics, Chemistry, Biology, Nutrition and Food Science)</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science2023/vertical garden_1.jpeg">
+</div>
 <h4><strong>Our Belief: Cultivating Champions of Inquiry and Innovation</strong>&nbsp;</h4>
 <p>The Science curriculum at Greenridge Secondary seeks to inspire passion,
 curiosity, and appreciation for the sciences. Our Greenridge Champions<strong> are encouraged to explore scientific phenomena in authentic, practical, and experiential settings that nurture both knowledge and wonder</strong>.
@@ -22,6 +26,14 @@ society, and the environment.&nbsp;</p>
 <p></p>
 <h4><strong>Science through IDEAS</strong>&nbsp;</h4>
 <p><strong>Imagine</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science2023/water filtration_2.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science2023/terrarium_1.jpeg">
+</div>
 <p>Our Greenridge Champions spark their imagination through hands-on STEM
 activities that encourage creativity and innovation. In Secondary 1, they
 design <strong>water filtration systems</strong> to turn contaminated water
@@ -31,6 +43,19 @@ in mini-worlds. Through such projects, students imagine how science can
 be applied to solve authentic global challenges such as sustainability,
 clean water, and climate change.&nbsp;</p>
 <p><strong>Discover</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science2023/terrarium_2.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science2023/bio class expt.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science2023/vertical garden_2.jpeg">
+</div>
+<p></p>
 <p>Champions discover science by observing, investigating, and experimenting
 with the world around them. Using the <strong>5E Inquiry Approach</strong> (Engage,
 Explore, Explain, Elaborate, Evaluate), they build conceptual understanding
@@ -41,6 +66,10 @@ donate their harvest to the community. Visits to science exhibitions and
 the use of models, demonstration kits, and manipulatives allow students
 to discover scientific concepts in authentic and meaningful ways.&nbsp;</p>
 <p><strong>Express</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science2023/sysf_2.JPG">
+</div>
 <p>Champions express their learning by communicating like scientists — questioning,
 writing, and presenting findings with clarity and precision. In the <strong>Singapore Youth Science Fair (SYSF)</strong>,
 Sec 2 students articulated their research on sustainable clothing choices
@@ -50,6 +79,14 @@ tools to showcase their work. These opportunities allow them to refine
 their scientific voice and share their insights with peers, teachers, and
 wider audiences.&nbsp;</p>
 <p><strong>Accomplish</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science2023/sjcho_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science2023/sysf_1.jpg">
+</div>
 <p>Our Greenridge Champions achieve excellence through authentic application
 and competition. In the <strong>Singapore Junior Chemistry Olympiad (SJChO) 2023</strong>,
 22 students represented GSS, with two earning Gold Medals and one receiving
@@ -59,6 +96,10 @@ their innovative project on clothing and heat. Within school, Champions
 accomplish milestones through lab experiments, performance tasks, and long-term
 STEM projects that stretch their problem-solving and collaborative skills.&nbsp;</p>
 <p><strong>Serve</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science2023/vertical garden_3.jpeg">
+</div>
 <p>Science at Greenridge nurtures values of responsibility and care for the
 environment. In the <strong>Farm-to-Table Movement</strong>, students harvest
 vegetables from their school gardens and donate them to neighbours, linking
