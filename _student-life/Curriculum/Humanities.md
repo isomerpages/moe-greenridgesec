@@ -45,6 +45,11 @@ voting exercise, evaluating political parties from Singapore’s early years
 and casting their own ballots to imagine the challenges and choices faced
 in nation-building.</p>
 <p><strong>Discover</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/200.jpg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/5 gamification in history lower secondary.jpeg">
 </div>
@@ -78,7 +83,6 @@ our world.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/146.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/20250328_095951700_iOS.jpg">
 </div>
@@ -91,6 +95,10 @@ UN Councils, practise diplomacy, and refine persuasive communication. Through
 self and peer evaluation, they reflect on their learning and strengthen
 their voice as expressive, independent learners.</p>
 <p><strong>Accomplish</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/Screenshot_2025_11_03_221432.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/Screenshot_2025_11_03_214428.png">
@@ -120,28 +128,29 @@ of Singapore and the world.</p>
 <h4><strong>Key Features of Humanities at Greenridge</strong>&nbsp;</h4>
 <ul>
 <li>
-<p><strong>Inquiry-Based Learning:</strong> Students ask questions, investigate
-issues, and reflect deeply on their learning.&nbsp;</p>
+<p><strong>Imaginative and Inquiry-Based Learning: </strong>Champions explore
+the past, present, and future through creative and investigative experiences.
+From building models and analysing field data to examining artefacts and
+simulating historical events, they learn to question, discover, and understand
+the world through multiple perspectives.</p>
 </li>
-</ul>
-<ul>
 <li>
-<p><strong>Real-World Application:</strong> Fieldwork, museum visits, and
-authentic learning journeys bring classroom concepts to life.&nbsp;</p>
+<p><strong>Expression and Communication: </strong>Classroom discussions,
+debates, and global platforms such as the Harvard Model United Nations
+(HMUN) empower Champions to communicate ideas clearly, listen empathetically,
+and express informed viewpoints with confidence.</p>
 </li>
-</ul>
-<ul>
 <li>
-<p><strong>Tech-Enhanced Lessons:</strong> ICT tools and blended learning
-approaches support independence, self-directed growth, and innovative ways
-of learning.&nbsp;</p>
+<p><strong>Purposeful Action and Reflection: </strong>Champions apply their
+learning to real-world contexts through projects, showcases, and experiential
+learning. They reflect on their insights, connect knowledge with lived
+experiences, and take responsible action that makes a difference in school
+and beyond.</p>
 </li>
-</ul>
-<ul>
 <li>
-<p><strong>Competitions and Enrichment:</strong> Greenridge Champions shine
-in national summits, debates, and challenges, connecting with peers across
-Singapore and beyond.&nbsp;</p>
+<p><strong>Service and Citizenship: </strong>Grounded in empathy and responsibility,
+Champions apply their learning to serve the nation, community, and environment,
+embodying the spirit of thought and action in all they do.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
