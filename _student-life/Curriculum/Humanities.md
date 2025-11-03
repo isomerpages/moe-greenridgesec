@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h1><strong>Humanities (Social Studies, History and Geography)</strong>&nbsp;</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/123.jpg">
+</div>
 <h4><strong>Our Belief: Cultivating Champions of Thought and Action&nbsp;</strong>&nbsp;</h4>
 <p>At Greenridge Secondary, the Humanities shape our Greenridge Champions
 into confident, compassionate learners who think critically, act responsibly,
@@ -17,6 +21,15 @@ Champions grow into persuasive communicators, reflective learners, and
 changemakers who use their knowledge to contribute meaningfully to society.&nbsp;</p>
 <h4><strong>Humanities through IDEAS</strong>&nbsp;</h4>
 <p><strong>Imagine</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/150.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HUMANITIES2023/4 authentic experiences in historyvoting.jpeg">
+</div>
+<p></p>
 <p>Our Greenridge Champions <strong>re-create past worlds and envision possible futures by stepping into the perspectives of others</strong>.
 In History, they become spice traders through authentic sensory experiences
 such as <strong>tasting and smelling spices</strong>, or explore turning
@@ -27,6 +40,7 @@ evolve over time. In Social Studies, they take part in a <strong>mock voting exe
 evaluating political parties from Singapore’s early years and casting their
 own ballots to imagine the challenges and choices faced in nation-building.&nbsp;</p>
 <p><strong>Discover</strong>&nbsp;</p>
+<p></p>
 <p>Through <strong>Inquiry-Based Learning</strong> and the <strong>Elements of Thought framework</strong>,
 our Greenridge Champions investigate issues by carrying out fieldwork,
 analysing sources, and engaging in inquiry projects. In Geography, they
