@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h1><strong>Mother Tongue Languages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&nbsp;</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/Raya14Apr_14.jpg">
+</div>
 <h4><strong>Our Belief: Cultivating Champions of Culture and Expression</strong>&nbsp;</h4>
 <p>Quoting the vision of our founding Prime Minister Mr Lee Kuan Yew for
 a bilingual Singapore: <em>“To each what he originally had – his culture, his language, a link with his past, his heritage.”</em>&nbsp;</p>
@@ -53,9 +57,12 @@ building stronger connections to their own identity and community.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/3 ml lyrics.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/4 tl lyrics.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/Raya14Apr_4.jpg">
 </div>
 <p>Champions showcase their creativity and confidence in national and school-based
 platforms such as the <strong>Tamil Speaking Competition “Beauty of Tamil Language”</strong>,
@@ -82,8 +89,16 @@ excelling in the <strong>16th National Secondary Schools Translation Competition
 Champions demonstrate excellence and resilience. Through these experiences,
 they learn the value of perseverance and take pride in seeing their hard
 work celebrated at national levels.&nbsp;</p>
-<p><strong>Serve</strong>&nbsp;
-<br>Through Mother Tongue Languages, our <strong>Greenridge Champions</strong> learn
+<p><strong>Serve</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/CNY25_43.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/062E8F43_66A0_4462_B4DA_0977001934B4.jpg">
+</div>
+<p>Through Mother Tongue Languages, our <strong>Greenridge Champions</strong> learn
 to carry forward values of <strong>empathy, respect, and responsibility</strong>.
 By applying their language skills in authentic contexts such as <strong>community projects, performances, and translation work</strong>,
 they contribute to <strong>Singapore’s bilingual identity</strong> and serve
