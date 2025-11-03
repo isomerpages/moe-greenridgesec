@@ -6,6 +6,7 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h1><strong>Mathematics, Principles of Accounts (POA) &amp; Elements of Business Skills (EBS)</strong>&nbsp;</h1>
+<p></p>
 <h4><strong>Our Belief: Cultivating Champions of Reasoning and Innovation</strong>&nbsp;</h4>
 <p>The Mathematics, POA, and EBS curriculum at Greenridge Secondary empowers
 our Greenridge Champions with the knowledge, skills, and confidence to
