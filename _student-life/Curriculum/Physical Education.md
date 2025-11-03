@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h1><strong>Physical Education</strong>&nbsp;</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/0D8A0608__1_.jpg">
+</div>
 <h4><strong>Our Belief: Growing Champions&nbsp;</strong>&nbsp;</h4>
 <p>At Greenridge Secondary, Physical Education aims to nurture Greenridge
 Champions<strong> who value outdoor physical activity and embrace healthy living</strong>.
@@ -20,8 +24,49 @@ of an active lifestyle.&nbsp;&nbsp;</p>
 our Champions to grow as confident learners, compassionate leaders, and
 ethical innovators.&nbsp;
 <br>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/IMG_9271_copy.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/IMG_2589_copy.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/SPORTSDAY_27.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/IMG_1710.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/WhatsApp_Image_2024_11_18_at_8_31_50_AM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/IMG_0240.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/sec 1 oalc5.JPG">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/sports carnival 2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/axc003.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/0D8A0570.jpg">
+</div>
 <h4><strong>Physical Education through IDEAS&nbsp;</strong></h4>
-<p><strong>Imagine</strong>&nbsp;
+<p>
+<br><strong>Imagine</strong>&nbsp;
 <br>Our Greenridge Champions imagine possibilities through diverse physical
 activities.&nbsp;&nbsp;</p>
 <p>In modules such as <strong>territorial-invasion, net-barrier, and field-putting games</strong>,
@@ -35,7 +80,8 @@ supported by ICT platforms that extend learning. In the <strong>Sports Education
 they explore new and unconventional sports, from martial arts to water
 sports, discovering passions that extend beyond the PE syllabus.&nbsp;</p>
 <p></p>
-<p><strong>Express.</strong>&nbsp;</p>
+<p><strong>Express</strong>
+</p>
 <p>Our Champions express themselves through <strong>active participation and collaboration</strong>,
 demonstrating resilience and teamwork during key events such as the Sports
 Carnival, Cross-Country, Our Vitality, and Dance of the Nation. The Recess
