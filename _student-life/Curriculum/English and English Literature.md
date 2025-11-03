@@ -24,6 +24,10 @@ they <strong>grow into global thinkers who appreciate diverse perspectives and e
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENGLISH LIT2023/el 001.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENGLISH LIT2023/Voice_that_Express_7.jpg">
+</div>
 <p>Our Greenridge Champions explore possibilities and perspectives through
 immersive activities such as <strong>role-play, hot-seating, and drama</strong>,
 which spark creativity and deepen empathy. They also reimagine their Literature
@@ -46,6 +50,10 @@ They also <strong>learn beyond the classroom, attending theatre productions of t
 and experiencing how the written word comes alive on stage. These authentic
 encounters deepen their appreciation of language, culture, and human experience.&nbsp;</p>
 <p><strong>Express</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENGLISH LIT2023/20251022_112147.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENGLISH LIT2023/el 003.jpg">
@@ -106,6 +114,10 @@ critical insight and collaborative spirit.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENGLISH LIT2023/copy of img_8682.JPG">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ENGLISH LIT2023/DSCF1619.jpg">
 </div>
 <p>English and Literature empower our Greenridge Champions to use their voices
 for meaningful causes. Through community storytelling projects, presentation
