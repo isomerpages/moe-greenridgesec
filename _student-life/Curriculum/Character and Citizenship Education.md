@@ -43,6 +43,13 @@ that strengthens their character and moral reasoning.&nbsp;</p>
 and our signature <strong>Learning for Life Programme (LLP)</strong>, ensuring
 that character formation is holistic, lived, and sustained.&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE2023/Designing_eco_friendly_bioplastics_as_part_of_Learn_to_Champion_for_a_Causee__Exploring_sustainability_through_science_and_innovation.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE2023/Sec_3_Teresa_students__setting_up_a_carnival_game_booth_to_raise_funds_for_Singapore_Children_s_Society.jpg">
+</div>
 <h4><strong>Learning for Life Programme (LLP): Learn to Champion for a Cause (LCC)</strong>&nbsp;</h4>
 <p>Our <strong>Learning for Life Programme (LLP)</strong> — <em>Learn to Champion for a Cause</em> —
 brings CCE to life through authentic, values-driven action. It empowers
@@ -76,8 +83,17 @@ reflections on growth and impact&nbsp;</p>
 <p>The LLP embodies our belief that every Greenridge Champion can be a <strong>Champion for a Cause</strong> —
 one who leads with compassion, creativity, and conviction.&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE2023/Concentration_to_make_the_bottle_comes_nearer.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE2023/Physical_activity_on_ball_to_cups.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE2023/Stimulating_the_minds_through_UNO_cards.jpg">
+</div>
 <h4><strong>Character and Citizenship Education through IDEAS</strong>&nbsp;</h4>
 <p>CCE at Greenridge is guided by the <strong>IDEAS</strong> framework — <em>Imagine, Discover, Express, Accomplish,</em> and <em>Serve</em> —
 which captures the developmental journey of our students as they translate
@@ -112,6 +128,13 @@ in the community, and for the nation. They learn that service is not just
 about volunteering, but about making sustained, ethical contributions that
 build a better Singapore and a better world.&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE2023/Hands_on_practice_of_life_saving_ABCs_at_Singapore_Polytechnic_Learning_vital_first_aid_and_emergency_response_through_Applied_Learning.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE2023/Applying_first_aid_techniques_during_the_Applied_Learning_Module_Building_confidence_and_practical_skills_to_respond_in_emergencies.jpg">
+</div>
 <h4><strong>Key Features of CCE @ Greenridge</strong>&nbsp;</h4>
 <ul>
 <li>
