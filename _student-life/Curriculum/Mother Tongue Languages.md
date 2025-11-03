@@ -15,24 +15,49 @@ aims to provide vibrant language and cultural learning experiences that
 encourage our Greenridge Champions to use their Mother Tongue in daily
 life and develop a lifelong passion for their languages.&nbsp;</p>
 <p></p>
-<h4>&nbsp;<strong>Mother Tongue Languages&nbsp;&nbsp;through IDEAS</strong>&nbsp;</h4>
-<p><strong>Imagine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&nbsp;
-<br>Our <strong>Greenridge Champions</strong> experience the richness of culture
+<h4>&nbsp;<strong>Mother Tongue Languages through IDEAS</strong>&nbsp;</h4>
+<p><strong>Imagine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/10 script it right 2.jpg">
+</div>
+<p>Our <strong>Greenridge Champions</strong> experience the richness of culture
 through <strong>song and lyrics-writing workshops, drama activities, and cultural performances</strong>.
 From composing <strong>Chinese scripts</strong> to creating <strong>Malay and Tamil song lyrics</strong>,
 they imagine new ways of expressing tradition in contemporary forms. These
 creative platforms encourage them to reimagine how culture can be kept
 alive and relevant in a modern world, while deepening their appreciation
 of heritage.&nbsp;</p>
-<p><strong>Discover</strong>&nbsp;
-<br>Champions explore their cultural roots through <strong>Mother Tongue Fortnight</strong> and <strong>MTL Week</strong>,
+<p><strong>Discover</strong>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/5 ml silat.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/7 cl taiji.jpg">
+</div>
+<p>Champions explore their cultural roots through <strong>Mother Tongue Fortnight</strong> and <strong>MTL Week</strong>,
 which include activities such as <strong>Malay Silat</strong>, <strong>Tamil Dance</strong>,
 and <strong>Chinese Taiji</strong>. They also participate in <strong>workshops, dialogues, and cultural showcases</strong> that
 open windows into traditions, values, and ways of life. These opportunities
 allow them to <strong>discover heritage values, cultural practices, and the joy of learning beyond the classroom</strong>,
 building stronger connections to their own identity and community.&nbsp;</p>
 <p><strong>Express</strong>&nbsp;
-<br>Champions showcase their creativity and confidence in national and school-based
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/2 cl drama.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/3 ml lyrics.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/4 tl lyrics.jpg">
+</div>
+<p>Champions showcase their creativity and confidence in national and school-based
 platforms such as the <strong>Tamil Speaking Competition “Beauty of Tamil Language”</strong>,
 the <strong>Chinese Radio Drama Script Writing Competition</strong>, and
 the <strong>National Secondary School Creative Writing and Poetry Competitions</strong>.
@@ -41,7 +66,15 @@ Our <strong>Greenridge Champions have attained national recognition</strong>,
 winning accolades in <strong>poetry-writing, translation, radio drama, script-writing, and oratory competitions</strong>.
 These achievements reflect not only their <strong>language mastery</strong> but
 also their <strong>confidence, creativity, and cultural pride</strong>.&nbsp;</p>
-<p><strong>Accomplish</strong>&nbsp;
+<p><strong>Accomplish</strong>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/8 beauty of tl.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/9 script it right.jpg">
+</div>
+<p>
 <br>Mother Tongue provides authentic platforms for accomplishment, where students
 apply language in real-world and competitive contexts. From securing awards
 in the <strong>8th National Chinese Poetry-Writing Competition</strong> to
