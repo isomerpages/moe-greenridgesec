@@ -136,7 +136,10 @@ contexts.&nbsp;</p>
 <li>
 <p><strong>Extensive Reading and Literary Appreciation:</strong> Champions
 explore diverse genres, attend theatre productions, and engage in dialogues
-with practitioners to deepen empathy, critical thinking, and creativity.&nbsp;</p>
+with practitioners to deepen empathy, critical thinking, and creativity.
+Through the KIDSRead Programme, they also share their love for stories
+with younger readers, nurturing confidence, empathy, and the joy of reading
+beyond the classroom.</p>
 </li>
 </ul>
 <ul>
