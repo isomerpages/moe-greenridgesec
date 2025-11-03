@@ -7,9 +7,6 @@ third_nav_title: Curriculum
 ---
 <h1><strong>Mother Tongue Languages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&nbsp;</h1>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/Raya14Apr_14.jpg">
-</div>
 <h4><strong>Our Belief: Cultivating Champions of Culture and Expression</strong>&nbsp;</h4>
 <p>Quoting the vision of our founding Prime Minister Mr Lee Kuan Yew for
 a bilingual Singapore: <em>“To each what he originally had – his culture, his language, a link with his past, his heritage.”</em>&nbsp;</p>
@@ -93,6 +90,10 @@ work celebrated at national levels.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/CNY25_43.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/Raya14Apr_14.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
