@@ -19,6 +19,15 @@ sections:
           url: /looking-great-2025/
       background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
   - infopic:
+      title: Discover your future at Greenridge!
+      id: infopic
+      description: Visit our DiscoverGSS  page to explore how we nurture confident
+        learners, compassionate leaders, and ethical innovators.
+      button: Visit DiscoverGSS
+      url: https://sites.google.com/view/discover-gss
+      image: /images/2024 Miscellanous/discoveryourselfgss.png
+      alt: DiscoverGSS
+  - infopic:
       title: Direct School Admission (DSA)
       id: infopic
       image: /images/2025 DSA/dsawelcome2025_min.gif
