@@ -4,11 +4,11 @@ links:
     collection: about-us
   - title: Champions Academy
     url: /champions-academy
-  - title: Students
-    collection: students
   - title: Signature Programmes
     collection: signature-programmes
   - title: Admission
     collection: admission
   - title: Key Info
     collection: key-info
+  - title: Students
+    collection: students
