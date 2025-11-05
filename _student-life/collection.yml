@@ -1,5 +1,5 @@
 collections:
-  student:
+  student-life:
     output: true
     order:
       - Curriculum/.keep
