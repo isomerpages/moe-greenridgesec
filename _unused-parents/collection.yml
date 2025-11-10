@@ -1,0 +1,6 @@
+collections:
+  unused-parents:
+    output: true
+    order:
+      - For Parents.md
+      - GSS Parents Connect/.keep

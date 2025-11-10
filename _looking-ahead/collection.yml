@@ -1,0 +1,5 @@
+collections:
+  looking-ahead:
+    output: true
+    order:
+      - Looking Ahead.md

@@ -1,0 +1,23 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - English Language & Literature.md
+      - Mathematics, POA and EBS.md
+      - Humanities.md
+      - Mother Tongue.md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Nutrition & Food Science.md
+      - Design & Technology.md
+      - Aesthetics.md
+      - Physical Education.md
+      - CharacterCitizenship Education/.keep
+      - CharacterCitizenship Education/Character & Citizenship Education.md
+      - CharacterCitizenship Education/Student Development.md
+      - CharacterCitizenship Education/Citizenship Education.md
+      - CharacterCitizenship Education/Cyber Wellness.md
+      - CharacterCitizenship Education/Guidance Programme.md
+      - ICT/.keep
+      - ICT/Information Communicaion Technology (ICT).md
+      - ICT/Cyberwellness.md

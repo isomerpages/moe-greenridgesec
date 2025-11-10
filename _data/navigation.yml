@@ -1,0 +1,14 @@
+logo: /images/Final GSS Logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Champions Academy
+    url: /champions-academy
+  - title: Student Life
+    collection: student-life
+  - title: Signature Programmes
+    collection: signature-programmes
+  - title: Admission
+    collection: admission
+  - title: Key Info
+    collection: key-info

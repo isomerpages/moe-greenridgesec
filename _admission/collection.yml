@@ -1,0 +1,9 @@
+collections:
+  admission:
+    output: true
+    order:
+      - "For Primary 6: Secondary 1 Posting Exercise 2026.md"
+      - Admission or Transfer to Greenridge Secondary School.md
+      - Direct School Admission (DSA).md
+      - Returning Singaporeans.md
+      - International Students.md

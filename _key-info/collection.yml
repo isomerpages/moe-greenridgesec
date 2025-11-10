@@ -1,0 +1,24 @@
+collections:
+  key-info:
+    output: true
+    order:
+      - For Students/.keep
+      - For Students/Teaching and Learning.md
+      - For Students/eGIRO.md
+      - For Students/Book List and Uniform.md
+      - For Students/Group Personal Accident Insurance Plan for Students.md
+      - For Students/Others.md
+      - For Parents/.keep
+      - For Parents/Parents Gateway.md
+      - For Parents/Parent Support Group.md
+      - For Parents/Financial Assistance Scheme (FAS).md
+      - For Parents/MOE Sexuality Education in Schools.md
+      - For Parents/Cyber Wellness for Parents.md
+      - For Parents/Parents in Education (PiE).md
+      - For Parents/Heart to Heart Talk.md
+      - For Parents/Education and Career Guidance.md
+      - For Teachers/.keep
+      - For Teachers/For Teachers.md
+      - Consent for Photographs and Videos of Students for School Purposes.md
+      - News Archive/.keep
+      - News Archive/2022.md

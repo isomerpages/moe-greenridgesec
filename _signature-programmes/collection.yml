@@ -1,0 +1,11 @@
+collections:
+  signature-programmes:
+    output: true
+    order:
+      - Applied Learning Programme/.keep
+      - Applied Learning Programme/Overview of ALP.md
+      - Applied Learning Programme/Debating and Public Speaking.md
+      - Applied Learning Programme/Media and Journalism.md
+      - Applied Learning Programme/Bilingualism.md
+      - Learning for Life Programme.md
+      - Space@Greenridge.md

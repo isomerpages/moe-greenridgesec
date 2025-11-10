@@ -1,0 +1,5 @@
+collections:
+  leaders-champions:
+    output: true
+    order:
+      - Student Leadership.md
