@@ -22,13 +22,9 @@ life and develop a lifelong passion for their languages.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/10 script it right 2.jpg">
 </div>
-<p>Our <strong>Greenridge Champions</strong> experience the richness of culture
-through <strong>song and lyrics-writing workshops, drama activities, and cultural performances</strong>.
-From composing <strong>Chinese scripts</strong> to creating <strong>Malay and Tamil song lyrics</strong>,
-they imagine new ways of expressing tradition in contemporary forms. These
-creative platforms encourage them to reimagine how culture can be kept
-alive and relevant in a modern world, while deepening their appreciation
-of heritage.&nbsp;</p>
+<p>We provide students with opportunities to explore new possibilities and
+perspectives through immersive and engaging programmes such as the Applied
+Learning Programme, MTL Fortnight activities, and learning journeys.</p>
 <p><strong>Discover</strong>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/5 ml silat.jpeg">
@@ -37,12 +33,14 @@ of heritage.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/7 cl taiji.jpg">
 </div>
-<p>Champions explore their cultural roots through <strong>Mother Tongue Fortnight</strong> and <strong>MTL Week</strong>,
-which include activities such as <strong>Malay Silat</strong>, <strong>Tamil Dance</strong>,
-and <strong>Chinese Taiji</strong>. They also participate in <strong>workshops, dialogues, and cultural showcases</strong> that
-open windows into traditions, values, and ways of life. These opportunities
-allow them to <strong>discover heritage values, cultural practices, and the joy of learning beyond the classroom</strong>,
-building stronger connections to their own identity and community.&nbsp;</p>
+<p>Our Greenridge Champions are nurtured to become persuasive communicators
+through our Applied Learning Programme. With a translation component embedded
+in classroom learning, they develop the ability to express themselves confidently
+in both English and their Mother Tongue. From translating real-life posters
+and videos to producing their own news reports, they explore creative ways
+to convey information effectively. Through these experiences, they learn
+to embrace linguistic and cultural diversity, fostering a deeper appreciation
+for different perspectives through meaningful communication.</p>
 <p><strong>Express</strong>&nbsp;
 <br>
 </p>
@@ -61,15 +59,12 @@ building stronger connections to their own identity and community.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/Raya14Apr_4.jpg">
 </div>
-<p>Champions showcase their creativity and confidence in national and school-based
-platforms such as the <strong>Tamil Speaking Competition “Beauty of Tamil Language”</strong>,
-the <strong>Chinese Radio Drama Script Writing Competition</strong>, and
-the <strong>National Secondary School Creative Writing and Poetry Competitions</strong>.
-They articulate their ideas, tell stories, and share their voices through <strong>poetry, drama, translation, and public speaking</strong>.
-Our <strong>Greenridge Champions have attained national recognition</strong>,
-winning accolades in <strong>poetry-writing, translation, radio drama, script-writing, and oratory competitions</strong>.
-These achievements reflect not only their <strong>language mastery</strong> but
-also their <strong>confidence, creativity, and cultural pride</strong>.&nbsp;</p>
+<p>Our Champions express their thoughts and opinions confidently through
+writing, speech, and actions. During Mother Tongue Fortnight and MTL Week,
+they express themselves by participating in activities that showcase cultural
+traditions such as traditional games. Through these enriching experiences,
+our Champions further express their sense of identity and reflect on the
+learning gained from their participation.</p>
 <p><strong>Accomplish</strong>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/8 beauty of tl.jpg">
@@ -79,13 +74,10 @@ also their <strong>confidence, creativity, and cultural pride</strong>.&nbsp;</p
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/9 script it right.jpg">
 </div>
 <p>
-<br>Mother Tongue provides authentic platforms for accomplishment, where students
-apply language in real-world and competitive contexts. From securing awards
-in the <strong>8th National Chinese Poetry-Writing Competition</strong> to
-excelling in the <strong>16th National Secondary Schools Translation Competition</strong>,
-Champions demonstrate excellence and resilience. Through these experiences,
-they learn the value of perseverance and take pride in seeing their hard
-work celebrated at national levels.&nbsp;</p>
+<br>Our Greenridge Champions have attained national recognition, winning accolades
+in poetry-writing, translation, radio drama, script-writing, and oratory
+competitions. These achievements reflect not only their language mastery
+but also their confidence, creativity, and cultural pride. </p>
 <p><strong>Serve</strong>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -99,14 +91,11 @@ work celebrated at national levels.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/062E8F43_66A0_4462_B4DA_0977001934B4.jpg">
 </div>
-<p>Through Mother Tongue Languages, our <strong>Greenridge Champions</strong> learn
-to carry forward values of <strong>empathy, respect, and responsibility</strong>.
-By applying their language skills in authentic contexts such as <strong>community projects, performances, and translation work</strong>,
-they contribute to <strong>Singapore’s bilingual identity</strong> and serve
-as <strong>ambassadors of their culture and heritage</strong>. In doing
-so, they play a vital role in strengthening the bonds between past and
-present, ensuring that culture and language remain vibrant for generations
-to come.&nbsp;</p>
+<p>The knowledge our Champions gained through their Mother Tongue language
+experiences empowers them to contribute to the preservation and sustainability
+of the language. Their bilingual skills enhance their communication abilities
+and deepen their appreciation of the language’s culture and heritage, enabling
+them to serve the community meaningfully.</p>
 <p>&nbsp;</p>
 <h4><strong>Key Features of Mother Tongue Languages @ Greenridge</strong>&nbsp;</h4>
 <ul>
