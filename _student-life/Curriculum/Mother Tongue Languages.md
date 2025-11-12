@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h1><strong>Mother Tongue Languages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&nbsp;</h1>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/3_Learning_Journey_To_Peranakan_Museum.jpg">
 </div>
