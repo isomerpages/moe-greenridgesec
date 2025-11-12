@@ -22,9 +22,13 @@ life and develop a lifelong passion for their languages.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/10 script it right 2.jpg">
 </div>
-<p>We provide students with opportunities to explore new possibilities and
-perspectives through immersive and engaging programmes such as the Applied
-Learning Programme, MTL Fortnight activities, and learning journeys.</p>
+<p>We inspire our Champions to imagine how language shapes stories, values,
+and traditions. Through programmes such as the Applied Learning Programme
+(ALP), MTL Fortnight, and learning journeys, students explore possibilities
+for keeping their culture alive in modern ways. Whether envisioning a new
+twist on a traditional tale, reinterpreting festivals through creative
+projects, or connecting heritage to contemporary life, they begin to imagine
+how language can evolve while preserving its roots.</p>
 <p><strong>Discover</strong>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/5 ml silat.jpeg">
@@ -33,14 +37,13 @@ Learning Programme, MTL Fortnight activities, and learning journeys.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/7 cl taiji.jpg">
 </div>
-<p>Our Greenridge Champions are nurtured to become persuasive communicators
-through our Applied Learning Programme. With a translation component embedded
-in classroom learning, they develop the ability to express themselves confidently
-in both English and their Mother Tongue. From translating real-life posters
-and videos to producing their own news reports, they explore creative ways
-to convey information effectively. Through these experiences, they learn
-to embrace linguistic and cultural diversity, fostering a deeper appreciation
-for different perspectives through meaningful communication.</p>
+<p>Our Champions discover the beauty and depth of their languages through
+immersive and hands-on experiences. They take part in translation activities,
+workshops, and cultural learning journeys that connect them with history
+and community. From visiting places like the Peranakan Museum or Kampong
+Lorong Buangkok to exploring traditional art forms and performances, they
+gain a deeper appreciation of linguistic diversity and cultural expression.
+These experiences strengthen their sense of identity and belonging.</p>
 <p><strong>Express</strong>&nbsp;
 <br>
 </p>
@@ -59,12 +62,12 @@ for different perspectives through meaningful communication.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/Raya14Apr_4.jpg">
 </div>
-<p>Our Champions express their thoughts and opinions confidently through
-writing, speech, and actions. During Mother Tongue Fortnight and MTL Week,
-they express themselves by participating in activities that showcase cultural
-traditions such as traditional games. Through these enriching experiences,
-our Champions further express their sense of identity and reflect on the
-learning gained from their participation.</p>
+<p>Champions learn to express themselves confidently through writing, speech,
+and performance. They participate in MTL Week and Mother Tongue Fortnight
+activities that encourage storytelling, drama, and debate, showcasing both
+creativity and communication skills. Whether through poetry, public speaking,
+or video creation, our students articulate their thoughts clearly and share
+their voices with pride and purpose.</p>
 <p><strong>Accomplish</strong>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/8 beauty of tl.jpg">
@@ -73,11 +76,12 @@ learning gained from their participation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MotherTongue2023/9 script it right.jpg">
 </div>
-<p>
-<br>Our Greenridge Champions have attained national recognition, winning accolades
-in poetry-writing, translation, radio drama, script-writing, and oratory
-competitions. These achievements reflect not only their language mastery
-but also their confidence, creativity, and cultural pride. </p>
+<p>Our Greenridge Champions demonstrate excellence by applying their language
+skills in authentic and competitive settings. They have earned national
+recognition in poetry writing, translation, radio drama, scriptwriting,
+and public speaking. These achievements reflect not only mastery of their
+Mother Tongue but also determination, creativity, and a strong sense of
+cultural pride.</p>
 <p><strong>Serve</strong>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
