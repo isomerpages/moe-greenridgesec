@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h2><strong>Science (Physics, Chemistry, Biology, Nutrition and Food Science)</strong></h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science2023/vertical garden_1.jpeg">
 </div>
