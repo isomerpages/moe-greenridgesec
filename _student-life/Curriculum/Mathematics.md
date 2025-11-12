@@ -7,6 +7,9 @@ third_nav_title: Curriculum
 ---
 <h1><strong>Mathematics, Principles of Accounts (POA) &amp; Elements of Business Skills (EBS)</strong>&nbsp;</h1>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MathsPOAEBS2023/2023 ebs digital tic-tac-toe competition.jpeg">
+</div>
 <h4><strong>Our Belief: Cultivating Champions of Reasoning and Innovation</strong>&nbsp;</h4>
 <p>The Mathematics, POA, and EBS curriculum at Greenridge Secondary empowers
 our Greenridge Champions with the knowledge, skills, and confidence to
@@ -17,15 +20,26 @@ nurtures entrepreneurial thinking and practical business awareness. Together,
 these subjects foster adaptable Champions who are ready to thrive in a
 rapidly evolving world.&nbsp;</p>
 <h4><strong>Mathematics, POA &amp; EBS through IDEAS</strong>&nbsp;</h4>
-<p><strong>Imagine</strong>&nbsp;
-<br>Our Greenridge Champions learn to envision possibilities by tackling real-world
+<p><strong>Imagine</strong>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MathsPOAEBS2023/lower sec mathematical modelling.jpeg">
+</div>
+<p>Our Greenridge Champions learn to envision possibilities by tackling real-world
 challenges through Mathematical Modelling tasks. They experiment with different
 strategies, design solutions, and express creativity in how they present
 their models. In EBS, Champions imagine themselves as entrepreneurs and
 business owners during learning journeys to retail and hospitality settings,
 visualising how businesses meet consumer needs.&nbsp;</p>
-<p><strong>Discover</strong>&nbsp;
-<br>Inquiry and exploration are central to learning. In Mathematics, Champions
+<p><strong>Discover</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MathsPOAEBS2023/img_02.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MathsPOAEBS2023/Image__2_.jpg">
+</div>
+<p>Inquiry and exploration are central to learning. In Mathematics, Champions
 deepen understanding through activity-based learning and teacher-directed
 inquiry, asking questions, investigating patterns, and uncovering connections
 across concepts. In POA, they use Excel spreadsheets to prepare financial
@@ -33,16 +47,35 @@ reports and income statements, discovering how digital tools are applied
 in professional practice. In EBS, students gain insights into the business
 world through authentic observations and data collection, preparing for
 coursework and future applications.&nbsp;</p>
-<p><strong>Express</strong>&nbsp;
-<br>Champions learn to communicate their reasoning clearly, whether it is
+<p><strong>Express</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MathsPOAEBS2023/img_01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MathsPOAEBS2023/Image__3_.jpg">
+</div>
+<p>Champions learn to communicate their reasoning clearly, whether it is
 explaining algebra during the Sec 2 Algebra Clinic, presenting mathematical
 models to peers and teachers, or defending their solutions during class
 discussions. EBS students express their business knowledge creatively through
 activities like the Digital Tic-Tac-Toe competition, where gamification
 helps them apply concepts interactively and present their choices with
 confidence.&nbsp;</p>
-<p><strong>Accomplish</strong>&nbsp;
-<br>Greenridge Champions demonstrate excellence when they apply learning in
+<p><strong>Accomplish</strong>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MathsPOAEBS2023/Image.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MathsPOAEBS2023/Image__13_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MathsPOAEBS2023/Image__12___1_.jpg">
+</div>
+<p>Greenridge Champions demonstrate excellence when they apply learning in
 authentic and competitive platforms. Lower Secondary students build teamwork
 and resilience through Mathematical Modelling projects, while higher ability
 students stretch themselves in the Australian Mathematics Competition and
@@ -50,6 +83,7 @@ the Singapore Mathematics Olympiad. EBS Champions showcase their knowledge
 at the nationwide Digital Tic-Tac-Toe competition, while POA students apply
 financial reporting skills with precision using ICT. These achievements
 highlight the confidence and versatility our Champions bring to their disciplines.&nbsp;</p>
+<p></p>
 <p><strong>Serve</strong>&nbsp;
 <br>Learning in Mathematics, POA, and EBS extends beyond examinations. Our
 Greenridge Champions apply their knowledge to solve problems, analyse data,
