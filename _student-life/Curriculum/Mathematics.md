@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h1><strong>Mathematics, Principles of Accounts (POA) &amp; Elements of Business Skills (EBS)</strong>&nbsp;</h1>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MathsPOAEBS2023/2023 ebs digital tic-tac-toe competition.jpeg">
 </div>
@@ -31,7 +30,6 @@ their models. In EBS, Champions imagine themselves as entrepreneurs and
 business owners during learning journeys to retail and hospitality settings,
 visualising how businesses meet consumer needs.&nbsp;</p>
 <p><strong>Discover</strong>&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MathsPOAEBS2023/img_02.jpg">
 </div>
@@ -48,7 +46,6 @@ in professional practice. In EBS, students gain insights into the business
 world through authentic observations and data collection, preparing for
 coursework and future applications.&nbsp;</p>
 <p><strong>Express</strong>&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MathsPOAEBS2023/img_01.jpg">
 </div>
@@ -83,7 +80,6 @@ the Singapore Mathematics Olympiad. EBS Champions showcase their knowledge
 at the nationwide Digital Tic-Tac-Toe competition, while POA students apply
 financial reporting skills with precision using ICT. These achievements
 highlight the confidence and versatility our Champions bring to their disciplines.&nbsp;</p>
-<p></p>
 <p><strong>Serve</strong>&nbsp;
 <br>Learning in Mathematics, POA, and EBS extends beyond examinations. Our
 Greenridge Champions apply their knowledge to solve problems, analyse data,
