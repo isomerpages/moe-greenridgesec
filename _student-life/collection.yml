@@ -2,22 +2,30 @@ collections:
   student-life:
     output: true
     order:
+      - Curriculum/.keep
       - Curriculum/Curriculum.md
-      - Curriculum/English Language & Literature.md
-      - Curriculum/Mathematics, POA and EBS.md
-      - Curriculum/Humanities.md
-      - Curriculum/Mother Tongue.md
-      - Curriculum/Science.md
-      - Curriculum/Design & Technology.md
       - Curriculum/Aesthetics.md
-      - Curriculum/Physical Education.md
       - Curriculum/Character and Citizenship Education.md
-      - Curriculum/Infocomm Technology.md
-      - Curriculum/.keep
-      - Curriculum/.keep
-      - Curriculum/Student Leadership.md
-      - Curriculum/Co Curricular Activities (CCA).md
-      - Curriculum/Uniformed Groups.md
-      - Curriculum/Sports & Games.md
-      - Curriculum/Performing Arts.md
-      - Curriculum/Clubs & Societies.md
+      - Curriculum/English and English Literature.md
+      - Curriculum/Humanities.md
+      - Curriculum/Science.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Mother Tongue Languages.md
+      - Curriculum/Physical Education.md
+      - Co Curricular Activities/CCA.md
+      - Co Curricular Activities/Football.md
+      - Co Curricular Activities/Netball.md
+      - Co Curricular Activities/Rugby.md
+      - Co Curricular Activities/Tchoukball.md
+      - Co Curricular Activities/Volleyball.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Band.md
+      - Co Curricular Activities/Dance.md
+      - Co Curricular Activities/Drama.md
+      - Co Curricular Activities/Infocomm Technology.md
+      - Co Curricular Activities/Robotics.md
+      - Co Curricular Activities/Girls Brigade.md
+      - Co Curricular Activities/National Cadet Corps.md
+      - Co Curricular Activities/National Civil Defence Cadet Corps.md
+      - Co Curricular Activities/National Police Cadet Corps.md
+      - Co Curricular Activities/Scouts.md

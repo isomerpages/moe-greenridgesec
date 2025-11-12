@@ -1,146 +1,136 @@
 ---
 title: Physical Education
-permalink: /student-life/curriculum/physical-education/
+permalink: /physical-education/
+variant: tiptap
 description: ""
 third_nav_title: Curriculum
 ---
-# **Physical Education**
-
-#### OUR BELIEFS
-The purpose of Physical Education is to enable students to demonstrate the physical skills, practices and values to enjoy a lifetime of active, healthy living. We strive to develop every Greenridgean to be physically fit, and to embrace and&nbsp; advocate for a healthy lifestyle.
-
-#### HOW WE ENGAGE OUR STUDENTS
-We design our PE programme to enable students to progressively learn knowledge, skills, and values in alignment with the 6 goals of MOE’s Revised PE Syllabus. 
-
-
-
-<table style="width:480.95pt;border-collapse:collapse;border:none;mso-yfti-tbllook:
- 1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:
- none" width="641" cellpadding="0" cellspacing="0" border="0" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:19.85pt"><td style="width:58.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:19.85pt" valign="top" width="77"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="color:#484848" lang="EN">Goal 1</span></p></td><td style="width:422.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:19.85pt" valign="top" width="564"><p style="line-height:normal" class="MsoNormal"><span style="color:
-  #484848" lang="EN">Acquire a range of movement skills to participate in a variety of physical activities.</span></p></td></tr><tr style="mso-yfti-irow:1;height:39.75pt"><td style="width:58.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:39.75pt" valign="top" width="77"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="color:#484848" lang="EN">Goal 2</span></p></td><td style="width:422.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:39.75pt" valign="top" width="564"><p style="line-height:normal" class="MsoNormal"><span style="color:
-  #484848" lang="EN">Understand and apply movement concepts, principles, and strategies in a range of physical activities.</span></p></td></tr><tr style="mso-yfti-irow:2;height:38.65pt"><td style="width:58.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:38.65pt" valign="top" width="77"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="color:#484848" lang="EN">Goal 3</span></p></td><td style="width:422.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:38.65pt" valign="top" width="564"><p style="line-height:normal" class="MsoNormal"><span style="color:
-  #484848" lang="EN">Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment</span></p></td></tr><tr style="mso-yfti-irow:3;height:19.85pt"><td style="width:58.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:19.85pt" valign="top" width="77"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="color:#484848" lang="EN">Goal 4</span></p></td><td style="width:422.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:19.85pt" valign="top" width="564"><p style="line-height:normal" class="MsoNormal"><span style="color:
-  #484848" lang="EN">Display positive personal and social behaviour across different experiences</span></p></td></tr><tr style="mso-yfti-irow:4;height:39.75pt"><td style="width:58.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:39.75pt" valign="top" width="77"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="color:#484848" lang="EN">Goal 5</span></p></td><td style="width:422.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:39.75pt" valign="top" width="564"><p style="line-height:normal" class="MsoNormal"><span style="color:
-  #484848" lang="EN">Acquire and maintain health-enhancing fitness through regular participation in physical activities</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:19.85pt"><td style="width:58.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:19.85pt" valign="top" width="77"><p style="text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="color:#484848" lang="EN">Goal 6</span></p></td><td style="width:422.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:19.85pt" valign="top" width="564"><p style="line-height:normal" class="MsoNormal"><span style="color:
-  #484848" lang="EN">Enjoy and value the benefits of living a physically active and healthy lifestyle</span></p></td></tr></tbody></table>
-
-
-
-We adopt a modified Sport Education Model together with Differentiated Instruction (DI) by roles or tasks to teach PE. This teaching approach is inclusive and allows students of all physical abilities to participate, and experience Imagine, Discover, Express, Achieve and Serve (IDEAS) in learning the different PE modules. 
-
-We use ICT platforms to supplement students with resources for learning. We use formative assessment and feedback to guide our students to acquire the learning outcomes of each module. 
-
-The experience of PE in Greenridge Secondary also includes participation in PE co-curriculum programmes such as Sports Carnival, Annual Cross-country, Team Grit Challenge and Outdoor Adventure Learning Camps. 
-
-Our total PE experience develops students to be confident learners, compassionate leaders, and ethical innovators. 
-
-#### PE Modules offered
-1. Physical Activities<br>
-i. Territorial-Invasion Games [3 sports only]
-- Basketball / Netball
-- Floorball
-- Football / Tag Rugby
-
-ii.	Net-barrier Games [2 sports only]
-- Badminton / Pickleball / Mini Tennis
-- Volleyball / Tchoukball
-
-iii.	Field-Putting Games [1 sport only]
-- Softball / Cricket
-
-2.	Physical Health and Fitness\
-i. Sprints &amp; Cross-country running\
-ii.	National Physical Fitness Assessment (NAPFA)
-
-3.	Outdoor Education
-- Risk Assessment &amp; First Aid &amp; CPR
--	Shelter-building &amp; Tent-pitching Competition
-- Navigation &amp; Orienteering Competition
-- Outdoor Cooking &amp; Master-Chef competition
-- Outdoor Expedition &amp; Overnight Camping
-
- 
-
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="676" style="width:507.15pt;border-collapse:collapse;border:none;mso-border-alt:
- solid #7030A0 .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
- mso-border-insideh:.5pt solid #7030A0;mso-border-insidev:.5pt solid #7030A0"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.3pt"><td width="143" valign="top" style="width:107.35pt;border:solid #7030A0 1.0pt;
-  mso-border-alt:solid #7030A0 .5pt;background:#CCC0D9;mso-background-themecolor:
-  accent4;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt;height:15.3pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><span lang="EN" style="font-size:12.0pt;color:black;mso-color-alt:windowtext;
-  mso-bidi-font-weight:bold">Programmes</span><span lang="EN" style="font-size:
-  12.0pt;mso-bidi-font-weight:bold"></span></p></td><td width="533" valign="top" style="width:399.8pt;border:solid #7030A0 1.0pt;
-  border-left:none;mso-border-left-alt:solid #7030A0 .5pt;mso-border-alt:solid #7030A0 .5pt;
-  background:#CCC0D9;mso-background-themecolor:accent4;mso-background-themetint:
-  102;padding:0cm 5.4pt 0cm 5.4pt;height:15.3pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><span lang="EN" style="font-size:12.0pt;color:black;mso-color-alt:windowtext;
-  mso-bidi-font-weight:bold">Objectives</span><span lang="EN" style="font-size:
-  12.0pt;mso-bidi-font-weight:bold"></span></p></td></tr><tr style="mso-yfti-irow:1;height:30.7pt"><td width="143" valign="top" style="width:107.35pt;border:solid #7030A0 1.0pt;
-  border-top:none;mso-border-top-alt:solid #7030A0 .5pt;mso-border-alt:solid #7030A0 .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:30.7pt"><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
-  12.0pt;mso-bidi-font-weight:bold">Sports Carnival</span></p></td><td width="533" valign="top" style="width:399.8pt;border-top:none;border-left:
-  none;border-bottom:solid #7030A0 1.0pt;border-right:solid #7030A0 1.0pt;
-  mso-border-top-alt:solid #7030A0 .5pt;mso-border-left-alt:solid #7030A0 .5pt;
-  mso-border-alt:solid #7030A0 .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.7pt"><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
-  12.0pt;mso-bidi-font-weight:bold">Our Sports Carnival and Sports Fiesta provides students of various sport abilities a chance to take part in inter-class sports competitions.</span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
-  12.0pt;mso-bidi-font-weight:bold">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2;height:61.6pt"><td width="143" valign="top" style="width:107.35pt;border:solid #7030A0 1.0pt;
-  border-top:none;mso-border-top-alt:solid #7030A0 .5pt;mso-border-alt:solid #7030A0 .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:61.6pt"><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
-  12.0pt;mso-bidi-font-weight:bold">Level Wide Outdoor Adventure Learning Camps</span></p></td><td width="533" valign="top" style="width:399.8pt;border-top:none;border-left:
-  none;border-bottom:solid #7030A0 1.0pt;border-right:solid #7030A0 1.0pt;
-  mso-border-top-alt:solid #7030A0 .5pt;mso-border-left-alt:solid #7030A0 .5pt;
-  mso-border-alt:solid #7030A0 .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:61.6pt"><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
-  12.0pt;mso-bidi-font-weight:bold">Outdoor Adventure Learning Camp is a level-wide experience for our students in both lower and upper secondary. In alignment with the MOE Outdoor Education Master Plan, the camp imparts to students values and skills such as resilience, ruggedness, and teamwork</span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
-  12.0pt;mso-bidi-font-weight:bold">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:3;height:46.15pt"><td width="143" valign="top" style="width:107.35pt;border:solid #7030A0 1.0pt;
-  border-top:none;mso-border-top-alt:solid #7030A0 .5pt;mso-border-alt:solid #7030A0 .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:46.15pt"><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
-  12.0pt;mso-bidi-font-weight:bold">Sports Education Programme (SEP)</span></p></td><td width="533" valign="top" style="width:399.8pt;border-top:none;border-left:
-  none;border-bottom:solid #7030A0 1.0pt;border-right:solid #7030A0 1.0pt;
-  mso-border-top-alt:solid #7030A0 .5pt;mso-border-left-alt:solid #7030A0 .5pt;
-  mso-border-alt:solid #7030A0 .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:46.15pt"><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
-  12.0pt;mso-bidi-font-weight:bold">This is an engaging post-examination enrichment programme. It provides our students with the opportunity to learn a sport of their choice usually not taught during PE lessons, such as amrtial arts, water sports, bowling etc</span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
-  12.0pt;mso-bidi-font-weight:bold">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4;height:15.3pt"><td width="143" valign="top" style="width:107.35pt;border:solid #7030A0 1.0pt;
-  border-top:none;mso-border-top-alt:solid #7030A0 .5pt;mso-border-alt:solid #7030A0 .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:15.3pt"><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
-  12.0pt;mso-bidi-font-weight:bold">Mass Run</span></p></td><td width="533" valign="top" style="width:399.8pt;border-top:none;border-left:
-  none;border-bottom:solid #7030A0 1.0pt;border-right:solid #7030A0 1.0pt;
-  mso-border-top-alt:solid #7030A0 .5pt;mso-border-left-alt:solid #7030A0 .5pt;
-  mso-border-alt:solid #7030A0 .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:15.3pt"><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
-  12.0pt;mso-bidi-font-weight:bold">All students and staff particaipate in a fitness run at the nature park.</span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
-  12.0pt;mso-bidi-font-weight:bold">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:61.9pt"><td width="143" valign="top" style="width:107.35pt;border:solid #7030A0 1.0pt;
-  border-top:none;mso-border-top-alt:solid #7030A0 .5pt;mso-border-alt:solid #7030A0 .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:61.9pt"><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
-  12.0pt;mso-bidi-font-weight:bold">Recess Play Programme (RPP)</span></p></td><td width="533" valign="top" style="width:399.8pt;border-top:none;border-left:
-  none;border-bottom:solid #7030A0 1.0pt;border-right:solid #7030A0 1.0pt;
-  mso-border-top-alt:solid #7030A0 .5pt;mso-border-left-alt:solid #7030A0 .5pt;
-  mso-border-alt:solid #7030A0 .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:61.9pt"><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
-  12.0pt;mso-bidi-font-weight:bold">This is an unstructured play time during recess time. Students can borrow a piece of sports equipment to play with their friends. The programme encourages students to stay physically active and to achieve at least 20 minutes of continuous physical exercise per day.</span></p><p class="MsoNormal" style="line-height:normal"><span lang="EN" style="font-size:
-  12.0pt;mso-bidi-font-weight:bold">&nbsp;</span></p></td></tr></tbody></table>
-
-
-##### PE Co-curriculum programmes organised include
-
-**Term 1**
-- Sports Carnival – Part 1
--	Sec 1 OAL Camp [4D3N]![](/images/PHYEDU2023/sec%201%20oalcc.gif)
-
-**Term 2**
-- Annual Cross-Country 
--	Sec 2, 4 &amp; 5 NAPFA
-![](/images/PHYEDU2023/axc000.gif)
-
-**Term 3 **
-- Team Grit Challenge  &amp; Dance of the Nation Competition
--	Sec 3 MOE-OBS Challenge Programme [5D4N]
-
-**Term 4 **
-- Sports Carnival – Part 2
+<h1><strong>Physical Education</strong>&nbsp;</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/0D8A0608__1_.jpg">
+</div>
+<h4><strong>Our Belief: Growing Champions&nbsp;</strong>&nbsp;</h4>
+<p>At Greenridge Secondary, Physical Education aims to nurture Greenridge
+Champions<strong> who value outdoor physical activity and embrace healthy living</strong>.
+We strive to equip every student with the <strong>skills, habits, and values</strong> needed
+to lead an <strong>active lifestyle </strong>and <strong>sustain lifelong physical and mental well-being</strong>.&nbsp;&nbsp;</p>
+<p>PE develop our Champions progressively in alignment with MOE’s six goals:
+acquiring a broad range of movement skills, applying movement concepts
+and strategies, practising safe behaviours, demonstrating positive social
+values, maintaining health-enhancing fitness, and appreciating the value
+of an active lifestyle.&nbsp;&nbsp;</p>
+<p>Through sports, outdoor education, and health-focused programmes, PE empowers
+our Champions to grow as confident learners, compassionate leaders, and
+ethical innovators.&nbsp;
+<br>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/IMG_9271_copy.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/IMG_2589_copy.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/SPORTSDAY_27.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/IMG_1710.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/WhatsApp_Image_2024_11_18_at_8_31_50_AM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/IMG_0240.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/sec 1 oalc5.JPG">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/sports carnival 2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/axc003.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/0D8A0570.jpg">
+</div>
+<h4><strong>Physical Education through IDEAS&nbsp;</strong></h4>
+<p>
+<br><strong>Imagine</strong>&nbsp;
+<br>Our Greenridge Champions imagine possibilities through diverse physical
+activities.&nbsp;&nbsp;</p>
+<p>In modules such as <strong>territorial-invasion, net-barrier, and field-putting games</strong>,
+they explore creative strategies and teamwork. In outdoor education, activities
+like <strong>shelter-building, orienteering, and outdoor cooking competitions</strong> give
+them the chance to think innovatively in authentic settings.&nbsp;</p>
+<p></p>
+<p><strong>Discover</strong>&nbsp;</p>
+<p>Champions discover the joy of movement and the science of fitness through <strong>sprints, cross-country, and NAPFA training</strong>,
+supported by ICT platforms that extend learning. In the <strong>Sports Education Programme (SEP)</strong>,
+they explore new and unconventional sports, from martial arts to water
+sports, discovering passions that extend beyond the PE syllabus.&nbsp;</p>
+<p></p>
+<p><strong>Express</strong>
+</p>
+<p>Our Champions express themselves through <strong>active participation and collaboration</strong>,
+demonstrating resilience and teamwork during key events such as the Sports
+Carnival, Cross-Country, Our Vitality, and Dance of the Nation. The Recess
+Play Programme (RPP) further promotes unstructured play, offering students
+the freedom to explore creativity, take initiative, and strengthen social
+bonds through movement.&nbsp;</p>
+<p></p>
+<p><strong>Accomplish</strong>&nbsp;</p>
+<p>Greenridge Champions demonstrate accomplishment through completing outdoor
+expeditions and fitness challenges. Programmes such as the Outdoor Adventure
+Learning Camps and the MOE-OBS Challenge provide meaningful opportunities
+for students to take on demanding tasks that build ruggedness, courage,
+and resourcefulness. Through level-wide runs, inter-class sports, and physical
+fitness assessments, they set personal goals, monitor their progress, and
+grow in confidence in their physical abilities.&nbsp;</p>
+<p></p>
+<p><strong>Serve</strong>&nbsp;</p>
+<p>Through physical activity, our Greenridge Champions learn to serve others
+by <strong>practicing safe behaviours, encouraging their peers, and leading by example. </strong>Whether
+they are motivating classmates during <strong>NAPFA</strong>, helping to
+organise school events, or promoting healthy living, they cultivate responsibility
+and empathy—contributing to a caring and inclusive school community&nbsp;</p>
+<p></p>
+<h4><strong>Key Features of Physical Education at Greenridge</strong>&nbsp;</h4>
+<ul>
+<li>
+<p><strong>Progressive Curriculum:</strong> Aligned to MOE’s 6 goals, with
+modules in games, fitness, and outdoor education that develop skills and
+values step by step.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>Outdoor Adventure Learning:</strong> Camps, expeditions, and physical
+challenges foster resilience, ruggedness, and teamwork in authentic outdoor
+settings.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>ICT-Enhanced Learning:</strong> Digital platforms and feedback
+tools support fitness tracking, skill acquisition, and self-directed growth
+in PE.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>Programmes and Events:</strong> Sports Carnival, Cross-Country,
+GSS Summit - Our Vitality, Recess Play Programme, and SEP provide opportunities
+for participation, enrichment, and lifelong enjoyment of sport.&nbsp;</p>
+</li>
+</ul>
+<p>&nbsp;</p>

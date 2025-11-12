@@ -19,6 +19,24 @@ sections:
           url: /looking-great-2025/
       background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
   - infopic:
+      title: Discover your future at Greenridge!
+      id: infopic
+      description: Visit our DiscoverGSS  page to explore how we nurture confident
+        learners, compassionate leaders, and ethical innovators.
+      button: Visit DiscoverGSS
+      url: https://sites.google.com/view/discover-gss
+      image: /images/2024 Miscellanous/discoveryourselfgss.png
+      alt: DiscoverGSS
+  - infopic:
+      title: Which GSS Champion are you?
+      id: infopic
+      description: "Take our quiz and find out which of our 8 Champions you are!
+        Disclaimer: Quiz results are for fun only - no house changes allowed!"
+      button: Which champion?
+      url: https://ooopenlab.cc/quiz/GSSChampion2025
+      image: /images/2024 Miscellanous/which champion.gif
+      alt: Image alt text
+  - infopic:
       title: Direct School Admission (DSA)
       id: infopic
       image: /images/2025 DSA/dsawelcome2025_min.gif
