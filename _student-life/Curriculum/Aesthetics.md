@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h1><strong>Aesthetics (Art, Music &amp; Design &amp; Technology)</strong>&nbsp;</h1>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AESTHETICS2023/DSCF4079.jpg">
 </div>
