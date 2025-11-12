@@ -70,16 +70,6 @@ a lasting difference wherever they go.</p>
 <div class="isomer-card-title"></div>
 </div>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image" src="/images/Champions academy/IMG_2065.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-</div>
-</div>
 </div>
 <hr>
 <p></p>
