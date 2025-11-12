@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h1><strong>Physical Education</strong>&nbsp;</h1>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYEDU2023/0D8A0608__1_.jpg">
 </div>
