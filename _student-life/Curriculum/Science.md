@@ -25,7 +25,6 @@ society, and the environment.&nbsp;</p>
 <p></p>
 <h4><strong>Science through IDEAS</strong>&nbsp;</h4>
 <p><strong>Imagine</strong>&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science2023/water filtration_2.jpeg">
 </div>
@@ -42,7 +41,6 @@ in mini-worlds. Through such projects, students imagine how science can
 be applied to solve authentic global challenges such as sustainability,
 clean water, and climate change.&nbsp;</p>
 <p><strong>Discover</strong>&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science2023/terrarium_2.jpeg">
 </div>
@@ -65,7 +63,6 @@ donate their harvest to the community. Visits to science exhibitions and
 the use of models, demonstration kits, and manipulatives allow students
 to discover scientific concepts in authentic and meaningful ways.&nbsp;</p>
 <p><strong>Express</strong>&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science2023/sysf_2.JPG">
 </div>
@@ -78,7 +75,6 @@ tools to showcase their work. These opportunities allow them to refine
 their scientific voice and share their insights with peers, teachers, and
 wider audiences.&nbsp;</p>
 <p><strong>Accomplish</strong>&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science2023/sjcho_1.jpg">
 </div>
@@ -95,7 +91,6 @@ their innovative project on clothing and heat. Within school, Champions
 accomplish milestones through lab experiments, performance tasks, and long-term
 STEM projects that stretch their problem-solving and collaborative skills.&nbsp;</p>
 <p><strong>Serve</strong>&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science2023/vertical garden_3.jpeg">
 </div>
