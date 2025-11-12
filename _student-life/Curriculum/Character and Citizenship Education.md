@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Curriculum
 ---
 <h1><strong>Character and Citizenship Education (CCE)</strong>&nbsp;</h1>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE2023/Creating_an_automated_food_dispenser_prototype_during_Learn_to_Champion_for_a_Cause_Applying_design_thinking_to_solve_real_world_issues.jpg">
 </div>
