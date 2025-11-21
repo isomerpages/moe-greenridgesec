@@ -32,19 +32,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Noodles Stall</p>
+<p>Halal Noodles/Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 Auguust 2025, 12pm</p>
+<p>5 December 2025, 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Sept 2025</p>
+<p>2 Jan 2026</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Halal Noodles:</u></strong> 
-<br>
-</p>
+<p>Halal Noodles/Rice</p>
+<p>(Malay, Indian, or International flavours - eg. Thai, Korean - are welcome)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -127,7 +127,10 @@ hardcopy from the School’s General Office.</p>
 <p>Photocopy of NRIC (front and back)</p>
 </li>
 <li>
-<p>Proposed Healthy Set meal menu and price-list of each set meal size</p>
+<p>Proposed Healthy Set meal menu and pricelist</p>
+</li>
+<li>
+<p>of each set meal size</p>
 </li>
 <li>
 <p>Photocopy of Basic Food Hygiene Certificate and Certificate of Participation
