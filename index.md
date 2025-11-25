@@ -19,11 +19,10 @@ sections:
           url: /looking-great-2025/
       background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
   - infopic:
-      title: Your Choice
-      subtitle: To ALL P Sixers
+      title: "GSS: Your Launchpad to Future Success"
       id: infopic
-      description: GSS Graduates
-      button: Button Text
+      description: Every achievement begins with a dream. At GSS, we are proud to be
+        part of our students’ paths to success and lifelong learning.
       image: /images/2025 DSA/3_154.png
       alt: Image alt text
   - infopic:
