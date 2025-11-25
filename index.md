@@ -57,4 +57,12 @@ sections:
   - resources:
       title: Resources
       id: resources
+  - infopic:
+      title: Your Choice
+      subtitle: To ALL P Sixers
+      id: infopic
+      description: GSS Graduates
+      button: Button Text
+      image: /images/2025 DSA/3_154.png
+      alt: Image alt text
 ---
