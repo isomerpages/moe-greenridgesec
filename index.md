@@ -23,7 +23,7 @@ sections:
       id: infopic
       description: Every achievement begins with a dream. At GSS, we are proud to be
         part of our students’ paths to success and lifelong learning.
-      image: /images/2025 DSA/3_154.png
+      image: /images/2025 DSA/Nigel_and_Wayne_GIF.gif
       alt: Image alt text
   - infopic:
       title: Discover your future at Greenridge!
