@@ -19,7 +19,7 @@ sections:
           url: /looking-great-2025/
       background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
   - infopic:
-      title: "GSS: Your Launchpad to Future Success"
+      title: "Greenridge: Your Launchpad to Future Success"
       id: infopic
       description: Every achievement begins with a dream. At GSS, we are proud to be
         part of our students’ paths to success and lifelong learning.
