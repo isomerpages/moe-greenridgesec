@@ -57,7 +57,7 @@ sections:
       id: infopic
       description: See what’s happening! For the latest news and events, follow us on
         Instagram.
-      image: /images/2024 Miscellanous/Follow_Us_Instagram_Post.gif
+      image: /images/2025 DSA/GSS_Website_Insta_final.gif
       alt: Gif of follow us on Instagram
       button: "@greenridgesecsch"
       url: https://www.instagram.com/greenridgesecsch/
