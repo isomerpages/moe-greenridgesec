@@ -34,7 +34,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs. Dalina Abdullah - Firdouse</strong>
+<p><strong>Ms. Tan Ee Ling Ellen</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
