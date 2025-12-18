@@ -21,15 +21,13 @@ Jing on 20 December 2025.</p>
 <p>Parents who have not downloaded the PG app can refer to the link below
 for more information: <a rel="noopener noreferrer nofollow" target="_blank">pg.moe.edu.sg</a>&nbsp;</p>
 </li>
-</ul>
+<li>
 <p>Please call our General Office at 67691491 if you have any further questions.</p>
-<p>&nbsp;</p>
-<p><strong>Click <u>here</u> for the “<em>Information Kit for 2026 Secondary 1 Students and Parents</em>”.</strong>
+</li>
+</ul>
+<p>&nbsp;<strong>Click <u>here</u> for the “<em>Information Kit for 2026 Secondary 1 Students and Parents</em>”.</strong>
 </p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Appeal for Admission to Greenridge Secondary School</strong>
+<p><strong><u>Appeal for Admission to Greenridge Secondary School</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -57,11 +55,11 @@ click on the following link to complete the Appeal Form: <a rel="noopener norefe
 <li>
 <p>The application is deemed to be unsuccessful if you do not hear from the
 school by 2 January 2026.</p>
+<p></p>
+<p>&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Transfer Out of Greenridge Secondary School</strong>
+<p><strong><u>Transfer Out of Greenridge Secondary School</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
