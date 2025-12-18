@@ -49,7 +49,7 @@ school's assessment of the applicant's suitability.</p>
 <li>
 <p>Parents/Guardians who wish to transfer your child/ward into Greenridge
 Secondary School due to <strong>non-medical conditions</strong>, please
-click on the following link to complete the Appeal Form: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gsssec1appeal2025</a>
+click on the following link to complete the Appeal Form: <a href="https://go.gov.sg/gsssec1appeal2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gsssec1appeal2025</a>
 </p>
 </li>
 <li>
