@@ -16,4 +16,5 @@ You are strongly encouraged to apply for MOE FAS via the online e-FAS applicatio
 
 #### Link to e-FAS Application Form: 
 
-[MOE Financial Assistance Application Form for 2026 [GGAS] | FormSG](https://form.gov.sg/68b7e92465cd36be287889c6) (also available on Parents Gateway (under Services tab – Financial Assistance) via Singpass login)
+
+Link to e-FAS Application Form:  [MOE Financial Assistance Application Form for 2026 [GGAS] | FormSG](https://form.gov.sg/68b7e92465cd36be287889c6)(also available on Parents Gateway (under Services tab – Financial Assistance) via Singpass login)
