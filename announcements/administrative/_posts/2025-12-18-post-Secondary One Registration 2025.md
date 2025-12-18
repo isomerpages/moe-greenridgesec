@@ -9,8 +9,7 @@ file_url: /files/Secondary One
   2026/Information_Kit_for_2026_Secondary_1_Students_and_Parents.pdf
 permalink: /sec-one-reg2025/
 ---
-<p>&nbsp;</p>
-<h3><strong>Secondary 1 Registration 2025&nbsp;</strong></h3>
+<h3>&nbsp;<strong>Secondary 1 Registration 2025&nbsp;</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Welcome to Greenridge Secondary School!</p>
