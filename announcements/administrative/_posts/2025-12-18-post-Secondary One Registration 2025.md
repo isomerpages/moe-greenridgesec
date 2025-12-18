@@ -28,7 +28,7 @@ Jing on 20 December 2025.</p>
 </li>
 <li>
 <p>Parents who have not downloaded the PG app can refer to the link below
-for more information: <a rel="noopener noreferrer nofollow" target="_blank">pg.moe.edu.sg</a>&nbsp;</p>
+for more information: <a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">pg.moe.edu.sg</a>&nbsp;</p>
 </li>
 <li>
 <p>Please call our General Office at 67691491 if you have any further questions.</p>
