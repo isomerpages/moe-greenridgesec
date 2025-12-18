@@ -34,10 +34,7 @@ for more information: <a rel="noopener noreferrer nofollow" target="_blank">pg.m
 <p>Please call our General Office at 67691491 if you have any further questions.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>Click <u>here</u> for the “<em>Information Kit for 2026 Secondary 1 Students and Parents</em>”.</strong>
-</p>
-<p>&nbsp;<strong>&nbsp;</strong>
+<p>&nbsp;<strong>Click <u>here</u> for the “<em>Information Kit for 2026 Secondary 1 Students and Parents</em>”.</strong>
 </p>
 <p><strong><u>Appeal for Admission to Greenridge Secondary School</u></strong>
 </p>
