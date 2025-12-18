@@ -33,7 +33,7 @@ for more information: <a href="https://pg.moe.edu.sg/" rel="noopener noreferrer 
 </ul>
 <p>&nbsp;<strong>Click <a href="/files/Secondary One 2026/Information_Kit_for_2026_Secondary_1_Students_and_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for the “<em>Information Kit for 2026 Secondary 1 Students and Parents</em>”.</strong>
 </p>
-<p><strong><u>Appeal for Admission to Greenridge Secondary School</u></strong>
+<p><strong>Appeal for Admission to Greenridge Secondary School</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -64,7 +64,7 @@ school by 2 January 2026.</p>
 <p></p>
 </li>
 </ul>
-<p><strong><u>Transfer Out of Greenridge Secondary School</u></strong>
+<p><strong>Transfer Out of Greenridge Secondary School</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
