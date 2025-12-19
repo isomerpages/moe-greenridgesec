@@ -18,6 +18,9 @@ sections:
           description: Our achievements
           url: /looking-great-2025/
       background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
+  - resources:
+      title: Resources
+      id: resources
   - infopic:
       title: "Greenridge: Your Launchpad to Future Success"
       id: infopic
@@ -61,7 +64,4 @@ sections:
       alt: Gif of follow us on Instagram
       button: "@greenridgesecsch"
       url: https://www.instagram.com/greenridgesecsch/
-  - resources:
-      title: Resources
-      id: resources
 ---
