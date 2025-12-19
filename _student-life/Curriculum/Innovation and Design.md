@@ -1,11 +1,11 @@
 ---
-title: Aesthetics
-permalink: /aesthetics/
+title: Innovation and Design
+permalink: /innovationanddesign/
 variant: tiptap
 description: ""
 third_nav_title: Curriculum
 ---
-<h1><strong>Aesthetics (Art, Music &amp; Design &amp; Technology)</strong>&nbsp;</h1>
+<h1><strong>Innovation and Design (Art, Music &amp; Design &amp; Technology)</strong>&nbsp;</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AESTHETICS2023/DSCF4079.jpg">
 </div>
