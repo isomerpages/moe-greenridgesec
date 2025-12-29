@@ -35,10 +35,10 @@ variant: tiptap
 <p>Halal Noodles/Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 December 2025, 3pm</p>
+<p>30 Jan 2026, 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Jan 2026</p>
+<p>23 Mar 2026</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
