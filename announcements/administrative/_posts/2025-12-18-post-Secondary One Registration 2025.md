@@ -31,7 +31,7 @@ for more information: <a href="https://pg.moe.edu.sg/" rel="noopener noreferrer 
 <p>Please call our General Office at 67691491 if you have any further questions.</p>
 </li>
 </ul>
-<p>&nbsp;<strong>Click  </strong><a href="/files/Secondary One 2026/Information_Kit_for_2026_Secondary_1_Students_and_Parents_aa_19_Dec.pdf" rel="noopener nofollow" target="_blank">here </a><strong>for the “<em>Information Kit for 2026 Secondary 1 Students and Parents</em>”.</strong>
+<p>&nbsp;<strong>Click </strong><a href="/files/Secondary One 2026/Information_Kit_for_2026_Secondary_1_Students_and_Parents_aa_19_Dec.pdf" rel="noopener nofollow" target="_blank">here </a><strong>for the “<em>Information Kit for 2026 Secondary 1 Students and Parents</em>”.</strong>
 </p>
 <p><strong>Appeal for Admission to Greenridge Secondary School</strong>
 </p>
@@ -47,11 +47,10 @@ school's assessment of the applicant's suitability.</p>
 <li>
 <p>Parents/Guardians who wish to transfer your child/ward into Greenridge
 Secondary School due to <strong>non-medical conditions</strong>, please
-click on the following link to complete the Appeal Form: <a href="https://go.gov.sg/gsssec1appeal2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gsssec1appeal2025</a>
-</p>
+click on the following link to complete the Appeal Form: <a href="https://go.gov.sg/gsssec1appeal2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gsssec1appeal2025.</a>[<strong><em><u>Link is no longer accessible</u></em></strong>]</p>
 </li>
 <li>
-<p>All appeals are to be submitted by <strong>26 December 2025, 12.00pm</strong>. <strong>Late submission will not be allowed.</strong>
+<p>All appeals are to be submitted by <strong>26 December 2025, 12.00pm</strong>. <strong>Late submission will not be allowed. [<em><u>Appeal Window is now closed</u></em>]</strong>
 </p>
 </li>
 <li>
