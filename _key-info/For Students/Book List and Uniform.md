@@ -9,6 +9,90 @@ variant: tiptap
 <h4>Information for 2026 Textbook and Uniform Sale in GSS</h4>
 <p>All textbooks and uniform may be purchased on-site at Greenridge Secondary
 School (31 Gangsa Road, Singapore 678972)</p>
+<p></p>
+<p><em>Please note the following update to the timing of book and school uniform sales: &nbsp;</em>
+</p>
+<p><strong><u>Information of Bookshop &amp; School Uniform Operating Hours in 2026</u></strong>&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bookshop</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Uniform</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Dates</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Daily from Monday to Friday&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,5,6,7,8,9 Jan 2026&nbsp;</p>
+<p>12, 13 Jan 2026&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Closed on Sat, Sun and Public Holidays&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operating Hours</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7am to 3pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9am to 3pm&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Sales of school uniforms, PE attire, and bowties/ties will be available
+at the bookshop when the School Uniform Supplier is not in operation after <strong>13 Jan 2026&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Book List 2026</h3>
 <p>Please click on your Class to view your booklists for 2026,
 <br><strong>Secondary One, Two, Three and Five students use the same booklist across all streams.</strong>
@@ -102,105 +186,6 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Date Of Sales</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2, 5, 6, 7, 8, 9 January 2026</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operating Hours</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mon to Fri, 9am to 3pm (Closed on Sat, Sun &amp; Public Holidays)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Levels</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secondary 2 to 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
 <p>Bookshop Supplier</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -274,10 +259,11 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Sales/Collection Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classroom G2-01 and G2-02</p>
+<p>School Bookshop beside Canteen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ingenium Room D2-01/02</p>
+<p><s>Ingenium Room D2-01/02</s>
+</p>
 </td>
 </tr>
 <tr>
