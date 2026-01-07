@@ -325,6 +325,19 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr. Muhammad Faiz Bin Rosli</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH _English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: muhammad_faiz_rosli@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_faiz_rosli@gss.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr. Lim Yeun Chen Mark</p>
 </td>
 <td rowspan="1" colspan="1">
