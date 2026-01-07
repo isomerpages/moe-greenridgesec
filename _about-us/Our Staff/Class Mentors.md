@@ -292,7 +292,8 @@ third_nav_title: Our Staff
 <p>3-Agatha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:glenice_au_hui_min@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Glenice Au Hui Min (Math)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lau_yan_wei@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lau Yan Wei (CL)</a>
@@ -649,8 +650,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:glenice_au_hui_min@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Glenice Au Hui Min (Math)</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
