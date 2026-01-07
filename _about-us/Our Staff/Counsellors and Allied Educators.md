@@ -240,14 +240,6 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Tan Ah Ngee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms. Ng Poh Heok (Sandy)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -288,14 +280,6 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Suriaeni Binte Atan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms. Kohilavani</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -304,18 +288,10 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Afiq Anuwar</p>
+<p>Mr. Afiq Anuwar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Losni</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Health Advisor</p>
 </td>
 </tr>
 <tr>
