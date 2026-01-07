@@ -348,7 +348,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_kim_yen_alice@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Ng Kim Yen ALice</a>
+<p><a href="mailto:ng_kim_yen_alice@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Ng Kim Yen Alice</a>
 </p>
 </td>
 </tr>
@@ -396,7 +396,7 @@ third_nav_title: Our Staff
 <p>_</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>_</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>_</p>
@@ -515,7 +515,7 @@ third_nav_title: Our Staff
 <p>4-Zaha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chang_jing@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Chang Jing</a>
+<p><a href="mailto:chang_jing@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Chang Jing (Chemistry)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -530,139 +530,10 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sangeetha_chandra@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Sangeetha d/o Chandra (CPA/Math)</a>
 </p>
-<p><a href="mailto:chang_jing@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Chang Jing (Chemistry)</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:bavani@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. S Bavani</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>CLASS</p>
-</th>
-<th rowspan="1" colspan="2">
-<h4>Secondary Four and Five</h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4-Teresa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4-Nightingale</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_kha_chuang@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Kha Chuang (Physics)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>4-Leonardo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_kim_yen_alice@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Ng Kim Yen, Alice</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4-Galileo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4-Confucius</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4-Beethoven</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4-Agatha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5-Zaha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_ying_ting_denise@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Denise Lim Ying Ting (His)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
