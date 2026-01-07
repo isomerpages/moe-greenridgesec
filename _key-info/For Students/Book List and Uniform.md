@@ -140,9 +140,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p>Date Of Sales</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 Nov 2025 to 12 Dec 2025, 29 to 30 Dec 2025</p>
-<p><strong><em>(Sales of Sec 1 Textbooks will be announced later in December)</em></strong>
-</p>
+<p>2, 5, 6, 7, 8, 9 January 2026</p>
 </td>
 </tr>
 <tr>
