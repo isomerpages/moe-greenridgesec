@@ -229,7 +229,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yi_heng@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Ian Lee Yi Heng (EL)</a>
+<p><a href="mailto:joseph_tan@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Joseph Tan</a>
 </p>
 </td>
 </tr>
