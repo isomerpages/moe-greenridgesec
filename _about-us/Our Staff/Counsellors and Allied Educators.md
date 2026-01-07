@@ -87,13 +87,13 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Koh Hui Yan</p>
+<p>Ms. Lim Lay Choon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Student Welfare Officer</p>
+<p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_hui_yan@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_hui_yan@gss.moe.edu.sg</a>
+<p><a href="mailto:lim_lay_choon@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lay_choon@gss.moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -240,14 +240,6 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Tan Ah Ngee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms. Ng Poh Heok (Sandy)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -288,14 +280,6 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Suriaeni Binte Atan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms. Kohilavani</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -304,18 +288,10 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Afiq Anuwar</p>
+<p>Mr. Afiq Anuwar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Losni</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Health Advisor</p>
 </td>
 </tr>
 <tr>
