@@ -29,13 +29,10 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:radiah_matmin@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Radiah Bte Matmin (ML)</a>
 </p>
-<p><a href="mailto:chiu_guo_vei@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chiu Guo Vei (SS/His)</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:melvin_foo_cheng_loong@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Melvin Foo Cheng Loong (Math)</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -45,13 +42,9 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheong_xinni_cheryl@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Cheryl Cheong (Chemistry)</a>
 </p>
-<p><a href="mailto:shen_wei@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Shen Wei (CL)</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_jia_hui@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Lim Jia Hui (EL/SS)</a>
-</p>
-<p><a href="mailto:cynthia_lim_xin_ru@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Cynthia Lim Xin Ru (EL Lit)</a>
 </p>
 </td>
 </tr>
@@ -62,13 +55,9 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:andy_chia_meng_hong@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Andy Chia Meng Hong (D&amp;T)</a>
 </p>
-<p><a href="mailto:lim_yeun_chen@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Lim Yeun Chen (Math)</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fazliah_abdul_latiff@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Fazliah Abdul Latiff (EL)</a>
-</p>
-<p><a href="mailto:rengasamy_vasanthadhevi@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Rengasamy Vasanthadhevi (TL)</a>
 </p>
 </td>
 </tr>
@@ -79,13 +68,10 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_mei_tju@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Lim Mei Tju, Cheryl (Art)</a>
 </p>
-<p><a href="mailto:toh_xin_hui@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Toh Xin Hui (CL)</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vivian_seow@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Vivian Seow</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -95,11 +81,8 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seah_yiting@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Seah Yiting (Geo)</a>
 </p>
-<p><a href="mailto:Rheverie_CHEN@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Rheverie Chen (EL Lit)</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="mailto:chew_cheng_boon@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Chew Cheng Boon</a>
 </p>
 </td>
@@ -197,7 +180,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Beethoven</p>
+<p>2-Beethoven</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shen_wei@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Shen Wei (CL)</a>
@@ -210,10 +193,9 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Confucius</p>
+<p>2-Confucius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="mailto:lim_yeun_chen@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Lim Yeun Chen (Math)</a>
 </p>
 </td>
@@ -224,7 +206,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Galileo</p>
+<p>2-Galileo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:toh_xin_hui@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Toh Xin Hui (CL)</a>
@@ -237,7 +219,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Leonardo</p>
+<p>2-Leonardo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Rheverie_CHEN@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Rheverie Chen (EL Lit)</a>
@@ -250,7 +232,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Nightingale</p>
+<p>2-Nightingale</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:asrida_riduan_mahmood@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Asrida Binte Riduan Mahmood (ML)</a>
@@ -263,7 +245,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Teresa</p>
+<p>2-Teresa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chin_zhong_ning@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Chin Zhong Ning (Math)</a>
@@ -275,7 +257,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Zaha</p>
+<p>2-Zaha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:natasha_ashikin_nor_sam@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Natasha Ashikin Bte Nor S.A (Music)</a>
