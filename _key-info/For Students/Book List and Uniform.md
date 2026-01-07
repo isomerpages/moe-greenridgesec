@@ -12,7 +12,7 @@ School (31 Gangsa Road, Singapore 678972)</p>
 <p></p>
 <p><em>Please note the following update to the timing of book and school uniform sales: &nbsp;</em>
 </p>
-<p><strong><u>Information of Bookshop &amp; School Uniform Operating Hours in 2026</u></strong>&nbsp;</p>
+<h4><strong><u>Information of Bookshop &amp; School Uniform Operating Hours in 2026</u></strong>&nbsp;</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
