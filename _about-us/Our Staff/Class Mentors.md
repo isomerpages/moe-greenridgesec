@@ -318,7 +318,7 @@ third_nav_title: Our Staff
 <p>3-Confucius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_fasihah_borhan@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Siti Fasihah Borhan (ML)</a>
+<p><a href="mailto:noor_azhar_ahmad@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Noor Azhar Ahmad (D&amp;T)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -344,11 +344,14 @@ third_nav_title: Our Staff
 <p>3-Leonardo</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:ong_eng_jye_ugene@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ugene Ong (Math)</a>
+</p>
 <p><a href="mailto:koh_kha_chuang@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Kha Chuang (Physics)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_kim_yen_alice@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm. Ng Kim Yen ALice</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -360,7 +363,7 @@ third_nav_title: Our Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wendell_wong@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Wendell Wong (Physics)</a>
+<p><a href="mailto:ho_yieng_yieng@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr. Ho Yieng Yieng (PE)</a>
 </p>
 </td>
 </tr>
@@ -555,8 +558,7 @@ third_nav_title: Our Staff
 <p>4-Teresa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noor_azhar_ahmad@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Noor Azhar Ahmad (D&amp;T)</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -622,8 +624,7 @@ third_nav_title: Our Staff
 <p>4-Beethoven</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_eng_jye_ugene@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ugene Ong (Math)</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
