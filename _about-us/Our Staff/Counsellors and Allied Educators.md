@@ -87,13 +87,13 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Koh Hui Yan</p>
+<p>Ms. Lim Lay Choon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Student Welfare Officer</p>
+<p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_hui_yan@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_hui_yan@gss.moe.edu.sg</a>
+<p><a href="mailto:lim_lay_choon@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lay_choon@gss.moe.edu.sg</a>
 </p>
 </td>
 </tr>
