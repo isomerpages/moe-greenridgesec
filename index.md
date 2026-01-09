@@ -18,6 +18,17 @@ sections:
           description: Our achievements
           url: /looking-great-2025/
       background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
+  - announcements:
+      title: Release of GCE O-Level Results -14 Jan 2026
+      id: announcements
+      announcement_items:
+        - title: Release of GCE O-Level Results -14 Jan 2026
+          date: 09 January 2026
+          announcement: The results of the 2025 GCE O-Level Examination will be released
+            at 2.00 p.m. on 14 January. Students may report to school from 1.30
+            p.m., dressed in full school uniform with proper grooming.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: "Greenridge: Your Launchpad to Future Success"
       id: infopic
@@ -61,16 +72,4 @@ sections:
       alt: Gif of follow us on Instagram
       button: "@greenridgesecsch"
       url: https://www.instagram.com/greenridgesecsch/
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: Release of GCE O-Level Results -14 Jan 2026
-          date: 09 January 2026
-          announcement: The results of the 2025 GCE O-Level Examination will be released
-            at 2.00 p.m. on 14 January. Students may report to school from 1.30
-            p.m., dressed in full school uniform with proper grooming.
-          link_text: ""
-          link_url: ""
 ---
