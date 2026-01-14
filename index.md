@@ -18,6 +18,10 @@ sections:
           description: Our achievements
           url: /looking-great-2025/
       background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
   - infopic:
       title: "Greenridge: Your Launchpad to Future Success"
       id: infopic
