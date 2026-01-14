@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>The GCE O Level Examination Results is out. </strong></h4>
+<h4><strong>The GCE O Level Examination Results is out.</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>For Application Procedure for 2026 Joint Admission Exercise Information,
