@@ -253,18 +253,6 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Tan Mei Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_mei_ying@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mei_ying@gss.moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr. Zhong Rongdian, Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
