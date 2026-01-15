@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Staff
 ---
-<h3><strong>Our Staff 2025</strong></h3>
+<h3><strong>Our Staff 2026</strong></h3>
 <h3>Counsellors and Allied Educators</h3>
 <table style="minWidth: 75px">
 <colgroup>
