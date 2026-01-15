@@ -23,7 +23,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jenny Koh</p>
+<p>Ms. Jenny Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
@@ -31,7 +31,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sarjantpal Singh</p>
+<p>Mr. Sarjantpal Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -71,7 +71,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shasthika Jothi D/O Ganasan</p>
+<p>Ms. Shasthika Jothi D/O Ganasan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Adj Corporate Support Officer</p>
@@ -127,7 +127,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Poh Heok (Sandy)</p>
+<p>Ms. Ng Poh Heok (Sandy)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -135,7 +135,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Chia Siew Ping</p>
+<p>Mdm. Chia Siew Ping (Linda)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -159,7 +159,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kohilavani</p>
+<p>Ms. Kohilavani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -167,7 +167,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Afiq Anuwar</p>
+<p>Mr. Afiq Anuwar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
