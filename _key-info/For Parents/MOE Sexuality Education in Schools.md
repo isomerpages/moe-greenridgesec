@@ -88,7 +88,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/CCE/SED 2026/Sec5SED.pdf" rel="noopener nofollow" target="_blank">Secondary Five</a>
+<p><a href="/files/CCE/SED 2026/Sec5_SED.pdf" rel="noopener nofollow" target="_blank">Secondary Five</a>
 </p>
 <p></p>
 </li>
