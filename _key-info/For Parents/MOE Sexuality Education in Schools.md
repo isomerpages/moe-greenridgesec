@@ -116,47 +116,6 @@ Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
 <h4>At Greenridge Secondary School, the eTeens programme will be implemented as follows in 2026:</h4>
-<p>Topics/Lessons Programme Learning Objectives Time Period (e.g. Term 3
-Week 9)</p>
-<p>Mass Talk delivered through a pre-recorded video</p>
-<p>•</p>
-<p>Raise awareness and provide knowledge on:</p>
-<p>a) Sexually transmitted infectious diseases (STIs and HIV): what it is,
-how it spreads, how to prevent infection mainly through ABC (abstinence,
-being faithful, correct, and consistent condom use), consequences and impact</p>
-<p>b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
-negotiation to say ‘no’ to peer pressure)</p>
-<p>c) Managing relationships and risky situations in a healthy way, including
-avenues for help-seeking.</p>
-<p>Term 3 Week 6</p>
-<p>Classroom-based Lesson</p>
-<p>•</p>
-<p>Learn to negotiate their way out of a risky situation by applying skills
-of assertiveness and responsible decision-making</p>
-<p>Term 3 Week 9</p>
-<p></p>
-<h1><strong><u>eTeens Programme:</u></strong></h1>
-<ol data-tight="true" class="tight">
-<li>
-<p>eTeens is a programme developed by Health Promotion Board, in collaboration
-with the Ministry of Education, to provide Secondary students with accurate
-information on STIs, HIV and protection from a health perspective. eTeens
-is conducted in two segments – a mass talk segment and a classroom-based
-programme. The desired outcome of the eTeens programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
-</li>
-<li>
-<p>Students are taught skills such as decision-making, assertiveness and
-negotiation to say “no” to sex and negative peer pressure. They also learn
-that the impact of STIs/HIV extends beyond themselves and involves their
-family, and the importance of responsible decision-making and seeking help.
-Abstinence and upholding family values are the key messages.</p>
-<p></p>
-</li>
-</ol>
-<p><strong>At Greenridge Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
-</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -166,16 +125,13 @@ Abstinence and upholding family values are the key messages.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Topics/Lessons</strong>
-</p>
+<p>Topics/Lessons</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Programme Learning Objectives</strong>
-</p>
+<p>Programme Learning Objectives</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Time Period (e.g. Term 3 Week 9)</strong>
-</p>
+<p>Time Period (e.g. Term 3 Week 9)</p>
 </th>
 </tr>
 <tr>
@@ -184,10 +140,13 @@ Abstinence and upholding family values are the key messages.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Raise awareness and provide knowledge on:</p>
-<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
-to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way.</p>
+<p>a) Sexually transmitted infectious diseases (STIs and HIV): what it is,
+how it spreads, how to prevent infection mainly through ABC (abstinence,
+being faithful, correct, and consistent condom use), consequences and impact</p>
+<p>b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say ‘no’ to peer pressure)</p>
+<p>c) Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 6</p>
@@ -207,7 +166,8 @@ of assertiveness and responsible decision-making</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>INFORMATION FOR PARENTS</strong></h4>
+<p></p>
+<h4>INFORMATION FOR PARENTS</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Parents may opt their children out of the Sexuality Education lessons,
@@ -217,22 +177,20 @@ external providers.</p>
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable here (please
-upload parents opt-out form found in Annex A <a href="/files/CCE/SED2925/opyout.pdf" rel="noopener nofollow" target="_blank">Annex A</a>. The completed form is
-to be submitted by 28/02/2025.</p>
+to parents at the start of the year and is also available <a href="/files/CCE/SED 2026/SED_optout.pdf" rel="noopener nofollow" target="_blank">here </a>The
+completed form is to be submitted by 28 Feb 2026.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the eTeens programme need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable here (please upload parents
-opt-out form found in Annex B <a href="/files/CCE/SED2925/eteens.pdf" rel="noopener nofollow" target="_blank">Annex B</a>. The completed form is
-to be submitted by 28/02/2025.</p>
+at the start of the year and is also available <a href="/files/CCE/SED 2026/eteens.pdf" rel="noopener nofollow" target="_blank">here</a> . The completed form is to
+be submitted by 28 Feb 2026.</p>
+</li>
+<li>
+<p>Parents can contact the school at <a href="mailto:gss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gss@moe.edu.sg</a> for discussion or to seek
+clarification about the school’s Sexuality Education programme.</p>
 </li>
 </ol>
-<p>Parents can contact the school at <a href="mailto:gss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gss@moe.edu.sg</a> for discussion or to seek
-clarification about the school’s Sexuality Education programme.nformation
-for Parents</p>
-<p></p>
 <p><a href="/files/CCE/SED 2026/SED_Letter.pdf" rel="noopener nofollow" target="_blank">Principal's Letter to Parents</a>
 </p>
 <p></p>
