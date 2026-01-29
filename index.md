@@ -21,9 +21,9 @@ sections:
   - infopic:
       title: Happy CNY!
       id: infopic
-      description: This Year of the Horse is special because of you—our parents and
-        partners. Your steady support guides our students toward meaningful
-        learning. 💙🧡
+      description: This Year of the Horse is special because of you—students, parents,
+        and partners. Together, we move forward with trust, learning, and
+        success. 🐎💙🧡
       image: /images/2026 IMAGES/Lunar_New_Year_greeting_2026_3.gif
       alt: Image alt text
   - infopic:
