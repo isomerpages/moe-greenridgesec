@@ -69,4 +69,7 @@ sections:
       alt: Gif of follow us on Instagram
       button: "@greenridgesecsch"
       url: https://www.instagram.com/greenridgesecsch/
+  - resources:
+      title: Announcements and Resources
+      id: resources
 ---
