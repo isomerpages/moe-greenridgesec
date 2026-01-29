@@ -18,9 +18,14 @@ sections:
           description: Our achievements
           url: /looking-great-2025/
       background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
-  - resources:
-      title: Announcements and Resources
-      id: resources
+  - infopic:
+      title: Happy CNY!
+      id: infopic
+      description: This Year of the Horse is special because of you—our parents and
+        partners. Your steady support guides our students toward meaningful
+        learning. 💙🧡
+      image: /images/2026 IMAGES/Lunar_New_Year_greeting_2026_3.gif
+      alt: Image alt text
   - infopic:
       title: "Greenridge: Your Launchpad to Future Success"
       id: infopic
