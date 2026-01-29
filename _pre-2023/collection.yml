@@ -1,5 +1,4 @@
 collections:
   pre-2023:
     output: true
-    order:
-      - First Day of School AY 2022.md
+    order: []
