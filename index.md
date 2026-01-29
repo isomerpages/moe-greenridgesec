@@ -24,7 +24,7 @@ sections:
       description: This Year of the Horse is special because of you—students, parents,
         and partners. Together, we move forward with trust, learning, and
         success. 🐎💙🧡
-      image: /images/2026 IMAGES/WhatsApp_Image_2026_01_29_at_13_23_24.jpg
+      image: /images/2026 IMAGES/CNY_2026.jpg
       alt: Image alt text
   - resources:
       title: Announcements and Resources
