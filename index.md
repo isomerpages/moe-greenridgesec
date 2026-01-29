@@ -26,6 +26,9 @@ sections:
         success. 🐎💙🧡
       image: /images/2026 IMAGES/WhatsApp_Image_2026_01_29_at_13_23_24.jpg
       alt: Image alt text
+  - resources:
+      title: Announcements and Resources
+      id: resources
   - infopic:
       title: "Greenridge: Your Launchpad to Future Success"
       id: infopic
@@ -69,7 +72,4 @@ sections:
       alt: Gif of follow us on Instagram
       button: "@greenridgesecsch"
       url: https://www.instagram.com/greenridgesecsch/
-  - resources:
-      title: Announcements and Resources
-      id: resources
 ---
