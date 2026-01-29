@@ -24,7 +24,7 @@ sections:
       description: This Year of the Horse is special because of you—students, parents,
         and partners. Together, we move forward with trust, learning, and
         success. 🐎💙🧡
-      image: /images/2026 IMAGES/Image__7_.png
+      image: /images/2026 IMAGES/WhatsApp_Image_2026_01_29_at_13_23_24.jpg
       alt: Image alt text
   - infopic:
       title: "Greenridge: Your Launchpad to Future Success"
