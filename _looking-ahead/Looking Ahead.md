@@ -56,7 +56,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Jan, 13 &amp; 27 Feb, 13 Mar</p>
+<p>30 Jan, 13 &amp; 27 Feb,</p>
+<p>13 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 3,4&amp;5 Home-based Learning</p>
@@ -185,7 +186,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 &amp; 31 Mar, 7, 14 &amp; 21 Apr&nbsp;</p>
+<p>24 &amp; 31 Mar,
+<br>7, 14 &amp; 21 Apr&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 Code for Fun&nbsp;</p>
@@ -193,7 +195,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Mar, 10 &amp; 24 Apr, 8 &amp; 22 May</p>
+<p>27 Mar,</p>
+<p>10 &amp; 24 Apr,</p>
+<p>8 &amp; 22 May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 Home-based Learning&nbsp;</p>
