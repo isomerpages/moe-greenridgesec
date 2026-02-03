@@ -7,7 +7,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LOOKING%20pngs/looking_ahead.png">
 </div>
-<h4><strong>School Programmes (2 to 17 Jan)</strong></h4>
 <h4><strong>Term 1</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -180,7 +179,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>23 Mar</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hari Ray Puasa Public Holiday</p>
@@ -188,8 +186,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 &amp; 31 Mar, 7, 14 &amp; 21 Apr</p>
-<p>&nbsp;</p>
+<p>24 &amp; 31 Mar, 7, 14 &amp; 21 Apr&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 Code for Fun&nbsp;</p>
@@ -197,8 +194,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Mar, 10 &amp; 24 Apr, 8 &amp; 22 May</p>
-<p>&nbsp;</p>
+<p>27 Mar, 10 &amp; 24 Apr, 8 &amp; 22 May&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 Home-based Learning&nbsp;</p>
@@ -206,8 +202,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Mar – 1 Apr</p>
-<p>&nbsp;</p>
+<p>30 Mar – 1 Apr&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 3 Applied Learning @ ITE (all students with majority G1/G2 subjects)&nbsp;</p>
@@ -215,8 +210,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Apr (TBC)</p>
-<p>&nbsp;</p>
+<p>1 Apr (TBC)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 onboarding MS Teams&nbsp;</p>
@@ -224,8 +218,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1, 8, 15, 22 Apr</p>
-<p>&nbsp;</p>
+<p>1, 8, 15, 22 Apr&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 VIA (2 classes per day)&nbsp;</p>
@@ -233,8 +226,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Apr</p>
-<p>&nbsp;</p>
+<p>3 Apr&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Good Friday Public Holiday&nbsp;</p>
@@ -243,7 +235,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>10-11 Apr</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Combined UG Camp&nbsp;</p>
@@ -251,8 +242,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 Apr, 15 May</p>
-<p>&nbsp;</p>
+<p>17 Apr, 15 May&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 3,4&amp;5 Home-based Learning&nbsp;</p>
@@ -260,8 +250,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 Apr</p>
-<p>&nbsp;</p>
+<p>17 Apr&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4&amp;5 NAPFA&nbsp;</p>
@@ -269,8 +258,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Apr</p>
-<p>&nbsp;</p>
+<p>30 Apr&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cross-Country&nbsp;</p>
@@ -278,8 +266,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 May</p>
-<p>&nbsp;</p>
+<p>1 May&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Labour Day Public Holiday&nbsp;</p>
@@ -287,8 +274,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 May (TBC)</p>
-<p>&nbsp;</p>
+<p>5 May (TBC)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CCA Stand Down for Sec 4/5s (last day)&nbsp;</p>
@@ -296,8 +282,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11 May</p>
-<p>&nbsp;</p>
+<p>11 May&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Leaders Investiture&nbsp;</p>
@@ -305,8 +290,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5, 12, 19, 26 May</p>
-<p>&nbsp;</p>
+<p>5, 12, 19, 26 May&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 Code for Fun&nbsp;</p>
@@ -314,8 +298,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 May</p>
-<p>&nbsp;</p>
+<p>22 May&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 NAPFA&nbsp;</p>
@@ -323,8 +306,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18 – 29 May</p>
-<p>&nbsp;</p>
+<p>18 – 29 May&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>O Level Mother Tongue Preparation&nbsp;</p>
@@ -332,8 +314,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 May</p>
-<p>&nbsp;</p>
+<p>27 May&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hari Ray Haji Public Holiday</p>
@@ -342,8 +323,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 May</p>
-<p>&nbsp;</p>
+<p>28 May&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learning to Champion a Cause (LCC) showcase</p>
@@ -351,8 +331,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 – 28 Jun</p>
-<p>&nbsp;</p>
+<p>1 – 28 Jun&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Holidays</p>
@@ -360,9 +339,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2 – 5 Jun</strong>
-</p>
-<p>&nbsp;</p>
+<p><strong>2 – 5 Jun</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 4&amp;5 National Exam &amp; Coursework Preparation</strong>
@@ -371,8 +348,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 – 5 Jun (TBC)</p>
-<p>&nbsp;</p>
+<p>4 – 5 Jun (TBC)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Leaders Training</p>
@@ -380,8 +356,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Jun</p>
-<p>&nbsp;</p>
+<p>5 Jun&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 3 NRIC Registration</p>
@@ -397,7 +372,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Term 3 </strong></h4>
+<h4><strong>Term 3</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -601,6 +576,180 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 Subject Option Exercise Appeal Results</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>Examinations</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4/5 EL &amp; MTL Preliminary Oral Examinations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>O Level MTL/ MTLB Examination</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4/5 O Level MTL/MTB Listening Comprehension</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 – 17 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4/5 O/N Level English &amp; Mother Tongue Oral Examinations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Jul – 6 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 N Level Preliminary Examinations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Aug – 2 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4/5 O Level Preliminary Examinations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Sep – 13 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 N Level Examinations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Sep – 5 Oct (TBC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 – 3 End of Year Examinations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 Sep – 13 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4/5 O Level Science Practical</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 – 13 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 – 3 Script-Checking</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4/5 O Level EL &amp; MTB Listening Comprehension</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Oct – 10 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4/5 O Level Written Examinations</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Parent Activities</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thu 8 Jan 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 Parent Orientation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fri 6 Feb 6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4/5 Parent Engagement (Pathways/DSA/EAE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fri 10 Apr 6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Parent Engagement</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fri 24 Apr 6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 Parent Engagement (Sec 3 Subject Option)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fri 29 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 – 5 Parent Child Teacher Conference</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 – 23 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 – 3 Parent Child Teacher Conference (selected students)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSG Dialogues with School Leaders</p>
 </td>
 </tr>
 </tbody>
