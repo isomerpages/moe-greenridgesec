@@ -36,7 +36,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 CCA Try-Out (Sports)</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -194,7 +193,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Mar, 10 &amp; 24 Apr, 8 &amp; 22 May&nbsp;</p>
+<p>27 Mar, 10 &amp; 24 Apr, 8 &amp; 22 May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 Home-based Learning&nbsp;</p>
