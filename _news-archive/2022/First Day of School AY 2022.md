@@ -8,9 +8,9 @@ third_nav_title: "2022"
 
 **Welcome Back to School in 2022**
 
- We hope that all students had a fruitful break and are ready for another fulfilling and enriching year ahead. We look forward to welcoming all students back to school on **Tuesday, 4 January 2022**. 
+&nbsp;We hope that all students had a fruitful break and are ready for another fulfilling and enriching year ahead. We look forward to welcoming all students back to school on&nbsp;**Tuesday, 4 January 2022**.&nbsp;
 
- Please see the table below for the reporting and dismissal time as well as the entry points into the school.
+&nbsp;Please see the table below for the reporting and dismissal time as well as the entry points into the school.
  
  
  
@@ -19,4 +19,4 @@ third_nav_title: "2022"
  
  
  
- We advise that you continue to be socially responsible and practise the Safe Management Measures to keep yourself safe. Take care and we look forward to have you back in school in 2022!
+ We advise that you continue to be socially responsible&nbsp;and practise the Safe Management Measures&nbsp;to keep yourself safe. Take care and we look forward to have you back in school in 2022!
