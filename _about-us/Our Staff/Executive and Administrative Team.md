@@ -55,6 +55,14 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Tan Lee Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm. Siti Aishah Bte Aspari</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +98,7 @@ third_nav_title: Our Staff
 <p>Mr. Halim Bin Kamil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM INstructor (Workshop)</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +106,7 @@ third_nav_title: Our Staff
 <p>Mr. Sutrisno Bin Rahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM INstructor (Workshop)</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 </tr>
 <tr>
@@ -114,15 +122,15 @@ third_nav_title: Our Staff
 <p>Mdm. Ong Siew Khim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM INstructor (Laboratory)</p>
+<p>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Suriati Bte Kardi</p>
+<p>Ms. Nur Khaizurah Bte Zainalabiddin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM INstructor (Laboratory)</p>
+<p>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -152,6 +160,14 @@ third_nav_title: Our Staff
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr. Siah Hoya Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Tan Beng Huat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
