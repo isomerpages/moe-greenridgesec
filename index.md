@@ -17,7 +17,7 @@ sections:
         - title: Looking Great!
           description: Our achievements
           url: /looking-great-2025/
-      background: /images/HERO 2025/2025JANwelcomegssbanner.jpg
+      background: /images/2026 IMAGES/gss_champions_academy.png
   - infopic:
       title: Happy CNY!
       id: infopic
