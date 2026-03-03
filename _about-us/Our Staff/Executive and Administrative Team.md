@@ -47,15 +47,15 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Lee Soh Peng (Jasmine)</p>
+<p>Mr. Ishak Bin Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
+<p>ICT Manager</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Lee Lee</p>
+<p>Mdm. Lee Soh Peng (Jasmine)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
@@ -82,15 +82,15 @@ third_nav_title: Our Staff
 <p>Ms. Shasthika Jothi D/O Ganasan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adj Corporate Support Officer</p>
+<p>Adjunct Corporate Support Officer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Ishak Bin Hassan</p>
+<p>Mdm Tan Lee Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p>Adjunct Administrative Executive</p>
 </td>
 </tr>
 <tr>
