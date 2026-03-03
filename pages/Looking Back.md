@@ -63,7 +63,7 @@ variant: tiptap
 <a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1rmSRo8J0dunR9ZLXFOaC9_DbBqiUlwec/view?usp=sharing" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Newsletter Term 4" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Newsletter Term 4" src="/images/2026 IMAGES/gssterm4.png">
 </div>
 </div>
 <div class="isomer-card-body">
