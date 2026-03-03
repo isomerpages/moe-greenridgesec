@@ -68,7 +68,6 @@ variant: tiptap
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">GSS Newsletter Term 4</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Click here to the newsletter.</div>
 </div>
 </a>
