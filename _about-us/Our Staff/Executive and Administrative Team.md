@@ -170,7 +170,7 @@ third_nav_title: Our Staff
 <p>Mr. Tan Beng Huat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
+<p>Adjunct Operations Support Officer</p>
 </td>
 </tr>
 <tr>
