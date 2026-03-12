@@ -317,7 +317,7 @@ third_nav_title: Our Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH _English Language</p>
+<p>SH - English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: muhammad_faiz_rosli@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_faiz_rosli@gss.moe.edu.sg</a>
@@ -398,6 +398,18 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr. Adrian Tan Liang Huat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LT - Learning Needs (Educational Support)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adrian_tan@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adrian_tan@gss.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm. Lim Mei Tju</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -405,6 +417,18 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_mei_tju@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_mei_tju@gss.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Asrida Bte Riduan Mahmood</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST – Character &amp; Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:asrida_riduan_mahmood@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">asrida_riduan_mahmood@gss.moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -429,6 +453,18 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maria_cgb@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maria_cgb@gss.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Denise Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST – History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_ying_ting_denise@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ying_ting_denise@gss.moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -470,7 +506,9 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong><em>HOD : Head of Department<br>SH : Subject Head<br>ST : Senior Teacher</em></strong>
+<p><strong><em>HOD : Head of Department<br>SH : Subject Head</em></strong>
+</p>
+<p><strong><em>LT : Lead Teacher<br>ST : Senior Teacher</em></strong>
 </p>
 </td>
 </tr>
