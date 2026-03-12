@@ -410,6 +410,18 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm. Asrida Bte Riduan Mahmood</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST – CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:asrida_riduan_mahmood@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">asrida_riduan_mahmood@gss.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm. Liaw Poh Geok</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -429,6 +441,18 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maria_cgb@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maria_cgb@gss.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Ying Ting Denise</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST – History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_ying_ting_denise@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ying_ting_denise@gss.moe.edu.sg</a>
 </p>
 </td>
 </tr>
