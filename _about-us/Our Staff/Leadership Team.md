@@ -398,6 +398,18 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr. Adrian Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LT -</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adrian_tan@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adrian_tan@gss.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm. Lim Mei Tju</p>
 </td>
 <td rowspan="1" colspan="1">
