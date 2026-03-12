@@ -398,7 +398,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Adrian Tan</p>
+<p>Mr. Adrian Tan Liang Huat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LT - Learning Needs (Educational Support)</p>
