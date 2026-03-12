@@ -401,7 +401,7 @@ third_nav_title: Our Staff
 <p>Mr. Adrian Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LT -</p>
+<p>LT - Learning Needs (Educational Support)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:adrian_tan@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adrian_tan@gss.moe.edu.sg</a>
@@ -425,7 +425,7 @@ third_nav_title: Our Staff
 <p>Mdm. Asrida Bte Riduan Mahmood</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST – CCE</p>
+<p>ST – Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:asrida_riduan_mahmood@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">asrida_riduan_mahmood@gss.moe.edu.sg</a>
@@ -506,7 +506,9 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong><em>HOD : Head of Department<br>SH : Subject Head<br>ST : Senior Teacher</em></strong>
+<p><strong><em>HOD : Head of Department<br>SH : Subject Head</em></strong>
+</p>
+<p><strong><em>LT : Lead Teacher<br>ST : Senior Teacher</em></strong>
 </p>
 </td>
 </tr>
