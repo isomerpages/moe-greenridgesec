@@ -317,7 +317,7 @@ third_nav_title: Our Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH _English Language</p>
+<p>SH - English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: muhammad_faiz_rosli@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_faiz_rosli@gss.moe.edu.sg</a>
