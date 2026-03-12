@@ -458,7 +458,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Ying Ting Denise</p>
+<p>Mdm Denise Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST – History</p>
