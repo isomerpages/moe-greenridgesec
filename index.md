@@ -24,7 +24,7 @@ sections:
       description: Selamat Hari Raya Aidilfitri! Special because of you—students,
         parents, and partners. Together, we move forward with gratitude and
         unity. 🌙💚🧡
-      image: /images/2026 IMAGES/Hari_Raya_Greeting_2026_Final.png
+      image: /images/2026 IMAGES/Hari_Raya_Greeting_2026__256_x_384_px___1_.png
       alt: Image alt text
   - resources:
       title: Announcements and Resources
