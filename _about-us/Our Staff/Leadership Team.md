@@ -157,18 +157,6 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs. Goh-Kok Mei Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD – Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: kok_mei_leng@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kok_mei_leng@gss.moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm. Tew Geok Eng</p>
 </td>
 <td rowspan="1" colspan="1">
