@@ -70,7 +70,7 @@ variant: tiptap
 <div class="isomer-card-title">GSS Newsletter Term 4</div>
 <div class="isomer-card-link">Click here to the newsletter.</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/16bpph6I0p_KrQxk-NGQUWpbIixOxA718/view?usp=sharing" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Greenridge Yearbook 2025" src="/images/2026 IMAGES/2025_Greenridge_Secondary_Digital_Yearbook.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Greenridge Yearbook 2025</div><div class="isomer-card-link">Click here to the Yearbook</div></div></a>
 </div>
 <p></p>
 <hr>
