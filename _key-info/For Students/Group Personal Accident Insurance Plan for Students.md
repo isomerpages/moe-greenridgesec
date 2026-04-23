@@ -20,6 +20,6 @@ electronically and check the claims status through the online portal at
 pertaining to the GPA Insurance Plan for Students can be found on NTUC
 Income’s website: <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
 </p>
-<p><strong>GPA Product Fact Sheet 2025 </strong><a href="/files/GPA_Product_Fact_Sheet_2025.pdf" rel="noopener nofollow" target="_blank">GPA Product Fact Sheet 2025</a>
+<p><strong>GPA Product Fact Sheet 2025 </strong><a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">GPA Product Fact Sheet 2026</a>
 <br>
 </p>
