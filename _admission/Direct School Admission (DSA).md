@@ -28,15 +28,7 @@ diverse range of interests and talents.</p>
 <li>
 <p><a href="/signature-programmes/applied-learning-programme/medianjournalism/" rel="noopener noreferrer nofollow" target="_blank">Media and Journalism</a>
 </p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/2025 DSA/5.jpg">
-</div>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/signature-programmes/applied-learning-programme/bilingualism/" rel="noopener noreferrer nofollow" target="_blank">Bilingualism</a>
-</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 96%;" height="auto" width="100%" alt="" src="/images/2025 DSA/6__2_.jpg">
