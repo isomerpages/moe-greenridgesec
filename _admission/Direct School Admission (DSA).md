@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Direct School Admission</strong></h1>
-<p><strong>2025 DIRECT SCHOOL ADMISSION-SECONDARY EXERCISE (DSA-SEC)</strong>
+<p><strong>2026 DIRECT SCHOOL ADMISSION-SECONDARY EXERCISE (DSA-SEC)</strong>
 </p>
 <p>Dear P6 students</p>
 <p>We invite you to apply for Direct School Admission (DSA) to Sec 1 (2026).
@@ -305,6 +305,9 @@ from Year 1 to Year 4.</p>
 <li>
 <p>Call &nbsp;<a href="tel:+6567691491" rel="noopener noreferrer nofollow" target="_blank">6769 1491</a>
 </p>
+</li>
+<li>
+<p></p>
 </li>
 </ul>
 <p></p>
