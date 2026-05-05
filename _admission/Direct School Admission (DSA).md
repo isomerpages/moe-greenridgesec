@@ -170,41 +170,6 @@ session.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Bilingualism</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Applicants should have:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>competency in Mother Tongue Language (MTL) &amp; English Language (EL)</p>
-</li>
-<li>
-<p>interest, motivation and experience (if any) in bilingualism and biculturalism</p>
-</li>
-<li>
-<p>positive personal dispositions and learning attitudes</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Shortlisted applicants:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>will be invited for an in-person interview to share their relevant achievements
-and experiences (if any)</p>
-</li>
-<li>
-<p>will sit for a performance task: simple translation and word splash involving
-EL and MTL during the session.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Community Youth Leadership</strong>
 </p>
 </td>
