@@ -8,10 +8,10 @@ variant: tiptap
 <p><strong>2026 DIRECT SCHOOL ADMISSION-SECONDARY EXERCISE (DSA-SEC)</strong>
 </p>
 <p>Dear P6 students</p>
-<p>We invite you to apply for Direct School Admission (DSA) to Sec 1 (2026).
+<p>We invite you to apply for Direct School Admission (DSA) to Sec 1 (2027).
 DSA allows students to seek admission to a secondary school based on a
 diverse range of interests and talents.</p>
-<p>For our 2026 Sec 1s, we offer the following talent areas:</p>
+<p>For our 2027 Sec 1s, we offer the following talent areas:</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 DSA/3.jpg">
@@ -245,23 +245,23 @@ will be shortlisted or given an offer.&nbsp;</p>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and requires one parent’s Singpass to
-login for authentication purposes. Application will be open from <strong>7 May 2025, 11am to 3 June 2025, 3pm.</strong>
+login for authentication purposes. Application will be open from&nbsp;<strong>6 May 2026, 11am to 2 June 2026, 4.30pm.</strong>
 </p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
 <p>An applicant may indicate up to 2 talent areas for the same school. For
-more details, please refer to the MOE website - <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+more details, please refer to the MOE website -&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<p>All applicants will receive their application outcomes between 25 Aug
-and 4 Sep 2025. Students who are successfully admitted to the school via
-DSA are expected to honour their commitment to the school and participate
-in the activities related to the talent area that they are selected for
-from Year 1 to Year 4.</p>
+<p>All applicants will receive their application outcomes by <strong>28 August 2026</strong>.
+Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school and participate in the activities
+related to the talent area that they are selected for from Year 1 to Year
+4.</p>
 <p>For further enquiries, please feel free to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -270,8 +270,6 @@ from Year 1 to Year 4.</p>
 <li>
 <p>Call &nbsp;<a href="tel:+6567691491" rel="noopener noreferrer nofollow" target="_blank">6769 1491</a>
 </p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
