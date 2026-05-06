@@ -19,15 +19,6 @@ sections:
           url: /looking-great-2025/
       background: /images/2026 IMAGES/gss_champions_academy.png
   - infopic:
-      title: Discover your future at Greenridge!
-      id: infopic
-      description: Visit our DiscoverGSS  page to explore how we nurture confident
-        learners, compassionate leaders, and ethical innovators.
-      button: Visit DiscoverGSS
-      url: https://sites.google.com/view/discover-gss
-      image: /images/2024 Miscellanous/discoveryourselfgss.png
-      alt: DiscoverGSS
-  - infopic:
       title: Direct School Admission (DSA)
       id: infopic
       image: /images/2026 IMAGES/2027_DSA_GIF.gif
@@ -43,6 +34,15 @@ sections:
         part of our students’ paths to success and lifelong learning.
       image: /images/2025 DSA/Nigel_and_Wayne_GIF.gif
       alt: Image alt text
+  - infopic:
+      title: Discover your future at Greenridge!
+      id: infopic
+      description: Visit our DiscoverGSS  page to explore how we nurture confident
+        learners, compassionate leaders, and ethical innovators.
+      button: Visit DiscoverGSS
+      url: https://sites.google.com/view/discover-gss
+      image: /images/2024 Miscellanous/discoveryourselfgss.png
+      alt: DiscoverGSS
   - resources:
       title: Announcements and Resources
       id: resources
