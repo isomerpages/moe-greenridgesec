@@ -9,22 +9,38 @@ variant: markdown
 
 ![](/images/ALP2023/alp001.jpg)
 #### What is unique about Greenridge ALP?
-Greenridge Applied Learning Programme (ALP) in the English Language and Mother Tongue Languages aims to develop Greenridgeans to become confident and persuasive communicators who are ready to advocate for social issues as compassionate leaders of tomorrow.\
-Be immersed in new media journalism through creating digital stories and documentary videos. With these experiences, students learn to champion important issues in society that they care about. \
-The ALP provides scope for experimentation, self-discovery and joy of learning. Through these experiences in the ALP, students will develop 21st century competencies, such as creative and inventive thinking, as well as communication and collaboration skills that prepare them for the future.
 
-#### Developing Skills
-Discover useful new skills for communicating in real-world situations. The ALP is structured using a tiered approach. In Tier 1, the programme provides all students in lower secondary with exposure to the knowledge and skills that enable them to tell powerful stories for social change through different forms of digital media. 
-- In Sec 1, the focus is on creating digital stories and podcasts, for the purposes of recounting, entertaining and reflecting on life. 
-![](/images/ALP2023/alp002.jpg)A student presents her engaging digital story to the class.
-![](/images/ALP2023/alp003.JPG)A teacher guides students in using language in creative ways to craft their own multimodal texts.
+At Greenridge Secondary School, our students learn to use their voices with confidence, purpose and heart.
 
-- In Sec 2, students focus on producing video documentaries to raise awareness and influence change. In order to craft these video documentaries, students conduct research and interviews, and pick up skills on video production through workshops.
-![](/images/ALP2023/alp004.jpg)Students work collaboratively with their peers to craft a storyboard for their video documentary. 
-![](/images/ALP2023/alp005.jpg)Students film an interview. 
-![](/images/ALP2023/alp006.jpg)Students use green screen technology for their video production. 
+Photo 1: Voices that command the stage
 
-#### Nurturing Talents
-As part of the school’s commitment to nurture confident communicators, we groom talents in the various platforms of communication such as debating, emceeing, journalism, broadcasting and digital media production. Find out more by clicking on the links below! 
+Our Applied Learning Programme in English Language and Mother Tongue Languages develops students into Persuasive Communicators who can speak up for good causes and connect with people across cultures. 
+
+The programme emphasises nurturing important 21st Century Competencies, including creative, adaptive and inventive thinking, communication, and collaboration skills, preparing our students to engage thoughtfully with real-world issues and contribute positively to the community. 
+
+The ALP empowers Greenridge students to become Confident Learners, Compassionate Leaders and Ethical Innovators. Through debating, public speaking, and new media communication, students develop the skills and dispositions needed to express their ideas clearly, collaborate with others, and make a positive impact in an increasingly connected world. 
+
+Photo 2: Where voices come alive through video podcasts
+
+#### Finding A Voice Through Debate
+In Secondary One and Two, all students take part in specialised debating workshops during curriculum time. They learn how to build strong arguments, support their views with evidence, respond to different perspectives and speak with conviction. 
+
+Photo 3: Building bold voices through debate
+
+
+These skills are then put into action through a customised debate competition, where our students collaborate with their peers, sharpen their thinking and experience the power of purposeful communication. 
+
+Photo 4: Battle of ideas, voices of Students
+
+
+#### Sharpening Voices, Growing Talents
+Students who are passionate about speaking, storytelling and advocacy receive opportunities to sharpen their craft through advanced training, school representation and larger competition platforms. Whether they are delivering a powerful speech, debating with conviction, producing a podcast or creating a video story, our students learn to inform, inspire and influence others, further empowering their voices to champion causes that matter. 
+
+Photo 5: Spotlighting voices through new media videos
+
+Photo 6: A debater in full flow
+
+#### Find out more by clicking on the links below! 
+
 -  [Debating and Public Speaking ](https://greenridgesec.moe.edu.sg/signature-programmes/applied-learning-programme/debatenpublicspeaking/)
--  [Media and Journalism](https://greenridgesec.moe.edu.sg/signature-programmes/applied-learning-programme/medianjournalism/)
+-  [New Media Journalism](https://greenridgesec.moe.edu.sg/signature-programmes/applied-learning-programme/medianjournalism/)
