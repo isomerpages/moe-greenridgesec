@@ -43,4 +43,4 @@ Photo 6: A debater in full flow
 #### Find out more by clicking on the links below! 
 
 -  [Debating and Public Speaking ](https://greenridgesec.moe.edu.sg/signature-programmes/applied-learning-programme/debatenpublicspeaking/)
--  [New Media Journalism](https://greenridgesec.moe.edu.sg/signature-programmes/applied-learning-programme/medianjournalism/)
+-  [New Media Journalism](https://greenridgesec.moe.edu.sg/new-media-journalism/)
