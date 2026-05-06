@@ -18,16 +18,6 @@ sections:
           description: Our achievements
           url: /looking-great-2025/
       background: /images/2026 IMAGES/gss_champions_academy.png
-  - resources:
-      title: Announcements and Resources
-      id: resources
-  - infopic:
-      title: "Greenridge: Your Launchpad to Future Success"
-      id: infopic
-      description: Every achievement begins with a dream. At GSS, we are proud to be
-        part of our students’ paths to success and lifelong learning.
-      image: /images/2025 DSA/Nigel_and_Wayne_GIF.gif
-      alt: Image alt text
   - infopic:
       title: Discover your future at Greenridge!
       id: infopic
@@ -37,6 +27,16 @@ sections:
       url: https://sites.google.com/view/discover-gss
       image: /images/2024 Miscellanous/discoveryourselfgss.png
       alt: DiscoverGSS
+  - infopic:
+      title: "Greenridge: Your Launchpad to Future Success"
+      id: infopic
+      description: Every achievement begins with a dream. At GSS, we are proud to be
+        part of our students’ paths to success and lifelong learning.
+      image: /images/2025 DSA/Nigel_and_Wayne_GIF.gif
+      alt: Image alt text
+  - resources:
+      title: Announcements and Resources
+      id: resources
   - infopic:
       title: Which GSS Champion are you?
       id: infopic
