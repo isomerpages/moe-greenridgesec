@@ -27,7 +27,7 @@ diverse range of interests and talents.</p>
 </div>
 </li>
 <li>
-<p><a href="/signature-programmes/applied-learning-programme/medianjournalism/" rel="noopener noreferrer nofollow" target="_blank">Media and Journalism</a>
+<p><a href="https://greenridgesec.moe.edu.sg/new-media-journalism/" rel="noopener noreferrer nofollow" target="_blank">Media and Journalism</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -44,7 +44,7 @@ diverse range of interests and talents.</p>
 <p></p>
 </li>
 <li>
-<p><a href="https://www.greenridgesec.moe.edu.sg/cca/sports-and-games/rugby/" rel="noopener noreferrer nofollow" target="_blank">Rugby</a>
+<p><a href="https://greenridgesec.moe.edu.sg/rugby/" rel="noopener noreferrer nofollow" target="_blank">Rugby</a>
 </p>
 </li>
 </ul>
