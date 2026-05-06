@@ -19,6 +19,22 @@ sections:
           url: /looking-great-2025/
       background: /images/2026 IMAGES/gss_champions_academy.png
   - infopic:
+      title: Direct School Admission (DSA)
+      id: infopic
+      image: /images/2026 IMAGES/2027_DSA_GIF.gif
+      alt: Direct School Admission Poster
+      description: Calling all P6 Students! We welcome you to pursue any of our talent
+        areas. Apply for DSA now!
+      button: Find out more
+      url: https://www.greenridgesec.moe.edu.sg/admission/dsa/
+  - infopic:
+      title: "Greenridge: Your Launchpad to Future Success"
+      id: infopic
+      description: Every achievement begins with a dream. At GSS, we are proud to be
+        part of our students’ paths to success and lifelong learning.
+      image: /images/2025 DSA/Nigel_and_Wayne_GIF.gif
+      alt: Image alt text
+  - infopic:
       title: Discover your future at Greenridge!
       id: infopic
       description: Visit our DiscoverGSS  page to explore how we nurture confident
@@ -27,13 +43,6 @@ sections:
       url: https://sites.google.com/view/discover-gss
       image: /images/2024 Miscellanous/discoveryourselfgss.png
       alt: DiscoverGSS
-  - infopic:
-      title: "Greenridge: Your Launchpad to Future Success"
-      id: infopic
-      description: Every achievement begins with a dream. At GSS, we are proud to be
-        part of our students’ paths to success and lifelong learning.
-      image: /images/2025 DSA/Nigel_and_Wayne_GIF.gif
-      alt: Image alt text
   - resources:
       title: Announcements and Resources
       id: resources
@@ -46,15 +55,6 @@ sections:
       url: https://ooopenlab.cc/quiz/GSSChampion2025
       image: /images/2024 Miscellanous/which champion.gif
       alt: Image alt text
-  - infopic:
-      title: Direct School Admission (DSA)
-      id: infopic
-      image: /images/2025 DSA/dsawelcome2025_min.gif
-      alt: Direct School Admission Poster
-      description: Calling all P6 Students! We welcome you to pursue any of our talent
-        areas. Apply for DSA now!
-      button: Find out more
-      url: https://www.greenridgesec.moe.edu.sg/admission/dsa/
   - infopic:
       title: Follow us on Instagram!
       id: infopic
