@@ -13,8 +13,9 @@ DSA allows students to seek admission to a secondary school based on a
 diverse range of interests and talents.</p>
 <p>For our 2027 Sec 1s, we offer the following talent areas:</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 DSA/3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 IMAGES/3_150.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -22,25 +23,25 @@ diverse range of interests and talents.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/2025 DSA/4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 IMAGES/4_134.png">
 </div>
 </li>
 <li>
 <p><a href="/signature-programmes/applied-learning-programme/medianjournalism/" rel="noopener noreferrer nofollow" target="_blank">Media and Journalism</a>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/2025 DSA/6__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 IMAGES/2_184.png">
 </div>
+<p></p>
 </li>
 <li>
 <p><a href="https://www.greenridgesec.moe.edu.sg/signature-programmes/learning-for-life-programme-llp/" rel="noopener noreferrer nofollow" target="_blank">Community Youth Leadership</a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/2025 DSA/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 IMAGES/1_184.png">
 </div>
+<p></p>
 </li>
 <li>
 <p><a href="https://www.greenridgesec.moe.edu.sg/cca/sports-and-games/rugby/" rel="noopener noreferrer nofollow" target="_blank">Rugby</a>

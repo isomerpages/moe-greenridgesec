@@ -5,24 +5,20 @@ description: ""
 third_nav_title: Applied Learning Programme
 variant: markdown
 ---
-### Debating and Public Speaking
+### Orators: Speaking with Purpose, Competing with Confidence
 
-In today’s world, global awareness, critical thinking, and effective communication is more important than ever before. For us to make a positive difference to the world around us, we need to be able to present our thoughts maturely and confidently!
+In a world where ideas travel with speed in an ever-changing landscape, our students need more than confidence. They need the ability to think critically, speak persuasively and engage meaningfully with issues beyond themselves. 
 
-Through the talent development programme of our Applied Learning Programme (ALP) in English Language, we will help students to hone their public speaking skills so that they can speak with poise, eloquence and conviction, whether they are conducting an interview or delivering a speech. With the mentoring by highly experienced debate coaches and public speakers, students will be able to represent the school in national-level competitions such as the Singapore Secondary Schools Debating Championships and Orators’ Trophy.
-![](/images/2024%20DSA/debaters.png)
+Through the Orators talent development programme under our Applied Learning Programme in English Language, students deepen their public speaking and debating skills through weekly training sessions. Guided by experienced debate coaches and public speakers, our Orators learn to speak with poise, eloquence and conviction, whether they are presenting an argument, delivering a speech or conducting an interview. 
 
+![](/images/2026%20IMAGES/2026%20ALP%20Updates/7__Champions_Assemble_for_Debate.png)
 
-Fuelled by passion, driven by reason, Greenridge Debate Team storms into the finals in the Singapore Secondary School Debate Championships 2024! 
-![](/images/2024%20DSA/debaters2.png)
+Beyond school, our Orators are given opportunities to test their voices on bigger platforms through inter-school, national and even international-level competitions. These include platforms such as the Singapore Secondary Schools Debating Studentships and the Orators’ Trophy, where students sharpen their craft, broaden their perspectives and represent Greenridge with pride.
 
+![](/images/2026%20IMAGES/2026%20ALP%20Updates/8__Voices_Ready__Arguments_Set.jpg)
 
-![](/images/2024%20DSA/debatechamps.jpg)
-Greenridge Secondary School's Debate Team faced Assumption English School on 26th April 2024 in the Grand Finals of the Singapore Secondary Schools Debating Championships 2024 (Division III). 
-The GSS Debate Team emerged victorious, clinching the coveted title of **Grand Champion for 2024**.
+![](/images/2026%20IMAGES/2026%20ALP%20Updates/9__Poised_for_Persuasion.jpg)
 
-![](/images/2024%20DSA/debaters3.jpg)
-2nd place in the Singapore Secondary Schools Debating Championships 2023 (Division 3)
+![](/images/2026%20IMAGES/2026%20ALP%20Updates/10__Greenridge_Voices__Winning_Moments.jpg)
 
-![](/images/2024%20DSA/debaters4.jpg)
-Our debate team deep in discussion in Singapore Secondary Schools Debating Championships 2023
+![](/images/2026%20IMAGES/2026%20ALP%20Updates/11__Building_Eloquence_Through_Diligence_and_Grit.jpg)
