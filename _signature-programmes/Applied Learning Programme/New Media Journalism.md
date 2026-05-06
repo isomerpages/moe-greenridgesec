@@ -17,9 +17,6 @@ camera, in front of the lens or behind the microphone, they learn to research,
 interview, script, present and persuade with confidence.&nbsp;</p>
 <p>&nbsp;</p>
 <p><em>Photo 12: Conversations that connect, exploring youth perspectives, one mic at a time</em>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>Guided by media professionals and authentic learning experiences, our
 students develop critical thinking by asking whose voices are heard, whose
 perspectives are missing and how their stories can move others to care.
