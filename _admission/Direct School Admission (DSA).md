@@ -44,7 +44,7 @@ diverse range of interests and talents.</p>
 <p></p>
 </li>
 <li>
-<p><a href="https://www.greenridgesec.moe.edu.sg/cca/sports-and-games/rugby/" rel="noopener noreferrer nofollow" target="_blank">Rugby</a>
+<p><a href="https://greenridgesec.moe.edu.sg/rugby/" rel="noopener noreferrer nofollow" target="_blank">Rugby</a>
 </p>
 </li>
 </ul>
