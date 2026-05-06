@@ -28,6 +28,15 @@ sections:
       image: /images/2024 Miscellanous/discoveryourselfgss.png
       alt: DiscoverGSS
   - infopic:
+      title: Direct School Admission (DSA)
+      id: infopic
+      image: /images/2026 IMAGES/2027_DSA_GIF.gif
+      alt: Direct School Admission Poster
+      description: Calling all P6 Students! We welcome you to pursue any of our talent
+        areas. Apply for DSA now!
+      button: Find out more
+      url: https://www.greenridgesec.moe.edu.sg/admission/dsa/
+  - infopic:
       title: "Greenridge: Your Launchpad to Future Success"
       id: infopic
       description: Every achievement begins with a dream. At GSS, we are proud to be
@@ -46,15 +55,6 @@ sections:
       url: https://ooopenlab.cc/quiz/GSSChampion2025
       image: /images/2024 Miscellanous/which champion.gif
       alt: Image alt text
-  - infopic:
-      title: Direct School Admission (DSA)
-      id: infopic
-      image: /images/2025 DSA/dsawelcome2025_min.gif
-      alt: Direct School Admission Poster
-      description: Calling all P6 Students! We welcome you to pursue any of our talent
-        areas. Apply for DSA now!
-      button: Find out more
-      url: https://www.greenridgesec.moe.edu.sg/admission/dsa/
   - infopic:
       title: Follow us on Instagram!
       id: infopic
