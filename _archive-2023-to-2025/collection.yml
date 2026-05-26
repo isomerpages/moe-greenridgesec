@@ -2,5 +2,6 @@ collections:
   archive-2023-to-2025:
     output: true
     order:
+      - SLDR2023.md
       - Calendar.md
       - 2025 Term 2 Timetable.md
