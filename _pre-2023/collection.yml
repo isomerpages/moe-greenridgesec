@@ -2,7 +2,6 @@ collections:
   pre-2023:
     output: true
     order:
-      - SLDR2023.md
       - Frequently Asked Qusetions.md
       - Secondary 1 Registration 2025.md
       - GSS Parent Connect.md
