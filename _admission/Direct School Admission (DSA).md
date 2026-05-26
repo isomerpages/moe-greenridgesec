@@ -271,7 +271,8 @@ related to the talent area that they are selected for from Year 1 to Year
 <li>
 <p>Call &nbsp;<a href="tel:+6567691491" rel="noopener noreferrer nofollow" target="_blank">6769 1491</a>
 </p>
-<p></p>
 </li>
 </ul>
+<p></p>
+<p>Last updated on 6 May 2026</p>
 <p></p>
