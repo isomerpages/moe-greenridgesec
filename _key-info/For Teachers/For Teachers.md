@@ -12,13 +12,6 @@ variant: markdown
 | [HR Online (intranet)](http://intranet.moe.gov.sg/hronline/pages/home.aspx)   | [Physical Education & Sports Teacher Academy](https://pesta.moe.edu.sg/)   | [Form SG](https://form.gov.sg/login)    |
 | [MOE Intranet (intranet)](https://intranet.moe.gov.sg/Pages/Home.aspx)  |   | [Go.gov.sg](https://go.gov.sg/#/)   |
 | [School Cockpit (intranet)](https://schoolcockpit.moe.gov.sg/)   | -  | [All Ears](https://allears.estl.edu.sg/home)  |
-| [School Cockpit Information System](https://icollaborate.moe.gov.sg/scplus/Pages/Introduction.aspx)  | -    | [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)   |
+| [School Cockpit CSR ](https://schoolcockpit.moe.gov.sg/academic/?mimsid=30041518&rand=177)  | -    | [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)   |
 | [HRP](https://www.hrp.gov.sg/)  | -    | [Classroom Google](https://classroom.google.com/)   |
 | [SC:Mobile](https://scmobile.moe.edu.sg/login)    | -  | [MS Teams](https://teams.microsoft.com/v2/)     |
-
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     |    |
-
