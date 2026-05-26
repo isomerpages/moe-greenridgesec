@@ -2,4 +2,5 @@ collections:
   test:
     output: true
     order:
+      - Calendar.md
       - 2025 Term 2 Timetable.md
