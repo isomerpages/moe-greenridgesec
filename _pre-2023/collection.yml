@@ -2,6 +2,7 @@ collections:
   pre-2023:
     output: true
     order:
+      - Frequently Asked Qusetions.md
       - Secondary 1 Registration 2025.md
       - GSS Parent Connect.md
       - Achievements.md
