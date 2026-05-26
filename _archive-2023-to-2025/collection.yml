@@ -1,5 +1,5 @@
 collections:
-  test:
+  archive-2023-to-2025:
     output: true
     order:
       - Calendar.md
