@@ -14,4 +14,11 @@ variant: markdown
 | [School Cockpit (intranet)](https://schoolcockpit.moe.gov.sg/)   | -  | [All Ears](https://allears.estl.edu.sg/home)  |
 | [School Cockpit Information System](https://icollaborate.moe.gov.sg/scplus/Pages/Introduction.aspx)  | -    | [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)   |
 | [HRP](https://www.hrp.gov.sg/)  | -    | [Classroom Google](https://classroom.google.com/)   |
-| [SC:Mobile](https://scmobile.moe.edu.sg/login)    | -  | -   |
+| [SC:Mobile](https://scmobile.moe.edu.sg/login)    | -  | [MS Teams](https://teams.microsoft.com/v2/)     |
+
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     |    |
+
