@@ -87,7 +87,7 @@ from CCA teachers and parents.</p>
 <p>NCDCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance</p>
+<p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rugby (Boys)</p>
@@ -112,7 +112,7 @@ from CCA teachers and parents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Scouts</p>
+<p>Scouts (Boys and girls)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
