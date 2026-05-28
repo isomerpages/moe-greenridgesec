@@ -14,4 +14,5 @@ variant: markdown
 | [School Cockpit (intranet)](https://schoolcockpit.moe.gov.sg/)   | -  | [All Ears](https://allears.estl.edu.sg/home)  |
 | [School Cockpit CSR ](https://schoolcockpit.moe.gov.sg/academic/?mimsid=30041518&rand=177)  | -    | [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)   |
 | [HRP](https://www.hrp.gov.sg/)  | -    | [Classroom Google](https://classroom.google.com/)   |
-| [SC:Mobile](https://scmobile.moe.edu.sg/login)    | -  | [MS Teams](https://teams.microsoft.com/v2/)     |
+| [SC:Mobile](https://scmobile.moe.edu.sg/login)    | -  | [MS Teams](https://teams.microsoft.com/v2/)      
+|[Relief Form\_Template (as on 9 Jan 2026)](https://gsssg.sharepoint.com/:w:/s/Gss_all/IQAsXa2bZuvbQKCkbkHI14RhAbAUXJ3_36KO1VQakFf5vi8) | 
