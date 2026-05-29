@@ -17,25 +17,38 @@ locations:
 contacts:
   - content:
       - phone: +65 6769 1491
-      - email: ""
-      - other: ""
+      - email: gss@moe.edu.sg
+      - other: Contact our staff <a
+          href="https://greenridgesec.moe.edu.sg/about-us/our-staff/">here</a><p></p>
     title: Phone Number
   - content:
       - phone: ""
-      - email: gss@moe.edu.sg
-      - other: ""
-    title: Email
+      - email: ""
+      - other: <p>Bukit Panjang Interchange - Petir Rd (45009)</p>  <p>176, 180, 180A,
+          455, 920, 922, 970, 972, 972A, 972M, 973, 973A, 975, 975C, 976, 979
+          </p>
+    title: Nearest Bus Interchange
   - content:
       - phone: ""
       - email: ""
-      - other: Bukit Panjang MRT, Bukit Panjang LRT, Petir LRT
-    title: "Nearest Train Stations:"
+      - other: <p>DT1 Bukit Panjang MRT</p><p>BP6 Bukit Panjang LRT</p> <p>BP7 Petir
+          LRT</p>
+    title: "Nearest MRT/LRT Stations:"
   - content:
       - phone: ""
       - email: ""
-      - other: 67, 75, 170, 170A, 171, 176, 177, 178, 180, 180A, 920, 922, 960, 961,
-          963, 963E, 963R, 970, 972, 972A,  972M, 973, 973A, 974, 975, 976, 979,
-          983
-    title: "Bus Services:"
+      - other: "<p>Opp Petir Stn - Petir Rd (44209): 75, 171, 960, 963, 963e, 976</p>
+          <p>Aft Petir Stn- Petir Rd (44201) : 75, 171, 960, 963, 963e, 976</p>
+          <p>Opp Bt Panjang Stn- Petir Rd (44859): 177</p> <p>Blk 180 - Jelebu
+          Rd (44739): 75, 177, 960, 963, 963e</p> <p>Opp Blk 180 - Jelebu Rd
+          (44731): 75, 171, 960, 963, 963e</p> <p>Opp Blk 171 - Gangsa Rd
+          (44191): 970</p> <p>Blk 171 - Gangsa Rd (44199): 970 </p>"
+    title: Bus Stops
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <img height="200" width="300" alt="GSS Public Transport"
+          src="https://gsssg-my.sharepoint.com/:i:/g/personal/glenice_au_hui_min_gss_moe_edu_sg/IQBHpFGzVFRaSJeV6QkM7HTbAXnWeRQSgB56-GaqBLv9tRU?e=6hwn4r">
+    title: ""
 feedback: ""
 ---
