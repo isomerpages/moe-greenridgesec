@@ -13,15 +13,19 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://teams.microsoft.com/v2/" rel="noopener nofollow" target="_blank">MS Teams</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
 </p>
 </li>
 <li>
-<p><a href="http://www.focuselearning.co.uk/u/31300/uiqnwEemEaCForvwxBhhAfvehobonymca" rel="noopener noreferrer nofollow" target="_blank">Design and Technology Applications</a>
+<p><a href="https://sites.google.com/moe.edu.sg/greenridge-sec-sch/home" rel="noopener noreferrer nofollow" target="_blank">GSS HBL Site</a>
 </p>
 </li>
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/greenridge-sec-sch/home" rel="noopener noreferrer nofollow" target="_blank">GSS HBL Site</a>
+<p><a href="http://www.focuselearning.co.uk/u/31300/uiqnwEemEaCForvwxBhhAfvehobonymca" rel="noopener noreferrer nofollow" target="_blank">Design and Technology Applications</a>
 </p>
 </li>
 </ul>
@@ -33,6 +37,10 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://schoolibrary.moe.edu.sg/eresourcessec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">Library(Online E Resource)</a>
+</p>
+</li>
+<li>
+<p><a href="https://mims.moe.gov.sg/sspr" rel="noopener nofollow" target="_blank">MIMS Self-Service Password Reset</a>
 </p>
 </li>
 </ul>

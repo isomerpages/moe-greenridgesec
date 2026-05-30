@@ -39,3 +39,5 @@ Students who are passionate about speaking, storytelling and advocacy receive o
 
 -  [Debating and Public Speaking ](https://greenridgesec.moe.edu.sg/signature-programmes/applied-learning-programme/debatenpublicspeaking/)
 -  [New Media Journalism](https://greenridgesec.moe.edu.sg/new-media-journalism/)
+
+Last updated on 6 May 2026

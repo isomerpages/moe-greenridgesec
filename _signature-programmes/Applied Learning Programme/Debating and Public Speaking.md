@@ -22,3 +22,5 @@ Beyond school, our Orators are given opportunities to test their voices on bigge
 ![](/images/2026%20IMAGES/2026%20ALP%20Updates/10__Greenridge_Voices__Winning_Moments.jpg)
 
 ![](/images/2026%20IMAGES/2026%20ALP%20Updates/11__Building_Eloquence_Through_Diligence_and_Grit.jpg)
+
+Last updated on 6 May 2026

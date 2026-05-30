@@ -2,4 +2,8 @@ collections:
   pre-2023:
     output: true
     order:
+      - Frequently Asked Qusetions.md
+      - GSS Parent Connect.md
+      - Achievements.md
+      - 2017.md
       - 2022.md
