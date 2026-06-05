@@ -4,8 +4,6 @@ permalink: /archive-2023/
 variant: markdown
 description: ""
 ---
-
-	
 ### LOOKING AHEAD TO … October
 
 #### <u> GSS Summit </u>

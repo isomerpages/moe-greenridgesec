@@ -1,5 +1,5 @@
 ---
-title: Morden Dance
+title: Modern Dance
 permalink: /dance/
 variant: tiptap
 description: ""
