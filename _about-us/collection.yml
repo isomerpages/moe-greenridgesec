@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Values(Updates)/Our Values.md
       - Our Values(Updates)/.keep
       - Our Staff/.keep
       - Our Staff/Leadership Team.md
