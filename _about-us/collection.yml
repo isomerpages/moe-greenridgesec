@@ -2,9 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Values.md
-      - Our Values(Updates)/DILIGENCE & GRIT.md
-      - Our Values(Updates)/.keep
       - Our Staff/.keep
       - Our Staff/Leadership Team.md
       - Our Staff/Class Mentors.md
@@ -14,3 +11,6 @@ collections:
       - Our Song.md
       - Our Heritage.md
       - Our Students.md
+      - Our Values.md
+      - Our Values(Updates)/.keep
+      - Our Values(Updates)/DILIGENCE & GRIT.md
