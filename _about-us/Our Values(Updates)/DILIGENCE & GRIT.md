@@ -11,7 +11,7 @@ third_nav_title: Our Values(Updates)
 and resolute to overcome challenges to achieve success.</p>
 </blockquote>
 <p></p>
-<h3>1) Growth Mindset </h3>
+<h3>1) Growth Mindset</h3>
 <blockquote>
 <p>We are confident learners with a positive attitude towards diligent learning
 &nbsp;</p>
@@ -45,7 +45,7 @@ growth.</p>
 </tr>
 </tbody>
 </table>
-<h3>2) Executive Function Skills </h3>
+<h3>2) Executive Function Skills</h3>
 <blockquote>
 <p>We practise effective learning and self-regulation skills diligently</p>
 </blockquote>
@@ -79,7 +79,7 @@ scenarios.</p>
 </tr>
 </tbody>
 </table>
-<h3>3) Responsibility </h3>
+<h3>3) Responsibility</h3>
 <blockquote>
 <p>We are accountable for our roles and duties, making good judgement, and
 are reliable at fulfilling our obligations.</p>
