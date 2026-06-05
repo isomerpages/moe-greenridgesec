@@ -40,7 +40,7 @@ school’s ICT department.</p>
 <p></p>
 </li>
 <li>
-<p><em> should not post your personal data like NRIC, address, telephone number, computer passwords and personal details online for all to see.</em>
+<p><em>should not post your personal data like NRIC, address, telephone number, computer passwords and personal details online for all to see.</em>
 </p>
 <p></p>
 </li>
@@ -247,3 +247,4 @@ school.</p>
 </table>
 <p><em>&nbsp;</em>
 </p>
+<p>Last Updated on 5 June 2026</p>
