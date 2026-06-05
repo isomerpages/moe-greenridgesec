@@ -5,11 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Our Values(Updates)
 ---
-<h2>DILIGENCE &amp; GRIT</h2>
-<blockquote>
+<h2>Diligence and Grit</h2>
 <p>We are responsible to work hard for our own growth. We are passionate
 and resolute to overcome challenges to achieve success.</p>
-</blockquote>
 <p></p>
 <h3>1) Growth Mindset</h3>
 <blockquote>
