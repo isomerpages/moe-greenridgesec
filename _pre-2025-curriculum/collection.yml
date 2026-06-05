@@ -1,5 +1,5 @@
 collections:
-  curriculum:
+  pre-2025-curriculum:
     output: true
     order:
       - English Language & Literature.md
