@@ -6,9 +6,11 @@ description: ""
 third_nav_title: Our Values(Updates)
 ---
 <h3>Respect and Empathy</h3>
+<blockquote>
 <p>We act with due regard for self &amp; others’ dignity and worth. In empathy,
 we feel for and are mindful of the needs of others. Together, we reflect
 a respectful mind.</p>
+</blockquote>
 <h3>Respect for Organisational Identity</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -50,9 +52,11 @@ be properly buttoned and tucked.
 <p>Shoes and socks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our shoes must be low-cut with laces and predominantly black, grey, dark
-blue or white. Our shoes design must not be luminous, flashy or rude.
-<br>We wear plain black, grey, dark blue or white socks that above shoe.</p>
+<p>Our shoes must be low-cut with shoelaces. The shoe surfaces must be predominantly
+black, grey, dark blue or white. Our shoes must not have luminous or flashy
+colours. Our shoe designs, if any, must not be offensive.</p>
+<p>We wear plain black, grey, dark blue or white socks that can be seen above
+the shoe collar. Socks with single monotone logo are allowed.</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +72,7 @@ but not limited to&nbsp;undercut and layered.
 <br>* We do not wear make-up, jewellery, accessories (e.g. friendship band,
 wristband and energy band).
 <br>* We do not wear spectacle / contact lenses with colour and patterns on
-them.
+them. Smart glasses are not allowed in school.
 <br>* Body art (including Henna and tattoo) is strictly not allowed.
 <br>* Religious ornaments must be worn discreetly / covered up.
 <br>
@@ -83,7 +87,8 @@ not touch our ears and the shirt collar.
 <br><strong>Girls</strong>
 <br>* We will tie up our hair if it touches our shoulder.
 <br>* We pin up our loose side hair and fringe neatly.
-<br>* Only black/dark blue hair clips, ribbons, hair-bands are allowed.
+<br>* Only black / dark blue / orange / white hair clips, ribbons, hair-bands
+are allowed.
 <br>* We only wear one identical pair of small, inexpensive and plain ear
 studs no bigger than 0.3 cm in diameter, at the lowest part of our earlobes,
 with no other forms of body/facial piercings.</p>
@@ -91,5 +96,5 @@ with no other forms of body/facial piercings.</p>
 </tr>
 </tbody>
 </table>
-<h3></h3>
+<p>Last Updated on 5 June 2026</p>
 <p></p>
