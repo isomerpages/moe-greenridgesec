@@ -1,5 +1,5 @@
 ---
-title: Infocomm Technology
+title: Infocomm Technology Club
 permalink: /infocomm/
 variant: tiptap
 description: ""

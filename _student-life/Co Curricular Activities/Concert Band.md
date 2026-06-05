@@ -1,5 +1,5 @@
 ---
-title: Band
+title: Concert Band
 permalink: /band/
 variant: tiptap
 description: ""
