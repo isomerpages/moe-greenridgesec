@@ -275,22 +275,6 @@ or ITE.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>On My Way</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.nyc.gov.sg/omw/home" rel="noopener noreferrer nofollow" target="_blank">https://www.nyc.gov.sg/omw/home</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>On My Way (OMW) - learn about the different jobs and industries, connect
-with industry professionals and get a taster into various job roles of
-your interest</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Parent Guide</p>
 <p>&nbsp;</p>
 </td>
