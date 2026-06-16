@@ -5,5 +5,3 @@ description: ""
 variant: markdown
 ---
 # **Education and Career Guidance** (Old)
-
-![](/images/wm.jpg)
