@@ -240,8 +240,7 @@ or ITE.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2024.pdf</a>
-</p>
+<p>https://www.ite.edu.sg/secondary-school-students/admissions/</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For N-level students seeking admission to ITE College (NITEC, DPP etc.)</p>
