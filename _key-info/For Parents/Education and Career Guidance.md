@@ -240,7 +240,8 @@ or ITE.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://www.ite.edu.sg/secondary-school-students/admissions/</p>
+<p><a href="https://www.ite.edu.sg/secondary-school-students/admissions/" rel="noopener nofollow" target="_blank">https://www.ite.edu.sg/secondary-school-students/admissions/</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For N-level students seeking admission to ITE College (NITEC, DPP etc.)</p>
