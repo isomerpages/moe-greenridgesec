@@ -105,7 +105,7 @@ or ITE.
 <br>(ITE, JC/MI, Polytechnic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae/explore-pathways-and-understand-posting-process" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae/explore-pathways-and-understand-posting-process</a>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
