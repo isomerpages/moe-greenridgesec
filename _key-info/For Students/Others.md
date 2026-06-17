@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Others</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">Joint Admission Exercise (JAE)</a>
+<p><a href="https://www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank">Joint Admission Exercise (JAE)</a>
 </p>
 </li>
 <li>
