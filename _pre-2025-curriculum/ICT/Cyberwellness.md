@@ -15,7 +15,7 @@ Assembly Talks, Parenting Seminars and CCE lessons conducted in our school,
 Greenridgeans are constantly reminded of the risks of harmful online behaviour
 and are given practical tips on how to best protect themselves and others
 from such behaviours.</p>
-<p>Guided by&nbsp;<a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE’s Cyber Wellness framework</a>&nbsp;which
+<p>Guided by&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE’s Cyber Wellness framework</a>&nbsp;which
 focuses on three key processes: Sense, Think and Act, the school plans
 and implements a holistic CW education to reinforce the importance of CW
 and its messages. The framework focuses on developing the child’s instinct
