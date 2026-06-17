@@ -1,5 +1,5 @@
 ---
-title: Our Values
+title: Our Values(Pre June 2026)
 permalink: /about-us/code-of-conduct/
 description: ""
 variant: tiptap

@@ -105,7 +105,7 @@ or ITE.
 <br>(ITE, JC/MI, Polytechnic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae/explore-pathways-and-understand-posting-process" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae/explore-pathways-and-understand-posting-process</a>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -240,7 +240,7 @@ or ITE.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2024.pdf</a>
+<p><a href="https://www.ite.edu.sg/secondary-school-students/admissions/" rel="noopener nofollow" target="_blank">https://www.ite.edu.sg/secondary-school-students/admissions/</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -270,22 +270,6 @@ or ITE.
 </td>
 <td rowspan="1" colspan="1">
 <p>Stay up to date with upcoming Education and Career Guidance Events</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>On My Way</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.nyc.gov.sg/omw/home" rel="noopener noreferrer nofollow" target="_blank">https://www.nyc.gov.sg/omw/home</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>On My Way (OMW) - learn about the different jobs and industries, connect
-with industry professionals and get a taster into various job roles of
-your interest</p>
 <p>&nbsp;</p>
 </td>
 </tr>
