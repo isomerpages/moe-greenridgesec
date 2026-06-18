@@ -27,18 +27,6 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Leong Mun Sung Daniel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior School Cousellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:leong_mun_sung_daniel@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_mun_sung_daniel@gss.moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm. Clara Yap Bee Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
