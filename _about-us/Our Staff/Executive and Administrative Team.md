@@ -183,7 +183,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Afiq Anuwar</p>
+<p>Mr. Muhammad Safdar Izzul Islam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
