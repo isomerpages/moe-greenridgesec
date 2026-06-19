@@ -183,7 +183,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Kohilavani</p>
+<p>Ms. Kohilavani (Kohi)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -191,7 +191,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Muhammad Safdar Izzul Islam</p>
+<p>Mr. Muhammad Safdar Izzul Islam (Izzul)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
