@@ -19,15 +19,6 @@ sections:
           url: /looking-great-2025/
       background: /images/2026 IMAGES/gss_champions_academy.png
   - infopic:
-      title: Selamat Hari Raya Haji
-      subtitle: GSS wishes
-      id: infopic
-      description: 🌙 To all our Muslim Champions, staff, and families! ✨  Reflecting
-        on the values of sacrifice, and gratitude, we gain strength as we move
-        Together Onward. 🧡💙
-      image: /images/2026 IMAGES/Selamat_Hari_Raya_Haji__1_.gif
-      alt: Image alt text
-  - infopic:
       title: Direct School Admission (DSA)
       id: infopic
       image: /images/2026 IMAGES/2027_DSA_GIF.gif
