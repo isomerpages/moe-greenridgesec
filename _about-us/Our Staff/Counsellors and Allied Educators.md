@@ -27,6 +27,30 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr. Chua Kaiyi, Kenny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Education Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kenny_chua@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kenny_chua@gss.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Ciera Wong Chia Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ciera_wong@gss.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ciera_wong@gss.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm. Clara Yap Bee Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
