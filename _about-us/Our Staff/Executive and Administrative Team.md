@@ -175,6 +175,14 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lai Kwee Seng (Vincent)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms. Kohilavani</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -195,6 +203,14 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>School Librarian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Khairil Asyraf</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discipline Admin Officer</p>
 </td>
 </tr>
 <tr>
