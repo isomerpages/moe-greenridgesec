@@ -3,7 +3,7 @@ title: Personal Learning Devices
 permalink: /personal-learning-devices/
 variant: tiptap
 description: ""
-third_nav_title: Our Values (Updated)
+third_nav_title: Our Values
 ---
 <h1><strong>Safe and Responsible use of Personal Learning Device(PLD)</strong></h1>
 <h4><em>In Greenridge, we believe in developing our students to be future-ready as learners and as leaders. To ensure a safe and conducive learning environment for all students, students are expected to abide by the school’s code of conduct which includes but is not limited to the following:</em></h4>

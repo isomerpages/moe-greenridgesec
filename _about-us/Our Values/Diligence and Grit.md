@@ -3,7 +3,7 @@ title: Diligence and Grit
 permalink: /diligence-grit/
 variant: tiptap
 description: ""
-third_nav_title: Our Values (Updated)
+third_nav_title: Our Values
 ---
 <h2>Diligence and Grit</h2>
 <p>We are responsible to work hard for our own growth. We are passionate

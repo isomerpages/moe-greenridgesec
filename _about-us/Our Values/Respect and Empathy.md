@@ -3,7 +3,7 @@ title: Respect and Empathy
 permalink: /respect-and-empathy/
 variant: tiptap
 description: ""
-third_nav_title: Our Values (Updated)
+third_nav_title: Our Values
 ---
 <h3>Respect and Empathy</h3>
 <blockquote>

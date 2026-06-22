@@ -2,6 +2,7 @@ collections:
   archive-2023-to-2025:
     output: true
     order:
+      - Our Values(Pre June 2026).md
       - LookingAhead Archive2023.md
       - Greenridge Stories.md
       - Secondary 1 Registration 2025.md
