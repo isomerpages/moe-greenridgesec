@@ -272,5 +272,5 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p>Last Updated on 29 May 2025</p>
+<p>Last Updated on 26 June 2026</p>
 <p></p>
