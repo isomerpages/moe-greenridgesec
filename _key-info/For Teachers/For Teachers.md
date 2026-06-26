@@ -199,7 +199,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://iexams.seab.gov.sg/" rel="noopener nofollow" target="_blank">iExams2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
