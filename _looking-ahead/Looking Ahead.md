@@ -197,7 +197,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>27 Mar,</p>
 <p>10 &amp; 24 Apr,</p>
-<p>8 &amp; 22 May</p>
+<p><s>8</s>, <strong>15</strong> &amp; 22 May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 Home-based Learning&nbsp;</p>
@@ -213,7 +213,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Apr (TBC)&nbsp;</p>
+<p>1 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 onboarding MS Teams&nbsp;</p>
@@ -277,7 +277,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 May (TBC)&nbsp;</p>
+<p>5 May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CCA Stand Down for Sec 4/5s (last day)&nbsp;</p>
@@ -289,6 +289,16 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Leaders Investiture&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>15 May</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 1 HBL</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -351,7 +361,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 – 5 Jun (TBC)&nbsp;</p>
+<p>4 – 5 Jun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Leaders Training</p>
@@ -416,7 +426,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>(Update) </strong>13 – 17 Jul</p>
+<p><strong>(Updated) </strong>13 – 17 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 ,2 and 3 Home-based Learning</p>
@@ -487,7 +497,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Oct (TBC)</p>
+<p>2 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4&amp;5 Graduation Ceremony</p>
@@ -495,7 +505,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Oct (TBC)</p>
+<p>5 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4E&amp;5N Study Leave</p>
@@ -654,7 +664,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 Sep – 5 Oct (TBC)</p>
+<p>24 Sep – 5 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 – 3 End of Year Examinations</p>

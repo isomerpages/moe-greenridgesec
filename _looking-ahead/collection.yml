@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - Looking Ahead.md
+      - Calendar.md
