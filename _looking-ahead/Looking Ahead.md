@@ -197,7 +197,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>27 Mar,</p>
 <p>10 &amp; 24 Apr,</p>
-<p>8 &amp; 22 May</p>
+<p><s>8</s>, <strong>15</strong> &amp; 22 May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 Home-based Learning&nbsp;</p>
@@ -289,6 +289,16 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Leaders Investiture&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>15 May</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 1 HBL</strong>
+</p>
 </td>
 </tr>
 <tr>
