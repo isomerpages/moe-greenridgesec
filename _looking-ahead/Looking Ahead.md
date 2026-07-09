@@ -416,18 +416,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 – 16 Jul</p>
+<p><strong>(Update) </strong>13 – 17 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Home-based Learning</p>
+<p>Sec 1 ,2 and 3 Home-based Learning</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 – 16 Jul, 28 Aug</p>
+<p><s>14 – 16 Jul, 28 Aug</s>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1&amp;2 Home-based Learning</p>
+<p><s>Sec 1&amp;2 Home-based Learning</s>
+</p>
 </td>
 </tr>
 <tr>
