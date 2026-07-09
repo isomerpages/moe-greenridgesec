@@ -426,7 +426,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>(Update) </strong>13 – 17 Jul</p>
+<p><strong>(Updated) </strong>13 – 17 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 ,2 and 3 Home-based Learning</p>
