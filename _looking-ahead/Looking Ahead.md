@@ -497,7 +497,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Oct (TBC)</p>
+<p>2 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4&amp;5 Graduation Ceremony</p>
@@ -505,7 +505,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Oct (TBC)</p>
+<p>5 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4E&amp;5N Study Leave</p>
@@ -664,7 +664,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 Sep – 5 Oct (TBC)</p>
+<p>24 Sep – 5 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 – 3 End of Year Examinations</p>
