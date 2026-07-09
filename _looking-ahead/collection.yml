@@ -2,5 +2,5 @@ collections:
   looking-ahead:
     output: true
     order:
-      - Calendar.md
       - Looking Ahead.md
+      - Calendar.md
