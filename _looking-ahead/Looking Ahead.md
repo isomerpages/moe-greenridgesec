@@ -213,7 +213,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Apr (TBC)&nbsp;</p>
+<p>1 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 onboarding MS Teams&nbsp;</p>
@@ -277,7 +277,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 May (TBC)&nbsp;</p>
+<p>5 May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CCA Stand Down for Sec 4/5s (last day)&nbsp;</p>
@@ -351,7 +351,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 – 5 Jun (TBC)&nbsp;</p>
+<p>4 – 5 Jun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Leaders Training</p>
