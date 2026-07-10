@@ -23,10 +23,7 @@ variant: tiptap
 <li>
 <p><a href="https://sites.google.com/moe.edu.sg/greenridge-sec-sch/home" rel="noopener noreferrer nofollow" target="_blank">GSS HBL Site</a>
 </p>
-</li>
-<li>
-<p><a href="http://www.focuselearning.co.uk/u/31300/uiqnwEemEaCForvwxBhhAfvehobonymca" rel="noopener noreferrer nofollow" target="_blank">Design and Technology Applications</a>
-</p>
+<p></p>
 </li>
 </ul>
 <h3>Others</h3>
