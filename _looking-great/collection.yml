@@ -2,7 +2,6 @@ collections:
   looking-great:
     output: true
     order:
-      - Looking Great.md
       - Looking Great 2026.md
       - Looking Great 2025.md
       - Looking Great 2024.md
