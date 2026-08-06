@@ -64,4 +64,12 @@ sections:
       alt: Gif of follow us on Instagram
       button: "@greenridgesecsch"
       url: https://www.instagram.com/greenridgesecsch/
+  - infopic:
+      title: Happy National Day!
+      subtitle: Add an image and text
+      id: infopic
+      description: Wishing Singapore a joyous 61st National Day filled with unity,
+        progress, and pride.  Majulah Singapura! Together onwards! ❤️
+      button: Button Text
+      alt: Image alt text
 ---
