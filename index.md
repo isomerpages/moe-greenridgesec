@@ -20,11 +20,9 @@ sections:
       background: /images/2026 IMAGES/gss_champions_academy.png
   - infopic:
       title: Happy National Day!
-      subtitle: Add an image and text
       id: infopic
       description: Wishing Singapore a joyous 61st National Day filled with unity,
         progress, and pride.  Majulah Singapura! Together onwards! ❤️
-      button: Button Text
       alt: Image alt text
       image: /images/2026 IMAGES/Happy_ND_2026__1_.png
   - infopic:
