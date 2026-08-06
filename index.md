@@ -72,4 +72,5 @@ sections:
         progress, and pride.  Majulah Singapura! Together onwards! ❤️
       button: Button Text
       alt: Image alt text
+      image: /images/2026 IMAGES/Happy_ND_2026__1_.png
 ---
