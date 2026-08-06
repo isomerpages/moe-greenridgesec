@@ -19,6 +19,13 @@ sections:
           url: /looking-great-2025/
       background: /images/2026 IMAGES/gss_champions_academy.png
   - infopic:
+      title: Happy National Day!
+      id: infopic
+      description: Wishing Singapore a joyous 61st National Day filled with unity,
+        progress, and pride.  Majulah Singapura! Together onwards! ❤️
+      alt: Image alt text
+      image: /images/2026 IMAGES/Happy_ND_2026__2_.png
+  - infopic:
       title: Direct School Admission (DSA)
       id: infopic
       image: /images/2026 IMAGES/2027_DSA_GIF.gif
@@ -34,6 +41,15 @@ sections:
         part of our students’ paths to success and lifelong learning.
       image: /images/2025 DSA/Nigel_and_Wayne_GIF.gif
       alt: Image alt text
+  - infopic:
+      title: Follow us on Instagram!
+      id: infopic
+      description: See what’s happening! For the latest news and events, follow us on
+        Instagram.
+      image: /images/2025 DSA/GSS_Website_Insta_final.gif
+      alt: Gif of follow us on Instagram
+      button: "@greenridgesecsch"
+      url: https://www.instagram.com/greenridgesecsch/
   - infopic:
       title: Discover your future at Greenridge!
       id: infopic
@@ -55,13 +71,4 @@ sections:
       url: https://ooopenlab.cc/quiz/GSSChampion2025
       image: /images/2024 Miscellanous/which champion.gif
       alt: Image alt text
-  - infopic:
-      title: Follow us on Instagram!
-      id: infopic
-      description: See what’s happening! For the latest news and events, follow us on
-        Instagram.
-      image: /images/2025 DSA/GSS_Website_Insta_final.gif
-      alt: Gif of follow us on Instagram
-      button: "@greenridgesecsch"
-      url: https://www.instagram.com/greenridgesecsch/
 ---
