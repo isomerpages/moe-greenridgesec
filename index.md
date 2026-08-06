@@ -24,7 +24,7 @@ sections:
       description: Wishing Singapore a joyous 61st National Day filled with unity,
         progress, and pride.  Majulah Singapura! Together onwards! ❤️
       alt: Image alt text
-      image: /images/2026 IMAGES/Happy_ND_2026__1_.png
+      image: /images/2026 IMAGES/Happy_ND_2026__2_.png
   - infopic:
       title: Direct School Admission (DSA)
       id: infopic
